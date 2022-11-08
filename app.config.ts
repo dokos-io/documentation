@@ -23,7 +23,7 @@ export default defineAppConfig({
       },
       footer: {
         credits: {
-          text: 'Powered by Docus / CC-BY-SA 3.0'
+          text: 'Propulsé par Docus / CC-BY-SA 3.0'
         }
       }
     }
