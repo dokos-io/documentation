@@ -7,7 +7,7 @@
     "preview": "nuxt preview"
   },
   "devDependencies": {
-    "@nuxt-themes/website": "0.1.7",
-    "nuxt": "3.0.0-rc.11"
+    "nuxt": "^3.0.0",
+    "@nuxt-themes/docus": "^1.1.5"
   }
 }

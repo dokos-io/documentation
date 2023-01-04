@@ -9,6 +9,11 @@ export default defineAppConfig({
       socials: {
         twitter: '@dokos_io',
         linkedin: 'https://www.linkedin.com/company/dokos.io',
+        gitlab: {
+          label: "Gitlab",
+          icon: "ph:gitlab-logo",
+          href: "https://gitlab.com/dokos"
+        }
       },
       cover: {
         src: '/cover.jpg',

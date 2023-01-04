@@ -1,3 +1,5 @@
 <template>
-  <img class="h-5 sm:h-6" src="/dokos_logo_rect.svg">
+  <div class="flex items-center">
+    <img width="40px" src="/dokos_logo_rect.svg">
+  </div>
 </template>
