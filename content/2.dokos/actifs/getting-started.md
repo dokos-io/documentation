@@ -1,0 +1,74 @@
+---
+title: Premiers pas avec les actifs
+description: 
+published: true
+date: 2021-02-01T15:33:12.526Z
+tags: 
+editor: markdown
+dateCreated: 2020-12-21T07:57:02.333Z
+---
+
+```mermaid
+graph LR;
+	i0(Catégorie d'actifs)-->i1(Article);
+	i1-->i2(Facture/Reçu d'achat);
+  i2-->i3(Actif);
+
+```
+
+Cet exemple est basé sur la configuration de démonstration de Dokos disponible à l'adresse https://demo.dokos.cloud
+# Cas d'usage
+
+Notre société Dokostration a acquis un ordinateur pour pouvoir utiliser le logiciel Dokos . Elle doit comptabiliser l'achat de ce logiciel ainsi que prévoir un tableau d'amortissement afin d'amortir cet achat sur 3 ans.
+
+### 1. Création d'une nouvelle catégorie d'actifs
+
+L'élément permettant de lier l'amortissement de notre actif et sa facturation est l'**Article**. Cet article sera lié à une catégorie d'actif définissant le paramétrage spécifique applicable à notre actif.
+
+Nous allons donc créer une nouvelle catégorie d'actifs appelée **Matériel Informatique**.
+Cette catégorie d'actifs ne permettra pas la comptabilisation des immobilisations en cours.
+
+Voici les paramètres que nous attribuons à cette catégorie. Ces paramètres seront repris lors de la création de notre actif.
+
+|Livre comptable|Méthode d'amortissement|Nombre total d'amortissements|Fréquence d'amortissement|Date de début de l'amortissement|
+|---|---|---|---|---|
+| |Linéaire au prorata (360 jours)|4|12| |
+
+<br>
+
+|Société|Compte d'actif immobilisé|Compte d'amortissement cumulé|Compte de dotations aux amortissement|Compte d'immobilisation en cours|
+|---|---|---|---|---|
+|Dokostration|218  - Autres immobilisations corporelles - D|281  - Amortissements des immobilisations corporelles - D|681  - Dotations aux amortissements, dépréciations et provisions - D| |
+
+
+### 2. Création d'un nouvel article
+
+Nous allons donc créer un nouvel article _Ordinateur_ et cocher la case **Est une immobilisation**.
+
+Nous allons également associer cet article à la catégorie d'actifs **Matériel Informatique**.
+
+### 3. Création de la facture d'achat correspondante
+
+Nous créons ensuite une facture d'achat pour notre ordinateur en sélectionnant l'article **Ordinateur**.
+
+Vous pouvez constater que le compte comptable associé à la ligne d'article **Ordinateur** n'est pas un compte de charges, mais le compte d'actif immobilisé configuré dans notre catégorie d'actif.
+
+Faites bien attention que la TVA soit associée à l'option _Tenir compte des taxes et frais pour_ **Total**.
+
+Si la TVA n'est pas récupérable, mettez le montant TTC dans la ligne d'article **Ordinateur**.
+
+Validez la facture.
+
+
+### 4. Création de l'actif et génération du tableau d'amortissement
+
+Dans le module **Actifs**, nous créons ensuite un nouvel actif, lui donnons un nom et le lions au code d'article **Ordinateur**.
+
+Tout en bas du document, dans la section Autres détails, nous sélectionnons votre facture d'achat.
+
+Il ne reste plus qu'à sélectionner la localisation de cet actif, puis à cocher la case **Calculer la dépréciation** et à mettre la date de mise en service de notre actif.
+
+Après enregistrement, le système a calculé le tableau d'amortissement. Il ne nous reste plus qu'à valider.
+
+
+

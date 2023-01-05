@@ -1,0 +1,82 @@
+---
+title: Réservation d'articles
+description: 
+published: true
+date: 2022-10-28T14:59:02.654Z
+tags: 
+editor: markdown
+dateCreated: 2020-11-26T16:52:00.329Z
+---
+
+# Réservation d'articles
+
+Les réservations d'article permettent d'enregistrer des réservations de créneaux horaires associés à un article. Cet article peut être une salle de réunion, un open-space ou une imprimante 3D.
+L'article sert à la fois à facturer le client faisant une réservation et à enregistrer les créneaux associés à cette réservation.
+
+## Usage
+
+Vous pouvez utiliser le document de réservation d'articles de deux façons:
+1. Vous pouvez faire une nouvelle réservation manuellement depuis le bureau.
+2. Vous pouvez configurer le document de réservation d'articles pour autoriser vos utilisateurs de site web à réserver un créneau eux-mêmes.
+
+## Configuration
+
+Afin de pouvoir utiliser les réservations d'article, il faut commencer par configurer différents éléments:
+
+- [Les paramètres du lieu *Paramètres généraux du module*](/fr/venue/venue-settings)
+- [Les articles *Créez vos salles et vos machines disponibles*](/fr/stocks/item)
+- [Les facteurs de conversion d'unité de mesure *Définissez la durée de vos journées*](/fr/venue/uom-conversion-factor)
+- [Les calendriers de réservation d'article *Indiquez vos horaires d'ouverture*](/fr/venue/item-booking-calendar)
+- L'intégration avec Google Agenda *Optionnel*
+{.links-list}
+
+Si vous souhaitez également permettre la réservation en ligne via le portail client, il faudra:
+
+- [Ajouter une rubrique sur le portail](/fr/website/portal)
+- [Ajouter une ou plusieurs passerelles de paiement *Seulement si vous souhaitez permettre le paiement en ligne*](/fr/accounting/payment-gateways)
+{.links-list}
+
+
+## Réservation sur le site web
+
+Vos utilisateurs de site web ont accès à une page listant tous les créneaux disponibles.
+Ils peuvent cliquer sur un créneau disponible et l'ajouter dans leur panier.
+
+Les réservations en brouillon (non validées) sont automatiquement supprimées toutes les x minutes (définies dans les paramètres des lieux) pour les cas d'abandon de panier.
+
+## Réservations depuis un événement
+
+Si vous organisez des événements que vous souhaitez gérer depuis le calendrier "Evénement", il est possible de lier vos réservations d'articles et vos événements.
+
+> Vous organisez une exposition temporaire, nécessitant la réservation de votre grande salle, de la cuisine et de deux salles de réunions pendant toute la durée de l'événement.
+> Créez votre événement et réservez vos salles depuis le bouton "Réserver un article" de la fiche Evénement.
+> Vous pouvez ensuite modifier les horaires et conditions de réservation individuellement depuis chaque réservation d'article.
+
+
+
+### Intégration Google Agenda
+
+Il est possible de synchroniser vos réservations d'article avec Google Agenda.
+Pour paramétrer la connexion et créer des agendas, lire cette [section](/fr/integrations/google).
+
+#### Configuration
+
+Vous pouvez le lier chaque article avec un agenda ayant comme document de référence **Réservation d'articles** dans la section **Google Agenda**
+Si un article n'est pas lié avec un agenda, il faudra sélectionner celui-ci manuellement dans chaque réservation.
+
+> Chaque article doit être lié avec un agenda différent.
+{.is-warning}
+
+#### Synchronisation
+
+Pour synchroniser vos réservations, cochez la case **Synchroniser avec Google Agenda**.
+Vérifiez qu'un agenda est bien sélectionné dans le champs **Google Agenda**.
+
+> __Dokos__ ne gère pas encore les exceptions liées aux récurrences d'événement.
+> Si vous souhaitez supprimer un événement récurrent dans Google Agenda, sélectionnez bien l'option **Tous les événements**.
+> Si vous supprimez seulement une occurence de cet événement, cela n'apparaîtra pas dans __dokos__.
+{.is-warning}
+
+Pour automatiser la synchronisation des réservations en ligne, cochez la case **Synchroniser automatiquement avec Google Calendar** dans les **paramètres des lieux**.  
+
+Si vous souhaitez que les réservations d'articles soient toujours synchronisées, personnalisez le formulaire de réservation d'articles et mettez 1 comme valeur par défaut pour le champs **Synchroniser avec Google Agenda**.

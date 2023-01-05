@@ -1,0 +1,62 @@
+---
+title: Compte bancaire
+description: 
+published: true
+date: 2022-04-26T10:42:11.267Z
+tags: 
+editor: markdown
+dateCreated: 2022-04-26T10:40:53.025Z
+---
+
+# Compte bancaire
+
+Dans Dokos, des comptes bancaires peuvent être créés pour une entreprise ainsi que pour d'autres parties telles que des clients, des fournisseurs, etc. Cela vous permet d'enregistrer correctement toutes les transactions bancaires pour une précision comptable.
+
+Pour accéder au compte bancaire, allez sur :
+
+> Accueil > Comptabilité > Relevé bancaire > **Compte bancaire**
+
+## 1. Prérequis avant utilisation
+
+Avant de créer et d'utiliser un compte bancaire, il est conseillé de créer d'abord ce qui suit :
+
+
+## 2. Comment créer un compte bancaire
+
+1. Entrez un nom de compte.
+2. Associez le compte du grand livre défini dans "Comptes bancaires" dans le plan comptable .
+3. Sélectionnez une banque.
+4. Faites enregistrer.
+
+### 2.1 Options supplémentaires lors de la création d'un compte bancaire
+
+- **Est le compte par défaut** : l'activation de cette option l'utilisera comme compte bancaire par défaut pour toutes les transactions du journal.
+- **Est un compte d'entreprise** : Activez si ce compte bancaire est un compte d'entreprise.
+
+Un type de compte et un sous-type de compte peuvent être définis pour une classification plus poussée dans les rapports, etc.
+
+## 3. Caractéristiques
+
+### 3.1 Détails de la partie
+
+- **Type de partie** : s'il ne s'agit pas d'un compte d'entreprise, définissez à qui appartient ce compte. Les options disponibles sont : Client, Employé, Membre, Actionnaire, Étudiant et Fournisseur.
+- **Partie** : sélectionnez le client/fournisseur spécifique, etc.
+
+### 3.2 Détails du compte
+
+Pour référence, les détails suivants sur un compte bancaire peuvent être stockés dans Dokos :
+
+- IBAN
+- Numéro de Compte bancaire
+- Numéro SWIFT
+- Code de la branche
+
+### 3.3 Adresse et contact
+
+- Adresse : Une banque peut en avoir plusieurs dans une même localité. L'adresse de l'agence bancaire peut être définie ici.
+- Contact : Une personne de contact peut être liée ici. Les banques fournissent généralement une personne de contact dédiée pour les comptes d'entreprise, vous pouvez ajouter le contact de cette personne ici.
+- Site Web : Vous pouvez ajouter le site Web de la banque ici.
+
+### 3.4 Détails de l'intégration
+
+- **Date de la dernière intégration**: si votre banque prend en charge l'intégration Plaid , la définition d'une date ici se synchronisera sur la date définie. Cela créera des entrées de transactions bancaires.

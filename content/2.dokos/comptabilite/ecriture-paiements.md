@@ -1,0 +1,84 @@
+---
+title: Ecriture de paiement
+description: 
+published: true
+date: 2022-11-02T08:58:42.829Z
+tags: 
+editor: markdown
+dateCreated: 2020-11-26T13:19:50.908Z
+---
+
+# Ecriture de paiement
+
+Une écriture de paiement est un document enregistrant un paiement destiné à/ou provenant d'un tiers.
+
+---
+
+Une écriture de paiement peut également être créée directement puis liée à une commande/facture ultérieurement. Avant de créer et d'utiliser Saisie des paiements, il est conseillé de créer d'abord les éléments suivants :
+
+- Client
+- Fournisseur
+- Compte bancaire
+
+Si vous suivez le cycle de vente/d'achat, vous aurez besoin des éléments suivants :
+
+- Commande client (paiement anticipé)
+- Bon de commande (paiement anticipé)
+- Facture de vente
+- Facture d'achat
+
+## 1. Comment créer une écriture de paiement
+
+Pour accéder à la **liste des écriture de paiement**, allez sur :
+
+> Accueil > Comptabilité > Comptes débiteurs > **Écriture de paiement**
+
+Lors de la soumission d'un document permettant d'effectuer une saisie de paiement, vous trouverez l'option de paiement sous le bouton **Créer**.
+
+### Type de Paiement
+
+1. Indiquez une date de comptabilisation
+2. Sélectionnez le type de Paiement : Entrant, Sortant, Interne
+3. Choisissez le mode de paiement : Carte bancaire, Chèque, Espèce
+
+### Paiement de/À
+
+4. Type de tiers : Client, Fournisseur, Employé...
+5. Sélectionnez le Tiers concerné
+
+### Compte
+
+Le compte payé à et le compte payé à partir de seront récupérés comme défini dans le formulaire de la société.
+
+### Montant
+
+Le montant payé sera extrait de la facture ou devra être saisi manuellement.
+
+### Référence
+
+Vous pouvez indiquez le document qui sera relié à cette écriture de paiement. Si vous être parti d'une facture, cette section sera renseignée automatiquement.
+
+### Perte
+
+- Montant Total Alloué
+- Montant Non alloué 
+- Écrat de montant
+
+## Comment enregistrer des frais associés à un paiement
+
+Le tableau de déductions ou pertes permet d'enregistrer tout type de frais associés à un paiement.
+
+> Une facture d'achat de $40 a été comptabilisée pour un montant de 36€ dans la devise de la société.
+> Le paiement, plusieurs jours plus tard, est finalement de 37€.
+> Dans l'écriture de paiement, le montant payé sera de 37€, le montant alloué à la facture de 36€ et dans le tableau de déductions on ajoute la ligne suivante:
+> 
+> Compte: 666 - Pertes de change
+> Montant: 1€
+
+> Une facture de vente de 1000€ est payée via GoCardless, le montant réellement reçu est donc de 998€.
+> Le montant payé dans l'écriture de paiement est donc de 998€
+> Le montant alloué à la facture est de 1000€
+> Dans le tableau de déduction on ajoute la ligne suivante:
+> 
+> Compte: 6XXXXX - Frais GoCardless
+> Montant: 2€

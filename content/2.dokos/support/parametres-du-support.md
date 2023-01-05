@@ -1,0 +1,59 @@
+---
+title: Paramètres du support
+description: 
+published: true
+date: 2022-11-03T11:18:03.946Z
+tags: 
+editor: markdown
+dateCreated: 2021-07-26T10:22:22.231Z
+---
+
+# Paramètres du support
+
+Tous les paramètres généraux des documents liés à l'assistance se trouvent dans Paramètres d'assistance.
+
+---
+
+Pour accéder **aux paramètres du support**, allez sur :
+
+> Accueil > Assistance > Paramètres > **Paramètres du support**
+
+## 1. Accords de niveau de service
+
+### 1.1 Suivi du contrat de niveau de service
+
+Activez cette fonctionnalité pour commencer à utiliser et à suivre le contrat de niveau de service dans les problèmes.
+
+### 1.2 Autoriser la réinitialisation du contrat de niveau de service
+
+Cela permet à un utilisateur de réinitialiser l'accord de niveau de service dans les problèmes. L'utilisateur obtiendra un bouton pour réinitialiser l'accord de niveau de service pour les problèmes en cours dans l'onglet Niveau de service. Cliquer sur le bouton avant l'échec de l' ANS réinitialisera l'ANS. L'utilisateur de l'équipe d'assistance devra indiquer la raison de la réinitialisation de l'ANS.
+
+![ans.png](/support/support-settings/ans.png)
+
+
+## 2. Ticket
+
+### 2.1 Nombre de jours avant de fermer le ticket
+
+Tout ticket **Répondu** ou **Résolu** sera fermé après le nombre de jours défini dans ce champ. Cependant, si le client répond à un problème fermé, le problème s'ouvrira à nouveau.
+
+## 3. Portail du support
+
+### 3.1 Section d'aide
+
+Rensiegnez dans cette section les informations d'aide pour le portail du support.
+
+### 3.2 Afficher les derniers messages du forum
+
+- URL du forum
+- Obtenir la dernière requête
+- Liste des clés de réponse
+- Clé du titre du message
+- Clé de description du message
+- Clé du lien du message
+- Chaîne de caractères du lien du message
+
+### 3.3 Section de bienvenue
+
+- Titre de bienvenue
+- Sous-titre de bienvenue

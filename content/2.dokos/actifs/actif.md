@@ -1,0 +1,127 @@
+---
+title: Actif
+description: 
+published: true
+date: 2021-06-24T12:15:51.066Z
+tags: 
+editor: markdown
+dateCreated: 2021-06-23T08:59:24.359Z
+---
+
+# Actif
+
+Un actif est tout élément de valeur appartenant à une entreprise.
+
+Les meubles, les ordinateurs, les téléphones portables, les imprimantes, les voitures, les équipements de productions sont des exemples d'actifs. En règle générale, un actif est un élément tangible qui se trouve dans les locaux de l'entreprise ou qui est transporté par un employé. Dans certains cas, un actif peut être un élément incorporel.
+
+La durée de vie utile d'un actif s'étend sur plusieurs années et, par conséquent, sa valeur économique est répartie sur les années correspondantes du point de vue comptable. Si vous achetez une imprimante pour 300€ et qu'elle devrait être utile pendant trois ans, du point de vue comptable, 100€ sont enregistrés comme dépense pour trois ans chacun au lieu des 300€ de la première année. La plupart des pays ont des règles pour de tels calculs.
+
+Dans DOKOS, le document Actif est le cœur du module de gestion des actifs. Toutes les transactions liées à un actif telles que l'achat, l'amortissement, la maintenance, le mouvement, la mise au rebut, les ventes seront enregistrées dans l'enregistrement de l'actif.
+
+---
+
+Pour accéder à **la liste des actifs**, allez sur :
+
+> Accueil > Actifs > **Actif**
+
+## 1. Prérequis avant utilisation
+
+Avant de créer et d'utiliser Asset, il est conseillé de créer d'abord les éléments suivants :
+
+- **[Article](/fr/stocks/item)** avec **Est une immobilisation** activé.
+- **Catégorie d'actif**
+
+## 2. Comment créer un actif ? 
+
+Depuis le document article.
+
+Un élément représentant l'actif doit être créé. La case **Maintenir le stock** doit être décochée et **Est un actif** doit être cochée.
+
+### 2.1 Création automatique d'actifs
+
+Vous pouvez configurer DOKOS pour créer automatiquement des actifs lors de l'enregistrement d'un reçu d'achat en activant **Créer automatiquement des actifs lors de l'achat** dans **Article**.
+
+Si vous avez activé la création automatique d'actif pour l'article représentant un actif, vous devrez fournir l'emplacement de l'actif lors de l'enregistrement du reçu d'achat.
+
+### 2.2 Création manuelle d'actifs
+
+Si vous souhaitez créer des actifs manuellement, créez un élément avec **Est un actif** activé et laissez **Création automatique d'actifs à l'achat** décoché. Lors de l'enregristrement d'un reçu d'achat/facture d'achat avec cet article, un message s'affiche indiquant que vous devez créer des actifs manuellement.
+
+Suivez les étapes ci-dessous pour créer des actifs manuellement.
+
+1. Allez dans la liste des actifs, cliquez sur Nouveau.
+2. Saisissez un nom pour l'actif.
+3. Sélectionnez le code article. Le nom de l'élément et la catégorie d'actif seront récupérés automatiquement.
+4. Sélectionnez le propriétaire de l'actif, c'est-à-dire la société, le fournisseur ou le client.
+5. Sélectionnez la société/fournisseur/client.
+6. Sélectionnez le reçu d'achat/la facture d'achat. La date d'achat et le montant brut de l'achat seront récupérés automatiquement.
+7. Sélectionnez un emplacement. Ex : Bureau de Bombay. Cela sera récupéré automatiquement si spécifié dans le tableau des éléments du reçu d'achat
+8. Définissez la date de disponibilité. L'amortissement sera calculé à partir de cette date.
+9. Enregistrer et envoyer.
+
+Veuillez noter que vous devez créer un enregistrement d'actif pour chaque actif que vous avez acheté . Si vous avez acheté cinq ordinateurs et avez créé un seul reçu d'achat avec une quantité définie sur cinq, vous devrez créer cinq enregistrements d'actifs manuellement.
+
+### 2.3 Importer des actifs existants
+
+Lorsque vous passez d'un système hérité à DOKOS, vous devrez ajouter des détails sur tous les actifs que votre entreprise a achetés précédemment, ainsi que les détails de l'amortissement de chaque actif.
+
+Pour un actif existant, vous pouvez créer l'enregistrement d'actif directement en cochant la case **Est un actif existant** et fournir les détails ci-dessous.
+
+- **Montant brut d'achat**
+- **Date d'achat**
+- **Date de disponibilité**
+- **Amortissement cumulé d'ouverture** : Le montant de l'amortissement cumulé qui a déjà été enregistré pour une immobilisation existante.
+- **Nombre d'amortissements enregistrés** : Nombre d'écritures d'amortissement déjà enregistrées.
+
+Sur la base de ces détails, le calendrier d'amortissement du montant restant sera créé automatiquement.
+
+### 2.4 Options supplémentaires lors de la création d'un Asset 
+
+- **Propriétaire de l'actif** : Le client, la société, le fournisseur
+- **Responsable** 
+- **Dépositaire** : L'employé qui portera le bien.
+- **Département** : Le département du Dépositaire.
+- **Prochaine date d'amortissement** : Mentionnez la prochaine date d'amortissement, même si c'est la première. Si l'immobilisation est une immobilisation existante et que l'amortissement est déjà terminé, laissez ce champ vide.
+- **Calculer l'amortissement** : cochez cette case pour calculer l'amortissement des actifs.
+- **Autoriser l'amortissement mensuel** : cochez cette case pour répartir le montant de l'amortissement d'un actif sur 12 mois de l'année. Les écritures d'amortissement seront effectuées chaque mois à la date indiquée comme date de début d'amortissement. Par exemple, si la date de disponibilité est le 22 novembre 2019 et la date de début de l'amortissement est le 31 mars 2020, le premier amortissement sera effectué le 30 novembre 2019, le second le 31 décembre 2019, et ainsi de suite. Le montant sera distribué en fonction des jours restants jusqu'au prochain amortissement.
+
+## 4. Caractéristiques
+
+### 4.1 Amortissement
+
+- **Fréquence d'amortissement (mois)** : nombre de mois entre les amortissements.
+- **Nombre total d'amortissements** : nombre total d'amortissements pendant la durée de vie utile de l'actif. En cas d'actifs existants partiellement amortis, mentionner le nombre d'amortissements en cours. Par exemple, si vous définissez la fréquence sur 12 mois et non. des amortissements comme 3, 1 amortissement sera comptabilisé tous les 12 mois pendant 3 ans.
+- **Méthode d'amortissement** : Il existe deux options, la ligne droite et le solde dégressif double.
+- **Linéaire** : Cette méthode répartit uniformément le coût de l'immobilisation sur sa durée de vie utile.
+- **Méthode à double déclin** : Une méthode d'amortissement accéléré, elle entraîne une charge d'amortissement plus élevée au cours des premières années de possession.
+- **Valeur écrite** : Dans cette méthode, le pourcentage d'amortissement est fixe mais il est appliqué sur la valeur actuelle de l'actif que nous obtenons après chaque amortissement. Pour en savoir plus sur l'amortissement des actifs, visitez cette page .
+- **Date de début d'amortissement** : La date à partir de laquelle la comptabilisation de l'amortissement sera commencée.
+- **Valeur attendue après la durée de vie utile** : La durée de vie utile est la période au cours de laquelle l'entreprise s'attend à ce que l'actif soit productif. Après cette période, l'actif est mis au rebut ou vendu. En cas de vente, mentionnez ici la valeur estimée. Cette valeur est également connue sous le nom de valeur de récupération, valeur de rebut ou valeur résiduelle.
+- **Taux d'amortissement** : Il sera calculé sur la base du montant inscrit en valeur attendue après la durée d'utilité.
+
+### 4.2 Calendrier d'amortissement
+
+Lors de la comptabilisation des amortissements sur cet actif, la section Calendrier d'amortissement sera visible. Ce tableau comporte des colonnes pour le livre des finances, la date de planification, le montant de l'amortissement, le montant de l'amortissement et l'écriture au journal.
+
+### 4.3 Détails de l'assurance
+
+Si une assurance a été souscrite pour l'actif que vous enregistrez, vous pouvez stocker les détails d'assurance suivants :
+
+- Numéro de police
+- Assureur
+- Valeur assurée
+- Date de début d'assurance
+- Date de fin d'assurance
+- Assurance tous risques
+
+### 4.4 Écritures comptables
+
+Sur présentation d'un bien, le compte **Immobilisations en cours** sera crédité et le compte d'actif lié à l'actif sera débité. La soumission n'est possible qu'après avoir entré la **Date de disponibilité**. Si la **Date de disponibilité** est une date future, alors l'écriture comptable sera enregistrée automatiquement à cette date via le planificateur.
+
+### 4.5 Entretien
+
+Cocher **Maintenance requise** permet d'enregistrer les entrées de maintenance des actifs pour cet actif.
+
+### 4.6 Après l'enregistrement
+
+Une fois que vous avez créé un actif, vous verrez des options pour transférer, supprimer ou vendre l'actif. Depuis le bouton Faire, vous pouvez ajuster sa valeur et faire une écriture d'amortissement.

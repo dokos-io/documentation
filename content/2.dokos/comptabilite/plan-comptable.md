@@ -1,0 +1,155 @@
+---
+title: Plan comptable
+description: 
+published: true
+date: 2022-10-28T13:47:03.616Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-09T12:29:04.357Z
+---
+
+# Plan comptable
+
+Le plan comptable est le plan des comptes de votre organisation.
+
+La structure globale de votre plan comptable repose sur un système de comptabilité en partie double qui est devenu une norme partout dans le monde pour quantifier la situation financière d'une entreprise.
+
+Le plan comptable est une arborescence de noms des comptes (grands livres et groupes) dont une entreprise a besoin pour gérer ses livres de comptes. DOKOS met en place un plan comptable simple pour chaque Société que vous créez, mais vous pouvez le modifier en fonction de vos besoins et exigences légales.
+
+Pour chaque entreprise, le plan comptable signifie la manière de classer les écritures comptables, principalement en fonction des exigences légales (fiscales, conformité aux réglementations gouvernementales).
+
+Le plan comptable vous aide à répondre à des questions telles que :
+
+- Que vaut votre organisation ?
+- Combien de dettes avez-vous contracté ?
+- Combien de bénéfices réalisez-vous (et donc payez-vous des impôts) ?
+- Combien vendez-vous?
+- Quelle est votre répartition des dépenses?
+
+En tant que personne qui gère une entreprise, il est très utile de voir à quel point votre entreprise se porte bien.
+
+> **Astuce** : Si vous ne pouvez pas lire un bilan, c'est une bonne occasion de commencer à vous renseigner à ce sujet. Cela en vaudra la peine. Vous pouvez également vous faire aider par votre comptable pour établir votre plan comptable.
+{.is-warning}
+
+
+---
+
+Pour accéder à la liste Plan comptable, rendez-vous sur :
+
+> Accueil > Comptabilité > Données de base > **Plan comptable**
+
+## 1. Comment créer/modifier des comptes
+
+DOKOS est livré avec un plan comptable standard. Au lieu de créer/modifier, vous pouvez également utiliser l'outil Importateur de plan comptable . Notez que le plan comptable existant sera écrasé lorsque cet outil est utilisé.
+
+1. Accédez à la liste Plan comptable.
+
+Ici, vous pouvez ouvrir des comptes de groupe qui contiennent d'autres comptes. Il existe des options pour « Ajouter un enfant » dans un compte, Modifier ou Supprimer le compte.
+
+2. L'option de création d'un compte enfant n'apparaîtra que si vous cliquez sur un compte de type Groupe (dossier).
+
+3. Saisissez un nom pour le compte.
+4. Entrez un numéro pour le compte.
+5. Cochez "Est un groupe" si vous voulez qu'il s'agisse d'un compte de groupe pouvant contenir d'autres comptes.
+6. Sélectionnez le type de compte. Cette sélection est importante car certains champs ne permettent de sélectionner que des types de comptes spécifiques.
+7. Changez la devise si ce compte sera utilisé pour des transactions avec une devise différente. Par défaut, il s'agit de la devise de la Société. Pour en savoir plus, visitez la page Comptabilité multi-devises .
+8. Cliquez sur Créer un nouveau .
+En règle générale, vous souhaiterez peut-être créer des comptes pour :
+
+- Déplacements, salaires, téléphone, etc. sous Dépenses .
+- Taxe sur la valeur ajoutée (TVA), taxe de vente, capitaux propres, etc. sous Passifs courants .
+- Ventes de produits, ventes de services, etc. sous Revenu .
+- Bâtiment, machines, mobilier, etc. sous Immobilisations.
+
+> **Astuce** : Des comptes avec différentes devises sont créés lorsque vous recevez ou effectuez des paiements vers ou depuis différentes devises. Par exemple, si vous êtes basé en Inde et que vous effectuez des transactions avec les États-Unis, vous devrez peut-être créer des comptes tels que « Debtors US », « Creditors US », etc.
+{.is-warning}
+
+
+Comprenons les principaux groupes du plan comptable.
+
+## 2. Types de compte
+
+Les types de comptes sont principalement classés en produits, charges, actifs ou passifs.
+
+### 2.1 Comptes de bilan
+
+Les comptes de bilan sont « Application des fonds (actif) » et « Sources de fonds (passif) » qui indiquent la valeur nette de votre entreprise à un moment donné. Lorsque vous commencez ou terminez une période financière, tous les Actifs sont égaux aux Passifs.
+
+Une note sur la comptabilité : Si vous débutez en comptabilité, vous vous demandez peut-être comment les actifs peuvent être égaux aux passifs ? Cela signifierait que l'entreprise n'a rien en propre. C'est correct! Tous les « investissements » réalisés dans l'entreprise pour acheter des actifs (comme des terrains, des meubles, des machines) sont effectués par les propriétaires. Les propriétaires sont une responsabilité pour l'entreprise puisque les bénéfices appartiennent aux propriétaires.
+
+Si une entreprise devait fermer, elle devrait vendre tous les actifs et rembourser tous les passifs (y compris les bénéfices) aux propriétaires, se laissant sans rien.
+
+Tous les comptes sous les comptes de bilan représentent un actif détenu par l'entreprise comme « Compte bancaire », « Terrain et propriété », « Mobilier » ou un passif (fonds que l'entreprise doit à d'autres) comme « Fonds du propriétaire », « Dette » etc.
+
+Deux comptes spéciaux à noter ici sont les comptes clients (l'argent que vous devez collecter auprès de vos clients) et les comptes fournisseurs (l'argent que vous devez payer à vos fournisseurs) sous Actif et Passif respectivement.
+
+### 2.2 Comptes de profits et pertes
+
+Le compte de résultat est le groupe de comptes « revenus » et « dépenses » qui représentent vos transactions comptables sur une période.
+
+Contrairement aux comptes de bilan, les comptes de profits et pertes (ou comptes PL) ne représentent pas la valeur nette (actifs), mais représentent plutôt le montant d'argent dépensé et collecté pour servir les clients au cours de la période. Par conséquent, au début et à la fin de votre exercice fiscal, ils deviennent nuls.
+
+Dans DOKOS, il est facile de suivre les profits et les pertes via le graphique des profits et pertes.
+
+Notez qu'au premier jour de l'année vous n'avez fait aucun profit ou perte, mais vous avez toujours des actifs, donc les comptes de bilan ne deviennent jamais nuls en début ou en fin de période.
+
+### 2.3 Groupes et registres
+
+Il existe deux principaux types de comptes dans DOKOS - Groupe et Grand livre. Les groupes peuvent contenir des sous-groupes et des registres, tandis que les registres sont les nœuds feuilles de votre organigramme et ne peuvent pas contenir plus de comptes.
+
+Les transactions comptables ne peuvent être effectuées que sur des comptes du grand livre (pas des groupes)
+
+**Info** : Le terme « Grand livre » désigne une page d'un livre comptable où les écritures sont effectuées. Il y a généralement un grand livre pour chaque compte (comme un client ou un fournisseur).
+
+> **Remarque** : Un « grand livre » de compte est également parfois appelé « chef » de compte.
+{.is-warning}
+
+### 2.4 Autres types de compte
+
+Dans DOKOS, vous pouvez également spécifier plus d'informations lorsque vous créez un nouveau compte, c'est là pour vous aider à sélectionner ce compte particulier dans un scénario comme "Compte bancaire" ou un "Compte fiscal" et n'a aucun effet sur le graphique lui-même.
+
+Explication des types de compte :
+
+**Amortissement cumulé** : Pour stocker les informations d'amortissement cumulé total des actifs de l'entreprise. L'amortissement cumulé apparaît au bilan.
+**Actif reçu mais non facturé** : un compte de passif temporaire qui contient la valeur de l'actif reçu mais pas encore facturé.
+**Banque** : Le type de compte sous lequel les comptes bancaires seront créés. Il doit y avoir au moins un compte de groupe de type "Banque" dans le CoA.
+**Espèces** : Le type de compte sous lequel le compte espèces sera créé. Il doit y avoir au moins un compte de groupe de type "Cash" dans le CoA.
+Facturable : Des frais supplémentaires appliqués aux Articles peuvent être stockés dans des comptes de ce type. Par exemple, "Frais de transport et d'expédition".
+**Travaux d'immobilisation en cours** : Les frais actuels lors de la création d'immobilisations sont stockés dans les comptes CWIP. Par exemple, les coûts de construction lors de la construction d'un bâtiment.
+
+Dans DOKOS, les actifs sont comptabilisés sur les comptes CWIP lorsqu'ils ne sont pas encore utilisés.
+Coût des marchandises vendues : Un compte de ce type est utilisé pour enregistrer le total cumulé de tous les coûts encourus lors de la fabrication/l'achat d'un produit ou d'un service, vendu par une entreprise.
+- **Amortissement** : Le compte de charges pour comptabiliser l'amortissement des immobilisations. Celui-ci apparaît sur le compte de résultat.
+- **Capitaux propres** : Ces types de comptes représentent des transactions avec les personnes qui possèdent l'entreprise, c'est-à-dire les actionnaires/propriétaires.
+- **Dépenses incluses dans l'évaluation des actifs** : Le compte pour comptabiliser les dépenses (à l'exception des coûts matériels directs des actifs) incluses dans le coût au débarquement d'un actif.
+- **Dépenses incluses dans l'évaluation** : Le compte pour comptabiliser les dépenses (à l'exception des coûts directs des matériaux) incluses dans le coût au débarquement d'un article/produit, utilisé dans l'inventaire perpétuel.
+- **Immobilisation** : Le compte pour maintenir les coûts des immobilisations.
+- **Compte de revenus** : Ce type de comptes représente toute source de revenus ou de revenus comptabilisés pour la Société.
+- **Payable** : Le type de compte représente le montant dû par une entreprise à ses créanciers (Fournisseurs).
+- **Créance** : Le type de compte représente le montant dû à une entreprise par ses débiteurs (Clients).
+- **Arrondir** : Dans de nombreuses factures, le montant final peut être arrondi . Pour un suivi précis, ces montants peuvent être enregistrés sur des comptes de ce type.
+- **Stock** : Le groupe de comptes sous lequel les comptes d'entrepôt seront créés.
+- **Ajustement de stock** : Un compte de dépenses pour enregistrer toute écriture d'ajustement de stock/inventaire. Vient généralement au même niveau de coût des marchandises vendues.
+- **Stock reçu mais non facturé** : Un compte de passif temporaire qui contient la valeur du stock reçu mais pas encore facturé et utilisé dans l'inventaire perpétuel.
+- **Taxe** : Tous les comptes de taxes comme la TVA, TDS, GST, etc. relèvent de ce type.
+- **Temporaire** : Un compte Temporaire est utile pour équilibrer les revenus, les dépenses et les annuler lors du passage à DOKOS en milieu d'année avec des écritures comptables en suspens.
+
+> **Remarque** : lors des écritures de paiement, le compte bancaire par défaut sera récupéré dans l'ordre suivant s'il est défini :
+{.is-warning}
+
+  * Forme de la société
+  * Compte par défaut du mode de paiement
+  * Compte bancaire par défaut du client/fournisseur
+  * Sélection manuelle dans la saisie des paiements
+  
+### 2.5 États financiers
+
+Les états financiers de votre entreprise sont facilement consultables dans DOKOS. Vous pouvez afficher des états financiers tels que le bilan, le compte de résultat et le tableau des flux de trésorerie.
+
+Un exemple de divers états financiers est donné ci-dessous :
+
+### 2.6 Numéro de compte
+
+Un plan comptable standard est organisé selon un système numérique. Chaque catégorie principale commencera par un certain nombre, puis les sous-catégories de cette catégorie principale commenceront toutes par le même nombre. Par exemple, si les actifs sont classés par des nombres commençant par le chiffre 1000, les comptes de trésorerie peuvent être étiquetés 1100, les comptes bancaires peuvent être étiquetés 1200, les comptes clients peuvent être étiquetés 1300, et ainsi de suite. Un écart entre les numéros de compte est généralement maintenu pour l'ajout de comptes à l'avenir.
+
+Vous pouvez attribuer un numéro lors de la création d'un compte à partir de la page Plan comptable. Vous pouvez également modifier un numéro à partir d'un enregistrement de compte, en cliquant sur le bouton Mettre à jour le nom/numéro du compte . Lors de la mise à jour du numéro de compte, le système renomme le nom du compte automatiquement pour intégrer le numéro dans le nom du compte.
