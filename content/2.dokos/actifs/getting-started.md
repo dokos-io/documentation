@@ -8,13 +8,12 @@ editor: markdown
 dateCreated: 2020-12-21T07:57:02.333Z
 ---
 
-```mermaid
+<mermaid>
 graph LR;
 	i0(Catégorie d'actifs)-->i1(Article);
 	i1-->i2(Facture/Reçu d'achat);
   i2-->i3(Actif);
-
-```
+</mermaid>
 
 Cet exemple est basé sur la configuration de démonstration de Dokos disponible à l'adresse https://demo.dokos.cloud
 # Cas d'usage

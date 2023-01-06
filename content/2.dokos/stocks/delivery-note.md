@@ -13,16 +13,16 @@ Un bon de livraison est établi lorsqu'un envoi est expédié de l'entrepôt de 
 
 Une copie du bon de livraison est généralement envoyée avec le transporteur. Le bon de livraison contient la liste des articles envoyés dans l'envoi et met à jour l'inventaire. Le bon de livraison est une étape facultative et une facture client peut être créée directement à partir d'une commande client.
 
-```mermaid
+<mermaid>
 flowchart LR
 	id4-->id9(BON DE LIVRAISON)
   id2(Commande client)-->id4(Facture de vente)
   id4-->id5(Ecriture de paiement)
   id2-->id6("Ecriture de paiement (Acompte)")
   id1(Piste)-->id7(Opportunité)
- 	id7-->id8[Devis Client]
+  id7-->id8[Devis Client]
   id8-->id2
-```
+</mermaid>
 
 ---
 
