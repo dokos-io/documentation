@@ -69,8 +69,9 @@ Les détails supplémentaires suivants peuvent être ajoutés lors de la modific
 
 ![détails.png](/projects/task/détails.png)
 
-> **Remarque** : En fonction des valeurs des champs Début et Durée , la date de début prévue et la date de fin prévue sont calculées pour les tâches de projet créées à l'aide d'un modèle de projet. Ce calcul ignore les jours fériés en fonction de la liste des jours fériés de votre entreprise.
-{.is-warning}
+::alert{type=warning}
+**Remarque** : En fonction des valeurs des champs Début et Durée , la date de début prévue et la date de fin prévue sont calculées pour les tâches de projet créées à l'aide d'un modèle de projet. Ce calcul ignore les jours fériés en fonction de la liste des jours fériés de votre entreprise.
+::
 
 ### 2.2. Dépendances et temps réel
 

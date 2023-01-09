@@ -67,8 +67,9 @@ L'outil de rapprochement permet de rapprocher une ou plusieurs lignes du relevé
 Il permet également de rapprocher une ligne du relevé bancaire avec plusieurs transactions dans _Dokos_.
 Par contre il ne permet pas de rapprocher plusieurs lignes du relevé bancaire avec plusieurs transactions en même temps.
 
-> Si les options proposées par l'outil ne permettent pas de gérer certains cas de figures, vous pouvez toujours ouvrir la transaction et ajouter des lignes de rapprochement en allouant les montant rapprochés manuellement.
-{.is-info}
+::alert{type=info}
+Si les options proposées par l'outil ne permettent pas de gérer certains cas de figures, vous pouvez toujours ouvrir la transaction et ajouter des lignes de rapprochement en allouant les montant rapprochés manuellement.
+::
 
 #### Création automatique de paiement
 

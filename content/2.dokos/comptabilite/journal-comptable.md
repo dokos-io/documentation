@@ -10,8 +10,9 @@ dateCreated: 2020-11-26T12:52:58.984Z
 
 # Journaux comptables
 
-> :point_right: v2
-{.is-info}
+::alert{type=info}
+:point_right: v2
+::
 
 
 Les journaux comptables sont des journaux auxiliaires du grand livre.
@@ -27,14 +28,15 @@ Vous pouvez forcer l'utilisation d'un journal comptable dans toutes vos transact
 2. Si votre journal est un journal de banque ou de caisse, sélectionnez le compte comptable associé
 3. Ajoutez autant de lignes de conditions que nécessaire (voir-dessous)
 
-> Généralement on recommande d'avoir au moins 4 journaux par défaut:
-> - Ventes
-> - Achats
-> - Trésorerie
-> - Opérations diverses
-> 
-> Il faut également décomposer le journal de trésorerie en autant de journaux que vous avez de comptes bancaires et de caisses
-{.is-info}
+::alert{type=info}
+Généralement on recommande d'avoir au moins 4 journaux par défaut:
+- Ventes
+- Achats
+- Trésorerie
+- Opérations diverses
+
+Il faut également décomposer le journal de trésorerie en autant de journaux que vous avez de comptes bancaires et de caisses
+::
 
 
 
@@ -42,18 +44,20 @@ Vous pouvez forcer l'utilisation d'un journal comptable dans toutes vos transact
 
 Chaque journal peut être associé avec une ou plusieurs transactions.
 
-> Le journal "VENTES" va être associé au type de document "Facture de Ventes".
-> A chaque fois qu'une facture sera validée, les écritures comptables correspondantes seront enregistrées dans le journal des ventes.
-{.is-info}
+::alert{type=info}
+Le journal "VENTES" va être associé au type de document "Facture de Ventes".
+A chaque fois qu'une facture sera validée, les écritures comptables correspondantes seront enregistrées dans le journal des ventes.
+::
 
 
 
 Il est également possible d'ajouter une condition pour une transaction donnée.
 
-> Le journal "AVOIRS" va être également associé au type de document "Facture de Ventes", avec la condition `doc.is_return`
-> 
-> Désormais lorsqu'une facture sera validée, elle sera enregistrée dans le journal "VENTES" et s'il s'agit d'un avoir il sera enregistré dans le journal "AVOIRS"
-{.is-info}
+::alert{type=info}
+Le journal "AVOIRS" va être également associé au type de document "Facture de Ventes", avec la condition `doc.is_return`
+
+Désormais lorsqu'une facture sera validée, elle sera enregistrée dans le journal "VENTES" et s'il s'agit d'un avoir il sera enregistré dans le journal "AVOIRS"
+::
 
 
 

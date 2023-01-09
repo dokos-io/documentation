@@ -13,12 +13,13 @@ dateCreated: 2020-11-26T17:40:47.186Z
 Vous pouvez autoriser vos clients, fournisseurs ou postulants à accéder à certaines information ou à créer certaines transactions sur votre intance __dokos__.  
 Par example: vous pouvez laisser n'importe qui se créer un compte sur votre site web (créé avec __dokos__ ou connecté via l'API) et postuler pour un emploi. Vous pouvez laisser vos clients voir le détail de leurs factures, leurs tickets de support ou leur donner la possibilité de télécharger un nouveau document eux-même.
 
-> Il y a deux types d'interfaces intégrées à __dokos__: Le *Bureau* et la *vue Web*.
->     - Le Bureau est pour les utilisateurs au sein de votre organisation avec accès à des informations potentiellement confidentielles
->     - La vue Web est pour les utilisateurs en dehors de votre organisation qui ont besoin d'intéragir avec vous et à qui vous souhaitez fournir un 'self-service'
-> 
-> Les formulaires web sont similaires aux formulaires que vous remplissez habituellement sur internet. Ils font partie de la "vue Web".
-{.is-info}
+::alert{type=info}
+Il y a deux types d'interfaces intégrées à __dokos__: Le *Bureau* et la *vue Web*.
+     - Le Bureau est pour les utilisateurs au sein de votre organisation avec accès à des informations potentiellement confidentielles
+     - La vue Web est pour les utilisateurs en dehors de votre organisation qui ont besoin d'intéragir avec vous et à qui vous souhaitez fournir un 'self-service'
+
+Les formulaires web sont similaires aux formulaires que vous remplissez habituellement sur internet. Ils font partie de la "vue Web".
+::
 
 Pour accéder à la liste Formulaire web, allez sur :
 

@@ -9,8 +9,9 @@ dateCreated: 2021-05-07T07:34:31.136Z
 ---
 
 # Termes et paiement
-> Contenu bientôt disponible
-{.is-warning}
+::alert{type=info}
+Contenu bientôt disponible
+::
 
 #### Une condition de paiement permet de définir un calendrier selon lequel les paiements seront effectués.
 

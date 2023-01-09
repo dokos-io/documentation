@@ -16,8 +16,9 @@ La première étape vers la gestion d'actifs consiste à créer une catégorie d
 
 Dans **Catégorie d'actif**, vous pouvez définir par défaut une méthode d'amortissement, une périodicité et des comptes liés à l'amortissement, qui s'appliqueront à tous les actifs de la catégorie.
 
-> **Remarque** : Vous pouvez également définir des comptes et des centres de coûts liés à l'amortissement par défaut dans la fiche de la société.
-{.is-warning}
+::alert{type=warning}
+**Remarque** : Vous pouvez également définir des comptes et des centres de coûts liés à l'amortissement par défaut dans la fiche de la société.
+::
 
 ---
 

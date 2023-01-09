@@ -18,8 +18,9 @@ Tous les types d'écritures comptables autres que les transactions de vente et d
 
 Les écritures de journal peuvent être utilisées pour saisir des dépenses, des écritures d'ouverture, des écritures de contrepartie, des paiements bancaires, des écritures d'accise, etc. Par exemple, la réservation de dépenses courantes, les dépenses directes comme l'essence/le transport, les dépenses diverses, les écritures d'ajustement et l'ajustement du montant de la facture.
 
-> **Remarque** : À partir de la version 13, nous avons introduit le grand livre immuable qui modifie le fonctionnement de l'annulation des écritures comptables dans DOKOS.
-{.is-warning}
+::alert{type=warning}
+**Remarque** : À partir de la version 13, nous avons introduit le grand livre immuable qui modifie le fonctionnement de l'annulation des écritures comptables dans DOKOS.
+::
 
 ---
 
@@ -72,8 +73,9 @@ Voici les documents qui peuvent être sélectionnés dans l'écriture au journal
 
 - **Est-ce une avance ?** : S'il s'agit d'un paiement anticipé par un client, définissez cette option sur « Oui ». Ceci est utile lorsque vous avez lié un formulaire 'Type de référence' à cette écriture de journal. La sélection de « Oui » liera cette écriture au journal à la transaction sélectionnée dans le champ « Nom de la référence ». Pour en savoir plus, visitez la page Saisie des paiements anticipés .
 
-> **Remarque utilisateur** : Toute remarque supplémentaire sur l'entrée peut être ajoutée dans ce champ.
-{.is-warning}
+::alert{type=warning}
+**Remarque utilisateur** : Toute remarque supplémentaire sur l'entrée peut être ajoutée dans ce champ.
+::
 
 
 ### 2.2 Contrepasser l'écriture au journal

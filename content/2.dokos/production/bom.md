@@ -26,8 +26,9 @@ Pour accéder à la liste de nomenclatures, accédez à:
 
 > Accueil > Production > Liste de matériaux > **Liste de matériaux**
 
-> Notez qu'une fois qu'une nomenclature est soumise, elle ne peut pas être modifiée. Vous ne pouvez annuler que l'existant, le dupliquer et en soumettre un autre. Une nomenclature est également liée à plusieurs emplacements dans le module de fabrication, de sorte que sa modification peut être longue et fastidieuse. Il est donc recommandé de bien réfléchir et de remplir les nomenclatures avant de les soumettre.
-> {.is-warning}
+::alert{type=warning}
+Notez qu'une fois qu'une nomenclature est soumise, elle ne peut pas être modifiée. Vous ne pouvez annuler que l'existant, le dupliquer et en soumettre un autre. Une nomenclature est également liée à plusieurs emplacements dans le module de fabrication, de sorte que sa modification peut être longue et fastidieuse. Il est donc recommandé de bien réfléchir et de remplir les nomenclatures avant de les soumettre.
+::
 
 ## 1. Prérequis avant utilisation
 
@@ -85,8 +86,9 @@ Maintenant, une table d'opérations peut être vue. Cette option est utile pour 
 2. Pour chaque opération, il vous sera demandé de saisir un poste de travail sur lequel l'opération sera effectuée. Un poste de travail par défaut peut être défini à partir du document Opération.
 3. Entrez le taux horaire de fonctionnement, la durée de fonctionnement en minutes et la taille du lot créé avec l'opération. Le coût d'exploitation sera calculé en fonction de ces valeurs.
 
-> **Remarque** : Les postes de travail sont définis uniquement à des fins de planification des coûts de produit et des opérations de bon de travail, sans suivi des stocks. Les stocks sont suivis dans les magasins définis dans la table Articles de la nomenclature.
-{.is-warning}
+::alert{type=warning}
+**Remarque** : Les postes de travail sont définis uniquement à des fins de planification des coûts de produit et des opérations de bon de travail, sans suivi des stocks. Les stocks sont suivis dans les magasins définis dans la table Articles de la nomenclature.
+::
 
 Transférer l'article par rapport à doit être défini pour une nomenclature avec opérations. Les matériaux peuvent être transférés par rapport à un ordre de travail en vrac ou des cartes de travail individuelles. 
 

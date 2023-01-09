@@ -19,8 +19,9 @@ Ce connecteur n'est pas inclus directement dans Dokos et doit être installé en
 
 Suive les instructions sur le répertoire de l'application: https://gitlab.com/dokos/hiboutik
 
-> Pour les utilisateurs de Dokos Cloud, veuillez contacter le [support](mailto:help@dokos.cloud) pour que l'application soit installée directement sur votre site.
-{.is-info}
+::alert{type=info}
+Pour les utilisateurs de Dokos Cloud, veuillez contacter le [support](mailto:help@dokos.cloud) pour que l'application soit installée directement sur votre site.
+::
 
 ## Configuration
 
@@ -46,9 +47,10 @@ Si l'enregistrement des paramètres s'est bien déroulé, vous devriez voir appa
 
 Avant de lancer la première synchronisation, allez dans les fiches __Article__ des articles que vous souhaitez synchroniser avec Hiboutik et cochez la case "Synchroniser avec Hiboutik".
 
-> Dokos est la source de vos données: Seuls les articles ajoutés sur Dokos pourront être synchronisés avec Hiboutik.
+::alert{type=info}
+Dokos est la source de vos données: Seuls les articles ajoutés sur Dokos pourront être synchronisés avec Hiboutik.
 Si vous ajoutez des produits sur Hiboutik, ceux-ci ne seront pas synchronisés et leurs ventes ne pourront pas être rappatriées dans Dokos.
-{.is-info}
+::
 
 Vous pouvez ensuite lancer une synchronisation de tous les articles et des clients particulier, ayant le type de client "Individuel".
 
@@ -57,9 +59,10 @@ Vous pouvez ensuite lancer une synchronisation de tous les articles et des clien
 Les articles sont synchronisés automatiquement une fois par heure.
 A chaque mouvement de stock dans Dokos, les stocks de Hiboutik sont mis à jour.
 
-> Pour le moment l'intégration ne permet pas la synchronisation des images entre Dokos et Hiboutik.
-> Vous devez ajouter des images pour vos articles directement sur Hiboutik.
-{.is-warning}
+::alert{type=warning}
+Pour le moment l'intégration ne permet pas la synchronisation des images entre Dokos et Hiboutik.  
+Vous devez ajouter des images pour vos articles directement sur Hiboutik.
+::
 
 Les données synchronisées sont les suivantes:
 
@@ -69,9 +72,10 @@ Les données synchronisées sont les suivantes:
 - Stock <> Stock dans l'entrepôt du profil de point de vente
 - Référence externe <> Code de l'article
 
-> Les prix doivent être entrés TTC dans dokos.
+::alert{type=info}
+Les prix doivent être entrés TTC dans dokos.
 La taxe d'article peut être ajouté au niveau du groupe d'article dans dokos (si le groupe est un noeud feuille, i.e. case "Est un groupe" décochée).
-{.is-info}
+::
 
 ### Alertes de niveau de stock
 

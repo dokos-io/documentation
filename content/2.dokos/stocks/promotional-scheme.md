@@ -42,8 +42,9 @@ Avant de créer et d'utiliser un système promotionnel, il est conseillé de cr�
 7. Les utilisateurs peuvent également appliquer la remise sur l'autre code d'article/groupe d'articles/marque en sélectionnant la valeur du champ Appliquer la règle sur l'autre.
 8. **Enregistrer**.
 
-> **Remarque** : lors de l'enregistrement d'un programme promotionnel, une nouvelle règle de tarification est créée.
-{.is-warning}
+::alert{type=warning}
+**Remarque** : lors de l'enregistrement d'un programme promotionnel, une nouvelle règle de tarification est créée.
+::
 
 
 ### 2.1 Champs supplémentaires lors de la création d'un programme promotionnel

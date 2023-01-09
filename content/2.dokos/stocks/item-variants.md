@@ -36,8 +36,9 @@ Les variantes peuvent être basées sur deux choses :
 
 4. En sélectionnant «Possède des variantes», un tableau apparaîtra. Spécifiez les attributs de variante pour l'article dans le tableau. Si l'attribut a des valeurs numériques, vous pouvez spécifier la plage et créer des intervalles basés sur les valeurs d'incrément.
 
-> Remarque: vous ne pouvez pas effectuer de transactions par rapport à un «modèle».
-{.is-warning}
+::alert{type=warning}
+Remarque: vous ne pouvez pas effectuer de transactions par rapport à un «modèle».
+::
 
 ### 1.2 Création des variantes d'article en fonction des attributs d'article 
 Pour créer des «variantes d'article» par rapport à un «modèle», cliquez sur «Créer». À partir de là, choisissez de créer une seule variante ou plusieurs. Simple est simple où vous créez juste un ou plusieurs attributs et un élément sera créé. Lorsque vous choisissez plusieurs variantes, cochez les attributs et plusieurs éléments seront créés. Par exemple, si vous choisissez Couleur: Rouge, Vert et Taille: Petit, Moyen, Grand, 6 variantes seront créées.

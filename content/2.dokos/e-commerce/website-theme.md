@@ -25,8 +25,9 @@ Dokos fournit des fonctionnalités avancées de thème pour personnaliser l'appa
 3. Personnalisez votre thème.
 4. Cliquez sur Enregistrer.
 
-> **Remarque** : assurez-vous de définir le thème du site Web dans les paramètres du site Web pour le thème à appliquer.
-{.is-warning}
+::alert{type=warning}
+**Remarque** : assurez-vous de définir le thème du site Web dans les paramètres du site Web pour le thème à appliquer.
+::
 
 ## 2. Caractéristiques
 

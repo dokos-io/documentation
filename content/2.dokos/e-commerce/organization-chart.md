@@ -18,8 +18,9 @@ Pour créer un trombinoscope il faut commencer par créer une nouvelle page web.
 
 1. Donnez lui un nom et une route facilement identifiable.
 
-> Si la route est __trombi__, la page correspondante sera, par exemple, accessible à l'adresse __https://monsite.dokos.cloud/trombi__
-{.is-info}
+::alert{type=info}
+Si la route est __trombi__, la page correspondante sera, par exemple, accessible à l'adresse __https://monsite.dokos.cloud/trombi__
+::
 
 2. Sélectionnez le type de contenu __Constructeur de page__
 
@@ -27,10 +28,11 @@ Pour créer un trombinoscope il faut commencer par créer une nouvelle page web.
 
 4. Cliquez sur le bouton _Modifier les valeurs_ et sélectionnez le rôle permettant de filtrer les utilisateurs affichés dans le trombinoscope
 
-> Le trombinoscope affichera les utilisateurs de votre site ayant le rôle sélectionné au dessus.
-> Par exemple, si vous sélectionnez le rôle __Client__, tous les utilisateurs ayant le rôle __Client__ apparaîtront dans le trombinoscope.
-> Par contre les utilisateurs désactivés n'apparaîtront pas.
-{.is-info}
+::alert{type=info}
+Le trombinoscope affichera les utilisateurs de votre site ayant le rôle sélectionné au dessus.
+Par exemple, si vous sélectionnez le rôle __Client__, tous les utilisateurs ayant le rôle __Client__ apparaîtront dans le trombinoscope.
+Par contre les utilisateurs désactivés n'apparaîtront pas.
+::
 
 
 Vous pouvez également choisir les informations qui seront affichées sur le trombinoscope.

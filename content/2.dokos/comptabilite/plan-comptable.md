@@ -28,8 +28,9 @@ Le plan comptable vous aide à répondre à des questions telles que :
 
 En tant que personne qui gère une entreprise, il est très utile de voir à quel point votre entreprise se porte bien.
 
-> **Astuce** : Si vous ne pouvez pas lire un bilan, c'est une bonne occasion de commencer à vous renseigner à ce sujet. Cela en vaudra la peine. Vous pouvez également vous faire aider par votre comptable pour établir votre plan comptable.
-{.is-warning}
+::alert{type=warning}
+**Astuce** : Si vous ne pouvez pas lire un bilan, c'est une bonne occasion de commencer à vous renseigner à ce sujet. Cela en vaudra la peine. Vous pouvez également vous faire aider par votre comptable pour établir votre plan comptable.
+::
 
 
 ---
@@ -61,8 +62,9 @@ En règle générale, vous souhaiterez peut-être créer des comptes pour :
 - Ventes de produits, ventes de services, etc. sous Revenu .
 - Bâtiment, machines, mobilier, etc. sous Immobilisations.
 
-> **Astuce** : Des comptes avec différentes devises sont créés lorsque vous recevez ou effectuez des paiements vers ou depuis différentes devises. Par exemple, si vous êtes basé en Inde et que vous effectuez des transactions avec les États-Unis, vous devrez peut-être créer des comptes tels que « Debtors US », « Creditors US », etc.
-{.is-warning}
+::alert{type=warning}
+**Astuce** : Des comptes avec différentes devises sont créés lorsque vous recevez ou effectuez des paiements vers ou depuis différentes devises. Par exemple, si vous êtes basé en Inde et que vous effectuez des transactions avec les États-Unis, vous devrez peut-être créer des comptes tels que « Debtors US », « Creditors US », etc.
+::
 
 
 Comprenons les principaux groupes du plan comptable.
@@ -101,8 +103,9 @@ Les transactions comptables ne peuvent être effectuées que sur des comptes du 
 
 **Info** : Le terme « Grand livre » désigne une page d'un livre comptable où les écritures sont effectuées. Il y a généralement un grand livre pour chaque compte (comme un client ou un fournisseur).
 
-> **Remarque** : Un « grand livre » de compte est également parfois appelé « chef » de compte.
-{.is-warning}
+::alert{type=warning}
+**Remarque** : Un « grand livre » de compte est également parfois appelé « chef » de compte.
+::
 
 ### 2.4 Autres types de compte
 
@@ -134,8 +137,9 @@ Coût des marchandises vendues : Un compte de ce type est utilisé pour enregist
 - **Taxe** : Tous les comptes de taxes comme la TVA, TDS, GST, etc. relèvent de ce type.
 - **Temporaire** : Un compte Temporaire est utile pour équilibrer les revenus, les dépenses et les annuler lors du passage à DOKOS en milieu d'année avec des écritures comptables en suspens.
 
-> **Remarque** : lors des écritures de paiement, le compte bancaire par défaut sera récupéré dans l'ordre suivant s'il est défini :
-{.is-warning}
+::alert{type=warning}
+**Remarque** : lors des écritures de paiement, le compte bancaire par défaut sera récupéré dans l'ordre suivant s'il est défini :
+::
 
   * Forme de la société
   * Compte par défaut du mode de paiement

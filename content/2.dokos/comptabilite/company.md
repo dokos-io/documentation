@@ -161,8 +161,9 @@ Pour référence, les détails suivants de votre entreprise peuvent être enregi
 - Adresse
 - Détails d'inscription
 
-> **Remarque** : lorsque vous définissez l'adresse ici, il est important de cocher la case « Is Your Company Address ».
-{.is-warning}
+::alert{type=warning}
+**Remarque** : lorsque vous définissez l'adresse ici, il est important de cocher la case « Is Your Company Address ».
+::
 
 **Détails d'enregistrement** : Ici, vous pouvez enregistrer divers numéros de taxe/chèque/banque pour référence.
 

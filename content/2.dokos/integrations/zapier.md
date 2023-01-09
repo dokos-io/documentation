@@ -95,9 +95,10 @@ To generate a new Zap, select the **dokos** application in the Zap editor.
     - The fields to send to Zapier (**Webhook Data**)
       Click on the + button to add an additional field
 
-> The Zapier integration creates new Webhooks in dokos.  
-> You can find them in `Integrations > Webhooks`.
-{.is-info}
+::alert{type=info}
+The Zapier integration creates new Webhooks in dokos.  
+You can find them in `Integrations > Webhooks`.
+::
 
 
 You can then save and create you action with another Zapier application or with the dokos application.

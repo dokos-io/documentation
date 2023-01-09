@@ -19,9 +19,9 @@ A payment request is a document used as a reference to send a payment link to yo
 3. Select an email template or write a message if you want to send an email to your customer upon submission of the document
 4. Save and submit your document
 
-> If you only want to record the payment request internally without sending it to your customer, check "Don't create a payment link"
-> 
-{.is-info}
+::alert{type=info}
+If you only want to record the payment request internally without sending it to your customer, check "Don't create a payment link"
+::
 
 ## Features
 ### Payment gateways
@@ -34,12 +34,13 @@ If your reference doctype (Sales invoice/sales order) is linked to a subscriptio
 1. Select the payment methods automatically when you click on save
 2. If you add or remove a payment gateway, it will check if is consistent with the payment gateways registered in the subscription plans linked to your reference document
 
-> If you use Sepa direct debit with GoCardless, once your customer is linked with a valid mandate, your are able to process the payment directly from the payment request without having to send a new link to your customer.
-> 
-> Click on 'Actions > Process payment immediately' to process the payment.
-> 
-> If you still decide to send a link to your customer, the GoCardless gateway link will not appear on the screen if the customer is linked to a valid mandate. To create a new GoCardless customer, cancel any existing mandate in dokos first.
-{.is-info}
+::alert{type=info}
+If you use Sepa direct debit with GoCardless, once your customer is linked with a valid mandate, your are able to process the payment directly from the payment request without having to send a new link to your customer.
+
+Click on 'Actions > Process payment immediately' to process the payment.
+
+If you still decide to send a link to your customer, the GoCardless gateway link will not appear on the screen if the customer is linked to a valid mandate. To create a new GoCardless customer, cancel any existing mandate in dokos first.
+::
 
 
 ### Payment gateways template

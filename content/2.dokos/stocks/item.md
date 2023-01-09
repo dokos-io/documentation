@@ -134,8 +134,9 @@ Un ensemble d'articles peut être fabriqué par lots. Ceci est utile pour dépla
 
 - **A un numéro de série** : Ceci est similaire à la série de numéros de lot, il sera créé lorsque vous effectuez des transactions / fabrication. Si vous définissez Série de numéros de série sur AA, lors de la première transaction, un numéro de série tel que AA00001 sera créé.
 
-> **Conseil** : Lors de la saisie d'un code article dans une table Articles, si la table nécessite des détails d'inventaire, vous pouvez saisir immédiatement les numéros de série ou de lot dans une boîte de dialogue contextuelle, selon que l'article saisi est groupé ou sérialisé.
-{.is-warning}
+::alert{type=warning}
+**Conseil** : Lors de la saisie d'un code article dans une table Articles, si la table nécessite des détails d'inventaire, vous pouvez saisir immédiatement les numéros de série ou de lot dans une boîte de dialogue contextuelle, selon que l'article saisi est groupé ou sérialisé.
+::
 
 ### 3.7 Variante
 

@@ -37,8 +37,9 @@ Avant de créer et d'utiliser une revue qualité, il est conseillé de créer d'
 
 ![détails_notes.png](/quality/quality-review/détails_notes.png)
 
-> **Remarque** : Si la Procédure Qualité est liée à l'Objectif Qualité, la Procédure Qualité sera récupérée dans la Revue Qualité.
-{.is-warning}
+::alert{type=warning}
+**Remarque** : Si la Procédure Qualité est liée à l'Objectif Qualité, la Procédure Qualité sera récupérée dans la Revue Qualité.
+::
 
 Vous pouvez également ajouter des notes supplémentaires dans la section **Notes**.
 

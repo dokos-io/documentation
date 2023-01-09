@@ -47,8 +47,9 @@ Après avoir renseigné votre identifiant et mot de passe, le site se connectera
 
 Les transactions bancaires vont être importés sur votre compte. 
 
-> Si vous avez de nombreuses transactions qui doivent être importés, il faudra patienter quelques minutes. Pensez à rechargez Dokos en cliquant sur votre profil et sur Recharger.
-{.is-warning}
+::alert{type=warning}
+Si vous avez de nombreuses transactions qui doivent être importés, il faudra patienter quelques minutes. Pensez à rechargez Dokos en cliquant sur votre profil et sur Recharger.
+::
 
 ## 2. Retrouvez toutes vos transactions bancaires
 
@@ -66,8 +67,9 @@ Vous pouvez accéder à toutes ces catégories, en allant sur **Catégorie de tr
 
 Vous pouvez ajouter, modifier et supprimer des catégories.
 
-> Si vous ajoutez manuellement des nouvelles catégories. Elles ne seront pas affectées automatiquement.
-{.is-warning}
+::alert{type=warning}
+Si vous ajoutez manuellement des nouvelles catégories. Elles ne seront pas affectées automatiquement.
+::
 
 
 

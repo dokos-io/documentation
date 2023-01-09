@@ -42,5 +42,6 @@ Dans les détails de l'emplacement vous pouvez déterminer la latitude et la lon
 
 ![emplacement.png](/asset/location/emplacement.png)
 
-> **Remarque** : Lorsqu'un actif est déplacé d'un emplacement à un autre, vous devez créer un enregistrement de mouvement d'actif.
-{.is-warning}
+::alert{type=warning}
+**Remarque** : Lorsqu'un actif est déplacé d'un emplacement à un autre, vous devez créer un enregistrement de mouvement d'actif.
+::

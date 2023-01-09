@@ -34,7 +34,8 @@ Pour accéder à **la liste Réunion de qualité**, allez sur :
 
 ![détails_réunion.png](/quality/quality-meeting/détails_réunion.png)
 
-> **Remarque** : Le statut de la réunion peut être défini sur Fermé une fois l'ordre du jour terminé.
-{.is-warning}
+::alert{type=warning}
+**Remarque** : Le statut de la réunion peut être défini sur Fermé une fois l'ordre du jour terminé.
+::
 
 

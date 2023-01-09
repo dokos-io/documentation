@@ -34,5 +34,6 @@ Notez que si la période comptable se termine et si l'une des transactions séle
 4. **Enregistrer**.
 Si vous essayez de soumettre une transaction fermée après la fin de sa période comptable, vous verrez une erreur de validation vous empêchant de le faire.
 
-> **Remarque** : aucun rôle ne peut soumettre les transactions définies dans la période comptable, même le rôle défini dans « Rôle autorisé à définir des comptes gelés et à modifier les entrées gelées » dans les paramètres du compte .
-{.is-warning}
+::alert{type=warning}
+**Remarque** : aucun rôle ne peut soumettre les transactions définies dans la période comptable, même le rôle défini dans « Rôle autorisé à définir des comptes gelés et à modifier les entrées gelées » dans les paramètres du compte .
+::

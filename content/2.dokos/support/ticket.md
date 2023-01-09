@@ -48,8 +48,9 @@ Vous pouvez également créer un ticket manuellement, pour ce faire :
 
 Si l'expéditeur répond au fil de discussion, le statut redevient « Ouvrir ». L'utilisateur peut "fermer" le ticket manuellement en cliquant sur le bouton Fermer en haut à droite.
 
-> **Remarque** : Si le SLA a été configuré, le statut d'exécution du SLA sera mis à jour à la fois pour le statut Fermé et Résolu .
-{.is-warning}
+::alert{type=warning}
+**Remarque** : Si le SLA a été configuré, le statut d'exécution du SLA sera mis à jour à la fois pour le statut Fermé et Résolu .
+::
 
 - **Client** : Si l'email a été envoyé depuis un Client stocké dans votre compte DOKOS, alors un lien Client apparaîtra dans ce champ.
 - **Priorité** : La priorité peut être définie selon les exigences. Par défaut, il existe trois priorités : faible, moyenne et élevée. Vous pouvez les supprimer ou en ajouter d'autres si nécessaire.

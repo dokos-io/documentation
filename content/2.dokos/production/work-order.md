@@ -42,8 +42,9 @@ Avant de créer et d'utiliser un bon de travail, il est conseillé de créer d'a
 6. **Commande client** : si vous créez une commande client à partir d'une commande client, elle sera récupérée ici. Vous pouvez également lier une commande client existante contenant l'article à fabriquer à cet ordre de travail.
 7. **Projet** : liez le bon de travail à un projet pour suivre la progression dans des cas tels que l'ingénieur à la commande.
 
-> **Remarque** : Vous pouvez enregistrer un ordre de travail sans sélectionner les entrepôts, mais les entrepôts sont obligatoires pour soumettre un ordre de travail.
-{.is-warning}
+::alert{type=warning}
+**Remarque** : Vous pouvez enregistrer un ordre de travail sans sélectionner les entrepôts, mais les entrepôts sont obligatoires pour soumettre un ordre de travail.
+::
 
 Un ordre de travail peut également être créé directement à partir d'une commande client.
 
@@ -160,8 +161,9 @@ Cliquez sur **Terminer**.
 
 Mentionnez la quantité de matériaux à transférer.
 
-> **Remarque** : Vous pouvez également terminer partiellement un ordre de travail en mettant à jour le stock de produits finis en créant une entrée de stock.
-{.is-warning}
+::alert{type=warning}
+**Remarque** : Vous pouvez également terminer partiellement un ordre de travail en mettant à jour le stock de produits finis en créant une entrée de stock.
+::
 
 ### 3.10 Retour des matériaux non consommés
 

@@ -50,12 +50,13 @@ This mandate should have the status `Active` to be considered as valid and you s
 10. If your XML file is correct, submit your document to validate your entry
 
 
-> The direct debit scheme follows sequences:
-> - One off: A unique debit
-> - First: The first debit of a series
-> - Recurrent: Debits consecutive to the first one of a series
-> - Final: Last debit of a series
-{.is-info}
+::alert{type=info}
+The direct debit scheme follows sequences:
+- One off: A unique debit
+- First: The first debit of a series
+- Recurrent: Debits consecutive to the first one of a series
+- Final: Last debit of a series
+::
 
 
 ## Features

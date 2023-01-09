@@ -34,8 +34,9 @@ By checking this field, you trigger two actions:
 1. __Dokos__ fetches the down payment item automatically, if you have only one, and calculates the down payment amount based on the sales order amount.  
 2. The receivable account is replaced by the default down payment account.  
 
-> If you uncheck the "Down payment invoice" field, the receivable account is replaced by the customer's account.
-{.is-info}
+::alert{type=info}
+If you uncheck the "Down payment invoice" field, the receivable account is replaced by the customer's account.
+::
 
 
 When you validate the invoice, no accounting entries are generated. Only the payment serves to register the down payment in accounting.  

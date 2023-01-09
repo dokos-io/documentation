@@ -42,8 +42,9 @@ Certains articles peuvent êtres associés à des réservations de créneaux hor
 
 Pour activer les réservations d'articles pour un article, il suffit de cocher la case **Autoriser les réservations d'article** (Voir section ci-dessus).
 
-> Les articles associés à des réservations de créneaux horaires seront généralement des services. No cochez donc pas la case **Maintenir le stock**.
-{.is-warning}
+::alert{type=warning}
+Les articles associés à des réservations de créneaux horaires seront généralement des services. No cochez donc pas la case **Maintenir le stock**.
+::
 
 ## Activer les réservations sur le site web
 
@@ -62,6 +63,7 @@ Une fois activée, vos utilisateurs de site web auront le choix entre acheter de
 
 Si vous souhaitez autoriser la réservation avec différentes unités de mesure (jour, heure,...) ajoutez les dans le tableau des unités de mesure.
 
-> Les facteurs de conversion utilisés par le système de réservation sont ceux définis dans les [Facteurs de conversion](/fr/venue/uom-conversion-factor).
-> Les facteurs de conversion définis dans la fiche article servent uniquement à la conversion des [prix de l'article](/fr/selling/item-price) pour la facturation.
-{.is-warning}
+::alert{type=warning}
+Les facteurs de conversion utilisés par le système de réservation sont ceux définis dans les [Facteurs de conversion](/fr/venue/uom-conversion-factor).
+Les facteurs de conversion définis dans la fiche article servent uniquement à la conversion des [prix de l'article](/fr/selling/item-price) pour la facturation.
+::

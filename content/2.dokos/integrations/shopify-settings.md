@@ -77,12 +77,13 @@ Vous pouvez mettre à jour votre inventaire avec Shopify pour les articles synch
 5. Enregistrez les paramètres.
 
 
-> **Remarque** : ce connecteur suppose qu'ERPNext est la principale source d'informations sur les niveaux de stock, toute modification apportée aux niveaux de stock de Shopify sera écrasée par ERPNext si les niveaux de stock de DOKOS changent.
-{.is-warning}
+::alert{type=warning}
+**Remarque** : ce connecteur suppose qu'ERPNext est la principale source d'informations sur les niveaux de stock, toute modification apportée aux niveaux de stock de Shopify sera écrasée par ERPNext si les niveaux de stock de DOKOS changent.
+::
 
-
-> **Remarque** : Shopify ne prend pas en charge la quantité fractionnaire. Si une quantité fractionnaire est trouvée dans DOKOS, le niveau de stock sur Shopify sera défini en l'arrondissant au nombre entier le plus proche.
-{.is-warning}
+::alert{type=warning}
+**Remarque** : Shopify ne prend pas en charge la quantité fractionnaire. Si une quantité fractionnaire est trouvée dans DOKOS, le niveau de stock sur Shopify sera défini en l'arrondissant au nombre entier le plus proche.
+::
 
 
 ## 5. Synchronisation de l'article 

@@ -63,5 +63,6 @@ Une base de lots doit être créée avant la création du reçu d'achat. Par con
 
 Sur chaque transaction de stock (reçu d'achat, bon de livraison, facture) avec un article de lot, vous devez indiquer le numéro de lot de l'article.
 
-> **Remarque** : Dans les transactions de stock, les ID de lot seront filtrés en fonction du code article, de l'entrepôt, de la date d'expiration du lot (par rapport à la date comptable d'une transaction) et de la quantité réelle dans l'entrepôt. Lors de la recherche d'un ID de lot sans valeur dans le champ Entrepôt, le filtre Quantité réelle ne sera pas appliqué.
-{.is-warning}
+::alert{type=warning}
+**Remarque** : Dans les transactions de stock, les ID de lot seront filtrés en fonction du code article, de l'entrepôt, de la date d'expiration du lot (par rapport à la date comptable d'une transaction) et de la quantité réelle dans l'entrepôt. Lors de la recherche d'un ID de lot sans valeur dans le champ Entrepôt, le filtre Quantité réelle ne sera pas appliqué.
+::

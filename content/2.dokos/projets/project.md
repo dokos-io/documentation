@@ -50,8 +50,9 @@ Pour accéder à **la liste de Projet**, allez sur :
 6. **Est actif** : Un onglet Oui/Non, qui vous permet de modifier le statut actif du projet à n'importe quelle étape ultérieure.
 7. **Méthode d'achèvement** : Vous pouvez suivre le % d'achèvement de votre projet en fonction de l'une des trois méthodes, à savoir. Manuel, achèvement de la tâche, progression de la tâche et poids de la tâche .
 
-> **Remarque** : Si le poids total des tâches n'est pas de 100, le résultat calculé sera divisé par le poids total. Par exemple, si le total des pondérations des tâches est de 70, le pourcentage d'achèvement = (70/0,8) % = 87,5 %.
-{.is-warning}
+::alert{type=warning}
+**Remarque** : Si le poids total des tâches n'est pas de 100, le résultat calculé sera divisé par le poids total. Par exemple, si le total des pondérations des tâches est de 70, le pourcentage d'achèvement = (70/0,8) % = 87,5 %.
+::
 
 ## 2. Caractéristiques
 
