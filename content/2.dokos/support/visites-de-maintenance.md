@@ -1,11 +1,5 @@
 ---
 title: Visite d'entretien
-description: 
-published: true
-date: 2021-07-24T07:15:38.445Z
-tags: 
-editor: markdown
-dateCreated: 2021-07-22T12:16:54.179Z
 ---
 
 # Visite d'entretien

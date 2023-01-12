@@ -22,19 +22,33 @@ export default {
 </script>
 
 <style>
-.mermaid .default.node rect {
-  stroke: #6195ff!important;
-  fill: #fff!important
+.mermaid rect {
+  stroke: #6195ff !important;
+  fill: #fff !important;
 }
-.mermaid .edgePath .path {
-  stroke: #6195ff!important;
-  fill: #6195ff!important
-}
-.mermaid .current-doc.node rect {
-  stroke: #6195ff!important;
-  fill: #6195ff!important
-}
+
 .mermaid .current-doc.node .label {
-  color: #fff!important
+  color: #fff !important;
+}
+
+.mermaid line {
+  stroke: #6195ff !important;
+}
+
+[data-theme="dark"] .mermaid .flowchart-link {
+  stroke: #fff !important;
+}
+
+[data-theme="dark"] .mermaid .messageText {
+  fill: #fff !important;
+}
+
+[data-theme="dark"] .mermaid marker {
+  fill: #fff !important;
+  color: #fff !important;
+}
+
+[data-theme="dark"] .mermaid line {
+  stroke: #fff !important;
 }
 </style>

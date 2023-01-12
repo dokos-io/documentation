@@ -1,12 +1,11 @@
 ---
 title: Synchronisation bancaire
-description: 
-published: true
-date: 2022-10-28T13:57:23.816Z
-tags: 
-editor: markdown
-dateCreated: 2022-04-28T13:38:48.113Z
 ---
+
+::alert{type=warning}
+Cette intégration est uniquement disponible sur Dokos Cloud.  
+Pour les utilisateurs auto-hébergés,vous pouvez souscrire à un abonnement Plaid ou utiliser des imports de fichiers.
+::
 
 # Synchronisation Bancaire
 
@@ -70,7 +69,3 @@ Vous pouvez ajouter, modifier et supprimer des catégories.
 ::alert{type=warning}
 Si vous ajoutez manuellement des nouvelles catégories. Elles ne seront pas affectées automatiquement.
 ::
-
-
-
-

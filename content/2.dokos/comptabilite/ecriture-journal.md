@@ -1,11 +1,5 @@
 ---
 title: Écriture de journal
-description: 
-published: true
-date: 2022-10-28T13:52:51.511Z
-tags: 
-editor: markdown
-dateCreated: 2021-08-27T12:08:34.846Z
 ---
 
 # Écriture de journal
@@ -18,33 +12,7 @@ Tous les types d'écritures comptables autres que les transactions de vente et d
 
 Les écritures de journal peuvent être utilisées pour saisir des dépenses, des écritures d'ouverture, des écritures de contrepartie, des paiements bancaires, des écritures d'accise, etc. Par exemple, la réservation de dépenses courantes, les dépenses directes comme l'essence/le transport, les dépenses diverses, les écritures d'ajustement et l'ajustement du montant de la facture.
 
-::alert{type=warning}
-**Remarque** : À partir de la version 13, nous avons introduit le grand livre immuable qui modifie le fonctionnement de l'annulation des écritures comptables dans DOKOS.
-::
-
 ---
-
-Pour accéder à **la liste des entrées de journal**, allez sur :
-
-> Accueil > Comptabilité > Grand livre > **Écriture au journal**
-
-## 1. Comment créer une entrée de journal
-
-1. Accédez à la liste des entrées de journal, cliquez sur Nouveau.
-2. Le type d'entrée par défaut sera « Entrée de journal ». Il s'agit d'un type d'entrée à usage général. Visitez la section 3 pour en savoir plus sur les types d'inscription.
-3. Vous pouvez modifier la date de publication.
-4. Développez le tableau, sélectionnez un compte dont le montant est débité.
-5. Les détails ci-dessus peuvent également être ajoutés à partir d'un modèle d'entrée de journal avec le champ « À partir du modèle ».
-6. Sélectionnez le type de partie et la partie s'il s'agit d'une entrée de débiteur.
-7. Ajoutez une ligne où le montant sera crédité.
-8. Notez qu'en fin de compte, les montants totaux de débit et de crédit devraient être identiques.
-9. Sauvegarder et soumettre.
-
-**Livre des finances** : Vous pouvez publier cette entrée dans un livre des finances spécifique . En laissant ce champ vide, cette écriture de journal apparaîtra dans tous les livres financiers.
-
-### 1.1 Saisie rapide
-
-Lors de la création d'une entrée de journal, un bouton Entrée rapide est visible en haut à droite. Cela rend la création de l'entrée de journal un peu plus facile. Saisissez le montant, sélectionnez les comptes, ajoutez une remarque. Cela remplira le tableau « Écritures comptables » avec les détails sélectionnés.
 
 ## 2. Caractéristiques
 
