@@ -26,4 +26,4 @@ Pour accéder à **la liste sous-catégorie d'exonération de taxe**, allez sur 
 3. Cochez la case **est actif** pour que la catégorie soit active.
 4. **Enregistrer**
 
-![sous_catégorie_exemption.png](/payroll/employee-tax-exemption-declaration/sous_catégorie_exemption.png)
+![sous_catégorie_exemption.png](/content/payroll/employee-tax-exemption-declaration/sous_catégorie_exemption.png)

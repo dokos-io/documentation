@@ -22,9 +22,9 @@ Cet outil vous permet d'ajouter rapidement des enregistrements de présence pour
 
 Avant de créer une présence des employés, il est conseillé de créer d'abord les éléments suivants :
 
-- **[Employé](/fr/human-resources/employee)**
-- **[Département](/fr/human-resources/department)**
-- **[Branche](/fr/human-resources/branch)**
+- **[Employé](/rh/employee)**
+- **[Département](/rh/department)**
+- **[Branche](/rh/branch)**
 
 ## 2. Comment marquer la présence à l'aide de l'outil de présence des employés
 

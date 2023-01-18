@@ -24,7 +24,7 @@ Pour accéder à la **liste des opérations**, accédez à:
 
 Avant de créer et d'utiliser une opération, il est conseillé de créer d'abord les éléments suivants:
 
-- **[Station de travail](/fr/manufacturing/workstation)**
+- **[Station de travail](/manufacturing/workstation)**
 
 ## 2. Comment créer une opération
 
@@ -36,7 +36,7 @@ Avant de créer et d'utiliser une opération, il est conseillé de créer d'abor
 
 Une fois enregistrés, les éléments suivants peuvent être créés pour une opération :
 
-- **[Nomenclature](/fr/manufacturing/bom)**
-- **[Ordre de travail](/fr/manufacturing/work-order)**
-- **[Carte de travail](/fr/manufacturing/job-card)**
-- **[Feuille de temps](/fr/projects/timesheet)**
+- **[Nomenclature](/manufacturing/bom)**
+- **[Ordre de travail](/manufacturing/work-order)**
+- **[Carte de travail](/manufacturing/job-card)**
+- **[Feuille de temps](/projets/timesheet)**

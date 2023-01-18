@@ -29,6 +29,6 @@ Pour accéder au **Bilan**, allez sur :
 
 > Comptabilité > États financiers > **Bilan**
 
-![bilan.png](/accounting/balance-sheet/bilan.png)
+![bilan.png](/content/comptabilite/balance-sheet/bilan.png)
 
-![bilan-suite.png](/accounting/balance-sheet/bilan-suite.png)
+![bilan-suite.png](/content/comptabilite/balance-sheet/bilan-suite.png)

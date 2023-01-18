@@ -18,7 +18,7 @@ Pour accéder à **la liste allocation des congés**, accédez à :
 
 > Accueil > Ressources humaines > Congés > **Allocation de congés**
 
-![liste_allocation_de_congés.png](/humains-ressources/leave-allocation/liste_allocation_de_congés.png)
+![liste_allocation_de_congés.png](/content/rh/leave-allocation/liste_allocation_de_congés.png)
 
 ## 1. Prérequis avant utilisation
 
@@ -36,7 +36,7 @@ Avant de créer une allocation de congé, il est conseillé de créer les docume
 3. Entrez le nombre de nouveaux congés alloués pour ce type de congé particulier.
 4. Enregistrer et envoyer.
 
-![créer_allocation_de_congés.png](/humains-ressources/leave-allocation/créer_allocation_de_congés.png)
+![créer_allocation_de_congés.png](/content/rh/leave-allocation/créer_allocation_de_congés.png)
 
 ::alert{type=warning}
 **Remarque** : Activez l'option « Ajouter les congés inutilisés des allocations précédentes » au cas où vous souhaiteriez reporter les congés inutilisés de la période d'allocation précédente pour ce type de congé particulier.

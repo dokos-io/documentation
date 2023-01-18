@@ -24,7 +24,7 @@ Pour accéder à **la liste retour de qualité**, allez sur :
 
 > Accueil > Qualité > Commentaires > **Retour de la qualité**
 
-![liste_retour_de_qualité.png](/quality/quality-feedback/liste_retour_de_qualité.png)
+![liste_retour_de_qualité.png](/content/qualite/quality-feedback/liste_retour_de_qualité.png)
 
 ## 1. Comment créer un retour de qualité
 
@@ -39,7 +39,7 @@ Pour accéder à **la liste retour de qualité**, allez sur :
 	- **Rétroaction** : rétroaction basée sur l'évaluation donnée.
 7. **Enregistrer**.
 
-![détails_retour_de_qualité.png](/quality/quality-feedback/détails_retour_de_qualité.png)
+![détails_retour_de_qualité.png](/content/qualite/quality-feedback/détails_retour_de_qualité.png)
 
 # Modèle de retours de qualité
 
@@ -51,7 +51,7 @@ Pour accéder à **la liste modèle de retours sur la qualité**, allez sur :
 
 > Accueil > Qualité > **Modèle de retours sur la qualité**
 
-![liste_modèle_retour_de_qualité.png](/quality/quality-feedback-template/liste_modèle_retour_de_qualité.png)
+![liste_modèle_retour_de_qualité.png](/content/qualite/quality-feedback-template/liste_modèle_retour_de_qualité.png)
 
 ## 1. Comment créer un modèle de commentaires sur la qualité
 
@@ -60,4 +60,4 @@ Pour accéder à **la liste modèle de retours sur la qualité**, allez sur :
 3. Dans le **tableau Paramètres**, répertoriez les différents processus/paramètres sur lesquels vous souhaitez que l'utilisateur évalue et donne son avis.
 4. **Enregistrer**.
 
-![détails_modèle_de_retour.png](/quality/quality-feedback-template/détails_modèle_de_retour.png)
+![détails_modèle_de_retour.png](/content/qualite/quality-feedback-template/détails_modèle_de_retour.png)

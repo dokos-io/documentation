@@ -22,8 +22,8 @@ Ressources humaines > Notes de frais > **Avance d'employé**
 
 ## 1. Prérequis avant utilisation
 
-- **[Employé](/fr/human-resources/employee)**
-- **[Département](/fr/human-resources/department)**
+- **[Employé](/rh/employee)**
+- **[Département](/rh/department)**
 - **Plan comptable**
 
 ## 2. Comment créer une avance d'employé 
@@ -34,7 +34,7 @@ Ressources humaines > Notes de frais > **Avance d'employé**
 4. Sélectionnez le compte d'avance et le mode de paiement.
 5. Enregistrer.
 
-![liste_avance_aux_employés.png](/humains-ressources/employee-advance/liste_avance_aux_employés.png)
+![liste_avance_aux_employés.png](/content/rh/employee-advance/liste_avance_aux_employés.png)
 
 ::alert{type=warning}
 **Remarque** : L'employé peut uniquement sauvegarder l'avance de l'employé, mais ne peut pas la soumettre. Il ne peut être soumis que par l'approbateur des dépenses.
@@ -58,7 +58,7 @@ Après la validation de l'enregistrement d'avance de l'employé, l'utilisateur d
 
 L'entrée de paiement ressemblera à ce qui suit :
 
-![écriture_de_paiement.png](/humains-ressources/employee-advance/écriture_de_paiement.png)
+![écriture_de_paiement.png](/content/rh/employee-advance/écriture_de_paiement.png)
 
 **Paiement anticipé des employés par écriture au journal**
 

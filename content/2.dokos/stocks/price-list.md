@@ -21,7 +21,7 @@ Pour accéder à une **liste de prix**, allez sur :
 
 > Accueil > Vente / Achat / Stock > Articles et prix > **Liste de prix**
 
-![liste_de_prix.png](/stocks/price-list/liste_de_prix.png)
+![liste_de_prix.png](/content/stocks/price-list/liste_de_prix.png)
 
 **Exemple:**
 
@@ -45,7 +45,7 @@ Pour accéder au **Liste de prix**, allez sur :
 
 ## 1. Comment utiliser une liste de prix
 
-- Les **listes de prix** seront utilisées lors de la création d'un [prix d'article](/fr/stocks/item-price) pour suivre le prix de vente ou d'achat d'un article.
+- Les **listes de prix** seront utilisées lors de la création d'un [prix d'article](/stocks/item-price) pour suivre le prix de vente ou d'achat d'un article.
 
 - Des **pays spécifiques** peuvent être attribués dans la liste de prix.
 
@@ -59,7 +59,7 @@ Pour accéder au **Liste de prix**, allez sur :
 
 **Remarque** : Si vous disposez de plusieurs listes de prix, vous pouvez sélectionner une liste de prix ou l'attribuer à un client (afin qu'elle soit sélectionnée automatiquement). Les prix de vos articles seront automatiquement mis à jour à partir de la liste de prix.
 
-![créer_liste_de_prix.png](/stocks/price-list/créer_liste_de_prix.png)
+![créer_liste_de_prix.png](/content/stocks/price-list/créer_liste_de_prix.png)
 
 
 ## 2. Créer une liste de prix de vente
@@ -71,7 +71,7 @@ Par exemple, lorsque vous établissez un devis, vous voulez que le bon prix soit
 
 Une fois votre liste de prix créée, vous pouvez donc l'associer avec vos clients ou vos groupes de client.  
 
-![vente_liste_de_prix.png](/stocks/price-list/vente_liste_de_prix.png)
+![vente_liste_de_prix.png](/content/stocks/price-list/vente_liste_de_prix.png)
 
 ### 2.1 Règles de détermination des prix de vente
 
@@ -94,6 +94,6 @@ Le mode de fonctionnement est similaire aux liste de prix de vente.
 2. S'il n'en trouve pas il cherche une liste de prix dans la fiche du groupe de fournisseurs associé à ce fournisseur
 3. S'il n'a toujours pas trouvé de liste de prix, il prend celle définie dans les paramètres des achats
 
-![achat_liste_de_prix.png](/stocks/price-list/achat_liste_de_prix.png)
+![achat_liste_de_prix.png](/content/stocks/price-list/achat_liste_de_prix.png)
 
 

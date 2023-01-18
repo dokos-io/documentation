@@ -16,7 +16,7 @@ Pour accéder à la **liste encaissement des congés**, allez sur :
 
 > Accueil > Ressources humaines > Congés > **Encaissement des congés**
 
-![liste_congés_accumulés_.png](/humains-ressources/leave-encashment/liste_congés_accumulés_.png)
+![liste_congés_accumulés_.png](/content/rh/leave-encashment/liste_congés_accumulés_.png)
 
 ## 1. Prérequis avant utilisation
 
@@ -38,7 +38,7 @@ Avant de créer l'encaissement des congés, il est conseillé de créer les docu
 5. Sélectionnez Date d'encaissement. En fonction de la date sélectionnée, le montant sera encaissé dans cette écriture de paie particulière.
 6. Enregistrer et envoyer.
 
-![détails_congés_accumulés.png](/humains-ressources/leave-encashment/détails_congés_accumulés.png)
+![détails_congés_accumulés.png](/content/rh/leave-encashment/détails_congés_accumulés.png)
 
 ::alert{type=warning}
 **Remarque** : Lorsque vous sélectionnez l'employé et le type de congé, le solde des congés et les jours encaissables (qui est le solde total des congés moins le seuil de jours défini dans le type de congé) s'afficheront avec le montant de l'encaissement basé sur l'encaissement des congés par jour tel que configuré dans Structure salariale attribuée.
@@ -46,5 +46,5 @@ Avant de créer l'encaissement des congés, il est conseillé de créer les docu
 
 Lors de la soumission d'un encaissement de congé pour un employé, DOKOS crée automatiquement un salaire supplémentaire qui sera ajouté au bulletin de salaire de l'employé lors du traitement de la paie.
 
-![paie_congés.png](/humains-ressources/leave-encashment/paie_congés.png)
+![paie_congés.png](/content/rh/leave-encashment/paie_congés.png)
 

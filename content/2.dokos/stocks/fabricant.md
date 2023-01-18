@@ -13,7 +13,7 @@ Pour accéder à la liste des **fabricants**, allez sur :
 
 > Accueil > Stock > **Fabricant**
 
-![liste_fabricant.png](/stocks/manufacturer/liste_fabricant.png)
+![liste_fabricant.png](/content/stocks/manufacturer/liste_fabricant.png)
 
 ## 1. Comment créer un fabricant
 
@@ -21,7 +21,7 @@ Pour accéder à la liste des **fabricants**, allez sur :
 2. Entrez un **nom de fabricant** et entrez une **description** si nécessaire.
 3. **Enregistrer**.
 
-![créer_fabricant.png](/stocks/manufacturer/créer_fabricant.png)
+![créer_fabricant.png](/content/stocks/manufacturer/créer_fabricant.png)
 
 Après avoir créé un fabricant, il peut être défini dans le formulaire Article avec un numéro de pièce du fabricant pour identification.
 

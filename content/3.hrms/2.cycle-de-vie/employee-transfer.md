@@ -20,12 +20,12 @@ Pour accéder à la **liste transfert d'employés**, allez sur :
 
 Ressources humaines > Cycle de vie des employés > **Transfert d'employés**
 
-![liste_transfert_des_emplyés.png](/humains-ressources/employee-transfer/liste_transfert_des_emplyés.png)
+![liste_transfert_des_emplyés.png](/content/rh/employee-transfer/liste_transfert_des_emplyés.png)
 
 ## 1. Prérequis avant utilisation
 
-- **[Employé](/fr/human-resources/employee)**
-- **[Département](/fr/human-resources/department)**
+- **[Employé](/rh/employee)**
+- **[Département](/rh/department)**
 
 ## 2. Comment créer un transfert d'employé
 
@@ -33,7 +33,7 @@ Ressources humaines > Cycle de vie des employés > **Transfert d'employés**
 2. Sélectionnez la date de transfert.
 3. Sélectionnez la nouvelle entreprise au cas où l'employé serait transféré dans une autre entreprise (facultatif).
 
-![nouveau_liste_transfert.png](/humains-ressources/employee-transfer/nouveau_liste_transfert.png)
+![nouveau_liste_transfert.png](/content/rh/employee-transfer/nouveau_liste_transfert.png)
 
 4. Dans le tableau Détails du transfert d'employés, sélectionnez la propriété et définissez la valeur actuelle et nouvelle.
 5. De plus, la case à cocher **Créer un nouvel employé** peut être cochée pour créer un nouvel ID d'employé pour l'employé transféré.
@@ -42,7 +42,7 @@ Ressources humaines > Cycle de vie des employés > **Transfert d'employés**
 **Remarque** : Si l'option Créer un nouvel ID d'employé est cochée, un nouvel employé sera créé avec des modifications de propriété dans le tableau Détails du transfert et l'ancien employé sera marqué comme étant relevé. Les allocations de congé pour le nouvel employé doivent être créées manuellement à partir de la période de congé.
 ::
 
-![détails_transfert.png](/humains-ressources/employee-transfer/détails_transfert.png)
+![détails_transfert.png](/content/rh/employee-transfer/détails_transfert.png)
 
 ::alert{type=warning}
 **Remarque** : Le document de transfert peut être soumis à la date de transfert ou après. Une fois soumis, tous les changements ajoutés au tableau Détails du transfert seront appliqués à l'employé.

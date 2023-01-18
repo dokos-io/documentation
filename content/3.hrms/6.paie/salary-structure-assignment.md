@@ -20,15 +20,15 @@ Pour accéder à **la liste attribution de la structure salariale**, allez sur :
 
 > Accueil > Paie > **Attribution de la structure salariale**
 
-![liste_attribution.png](/payroll/salary-structure-assignment/liste_attribution.png)
+![liste_attribution.png](/content/payroll/salary-structure-assignment/liste_attribution.png)
 
 ## 1. Prérequis avant utilisation
 
 Avant de créer une affectation de structure salariale, il est conseillé de disposer des documents suivants :
 
-- **[Employé](/fr/human-resources/employee)**
-- **[Composante salariale](/fr/payroll/salary-component)**
-- **[Grilles des salaires](/fr/payroll/salary-structure)**
+- **[Employé](/rh/employee)**
+- **[Composante salariale](/payroll/salary-component)**
+- **[Grilles des salaires](/payroll/salary-structure)**
 
 ## 2. Comment créer une affectation de structure salariale :
 
@@ -37,7 +37,7 @@ Avant de créer une affectation de structure salariale, il est conseillé de dis
 3. Sélectionnez la **date de début** à partir de laquelle cette structure salariale particulière sera applicable.
 4. Entrez le **montant de base** et le **montant variable** selon les besoins. Le montant de base fait référence au salaire de base de l'employé, qui est fixe et versé, indépendamment de l'atteinte des objectifs par les employés. La rémunération variable, d'autre part, est la partie de la rémunération des ventes déterminée par la performance des employés. Lorsque les employés atteignent leurs objectifs (également appelés quotas), une rémunération variable est fournie sous forme de bonus, de rémunération incitative ou de commission.
 
-![détails_attribution_structure.png](/payroll/salary-structure-assignment/détails_attribution_structure.png)
+![détails_attribution_structure.png](/content/payroll/salary-structure-assignment/détails_attribution_structure.png)
 
 ### 2.1 Autres façons de créer une affectation de structure salariale
 

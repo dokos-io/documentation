@@ -30,7 +30,7 @@ Pour accéder à la **liste des stations de travail**, allez sur :
 
 > Accueil > Production > Liste de matériaux > **Station de travail**
 
-![station_de_travail.png](/manufacturing/workstation/station_de_travail.png)
+![station_de_travail.png](/content/manufacturing/workstation/station_de_travail.png)
 
 ## 1. Comment créer un poste de travail
 
@@ -43,7 +43,7 @@ Pour accéder à la **liste des stations de travail**, allez sur :
 	- Les salaires
 4. **Enregistrer**.
 
-![détails_station_de_travail.png](/manufacturing/workstation/détails_station_de_travail.png)
+![détails_station_de_travail.png](/content/manufacturing/workstation/détails_station_de_travail.png)
 
 Vous pouvez éventuellement saisir une description pour la station de travail.
 
@@ -63,7 +63,7 @@ Les différents coûts d'exploitation sont :
 - **Coût de la location**
 - **Salaires**
 
-![coût_exploitation_.png](/manufacturing/workstation/coût_exploitation_.png)
+![coût_exploitation_.png](/content/manufacturing/workstation/coût_exploitation_.png)
 
 ### 2.2 Heures de travail
 
@@ -71,7 +71,7 @@ Sous le tableau Heures de travail, vous pouvez ajouter des heures de début et d
 
 Par exemple, un poste de travail peut être actif de 9 h à 13 h, puis de 14 h à 17 h. Vous pouvez également spécifier les heures de travail en fonction des équipes. Lors de la planification d'un ordre de travail , le système vérifiera la disponibilité du poste de travail en fonction des heures de travail spécifiées.
 
-![heures_de_travail.png](/manufacturing/workstation/heures_de_travail.png)
+![heures_de_travail.png](/content/manufacturing/workstation/heures_de_travail.png)
 
 ### 2.3 Liste des jours fériés
 

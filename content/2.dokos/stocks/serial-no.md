@@ -27,7 +27,7 @@ Pour accéder à la liste des numéros de série, allez sur :
 
 Avant de créer et d'utiliser un numéro de série, il est conseillé de créer d'abord les éléments suivants:
 
-- **[Articles](/fr/stocks/item)**
+- **[Articles](/stocks/item)**
 - Activez "A un numéro de série" dans la base d'articles
 
 ## 2. Comment créer un numéro de série 

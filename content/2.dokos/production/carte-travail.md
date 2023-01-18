@@ -24,15 +24,15 @@ Pour accéder à la **liste des cartes de travail**, allez sur :
 
 > Accueil > Production > Production > **Carte de travail**
 
-![liste_carte_de_travail.png](/manufacturing/job-card/liste_carte_de_travail.png)
+![liste_carte_de_travail.png](/content/manufacturing/job-card/liste_carte_de_travail.png)
 
 ## 1. Prérequis avant utilisation
 
 Avant de créer et d'utiliser une carte de travail, il est conseillé de créer d'abord les éléments suivants:
 
-- **[Nomenclature](/fr/manufacturing/bill-of-materials)**
-- **[Opération](/fr/manufacturing/operation)**
-- **[Sation de travail](/fr/manufacturing/workstation)**
+- **[Nomenclature](/manufacturing/bill-of-materials)**
+- **[Opération](/manufacturing/operation)**
+- **[Sation de travail](/manufacturing/workstation)**
 - **Demande de service**
 
 ## 2. Comment créer une carte de travail
@@ -50,7 +50,7 @@ Voici à quoi ressemble une carte de travail :
 5. Ajoutez plus de lignes dans le tableau Journaux horaires et enregistrez l'heure à l'aide des boutons Démarrer / Terminé.
 6. Cliquez sur **Enregistrer**.
 
-![détails_carte_de_travail.png](/manufacturing/job-card/détails_carte_de_travail.png)
+![détails_carte_de_travail.png](/content/manufacturing/job-card/détails_carte_de_travail.png)
 
 Dans un ordre de travail, les opérations et les postes de travail sont extraits de la nomenclature d'un article. Pour faciliter l'utilisation, vous devez vous assurer que la gamme est configurée dans la nomenclature.
 

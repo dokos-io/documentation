@@ -16,13 +16,13 @@ Pour accéder au **groupe d'employés**, accédez à :
 
 Accueil > Ressources humaines > Employé > **Groupe d'employés**
 
-![liste_groupe_employé.png](/humains-ressources/employee-group/liste_groupe_employé.png)
+![liste_groupe_employé.png](/content/rh/employee-group/liste_groupe_employé.png)
 
 ## 1. Prérequis avant utilisation
 
 Avant de créer un groupe d'employés, il est conseillé de créer les documents suivants :
 
-- **[Employé](/fr/human-resources/employee)**
+- **[Employé](/rh/employee)**
 
 ## 2. Comment créer un groupe d'employés
 
@@ -31,7 +31,7 @@ Avant de créer un groupe d'employés, il est conseillé de créer les documents
 3. Sélectionnez et ajoutez l'**ID d'employé au groupe**. Le nom de l'employé sera automatiquement récupéré.
 4. **Enregistrer**.
 
-![créer_groupe_employé.png](/humains-ressources/employee-group/créer_groupe_employé.png)
+![créer_groupe_employé.png](/content/rh/employee-group/créer_groupe_employé.png)
 
 ## 3. Caractéristiques
 

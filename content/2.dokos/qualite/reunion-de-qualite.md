@@ -20,7 +20,7 @@ Pour accéder à **la liste Réunion de qualité**, allez sur :
 
 > Accueil > Qualité > Réunion > **Réunion de Qualité**
 
-![liste_réunion_de_qualité.png](/quality/quality-meeting/liste_réunion_de_qualité.png)
+![liste_réunion_de_qualité.png](/content/qualite/quality-meeting/liste_réunion_de_qualité.png)
 
 ## 1. Comment créer une réunion de qualité
 
@@ -32,7 +32,7 @@ Pour accéder à **la liste Réunion de qualité**, allez sur :
  - **Minute** : documentation écrite ou enregistrée associée à l'examen.
 5. **Enregistrer**.
 
-![détails_réunion.png](/quality/quality-meeting/détails_réunion.png)
+![détails_réunion.png](/content/qualite/quality-meeting/détails_réunion.png)
 
 ::alert{type=warning}
 **Remarque** : Le statut de la réunion peut être défini sur Fermé une fois l'ordre du jour terminé.

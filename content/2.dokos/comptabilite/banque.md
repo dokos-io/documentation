@@ -16,7 +16,7 @@ Pour accéder à la banque, allez sur :
 
 > Accueil > Comptabilité > Relevé bancaire > **Banque**
 
-![banque.png](/accounting/banque.png)
+![banque.png](/content/comptabilite/banque.png)
 
 ## 1. Comment créer une banque ?
 

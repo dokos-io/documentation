@@ -20,14 +20,14 @@ Pour accéder à la liste des **Webhook**, aller sur :
 
 > Accueil > Intégrations > Paramètres > Webhook
 
-![liste_webhook.png](/integration/webhook/liste_webhook.png)
+![liste_webhook.png](/content/integrations/webhook/liste_webhook.png)
 
 ## 1. Comment configurer un Webhook ?
 
 1. Sélectionnez le **Type de document** pour lequel le Webhook doit être déclenché (par exemple Devis client).
 2. Sélectionnez l'événement Doc qui déclenchera le Webhook (par exemple on_update).
 
-![événement_doc.png](/integration/webhook/événement_doc.png)
+![événement_doc.png](/content/integrations/webhook/événement_doc.png)
 
 ### 1.1 Déclencheur du webhook
 
@@ -40,13 +40,13 @@ Pour accéder à la liste des **Webhook**, aller sur :
 4. Saisissez une URL de requête valide qui recevra les données du Webhook.
 5. Sélectionnez la méthode de demande. POSTest la méthode par défaut.
 
-![requête_webhook.png](/integration/webhook/requête_webhook.png)
+![requête_webhook.png](/content/integrations/webhook/requête_webhook.png)
 
 ### 1.3 Sécurité des webhooks 
 
 Pour éventuellement ajouter de la sécurité à vos demandes de webhook et vous assurer que le webhook est envoyé depuis Dokos, vous pouvez configurer un **Webhook Secret** avec la demande. Ne partagez pas le secret publiquement.
 
-![sécurité_webhook.png](/integration/webhook/sécurité_webhook.png)
+![sécurité_webhook.png](/content/integrations/webhook/sécurité_webhook.png)
 
 
 ### 1.4 En-Têtes Webhook
@@ -55,14 +55,14 @@ Pour éventuellement ajouter de la sécurité à vos demandes de webhook et vous
 
 Vous pouvez également désactiver un webhook en décochant la Enabledcase. Seuls les webhooks activés sont déclenchés.
 
-![en_tête_webhook.png](/integration/webhook/en_tête_webhook.png)
+![en_tête_webhook.png](/content/integrations/webhook/en_tête_webhook.png)
 
 ### 1.5 Données du Webhook
 
 Si la structure de votre demande est basée sur des formulaires, vous pouvez sélectionner des champs dans le document du tableau, qui utilise le nom du champ comme fichier key.
 Si la structure de votre demande est basée sur JSON, vous pouvez insérer des champs du document à l'aide de modèles jinja (assurez-vous d'envelopper vos champs avec des guillemets doubles).
 
-![données_webhook.png](/integration/webhook/données_webhook.png)
+![données_webhook.png](/content/integrations/webhook/données_webhook.png)
 
 ### 1.6 Journal des demandes de webhook
 

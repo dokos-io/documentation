@@ -20,14 +20,14 @@ Pour accéder à **la liste événement de formation**, allez sur :
 
 Accueil > Ressources humaines > Formation > **Événement de formation**
 
-![nouveau_événement.png](/humains-ressources/training-event/nouveau_événement.png)
+![nouveau_événement.png](/content/rh/training-event/nouveau_événement.png)
 
 ## 1. Prérequis avant utilisation
 
 Avant de créer un événement de formation, il est conseillé de créer les documents suivants :
 
-- **[Programme de formation](/fr/human-resources/training-program)**
-- **[Employé](/fr/human-resources/employee)**
+- **[Programme de formation](/rh/training-program)**
+- **[Employé](/rh/employee)**
 
 ## 2. Comment créer un événement de formation 
 
@@ -40,7 +40,7 @@ Avant de créer un événement de formation, il est conseillé de créer les doc
 7. De plus, vous pouvez également écrire une brève description de l'événement dans la zone Description.
 8. Enregistrer et envoyer.
 
-![liste_nouveau_événement_de_formation.png](/humains-ressources/training-event/liste_nouveau_événement_de_formation.png)
+![liste_nouveau_événement_de_formation.png](/content/rh/training-event/liste_nouveau_événement_de_formation.png)
 
 ## 3. Caractéristiques
 
@@ -48,7 +48,7 @@ Avant de créer un événement de formation, il est conseillé de créer les doc
 
 Si vous souahitez renseigner des informations supplémentaires sur l'événement de la formation, vous pouvez le faire depuis cette section.
 
-![introduction_événement.png](/humains-ressources/training-event/introduction_événement.png)
+![introduction_événement.png](/content/rh/training-event/introduction_événement.png)
 
 ### 3.2 Participants
 
@@ -59,7 +59,7 @@ Par défaut, le statut de l'employé sera **Ouvert**.
 Ajoutez les participants qui devront participer à cet événement.
 De plus, vous pouvez rendre l'événement obligatoire ou non dans le champ **Présence** pour l'employé qui sera inscrit comme participant.
 
-![participants_événements.png](/humains-ressources/training-event/participants_événements.png)
+![participants_événements.png](/content/rh/training-event/participants_événements.png)
 
 ### 3.3 Notification
 

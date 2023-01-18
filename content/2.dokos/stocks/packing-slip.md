@@ -37,7 +37,7 @@ En règle générale, vous devez créer un bon de livraison à partir d'un bon d
 4. Cliquez sur le bouton **Obtenir les articles** pour récupérer les articles et les quantités dans le tableau Articles.
 5. **Enregistrer**.
 
-![créer_bordereau.png](/stocks/packing-slip/créer_bordereau.png)
+![créer_bordereau.png](/content/stocks/packing-slip/créer_bordereau.png)
 
 La plupart de ces détails seront récupérés si vous créez le bon de livraison à partir du bon de livraison.
 

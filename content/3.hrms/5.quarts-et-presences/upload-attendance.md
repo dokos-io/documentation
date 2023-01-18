@@ -22,7 +22,7 @@ Accueil > Ressources humaines > Présence > **Outil de chargement de présences*
 
 Avant de télécharger un enregistrement de présence en masse, il est conseillé de créer d'abord ce qui suit :
 
-- **[Employé](/fr/human-resources/employee)**
+- **[Employé](/rh/employee)**
 
 ## 2. Comment télécharger la présence en masse
 
@@ -32,6 +32,6 @@ Avant de télécharger un enregistrement de présence en masse, il est conseill�
 4. Enregistrez le fichier.
 5. Téléchargez le fichier enregistré.
 
-![capture_d’écran_2021-06-09_à_16.11.34.png](/humains-ressources/upload-attendance/capture_d’écran_2021-06-09_à_16.11.34.png)
+![capture_d’écran_2021-06-09_à_16.11.34.png](/content/rh/upload-attendance/capture_d’écran_2021-06-09_à_16.11.34.png)
 
 Une fois la participation en masse téléchargée, les enregistrements de participation respectifs seront créés.

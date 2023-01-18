@@ -18,7 +18,7 @@ Pour accéder à la liste des **Branches**, allez sur :
 
 > Accueil > Ressources humaines > Employé > **Branche**
 
-![branche_.png](/humains-ressources/branch/branche_.png)
+![branche_.png](/content/rh/branch/branche_.png)
 
 ## 1. Prérequis avant utilisation
 
@@ -32,7 +32,7 @@ Avant de créer une Branche, il est obligatoire de créer les documents suivants
 2. Entrez le **nom** de la succursale.
 3. **Enregistrer**.
 
-![créer_branche.png](/humains-ressources/branch/créer_branche.png)
+![créer_branche.png](/content/rh/branch/créer_branche.png)
 
 Vous pouvez lier la succursale au maître des employés.
 

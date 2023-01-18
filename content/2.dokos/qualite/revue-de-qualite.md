@@ -20,7 +20,7 @@ Pour accéder à **la liste d'examen de la qualité**, allez sur :
 
 > Accueil > Qualité > Revue et actions > **Revue de la qualité**
 
-![liste_revue_de_la_qualité.png](/quality/quality-review/liste_revue_de_la_qualité.png)
+![liste_revue_de_la_qualité.png](/content/qualite/quality-review/liste_revue_de_la_qualité.png)
 
 ## 1. Prérequis avant utilisation
 
@@ -35,7 +35,7 @@ Avant de créer et d'utiliser une revue qualité, il est conseillé de créer d'
 3. Dans la section Révision du tableau Révisions, laissez une évaluation sur un objectif de qualité.
 4. **Enregistrer**.
 
-![détails_notes.png](/quality/quality-review/détails_notes.png)
+![détails_notes.png](/content/qualite/quality-review/détails_notes.png)
 
 ::alert{type=warning}
 **Remarque** : Si la Procédure Qualité est liée à l'Objectif Qualité, la Procédure Qualité sera récupérée dans la Revue Qualité.
@@ -43,7 +43,7 @@ Avant de créer et d'utiliser une revue qualité, il est conseillé de créer d'
 
 Vous pouvez également ajouter des notes supplémentaires dans la section **Notes**.
 
-![notes.png](/quality/quality-review/notes.png)
+![notes.png](/content/qualite/quality-review/notes.png)
 
 ## 3. Caractéristiques
 

@@ -25,7 +25,7 @@ Pour accéder à la **liste des entrepôts**, allez sur :
 
 > Accueil > Stock > Paramètres > **Entrepôt**
 
-![liste_entrepôt.png](/stocks/warehouse/liste_entrepôt.png)
+![liste_entrepôt.png](/content/stocks/warehouse/liste_entrepôt.png)
 
 ## 1. Comment créer un entrepôt
 
@@ -38,7 +38,7 @@ Pour accéder à la **liste des entrepôts**, allez sur :
 - Est un groupe : vous pouvez créer des sous-entrepôts sous ce groupe Entrepôt.
 4. **Enregistrer**.
 
-![détails_entrepôt.png](/stocks/warehouse/détails_entrepôt.png)
+![détails_entrepôt.png](/content/stocks/warehouse/détails_entrepôt.png)
 
 Les entrepôts sont enregistrés avec les abréviations de leur entreprise respective. Cela facilite l'identification de l'entrepôt à quelle entreprise en un coup d'œil.
 
@@ -56,7 +56,7 @@ Vous pouvez ajouter des adresses de facturation, d'expédition et d'autres types
 En créant une nouvelle adresse, vous serez dirigé sur :
 > CRM > Adresse > **Nouvelle adresse**
 
-![adresse_entrepôt.png](/stocks/warehouse/adresse_entrepôt.png)
+![adresse_entrepôt.png](/content/stocks/warehouse/adresse_entrepôt.png)
 
 ### 2.2 Info de contact de l'entrepôt
 
@@ -67,7 +67,7 @@ Renseignez les différentes informations de contact pour l'entrepôt.
 - Adresse et complément d'adresse
 - Ville, État et Pin
 
-![info_de_contact_entrepôt.png](/stocks/warehouse/info_de_contact_entrepôt.png)
+![info_de_contact_entrepôt.png](/content/stocks/warehouse/info_de_contact_entrepôt.png)
 
 ## 3. Après l'enregistrement
 

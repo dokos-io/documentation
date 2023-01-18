@@ -37,5 +37,5 @@ Pour accéder au Compte de résultat, allez sur :
 
 > Comptabilité > États financiers > **Compte de résultat**
 
-![compte-de-resultat.png](/accounting/balance-sheet/compte-de-resultat.png)
+![compte-de-resultat.png](/content/comptabilite/balance-sheet/compte-de-resultat.png)
 

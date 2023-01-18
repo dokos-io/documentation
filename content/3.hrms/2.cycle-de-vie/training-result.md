@@ -20,14 +20,14 @@ Pour accéder à **la liste de résultat de la formation**, allez sur :
 
 > Accueil > Ressources humaines > Formation > **Résultat de la formation**
 
-![résultat_de_la_formation.png](/humains-ressources/training-result/résultat_de_la_formation.png)
+![résultat_de_la_formation.png](/content/rh/training-result/résultat_de_la_formation.png)
 
 ## 1. Prérequis avant utilisation 
 Avant de créer un résultat d'entraînement, il est conseillé de créer les documents suivants :
 
-- **[Programme de formation](/fr/human-resources/training-program)**
-- **[Événement de formation](/fr/human-resources/training-event)**
-- **[Employé](/fr/human-resources/employee)**
+- **[Programme de formation](/rh/training-program)**
+- **[Événement de formation](/rh/training-event)**
+- **[Employé](/rh/employee)**
 
 ## 2. Comment créer un résultat d'entraînement 
 
@@ -36,7 +36,7 @@ Avant de créer un résultat d'entraînement, il est conseillé de créer les do
 3. Entrez les **heures**, l'**échelon** et les commentaires en regard du nom de l'employé.
 4. Enregistrer et envoyer
 
-![détails_résultat_de_la_formation.png](/humains-ressources/training-result/détails_résultat_de_la_formation.png)
+![détails_résultat_de_la_formation.png](/content/rh/training-result/détails_résultat_de_la_formation.png)
 
 Lorsque le résultat de la formation est soumis, tous les employés recevront un e-mail les informant qu'ils doivent partager leurs commentaires via Training Feedback . Ceci est également géré via une alerte par e-mail, vous pouvez donc également personnaliser cette alerte.
 

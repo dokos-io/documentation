@@ -19,11 +19,11 @@ Zapier is an online platform helping non technical users connecting multiple app
 > Go to zapier.com and login or create a new account
 
 1. In the `My Apps` section, click in `Connect a new account` and search for `dokos`  
-![zapier_new_connection.png](/integrations/zapier/zapier_new_connection.png)
+![zapier_new_connection.png](/content/integrations/zapier/zapier_new_connection.png)
 
 1. In the popup, copy the redirection address (Redirect URI) displayed above the Client ID and Client Secret fields.
    It is the same address, so you can copy it only once.  
-![zapier_auth.png](/integrations/zapier/zapier_auth.png)
+![zapier_auth.png](/content/integrations/zapier/zapier_auth.png)
 
 1. Keep the popup open to finish the connexion after step 1.2.
 
@@ -33,12 +33,12 @@ Zapier is an online platform helping non technical users connecting multiple app
 
 1. Create a new `OAuth Client` document, give a name to the client application (E.g. Zapier) and paste the redirection URI copied earlier in fields `Redirection URIs` and `Default redirection URI`.  
 
-![dokos_oauth.png](/integrations/zapier/dokos_oauth.png)
+![dokos_oauth.png](/content/integrations/zapier/dokos_oauth.png)
 
 1. Save and dokos will automatically generate the two missing informations to finish your connection to Zapier: The Client ID and Client Secret.
 Copy these two keys.  
 
-![dokos_client_keys.png](/integrations/zapier/dokos_client_keys.png)
+![dokos_client_keys.png](/content/integrations/zapier/dokos_client_keys.png)
 
 ### Setup social login keys
 
@@ -50,7 +50,7 @@ Copy these two keys.
 1. In the field **Base URL** register the base URL of your site without any subdomain.
   E.g. If your URL is `https://demo.dokos.io`, register `https://dokos.io`  
 
-![frappe_social_login.png](/integrations/zapier/frappe_social_login.png)  
+![frappe_social_login.png](/content/integrations/zapier/frappe_social_login.png)  
 
 5. Save
 
@@ -137,7 +137,7 @@ When you send a field of type **Date** or **Datetime**, you need to use the foll
 You can use the [Zapier Formatter](https://zapier.com/help/create/format/modify-date-formats-in-zaps) tool if needed.
 For the **Datetime** format, you can select the option "Use a Custom Value":  
 
-![zapier_datetime.png](/integrations/zapier/zapier_datetime.png)
+![zapier_datetime.png](/content/integrations/zapier/zapier_datetime.png)
 
 #### Arrays
 

@@ -20,7 +20,7 @@ Pour accéder à **la liste de Plan de dotation**, allez sur :
 
 > Accueil > Ressources humaines > Recrutement > Plan de dotation
 
-![liste_plan_dotation.png](/humains-ressources/staffing-plan/liste_plan_dotation.png)
+![liste_plan_dotation.png](/content/rh/staffing-plan/liste_plan_dotation.png)
 
 ## 1. Prérequis avant utilisation
 
@@ -36,7 +36,7 @@ Avant de créer un plan de dotation, il est nécessaire de créer les éléments
 3. Saisissez les détails du plan de dotation tels que la désignation, les postes vacants, le coût estimé par poste, le coût total estimé et le nombre de postes.
 4. Enregistrer et envoyer.
 
-![detail_plan_de_dotation.png](/humains-ressources/staffing-plan/detail_plan_de_dotation.png)
+![detail_plan_de_dotation.png](/content/rh/staffing-plan/detail_plan_de_dotation.png)
 
 ## 3. Caractéristiques
 
@@ -52,4 +52,4 @@ Avant de créer un plan de dotation, il est nécessaire de créer les éléments
 
 - **Budget total estimé** : une fois que vous avez saisi le plan de recrutement pour toutes les désignations, le plan de dotation établira le budget total estimé conformément au plan.
 
-![détails_du_plan_de_dotation.png](/humains-ressources/staffing-plan/détails_du_plan_de_dotation.png)
+![détails_du_plan_de_dotation.png](/content/rh/staffing-plan/détails_du_plan_de_dotation.png)

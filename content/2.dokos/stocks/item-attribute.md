@@ -19,7 +19,7 @@ Pour accéder à la liste des attributs d'article, allez sur :
 
 > Accueil > Stock > Paramètres > **Attribut d'article**
 
-![attribut_de_l'article.png](/stocks/item-attribute/attribut_de_l'article.png)
+![attribut_de_l'article.png](/content/stocks/item-attribute/attribut_de_l'article.png)
 
 ## 1. Comment créer un attribut d'article
 
@@ -34,13 +34,13 @@ Les valeurs d'attribut peuvent être numériques ou non numériques.
 
 Pour les attributs non numériques, spécifiez les valeurs d'attribut avec son abréviation dans le tableau Valeurs d'attribut.
 
-![attribut_article_création.png](/stocks/item-attribute/attribut_article_création.png)
+![attribut_article_création.png](/content/stocks/item-attribute/attribut_article_création.png)
 
 ### 1.2 Attributs numériques
 
 Si votre attribut est numérique, sélectionnez Valeurs numériques. Spécifiez la plage et la valeur d'incrément. Dans l'exemple suivant, la longueur du tuyau est comprise entre 0,25 et 3,0 et la plage est 0,25, les variantes seront donc 0,25, 0,5, 0,75 ... 3,0.
 
-![attribut_valeurs_numériques_.png](/stocks/item-attribute/attribut_valeurs_numériques_.png)
+![attribut_valeurs_numériques_.png](/content/stocks/item-attribute/attribut_valeurs_numériques_.png)
 
 
 

@@ -24,7 +24,7 @@ Pour accéder à **la liste soumission de preuve d'exonération fiscale des empl
 
 > Accueil > Paie > **Soumission de preuve d'exonération fiscale des employés**
 
-![liste_soumission_preuve_d'exemption_de_taxe.png](/payroll/employee-tax-exemption-proof-submission/liste_soumission_preuve_d'exemption_de_taxe.png)
+![liste_soumission_preuve_d'exemption_de_taxe.png](/content/payroll/employee-tax-exemption-proof-submission/liste_soumission_preuve_d'exemption_de_taxe.png)
 
 ## 1. Comment créer une soumission de preuve d'exonération fiscale pour les employés
 
@@ -33,14 +33,14 @@ Les détails sont déjà récupérés si vous cliquez sur **Soumettre une preuve
 1. Accédez à la liste Soumission de la preuve d'exonération fiscale des employés, cliquez sur **:heavy_plus_sign: Ajouter Soumission de la preuve d'exonération fiscale des employés**.
 2. Entrez les **détails** au besoin.
 
-![détails_soumission.png](/payroll/employee-tax-exemption-proof-submission/détails_soumission.png)
+![détails_soumission.png](/content/payroll/employee-tax-exemption-proof-submission/détails_soumission.png)
 
 3. Entrez le **Type de preuve** (documents, reçus, etc.).
 4. Joignez les épreuves en cliquant sur le bouton Joindre en bas.
 5. Entrez le montant du paiement du loyer de la maison, la date de location et la date de location.
 6. Enregistrer et envoyer.
 
-![preuve_d'exonération.png](/payroll/employee-tax-exemption-proof-submission/preuve_d'exonération.png)
+![preuve_d'exonération.png](/content/payroll/employee-tax-exemption-proof-submission/preuve_d'exonération.png)
 
 Le montant total d'exonération sera exonéré des gains annuels imposables de l'employé lors du calcul des retenues d'impôt sur la dernière paie.
 

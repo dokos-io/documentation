@@ -18,7 +18,7 @@ Pour accéder à la liste de **Google Agenda**, allez sur :
 
 > Accueil > Intégrations > Services Google > **Google Agenda**
 
-![liste_google_agenda.png](/integration/google-agenda/liste_google_agenda.png)
+![liste_google_agenda.png](/content/integrations/google-agenda/liste_google_agenda.png)
 
 ## 1. Comment configurer l'intégration de Google Agenda 
 
@@ -28,7 +28,7 @@ Afin de permettre une synchronisation avec Google Calendar, vous devez autoriser
 
 1. Créez des i**nformations d'identification OAuth 2.0** via les paramètres Google.
 
-![paramètres_google.png](/integration/contacts-google/paramètres_google.png)
+![paramètres_google.png](/content/integrations/contacts-google/paramètres_google.png)
 
 2. Dans la liste **Google Agenda**, cliquez sur **Nouveau**. Saisissez le nom du calendrier et l'utilisateur pour lequel vous souhaitez synchroniser, puis enregistrez-le.
 3. Selon les données que vous souhaitez synchroniser, vous pouvez sélectionner les éléments suivants.
@@ -36,7 +36,7 @@ Afin de permettre une synchronisation avec Google Calendar, vous devez autoriser
 	-	**Envoyer vers Google Agenda** - Synchronise tous les événements de Dokos à Google Agenda.
 4. Une fois autorisé, vous pouvez synchroniser manuellement l'événement Google Agenda ou laisser Dokos synchroniser les contacts Google quotidiennement.
 
-![nouveau_google_agenda.png](/integration/google-agenda/nouveau_google_agenda.png)
+![nouveau_google_agenda.png](/content/integrations/google-agenda/nouveau_google_agenda.png)
 
 ## 2. Comment utiliser l'intégration de Google Agenda 
 

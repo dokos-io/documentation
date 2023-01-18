@@ -24,7 +24,7 @@ Pour accéder à **la liste Action de qualité**, allez sur :
 
 > Accueil > Qualité > Revue et action > **Action de qualité**
 
-![liste_action_de_qualité.png](/quality/quality-action/liste_action_de_qualité.png)
+![liste_action_de_qualité.png](/content/qualite/quality-action/liste_action_de_qualité.png)
 
 ## 1. Prérequis avant utilisation
 
@@ -43,7 +43,7 @@ Avant de créer et d'utiliser une action qualité, il est conseillé de créer d
 5. Saisissez une **résolution** proposée pour le problème dans le champ Résolution.
 6. **Enregistrer**.
 
-![détails_action_de_qualité.png](/quality/quality-action/détails_action_de_qualité.png)
+![détails_action_de_qualité.png](/content/qualite/quality-action/détails_action_de_qualité.png)
 
 Le champ Statut indique si l'Action de Qualité est **Ouverte** et **en cours** ou **Fermée**.
 
@@ -58,4 +58,4 @@ Dans la section résolution vous allez pouvoir indiquez les différents élémen
 3. Sélectionnez le **statut**.
 4. Selectionnez le **responsable** et la **date de fin**.
 
-![résolution.png](/quality/quality-action/résolution.png)
+![résolution.png](/content/qualite/quality-action/résolution.png)

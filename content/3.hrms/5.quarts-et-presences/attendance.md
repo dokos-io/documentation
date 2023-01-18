@@ -20,13 +20,13 @@ Pour accéder à **la liste des présences**, allez sur :
 
 Accueil > Ressources humaines > **Présence**
 
-![liste_présence.png](/humains-ressources/attendance/liste_présence.png)
+![liste_présence.png](/content/rh/attendance/liste_présence.png)
 
 ## 1. Prérequis avant utilisation
 
 Avant de créer un enregistrement de présence, il est conseillé de créer d'abord les éléments suivants :
 
-- **[Employé](/fr/human-resources/employee)**
+- **[Employé](/rh/employee)**
 - **Type d'équipe**
 
 ## 2. Comment créer une présence
@@ -38,7 +38,7 @@ Avant de créer un enregistrement de présence, il est conseillé de créer d'ab
 5. Sélectionnez le statut (Présent, Absent, En congé, Demi-journée).
 6. Enregistrer et envoyer.
 
-![nouvelle_présence.png](/humains-ressources/attendance/nouvelle_présence.png)
+![nouvelle_présence.png](/content/rh/attendance/nouvelle_présence.png)
 
 ::alert{type=warning}
 > **Remarque** : La participation ne peut pas être marquée pour des dates futures.

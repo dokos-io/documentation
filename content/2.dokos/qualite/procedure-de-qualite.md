@@ -24,7 +24,7 @@ Pour accéder à **la liste Procédure Qualité**, allez sur :
 
 > Accueil > Qualité > Objectif et Procédure > **Procédure Qualité**
 
-![liste_procédure.png](/quality/quality-procedure/liste_procédure.png)
+![liste_procédure.png](/content/qualite/quality-procedure/liste_procédure.png)
 
 ## 1. Comment créer une procédure qualité
 
@@ -34,7 +34,7 @@ Pour accéder à **la liste Procédure Qualité**, allez sur :
 4. **Sous-procédure** : si la procédure qualité en cours de création est une procédure parent qui contient des sous-procédures, lier la sous-procédure ici. En faisant cela, la procédure en cours devient un parent et la case à cocher **Est un groupe** est activée.
 5. **Enregistrer**. Une P**rocédure de qualité** peut également être sauvegardée sans entrer les descriptions de Processus si le titre est explicite.
 
-![détails_procédure_de_qualité.png](/quality/quality-procedure/détails_procédure_de_qualité.png)
+![détails_procédure_de_qualité.png](/content/qualite/quality-procedure/détails_procédure_de_qualité.png)
 
 La '**Procédure Parent**' est liée à la procédure enfant. Par exemple, « Classification des problèmes » doit être effectué avant une résolution et, par conséquent, « Résolution des problèmes » est le parent ici :
 
@@ -44,7 +44,7 @@ La '**Procédure Parent**' est liée à la procédure enfant. Par exemple, « Cl
 
 Une fois qu'une **Procédure Qualité** est créée, elle peut être utilisée dans un **Objectif Qualité**.
 
-![procédure_dans_objectif.png](/quality/quality-procedure/procédure_dans_objectif.png)
+![procédure_dans_objectif.png](/content/qualite/quality-procedure/procédure_dans_objectif.png)
 
 ### 2.2 Sous-procédures
 
@@ -54,4 +54,4 @@ Le processus peut être simplement une instruction ou une procédure de qualité
 
 Vous pouvez également afficher les procédures qualité dans une arborescence pour une organisation et une navigation faciles.
 
-![arbre_.png](/quality/quality-procedure/arbre_.png)
+![arbre_.png](/content/qualite/quality-procedure/arbre_.png)

@@ -21,8 +21,8 @@ Pour accéder à la **liste de routage**, allez sur :
 
 ## 1. Prérequis avant utilisation
 
-- **[Opération](/fr/manufacturing/operation)**
-- **[Station de travail](/fr/manufacturing/workstation)**
+- **[Opération](/manufacturing/operation)**
+- **[Station de travail](/manufacturing/workstation)**
 
 ## 2. Comment créer un routage
 

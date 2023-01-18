@@ -22,7 +22,7 @@ Pour accéder à **la liste des objectifs de qualité**, allez sur :
 
 > Accueil > Qualité > **Objectif Qualité**
 
-![liste_objectif_de_qualité.png](/quality/quality-goal/liste_objectif_de_qualité.png)
+![liste_objectif_de_qualité.png](/content/qualite/quality-goal/liste_objectif_de_qualité.png)
 
 ## 1. Comment créer un objectif de qualité
 
@@ -43,6 +43,6 @@ Dans le **tableau Objectifs**, saisissez :
 2. La cible qui se compose de la valeur cible numérique d'un objectif à atteindre.
 3. L'unité de mesure pour mesurer la cible. Ex : Prospects, Heures, etc.
 
-![détails_objectif_de_qualité.png](/quality/quality-goal/détails_objectif_de_qualité.png)
+![détails_objectif_de_qualité.png](/content/qualite/quality-goal/détails_objectif_de_qualité.png)
 
 Le champ Révision indique le nombre de fois où le document a été enregistré.

@@ -24,18 +24,18 @@ Pour accéder à la **liste demande de congé compensatoire**, allez à :
 
 Accueil > Ressources humaines > Congés > **Demande de congé compensatoire**
 
-![liste_congé_compensatoire.png](/humains-ressources/compensatory-leave-request/liste_congé_compensatoire.png)
+![liste_congé_compensatoire.png](/content/rh/compensatory-leave-request/liste_congé_compensatoire.png)
 
 ## 1. Prérequis avant utilisation
 
 Avant de créer une demande de congé compensatoire, il est nécessaire de créer les documents suivants :
 
-- **[Employé](/fr/human-resources/employee)**
-- **[Période de congés](/fr/human-resources/leave-period)** 
-- **[Types de congés](/fr/human-resources/leave-type)**
-- **[Politique de congés](/fr/human-resources/leave-policy)**
-- **[Allocation de congés](/fr/human-resources/leave-allocation)**
-- **[Listes de jours fériés](/fr/human-resources/holiday-list)**
+- **[Employé](/rh/employee)**
+- **[Période de congés](/rh/leave-period)** 
+- **[Types de congés](/rh/leave-type)**
+- **[Politique de congés](/rh/leave-policy)**
+- **[Allocation de congés](/rh/leave-allocation)**
+- **[Listes de jours fériés](/rh/holiday-list)**
 - **Présence**
 
 ## 2. Comment créer une demande de congé compensatoire
@@ -44,7 +44,7 @@ Avant de créer une demande de congé compensatoire, il est nécessaire de crée
 2. Sélectionnez l'ID de l'employé. Une fois sélectionnés, le nom et le service de l'employé seront automatiquement récupérés.
 3. Sélectionnez le Type de congé.
 
-![détails_congé.png](/humains-ressources/compensatory-leave-request/détails_congé.png)
+![détails_congé.png](/content/rh/compensatory-leave-request/détails_congé.png)
 
 ## 3. Caractéristiques
 
@@ -54,7 +54,7 @@ Avant de créer une demande de congé compensatoire, il est nécessaire de crée
 - Cochez la case **Demi-journée** s'il s'agit d'un demi-jour de congé
 - Entrez la **raison** de la demande de congé compensatoire.
 
-![travail_en_vacances.png](/humains-ressources/compensatory-leave-request/travail_en_vacances.png)
+![travail_en_vacances.png](/content/rh/compensatory-leave-request/travail_en_vacances.png)
 
 Lors de la soumission de la demande de congé compensatoire, DOKOS met à jour l'enregistrement d'allocation de congé pour le type de congé compensatoire, permettant à l'employé de demander des congés de ce type ultérieurement en fonction du nombre de congés restants.
 

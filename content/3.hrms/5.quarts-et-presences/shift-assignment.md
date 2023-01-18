@@ -24,12 +24,12 @@ Pour accéder à **la liste de Affectation de quart**, allez sur :
 
 > Accueil > Ressources humaines > Gestion des quarts > **Affectation de quart**
 
-![liste_affectation_de_quart.png](/humains-ressources/shift-assignment/liste_affectation_de_quart.png)
+![liste_affectation_de_quart.png](/content/rh/shift-assignment/liste_affectation_de_quart.png)
 
 ## 1. Prérequis avant utilisation
 
-- **[Employé](/fr/human-resources/employee)**
-- **[Type de quart](/fr/human-resources/shift-type)**
+- **[Employé](/rh/employee)**
+- **[Type de quart](/rh/shift-type)**
 
 ## 2. Comment créer une affectation de quart
 
@@ -42,7 +42,7 @@ Pour accéder à **la liste de Affectation de quart**, allez sur :
 3. Définissez la durée de l'équipe à l'aide de la **date de début** et de **date de fin**.
 4. Enregistrer.
 
-![détails_affectation.png](/humains-ressources/shift-assignment/détails_affectation.png)
+![détails_affectation.png](/content/rh/shift-assignment/détails_affectation.png)
 
 ## 3. Configuration de l'approbateur de demande de quart
 

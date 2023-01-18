@@ -20,14 +20,14 @@ Pour accéder à la liste de prime de fidélisation, allez sur :
 
 > Accueil > Paie > **Prime de fidélisation**
 
-![liste_prime_de_rétention.png](/payroll/retention-bonus/liste_prime_de_rétention.png)
+![liste_prime_de_rétention.png](/content/payroll/retention-bonus/liste_prime_de_rétention.png)
 
 ## 1. Prérequis avant utilisation
 
 Avant de créer une prime de fidélisation, il est conseillé de créer les éléments suivants :
 
-- **[Employé](/fr/human-resources/employee)**
-- **[Composante salariale](/fr/payroll/salary-component)**
+- **[Employé](/rh/employee)**
+- **[Composante salariale](/payroll/salary-component)**
 
 ## 2. Comment créer une prime de fidélisation
 
@@ -38,4 +38,4 @@ Avant de créer une prime de fidélisation, il est conseillé de créer les él�
 5. **Enregistrer** et envoyer.
 6. Lors de la soumission, le document **Salaire supplémentaire** de la « **Composante salariale** spécifiée est créé. Celui-ci sera récupéré lors de l'exécution de la saisie de la paie.
 
-![détails_prime.png](/payroll/retention-bonus/détails_prime.png)
+![détails_prime.png](/content/payroll/retention-bonus/détails_prime.png)

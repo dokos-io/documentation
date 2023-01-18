@@ -29,7 +29,7 @@ Avant de créer un Département, il est conseillé de créer les documents suiva
 - **Compagnie**
 - **Quitter la liste de blocage**
 
-![département.png](/humains-ressources/department/département.png)
+![département.png](/content/rh/department/département.png)
 
 ## 2. Comment créer un département ?
 
@@ -40,7 +40,7 @@ Avant de créer un Département, il est conseillé de créer les documents suiva
 5. Sélectionnez Liste de blocage des congés (facultatif) applicable à ce département.
 6. **Enregistrer**.
 
-![nouveau_département.png](/humains-ressources/department/nouveau_département.png)
+![nouveau_département.png](/content/rh/department/nouveau_département.png)
 
 ## 3. Caractéristiques
 
@@ -48,7 +48,7 @@ Avant de créer un Département, il est conseillé de créer les documents suiva
 
 Les approbateurs peuvent être définis depuis cette section pour attribuer un ou plusieurs approbateurs pour valider les demandes de congés, des notes de frais, des demandes de quart.
 
-![approbateurs.png](/humains-ressources/department/approbateurs.png)
+![approbateurs.png](/content/rh/department/approbateurs.png)
 
 
 

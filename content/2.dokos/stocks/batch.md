@@ -37,7 +37,7 @@ Pour créer une nouvelle base de n ° de lot pour un article, accédez à:
 4. Si une transaction est effectuée avec un article, le lot ne peut pas être défini ou annulé.
 5. **Enregistrer**.
 
-![créer_lot.png](/stocks/batch/créer_lot.png)
+![créer_lot.png](/content/stocks/batch/créer_lot.png)
 
 Lorsque les lots sont activés pour un article, l'option permettant de conserver le stock d'échantillons devient également disponible.
 

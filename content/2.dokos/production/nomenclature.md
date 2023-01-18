@@ -28,10 +28,10 @@ Notez qu'une fois qu'une nomenclature est soumise, elle ne peut pas être modifi
 
 Avant de créer et d'utiliser une nomenclature, il est conseillé de créer d'abord les éléments suivants:
 
-- **[Article](/fr/stocks/item)**
-- **[Opération](/fr/manufacturing/operation)**
-- **[Station de travail](/fr/manufacturing/workstation)**
-- **[Routage](/fr/manufacturing/routing)**
+- **[Article](/stocks/item)**
+- **[Opération](/manufacturing/operation)**
+- **[Station de travail](/manufacturing/workstation)**
+- **[Routage](/manufacturing/routing)**
 
 ## 2. Comment créer une nomenclature
 

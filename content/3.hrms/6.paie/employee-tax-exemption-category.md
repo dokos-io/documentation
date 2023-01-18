@@ -25,4 +25,4 @@ Pour accéder à **la liste catégorie d'exonération fiscale des employés**, a
 3. Cochez la case **est actif** pour que la catégorie soit active.
 4. **Enregistrer**
 
-![catégorie_exemption.png](/payroll/employee-tax-exemption-declaration/catégorie_exemption.png)
+![catégorie_exemption.png](/content/payroll/employee-tax-exemption-declaration/catégorie_exemption.png)

@@ -22,13 +22,13 @@ Pour accéder à **la liste de grilles des salaires**, allez sur :
 
 > Accueil > Paie > **Grilles des salaires**
 
-![liste.png](/payroll/salary-structure/liste.png)
+![liste.png](/content/payroll/salary-structure/liste.png)
 
 ## 1. Prérequis avant utilisation
 
 Avant de créer une structure salariale, il est conseillé de créer les éléments suivants :
 
-- **[Composante salariale](/fr/payroll/salary-component)**
+- **[Composante salariale](/payroll/salary-component)**
 
 ## 2. Comment créer une structure salariale
 
@@ -37,14 +37,14 @@ Avant de créer une structure salariale, il est conseillé de créer les éléme
 3. Sélectionnez le **nom de l'entreprise** et la **fréquence de paie**.
 4. **Enregistrer** et envoyer.
 
-![détails_grille_salaires.png](/payroll/salary-structure/détails_grille_salaires.png)
+![détails_grille_salaires.png](/content/payroll/salary-structure/détails_grille_salaires.png)
 
 
 ## 3. Caractéristiques
 
 ### 3.1 Structure salariale pour le salaire basé sur les feuilles de temps
 
-![fiche_de_temps.png](/payroll/salary-structure/fiche_de_temps.png)
+![fiche_de_temps.png](/content/payroll/salary-structure/fiche_de_temps.png)
 
 Dans DOKOS, vous pouvez également définir la structure salariale pour le bordereau de salaire basée sur la feuille de temps, ce qui permet à l'entreprise de payer l'employé selon les heures de travail.
 
@@ -80,10 +80,10 @@ Pour créer des Revenus et des Déductions, sélectionnez la Composante Salaire 
 **Remarque** : Assurez-vous de cliquer sur la flèche vers le bas et d'activer la case à cocher « Montant basé sur la formule » au cas où la composante salariale est calculée à l'aide d'une formule.
 ::
 
-![bénéfices_déductions.png](/payroll/salary-structure/bénéfices_déductions.png)
+![bénéfices_déductions.png](/content/payroll/salary-structure/bénéfices_déductions.png)
 
 ### 3.3 Compte
 
 Dans cette section, le mode de paiement et le compte de paiement utilisé pour payer le salaire peuvent être spécifiés.
 
-![compte.png](/payroll/salary-structure/compte.png)
+![compte.png](/content/payroll/salary-structure/compte.png)

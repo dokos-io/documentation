@@ -20,7 +20,7 @@ Pour accéder à la liste des **types d'emploi**, allez sur :
 
 Accueil > Ressources humaines > Employé > **Type d'emploi**
 
-![type_emploi_.png](/humains-ressources/employment-type/type_emploi_.png)
+![type_emploi_.png](/content/rh/employment-type/type_emploi_.png)
 
 ## 1. Comment créer un type d'emploi
 
@@ -28,6 +28,6 @@ Accueil > Ressources humaines > Employé > **Type d'emploi**
 2. Entrez le **nom** du type d'emploi.
 3. **Enregistrer**.
 
-![créer_type_emploi.png](/humains-ressources/employment-type/créer_type_emploi.png)
+![créer_type_emploi.png](/content/rh/employment-type/créer_type_emploi.png)
 
 Le type d'emploi peut être lié à la fiche employé.

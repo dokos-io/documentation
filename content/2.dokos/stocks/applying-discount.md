@@ -18,7 +18,7 @@ Vous pouvez trouver le champ Remise dans la table Article d'une transaction, cli
 
 La fonction de remise (%) est disponible dans toutes les transactions de vente et d'achat.
 
-Si vous souhaitez appliquer une remise (en pourcentage) régulièrement pour certaines quantités, vous préférez utiliser une **Règle de prix**. Lisez la documentation sur les **[Règles de prix](/fr/stocks/price-rules) pour en savoir plus**.
+Si vous souhaitez appliquer une remise (en pourcentage) régulièrement pour certaines quantités, vous préférez utiliser une **Règle de prix**. Lisez la documentation sur les **[Règles de prix](/stocks/price-rules) pour en savoir plus**.
 
 ## 2. Remise sur le total net ou le total général 
 
