@@ -33,7 +33,7 @@ Pour accéder à la liste des **Webhook**, aller sur :
 
 3. En option, vous pouvez définir des conditions de document supplémentaires pour déclencher des Webhooks pour des scénarios spécifiques.
 
-![déclencheur_du_webhook.png](#not-found:/integration/webhook/déclencheur_du_webhook.png)
+![déclencheur_du_webhook.png](/integration/webhook/déclencheur_du_webhook.png)
 
 ### 1.2 Requête Webhook
 

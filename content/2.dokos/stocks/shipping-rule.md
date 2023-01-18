@@ -19,7 +19,7 @@ Pour accéder à la **règle d'expédition**, allez sur :
 
 > Accueil > Vente > Articles et prix > **Règle de livraison**
 
-![règle_de_livraison_.png](#not-found:/ventes/shipping-rule/règle_de_livraison_.png)
+![règle_de_livraison_.png](/ventes/shipping-rule/règle_de_livraison_.png)
 
 ## 1. Comment créer une règle d'expédition
 
@@ -29,14 +29,14 @@ Pour accéder à la **règle d'expédition**, allez sur :
 4. Sous Calculer en fonction de, vous pouvez également modifier le calcul sur lequel la règle d'expédition sera appliquée comme la quantité totale nette ou le poids total net, par défaut, il est "Fixe".
 5. **Enregistrer**.
 
-![créer_règle_de_livraison.png](#not-found:/ventes/shipping-rule/créer_règle_de_livraison.png)
+![créer_règle_de_livraison.png](/ventes/shipping-rule/créer_règle_de_livraison.png)
 
 ## 2. Caractéristiques
 
 ### 2.1 Comptabilité
 La section comptabilité vous permet de définir la société qui sera affecté par les transactions et de défnir le compte de livraison pour la création de cette règle de livraison. 
 
-![comptabilité_règle_de_livraison.png](#not-found:/ventes/shipping-rule/comptabilité_règle_de_livraison.png)
+![comptabilité_règle_de_livraison.png](/ventes/shipping-rule/comptabilité_règle_de_livraison.png)
 
 ### 2.2 Dimensions comptables
 Les dimensions comptables vous permettent d'étiqueter les transactions en fonction d'un territoire, d'une succursale, d'un client, etc. spécifiques. Cela permet d'afficher les états comptables séparément en fonction de la ou des dimensions sélectionnées.
@@ -45,13 +45,13 @@ Les dimensions comptables vous permettent d'étiqueter les transactions en fonct
 
 En sélectionnant Total net ou Poids net, un tableau apparaîtra dans lequel vous pouvez définir les valeurs de départ et d'arrivée pour le montant ou le poids. Saisissez le montant d'expédition à calculer pour la plage saisie. Ajoutez plus de conditions si nécessaire. Vous ne pouvez sélectionner qu'une des trois méthodes de calcul dans une règle d'expédition.
 
-![mode_de_calcul_règle_de_livraison.png](#not-found:/ventes/shipping-rule/mode_de_calcul_règle_de_livraison.png)
+![mode_de_calcul_règle_de_livraison.png](/ventes/shipping-rule/mode_de_calcul_règle_de_livraison.png)
 
 ### 2.4 Restreindre aux pays
 
 Vous pouvez limiter la règle d'expédition à certains pays, ajoutez les pays dans le tableau. Par défaut, la règle d'expédition sera applicable dans le monde entier.
 
-![restreindre_au_pays_règle_de_livraison.png](#not-found:/ventes/shipping-rule/restreindre_au_pays_règle_de_livraison.png)
+![restreindre_au_pays_règle_de_livraison.png](/ventes/shipping-rule/restreindre_au_pays_règle_de_livraison.png)
 
 
 

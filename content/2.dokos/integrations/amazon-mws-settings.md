@@ -22,7 +22,7 @@ Vous pouvez demander les informations d'identification du développeur à Amazon
 
 Saisissez l'ID du vendeur, l'ID de la clé d'accès AWS, le jeton d'authentification MWS, la clé secrète, l'ID de la place de marché, la région et le domaine.
 
-![paramètres_amazon.png](#not-found:/settings/amazon/paramètres_amazon.png)
+![paramètres_amazon.png](/settings/amazon/paramètres_amazon.png)
 
 ### 1.3 Configurer les détails de la commande 
 Configurez la société, l'entrepôt, le groupe d'articles, la liste de prix, le groupe de clients, le territoire, le type de client et le groupe de comptes. Le groupe de comptes est utilisé pour détenir les commissions, les taxes, etc. facturées par Amazon. 

@@ -25,7 +25,7 @@ Créez vous un compte sur la plateforme ou connectez-vous si vous en avez déjà
 
 4. Indiquez le **nom du canal**
 
-![gestion_des_tickets.png](#not-found:/integration/mattermost/gestion_des_tickets.png)
+![gestion_des_tickets.png](/integration/mattermost/gestion_des_tickets.png)
 
 5. Allez sur gestion des intégrations en cliquant sur le **menu en haut à gauche** et sélectionnez **Intégrations**
 
@@ -33,7 +33,7 @@ Créez vous un compte sur la plateforme ou connectez-vous si vous en avez déjà
 
 6. Cliquez sur **Webhooks entrant**
 
-![webhook_entrant.png](#not-found:/integration/mattermost/webhook_entrant.png)
+![webhook_entrant.png](/integration/mattermost/webhook_entrant.png)
 
 7. Ajoutez un **nouveau Webhook entrant**
 
