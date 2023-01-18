@@ -18,7 +18,7 @@ const props = defineProps({
 
 const demo_link = props.demo == "Dokompany" ? "https://demo.dokos.cloud" : "https://tierslieux.dokos.io"
 
-const showTour = () => window.open(`${demo_link}/app/${props.doctype.replace(/ /g, "_").toLowerCase()}?show_tour=true`, '_blank');
+const showTour = () => window.open(`${demo_link}/app/${props.doctype.replace(/ /g, "-").toLowerCase()}?show_tour=true`, '_blank');
 
 </script>
 
