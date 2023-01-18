@@ -22,7 +22,7 @@ Pour accéder à la **liste de Désignation**, allez sur :
 
 > Accueil > Ressources humaines > Employé > **Désignation**
 
-![liste_désignation.png](/humains-ressources/designation/liste_désignation.png)
+![liste_désignation.png](/content/rh/designation/liste_désignation.png)
 
 ## 1. Comment créer une désignation
 
@@ -31,7 +31,7 @@ Pour accéder à la **liste de Désignation**, allez sur :
 3. Entrez la **description** et les compétences requises (facultatif).
 4. **Enregistrer**.
 
-![créer_désignation.png](/humains-ressources/designation/créer_désignation.png)
+![créer_désignation.png](/content/rh/designation/créer_désignation.png)
 
 ::alert{type=warning}
 **Remarque** : Les compétences requises pour un employé d'une désignation particulière qui sont spécifiées dans la section « Compétences requises » du doctype Désignation peuvent être directement récupérées dans la carte des compétences de l' employé pour évaluer les performances d'un employé en fonction de ses compétences.
@@ -43,7 +43,7 @@ Vous pouvez ajouter des compétences requises pour chaque désignation. Cela per
 
 Les recruteurs pourront consulter ces informations pour savoir quelles compténeces sont nécessaires au poste. Ces compétences peuvent varier d'un secteur à un autre.
 
-![compétences.png](/humains-ressources/designation/compétences.png)
+![compétences.png](/content/rh/designation/compétences.png)
 
 
 

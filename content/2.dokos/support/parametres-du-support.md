@@ -28,7 +28,7 @@ Activez cette fonctionnalité pour commencer à utiliser et à suivre le contrat
 
 Cela permet à un utilisateur de réinitialiser l'accord de niveau de service dans les problèmes. L'utilisateur obtiendra un bouton pour réinitialiser l'accord de niveau de service pour les problèmes en cours dans l'onglet Niveau de service. Cliquer sur le bouton avant l'échec de l' ANS réinitialisera l'ANS. L'utilisateur de l'équipe d'assistance devra indiquer la raison de la réinitialisation de l'ANS.
 
-![ans.png](/support/support-settings/ans.png)
+![ans.png](/content/support/support-settings/ans.png)
 
 
 ## 2. Ticket

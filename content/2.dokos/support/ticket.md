@@ -24,7 +24,7 @@ Pour accéder **à la liste des tickets**, allez sur :
 
 Avant de créer et d'utiliser des problèmes, il est conseillé de créer d'abord les éléments suivants :
 
-- **[Client](/fr/crm/customer)**
+- **[Client](/crm/customer)**
 - **Compte email**
 
 ## 2. Comment créer un ticket ?

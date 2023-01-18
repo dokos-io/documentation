@@ -20,7 +20,7 @@ Pour accéder à **la liste autres revenus des employés**, allez sur :
 
 > Accueil > Ressources humaines > Impôts et avantages sociaux des employés > **Autres revenus des employés**
 
-![liste_autres_revenus_de_l'employé.png](/payroll/employee-other-income/liste_autres_revenus_de_l'employé.png)
+![liste_autres_revenus_de_l'employé.png](/content/payroll/employee-other-income/liste_autres_revenus_de_l'employé.png)
 
 ## 1. Comment créer un autre revenu d'employé 
 
@@ -30,4 +30,4 @@ Pour accéder à **la liste autres revenus des employés**, allez sur :
 4. Entrez le **montant** et sa **source**.
 5. **Enregistrer** et envoyer.
 
-![détails_autres_revenus.png](/payroll/employee-other-income/détails_autres_revenus.png)
+![détails_autres_revenus.png](/content/payroll/employee-other-income/détails_autres_revenus.png)

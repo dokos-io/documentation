@@ -18,15 +18,15 @@ Pour accéder à **la liste de fiche de paie**, allez sur :
 
 > Accueil > Paie > **Fiche de paie**
 
-![liste_fiche_de_paie0.png](/payroll/salary-slip/liste_fiche_de_paie0.png)
+![liste_fiche_de_paie0.png](/content/payroll/salary-slip/liste_fiche_de_paie0.png)
 
 ## 1. Prérequis avant utilisation
 
 Avant de créer un bulletin de salaire, il est conseillé de créer d'abord les éléments suivants :
 
-- **[Employé](/fr/human-resources/employee)**
-- **[Composante salariale](/fr/payroll/salary-component)**
-- **[Attribution de la structure salariale](/fr/payroll/salary-structure-assignment)**
+- **[Employé](/rh/employee)**
+- **[Composante salariale](/payroll/salary-component)**
+- **[Attribution de la structure salariale](/payroll/salary-structure-assignment)**
 
 ## 2. Comment créer une fiche de paie
 
@@ -35,7 +35,7 @@ Avant de créer un bulletin de salaire, il est conseillé de créer d'abord les 
 3. Sélectionnez **Date de début** et **Date de fin**.
 4. **Enregistrer**.
 
-![détails_fiche_de_paie.png](/payroll/salary-slip/détails_fiche_de_paie.png)
+![détails_fiche_de_paie.png](/content/payroll/salary-slip/détails_fiche_de_paie.png)
 
 ## 3. Caractéristique
 
@@ -61,5 +61,5 @@ et **Mois glissant (Devise société)** sont calculés.
 
 L'année à ce jour est également calculée pour chaque élément des tables de gains et de déductions. Le format d'impression **Bulletin de salaire avec cumul annuel** est disponible avec les calculs cumulatifs annuels et cumulatifs mensuels.
 
-![cumul_fiche_de_paie.png](/payroll/salary-slip/cumul_fiche_de_paie.png)
+![cumul_fiche_de_paie.png](/content/payroll/salary-slip/cumul_fiche_de_paie.png)
 

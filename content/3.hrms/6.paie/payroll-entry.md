@@ -20,7 +20,7 @@ Pour accéder à **la liste entrée de la paie**, allez sur :
 
 > Accueil > Paie > **Entrée de la paie**
 
-![liste_.png](/payroll/payroll-entry/liste_.png)
+![liste_.png](/content/payroll/payroll-entry/liste_.png)
 
 ## 1. Comment créer une entrée de paie
 
@@ -32,7 +32,7 @@ Pour accéder à **la liste entrée de la paie**, allez sur :
 6. Sélectionnez le compte de paiement pour effectuer l'opération bancaire.
 7. Enregistrer.
 
-![détails_employés.png](/payroll/payroll-entry/détails_employés.png)
+![détails_employés.png](/content/payroll/payroll-entry/détails_employés.png)
 
 Une fois les informations enregistrées, cliquez sur le bouton Obtenir des employés pour obtenir une liste des employés pour lesquels les fiches de salaire seront créées en fonction des critères sélectionnés.
 
@@ -48,13 +48,13 @@ Une fois la liste des Employés récupérée, cliquez sur le bouton Créer des f
 
 Dans cette section, sélectionnez la branche, le département et la désignation pour pouvoir filtrer les employés.
 
-![employés.png](/payroll/payroll-entry/employés.png)
+![employés.png](/content/payroll/payroll-entry/employés.png)
 
 ### 2.2 Sélectionner la période Paie
 
 Indiquez ici la période de paie en mettant la date de début et la date de fin. Vous pouvez également, déduire la taxte pour les avantages soxiaux des employés non réclamés et déduire la taxe pour toute preuve d'exemption de taxe non soumise.
 
-![période_de_paie.png](/payroll/payroll-entry/période_de_paie.png)
+![période_de_paie.png](/content/payroll/payroll-entry/période_de_paie.png)
 
 ### 2.3 Dimensiosn comptables
 
@@ -66,7 +66,7 @@ Cela enregistrera également le compte Écriture de paiement de la paie par déf
 
 Si vous souhaitez comptabiliser des dépenses sur plusieurs centres de coûts en fonction de l'employé/du département, vous pouvez le faire en définissant le centre de coûts de la paie dans la fiche Employé/département. Le centre de coûts affecté dans le maître Employé/Département aura la priorité sur le centre de coûts sélectionné dans la saisie de la paie.
 
-![dimensions_comptables.png](/payroll/payroll-entry/dimensions_comptables.png)
+![dimensions_comptables.png](/content/payroll/payroll-entry/dimensions_comptables.png)
 
 ::alert{type=warning}
 **Remarque** : La soumission manuelle des bulletins de salaire un par un ne créera pas l'écriture de journal pour enregistrer l'accumulation de salaire.
@@ -86,7 +86,7 @@ Pour générer votre bon de paiement de salaire à partir de la **Saisie de la p
 
 L'entrée de la paie vous dirigera vers l'entrée de journal avec des filtres pertinents pour afficher les brouillons de pièces de journal créés. Vous devrez définir le numéro de référence et la date des transactions et soumettre l'écriture au journal.
 
-![écriture_de_paiement.png](/payroll/payroll-entry/écriture_de_paiement.png)
+![écriture_de_paiement.png](/content/payroll/payroll-entry/écriture_de_paiement.png)
 
 ::alert{type=warning}
 **Remarque** : Pour les éléments de salaire qui sont des avantages flexibles et pour lesquels la case Créer une écriture de paiement distincte contre demande d'avantages est cochée, ERPNext enregistrera des écritures de journal provisoires distinctes.

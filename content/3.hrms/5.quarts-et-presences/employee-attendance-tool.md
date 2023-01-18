@@ -18,7 +18,7 @@ Pour accéder à l'**outil de présence des employés**, allez sur :
 
 Accueil > Ressources humaines > Présence > **Outil de présence des employés**
 
-![liste_outil_de_présence.png](/humains-ressources/employee-attendance-tool/liste_outil_de_présence.png)
+![liste_outil_de_présence.png](/content/rh/employee-attendance-tool/liste_outil_de_présence.png)
 
 Cet outil vous permet d'ajouter rapidement des enregistrements de présence pour plusieurs employés en fonction de leur département et de leur succursale pour un jour donné.
 
@@ -26,16 +26,16 @@ Cet outil vous permet d'ajouter rapidement des enregistrements de présence pour
 
 Avant de créer une présence des employés, il est conseillé de créer d'abord les éléments suivants :
 
-- **[Employé](/fr/human-resources/employee)**
-- **[Département](/fr/human-resources/department)**
-- **[Outil de gestion des présences des employés](/fr/human-resources/employee-attendance-tool)**
+- **[Employé](/rh/employee)**
+- **[Département](/rh/department)**
+- **[Outil de gestion des présences des employés](/rh/employee-attendance-tool)**
 
 ## 2. Comment marquer la présence à l'aide de l'outil de présence des employés
 
 1. Entrez la date.
 2. Sélectionnez le département et la branche (facultatif).
 
-![détails_outil_de_présence.png](/humains-ressources/employee-attendance-tool/détails_outil_de_présence.png)
+![détails_outil_de_présence.png](/content/rh/employee-attendance-tool/détails_outil_de_présence.png)
 
 ### 3. Caractéristiques
 
@@ -45,7 +45,7 @@ Si vous n'avez pas fait d'enregistrement de présence alors vous aurez la sectio
 
 - Sélectionner les employés et indiquez un statut entre Présent, Travaillant de la maison, Demi-journée ou Absent.
 
-![présence_non_indiquée.png](/humains-ressources/employee-attendance-tool/présence_non_indiquée.png)
+![présence_non_indiquée.png](/content/rh/employee-attendance-tool/présence_non_indiquée.png)
 
 ::alert{type=warning}
 > **Remarque** : La participation ne peut pas être marquée pour des dates futures.
@@ -59,7 +59,7 @@ Une fois que les présences ont été indiquées alors vous les verrer s'affiche
 - **Une case non-cochée** : Employé Absent
 - **Une case coché avec un "-" à l'intérieur** : Employé en Demi-journée
 
-![présence_validée.png](/humains-ressources/employee-attendance-tool/présence_validée.png)
+![présence_validée.png](/content/rh/employee-attendance-tool/présence_validée.png)
 
 Une fois la présence marquée à l'aide de l'outil de présence de l'employé, la présence de l'employé est enregistrée dans l'enregistrement de présence : 
 
@@ -67,4 +67,4 @@ Une fois la présence marquée à l'aide de l'outil de présence de l'employé, 
 
 Depuis les présences vous pouvez annuler et supprimer une présence. Il faut d'abord sélectionner l'employé concerné puis annuler la présence pour ensuite supprimer la présence.
 
-![gestion_présence.png](/humains-ressources/employee-attendance-tool/gestion_présence.png)
+![gestion_présence.png](/content/rh/employee-attendance-tool/gestion_présence.png)

@@ -21,7 +21,7 @@ Pour accéder à **la liste des paramètres Paie**, allez sur :
 
 ## 1. Paramètres de paie 
 
-![paramètres_de_paie.png](/humains-ressources/hr-settings/paramètres_de_paie.png)
+![paramètres_de_paie.png](/content/rh/hr-settings/paramètres_de_paie.png)
 
 ### 1.1 Calculer les jours de travail payés sur la base de
 

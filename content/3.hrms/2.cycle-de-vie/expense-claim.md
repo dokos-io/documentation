@@ -20,12 +20,12 @@ Pour accéder à la **liste note de frais**, allez sur :
 
 > Ressources humaines > Notes de frais > **Notes de frais**
 
-![liste_note_de_frais.png](/humains-ressources/expense-claim/liste_note_de_frais.png)
+![liste_note_de_frais.png](/content/rh/expense-claim/liste_note_de_frais.png)
 
 ## 1. Prérequis avant utilisation
 
-- **[Employé](/fr/human-resources/employee)**
-- **[Département](/fr/human-resources/department)**
+- **[Employé](/rh/employee)**
+- **[Département](/rh/department)**
 - Plan comptable
 
 ## 2. Comment créer une note de frais 
@@ -33,7 +33,7 @@ Pour accéder à la **liste note de frais**, allez sur :
 2. Sélectionnez le nom de l'employé dans le champ **De l'employé**.
 3. Sélectionnez l'approbateur de la note de frais.
 
-![charges_notes_de_frais.png](/humains-ressources/expense-claim/charges_notes_de_frais.png)
+![charges_notes_de_frais.png](/content/rh/expense-claim/charges_notes_de_frais.png)
 
 ### 3. Caractéristiques
 
@@ -41,38 +41,38 @@ Pour accéder à la **liste note de frais**, allez sur :
 
 Saisissez la date de la dépense, le type de demande de remboursement et le montant de la note de frais.
 
-![charges.png](/humains-ressources/expense-claim/charges.png)
+![charges.png](/content/rh/expense-claim/charges.png)
 
 ### 3.2 Frais et charges de la note de frais
 
 De plus, vous pouvez également saisir les taxes et les frais de dépenses.
 
-![frais_et_charges_de_la_note_de_frais.png](/humains-ressources/expense-claim/frais_et_charges_de_la_note_de_frais.png)
+![frais_et_charges_de_la_note_de_frais.png](/content/rh/expense-claim/frais_et_charges_de_la_note_de_frais.png)
 
 ### 3.3. Détails comptables
 
 Dans Détails comptables, sélectionnez le compte créditeurs par défaut de la société.
 
-![détails_comptables.png](/humains-ressources/expense-claim/détails_comptables.png)
+![détails_comptables.png](/content/rh/expense-claim/détails_comptables.png)
 
 ### 3.4 Dimensions comptables
 
 Les dimensions comptables vous permettent d'étiqueter les transactions en fonction d'un territoire, d'une succursale, d'un client, etc. Cela facilite la visualisation des états comptables séparément en fonction des critères sélectionnés.
 
-![dimensions_comptables.png](/humains-ressources/expense-claim/dimensions_comptables.png)
+![dimensions_comptables.png](/content/rh/expense-claim/dimensions_comptables.png)
 
 ### 3.4 Plus de détails
 
 Visualisez le statut de la note de frais. Le statut peut être Brouillon, Approvué ou Rejeté.
 
-![plus_de_détails.png](/humains-ressources/expense-claim/plus_de_détails.png)
+![plus_de_détails.png](/content/rh/expense-claim/plus_de_détails.png)
 
 ### 3.5 Acomptes et avances
 
 Pour les notes de frais de grande valeur, il est possible de créer un acompte avant de traiter la note de frais complètement.
 Ajouter une ligne avec les informations de l'acompte et de l'avance. 
 
-![acomptes_et_avances.png](/humains-ressources/expense-claim/acomptes_et_avances.png)
+![acomptes_et_avances.png](/content/rh/expense-claim/acomptes_et_avances.png)
 
 ## 3. Flux de travail
 

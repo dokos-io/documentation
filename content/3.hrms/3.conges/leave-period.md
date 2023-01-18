@@ -23,7 +23,7 @@ Pour accéder à la liste de période de congé, allez sur :
 
 > Accueil > Ressources humaines > Congés > **Période de congé**
 
-![liste_période_de_congé.png](/humains-ressources/leave-period/liste_période_de_congé.png)
+![liste_période_de_congé.png](/content/rh/leave-period/liste_période_de_congé.png)
 
 ## 1. Prérequis avant utilisation
 
@@ -39,7 +39,7 @@ Avant de créer une Période de Congé, il est conseillé de créer les élémen
 3. Sélectionnez le nom de l'entreprise pour laquelle la période de congé s'applique.
 4. Enregistrer.
 
-![créer_péridoe_de_congé.png](/humains-ressources/leave-period/créer_péridoe_de_congé.png)
+![créer_péridoe_de_congé.png](/content/rh/leave-period/créer_péridoe_de_congé.png)
 
 La période de congé vous permet également de sélectionner une liste de jours fériés pour les congés facultatifs (facultatif) qui sera prise en compte pour l'attribution des congés facultatifs pour la période.
 

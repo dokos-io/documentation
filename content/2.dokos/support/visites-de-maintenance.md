@@ -12,14 +12,14 @@ Pour accéder à **la liste des visites d'entretien**, rendez-vous sur :
 
 > Accueil > Support > Entretien > **Visite de maintenance**
 
-![liste_maintenance.png](/support/maintenance-visit/liste_maintenance.png)
+![liste_maintenance.png](/content/support/maintenance-visit/liste_maintenance.png)
 
 Une visite de maintenance est généralement créée à partir d'une commande client de type **Entretien**.
 
 ## 1. Prérequis avant utilisation
 
-- **[Client](/fr/crm/customer)**
-- **[Article](/fr/stocks/item)**
+- **[Client](/crm/customer)**
+- **[Article](/stocks/item)**
 
 ## 2. Comment créer une visite d'entretien ?
 
@@ -32,7 +32,7 @@ Une visite de maintenance est généralement créée à partir d'une commande cl
 7. Saisissez une description de la maintenance, sélectionnez le commercial effectuant la maintenance et saisissez le travail effectué.
 8. **Enregistrer**.
 
-![détails_maintenance.png](/support/maintenance-visit/détails_maintenance.png)
+![détails_maintenance.png](/content/support/maintenance-visit/détails_maintenance.png)
 
 ## 3. Caractéristiques
 

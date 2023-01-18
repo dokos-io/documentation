@@ -24,7 +24,7 @@ Pour accéder à l'offre d'emploi, allez sur :
 
 > Accueil > Ressources humaines > Recrutement > **offre d'emploi**
 
-![liste_offre_d'emploi.png](/humains-ressources/job-opening/liste_offre_d'emploi.png)
+![liste_offre_d'emploi.png](/content/rh/job-opening/liste_offre_d'emploi.png)
 
 ## 1. Prérequis avant utilisation
 
@@ -40,7 +40,7 @@ Avant de créer une offre d'emploi, il est conseillé de créer les éléments s
 3. Sélectionnez la désignation et le département. En fonction de la désignation choisie, le plan de dotation et le nombre prévu de postes appropriés seront recherchés.
 4. Enregistrer.
 
-![créer_offre_d'emploi.png](/humains-ressources/job-opening/créer_offre_d'emploi.png)
+![créer_offre_d'emploi.png](/content/rh/job-opening/créer_offre_d'emploi.png)
 
 ## 3. Caractéristiques
 
@@ -55,7 +55,7 @@ Vous pouvez publier l'offre d'emploi sur votre site web en cochant la case Publi
 
 Donnez toutes les informations concernant l'offre d'emploi qui est à pourvoir dans votre entreprise. Indiquez les missions, les compétences et formations requises etc.
 
-![description_offre_d'emploi.png](/humains-ressources/job-opening/description_offre_d'emploi.png)
+![description_offre_d'emploi.png](/content/rh/job-opening/description_offre_d'emploi.png)
 
 ### 3.3 Devise
 
@@ -65,7 +65,7 @@ Saisissez toutes les informations relatives à la rémunération et à la devise
 - **Tranche inférieure** et **tranche supérieure**
 - **Publier les tranches salariales** : Cochez si vous souhaitez activer cette option.
 
-![devise_offre_d'emploi.png](/humains-ressources/job-opening/devise_offre_d'emploi.png)
+![devise_offre_d'emploi.png](/content/rh/job-opening/devise_offre_d'emploi.png)
 
 Une fois l'offre d'emploi enregistrée, vous pouvez directement créer un nouveau demandeur d'emploi à partir du tableau de bord.
 

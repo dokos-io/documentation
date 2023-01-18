@@ -20,7 +20,7 @@ Pour accéder à la **liste Demande d'avantages sociaux**, allez sur :
 
 > Accueil > Paie > **Demande d'avantages sociaux**
 
-![liste_demande_avantages_sociaux.png](/payroll/employee-benefit-application/liste_demande_avantages_sociaux.png)
+![liste_demande_avantages_sociaux.png](/content/payroll/employee-benefit-application/liste_demande_avantages_sociaux.png)
 
 ## 1. Comment créer une demande d'avantages sociaux
 
@@ -31,7 +31,7 @@ Pour accéder à la **liste Demande d'avantages sociaux**, allez sur :
 5. Remplir la **table des prestations demandées**
 6. **Enregistrer**.
 
-![détails_avantages_sociaux.png](/payroll/employee-benefit-application/détails_avantages_sociaux.png)
+![détails_avantages_sociaux.png](/content/payroll/employee-benefit-application/détails_avantages_sociaux.png)
 
 ## 2. Caractéristiques
 
@@ -43,7 +43,7 @@ Dans cette section, vous pouvez indiquez les avantages de l'employé en renseign
 - Montant maximal des prestatuons
 - Montant
 
-![prestations_demandées.png](/payroll/employee-benefit-application/prestations_demandées.png)
+![prestations_demandées.png](/content/payroll/employee-benefit-application/prestations_demandées.png)
 
 Ici, l'employé peut afficher les avantages maximum selon l'affectation de la composante salariale, puis choisir parmi les éléments de rémunération qui font partie de la structure salariale attribuée à l'employé. Ils peuvent également inscrire le montant qu'ils souhaitent recevoir dans le cadre de leur fiche de paie.
 

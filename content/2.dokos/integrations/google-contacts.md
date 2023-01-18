@@ -18,7 +18,7 @@ Pour accéder à la liste des contacts Google, allez sur :
 
 > Accueil > Intégrations > Services Google > **Contacts Google**
 
-![liste_contact_google.png](/integration/contacts-google/liste_contact_google.png)
+![liste_contact_google.png](/content/integrations/contacts-google/liste_contact_google.png)
 
 ## 1. Comment configurer l'intégration des contacts Google ?
 
@@ -26,13 +26,13 @@ Afin de permettre une synchronisation avec Google Contacts, vous devez autoriser
 
 1. **Créez des informations d'identification** OAuth 2.0 via les paramètres Google.
 
-![paramètres_google.png](/integration/contacts-google/paramètres_google.png)
+![paramètres_google.png](/content/integrations/contacts-google/paramètres_google.png)
 
 2. Dans la liste des contacts Google, cliquez sur **Nouveau**
 3. Saisissez l'**e-mail du compte Google** que vous souhaitez synchroniser, puis enregistrez-le. 
 4. Cliquez maintenant sur **Autoriser l'accès aux contacts** pour autoriser DOKOS à obtenir les données des contacts de Google.
 
-![nouveau_contact_google.png](/integration/contacts-google/nouveau_contact_google.png)
+![nouveau_contact_google.png](/content/integrations/contacts-google/nouveau_contact_google.png)
 
 ## 2. Comment utiliser l'intégration des contacts Google 
 

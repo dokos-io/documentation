@@ -79,10 +79,10 @@ Validez et cliquez sur **Allouer des congés**.
 # Calcul des congés acquis
 
 L'allocation des congés acquis se fait en début de période et le nombre de congés alloués est initialement de 0.
-Au cours de la période, l'allocation est modifiée et le total des congés attribué est incrémenté du nombre de congés calculés par le système en fonction des règles définies dans le [type de congés](/fr/human-resources/leave-type).
+Au cours de la période, l'allocation est modifiée et le total des congés attribué est incrémenté du nombre de congés calculés par le système en fonction des règles définies dans le [type de congés](/rh/leave-type).
 
 Par exemple, pour les congés payés, il faudra créer des feuilles de présence pour chaque employé afin que le système puisse calculer correctement le nombre de congés à allouer.
 
 
 ---
-**Suivant : [1. Liste de congés](/fr/human-resources/holiday-list) :arrow_right:**
+**Suivant : [1. Liste de congés](/rh/holiday-list) :arrow_right:**

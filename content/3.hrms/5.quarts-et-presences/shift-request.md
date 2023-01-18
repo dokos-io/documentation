@@ -24,8 +24,8 @@ Pour utiliser un type de quart dans DOKOS,
 
 Pour créer une demande d'équipe, celles-ci doivent d'abord être créées :
 
-- **[Employé](/fr/human-resources/employee)**
-- **[Type de quart](/fr/human-resources/shift-type)**
+- **[Employé](/rh/employee)**
+- **[Type de quart](/rh/shift-type)**
 
 La sélection de quart est utilisée par un employé pour demander un type d'équipe particulier.
 
@@ -33,7 +33,7 @@ Pour accéder à **la liste de demande de quart**, allez sur :
 
 > Accueil > Ressources humaines > Gestion des quarts > **Sélection de quart**
 
-![liste_sélection_de_quart.png](/humains-ressources/shift-request/liste_sélection_de_quart.png)
+![liste_sélection_de_quart.png](/content/rh/shift-request/liste_sélection_de_quart.png)
 
 ## 2. Comment créer une Sélection de quart
 
@@ -43,4 +43,4 @@ Pour accéder à **la liste de demande de quart**, allez sur :
 4. Sélectionnez l'**approbateur**. Si l'approbateur sélectionné n'a pas accès au document de demande d'équipe, il est partagé avec l'approbateur avec l'autorisation **soumettre**.
 5. Enregistrer.
 
-![détails_sélection_de_quart.png](/humains-ressources/shift-request/détails_sélection_de_quart.png)
+![détails_sélection_de_quart.png](/content/rh/shift-request/détails_sélection_de_quart.png)

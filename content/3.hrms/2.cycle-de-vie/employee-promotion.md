@@ -18,14 +18,14 @@ Pour accéder à la liste de **promotion des employés**, allez sur :
 
 > Ressources humaines > Cycle de vie des employés > **Promotion des employés**
 
-![liste_promotion_employé.png](/humains-ressources/employee-promotion/liste_promotion_employé.png)
+![liste_promotion_employé.png](/content/rh/employee-promotion/liste_promotion_employé.png)
 
 ## 1. Prérequis avant utilisation
 
 Avant de créer une promotion d'employé, il est conseillé de créer les documents suivants :
 
-- **[Employé](/fr/human-resources/employee)**
-- **[Département](/fr/human-resources/department)**
+- **[Employé](/rh/employee)**
+- **[Département](/rh/department)**
 
 ## 2. Comment créer une promotion d'employé
 
@@ -33,8 +33,8 @@ Avant de créer une promotion d'employé, il est conseillé de créer les docume
 2. Sélectionnez l'**employé**.
 3. Saisissez la **date de la promotion**.
 
-![détails_promotion.png](/humains-ressources/employee-promotion/détails_promotion.png)
+![détails_promotion.png](/content/rh/employee-promotion/détails_promotion.png)
 
 4. Dans le tableau **Détails de la promotion des employés**, sélectionnez la propriété et définissez la valeur actuelle et nouvelle.
 
-![autres_info_promotion.png](/humains-ressources/employee-promotion/autres_info_promotion.png)
+![autres_info_promotion.png](/content/rh/employee-promotion/autres_info_promotion.png)

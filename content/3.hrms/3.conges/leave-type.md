@@ -20,7 +20,7 @@ Pour accéder à **la liste type de congé**, allez sur :
 
 > Accueil > Ressources humaines > Congés > **Type de congé**
 
-![liste_type_de_congé.png](/humains-ressources/leave-type/liste_type_de_congé.png)
+![liste_type_de_congé.png](/content/rh/leave-type/liste_type_de_congé.png)
 
 ## 1. Comment créer un type de congé
 
@@ -29,7 +29,7 @@ Pour accéder à **la liste type de congé**, allez sur :
 3. Entrez le nombre maximal de congés autorisés, applicable après (jours ouvrés), le nombre maximal de jours continus applicables (facultatif).
 4. **Enregistrer**.
 
-![créer_type_de_congé.png](/humains-ressources/leave-type/créer_type_de_congé.png)
+![créer_type_de_congé.png](/content/rh/leave-type/créer_type_de_congé.png)
 
 ## 2. Options des types de congés
 
@@ -57,7 +57,7 @@ Si vous sélectionnez une période et un arrondi, les congés seront calculés s
 
 Certains pays disposent de formules de calcul personnalisés adaptés aux règles locales.  
 
-![congés_acquis.png](/humains-ressources/leave-type/congés_acquis.png)
+![congés_acquis.png](/content/rh/leave-type/congés_acquis.png)
 
 ### 3.3 France
 

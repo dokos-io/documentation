@@ -22,7 +22,7 @@ Pour accéder à la **liste des échelons d'employé**, allez sur :
 
 > Accueil > Ressources humaines > Employé > **Échelon d'employé**
 
-![liste_échelon.png](/humains-ressources/employee-grade/liste_échelon.png)
+![liste_échelon.png](/content/rh/employee-grade/liste_échelon.png)
 
 ## 1. Prérequis avant utilisation
 
@@ -38,7 +38,7 @@ Avant de créer un grade d'employé, il est conseillé de créer les documents s
 3. Saisissez la politique de congé par défaut et la structure salariale par défaut pour ce grade.
 4. Enregistrer.
 
-![créer_échelon.png](/humains-ressources/employee-grade/créer_échelon.png)
+![créer_échelon.png](/content/rh/employee-grade/créer_échelon.png)
 
 Vous pouvez également accéder à l'**employé**, à la **période de congé**, au **modèle d'intégration des employés** et au **modèle de séparation des employés**.
 

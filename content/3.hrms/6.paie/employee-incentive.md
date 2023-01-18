@@ -20,14 +20,14 @@ Pour accéder à **la liste intéressement des employés**, allez sur :
 
 > Accueil > Paie > **Intéressement des employés**
 
-![liste_intéressement_des_employés.png](/payroll/employee-incentive/liste_intéressement_des_employés.png)
+![liste_intéressement_des_employés.png](/content/payroll/employee-incentive/liste_intéressement_des_employés.png)
 
 ## 1. Prérequis avant utilisation
 
 Avant de créer une incitation pour les employés, il est conseillé de créer les éléments suivants :
 
-- **[Employé](/fr/human-resources/employee)**
-- **[Composante salariale](/fr/payroll/salary-component)**
+- **[Employé](/rh/employee)**
+- **[Composante salariale](/payroll/salary-component)**
 
 ## 2. Comment créer un incitatif pour les employés 
 
@@ -39,4 +39,4 @@ Avant de créer une incitation pour les employés, il est conseillé de créer l
 6. **Enregistrer** et envoyer.
 7. Lors de la soumission, le document **Salaire supplémentaire** de la **Composante salariale** spécifiée est créé. Celui-ci sera récupéré lors de l'exécution de la saisie de la paie.
 
-![détails_intéressement.png](/payroll/employee-incentive/détails_intéressement.png)
+![détails_intéressement.png](/content/payroll/employee-incentive/détails_intéressement.png)

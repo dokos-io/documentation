@@ -18,7 +18,7 @@ Vous pouvez gérer les modes de paiement standards et en créer de nouveaux depu
 
 > Comptabilité > Paramétrage > **Mode de paiement**
 
-![mode-de-paiement.png](/accounting/mode-de-paiement.png)
+![mode-de-paiement.png](/content/comptabilite/mode-de-paiement.png)
 
 Dans chaque fiche mode de paiement, vous pouvez également définir un compte de paiement par défaut. Lors de la sélection du mode de paiement, le compte de paiement respectif sera récupéré automatiquement dans la transaction.
 

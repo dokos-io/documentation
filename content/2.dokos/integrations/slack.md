@@ -19,33 +19,33 @@ Pour générer des URL de webhook, vous devez créer une nouvelle application Sl
 1. Accédez à **<a href="https://api.slack.com/" target="_blank">https://api.slack.com/</a>**
 2. Cliquez sur **Créer une application Slack**
 
-![slack_api.png](/integration/slack/slack_api.png)
+![slack_api.png](/content/integrations/slack/slack_api.png)
 
 3. Sélectionnez la rubrique **De zéro** pour créer votre application
 
-![de_zéro.png](/integration/slack/de_zéro.png)
+![de_zéro.png](/content/integrations/slack/de_zéro.png)
 
 4. Donnez un nom à votre application et choisissez le bon espace de travail. 
 
-![nom_application.png](/integration/slack/nom_application.png)
+![nom_application.png](/content/integrations/slack/nom_application.png)
 
 5. Une fois votre application créée, accédez à la section « **Webhooks entrants**
 
-![webhook_entrant.png](/integration/slack/webhook_entrant.png)
+![webhook_entrant.png](/content/integrations/slack/webhook_entrant.png)
 
 6. Une fois dans la section des webhooks entrant, cliquez sur **Activer les Webhooks entrants**
 
-![activer_webhook.png](/integration/slack/activer_webhook.png)
+![activer_webhook.png](/content/integrations/slack/activer_webhook.png)
 
 7. Allez à la section en bas de page **URL de webhook pour votre espace de travail**, puis cliquez sur **Ajouter un nouveau webhook à l'espace de travail**.
 
 8. Indiquez l'endroit où la notification doit être publié. Il s'agit d'un canal que vous aurez crée dans votre compte Slack.
 
-![choix_du_canal.png](/integration/slack/choix_du_canal.png)
+![choix_du_canal.png](/content/integrations/slack/choix_du_canal.png)
 
 9. Copiez le lien créé, revenez sur la plateforme DOKOS et utilisez-le pour créer une nouvelle URL Slack Webhook.
 
-![copier_url_webhook.png](/integration/slack/copier_url_webhook.png)
+![copier_url_webhook.png](/content/integrations/slack/copier_url_webhook.png)
 
 ## 2. Configuration du Webhook entrant depuis Dokos
 
@@ -55,7 +55,7 @@ Il faut maintenant créer le Webhook entrant permettant de dire au logiciel de l
 
 > Accueil > Intégration > Paramètres > URL de webhook entrant
 
-![liste_webhook.png](/integration/google-chat/liste_webhook.png)
+![liste_webhook.png](/content/integrations/google-chat/liste_webhook.png)
 
 2. Cliquez sur Ajouter **URL Webhook entrant**
 3. Indiquez le **nom** du Webhook entrant
@@ -63,7 +63,7 @@ Il faut maintenant créer le Webhook entrant permettant de dire au logiciel de l
 5. Dans la section URL du webhook, il suffit d'insérer l'URL que vous avez copié dans Slack (Étape 9 - Accès à Slack et configuration)
 6. Faites **Enregistrer**
 
-![slack_intégration.png](/integration/slack/slack_intégration.png)
+![slack_intégration.png](/content/integrations/slack/slack_intégration.png)
 
 ## 3. Configuration des notifications
 
@@ -73,7 +73,7 @@ Il faut créer une notification permettant de dire au logiciel à quelle action 
 
 > Accueil > Paramètres > Email / Notifications > **Notification**
 
-![liste_notification.png](/integration/google-chat/liste_notification.png)
+![liste_notification.png](/content/integrations/google-chat/liste_notification.png)
 
 2. Cliquez sur **Ajouter une notification**
 3. Ajoutez les informations suivantes :
@@ -82,7 +82,7 @@ Il faut créer une notification permettant de dire au logiciel à quelle action 
 	- Sélectionnez un **canal** : Choisissez **Outil de collaboration externe**
 	- URL de Webhook entrant de l'outil de collaboration : Sélectionnez le Webhhook entrant que vous avez créé à l'**étape 2.2**.
 
-![détails_notification.png](/integration/google-chat/détails_notification.png)
+![détails_notification.png](/content/integrations/google-chat/détails_notification.png)
 
 ## 4 Détails de notification
 
@@ -104,7 +104,7 @@ Depuis cette section, gérez vos paramètres de **Filtres** :
 
 *Par exemple dans ce cas, dès que le statut du document est égal à **ouvert**, que la date du document est égale à **ajourd'hui** et que le Montant du document est **supérieur à 4000** alors il faut réaliser l'action.*
 
-![filtres_notification.png](/integration/google-chat/filtres_notification.png)
+![filtres_notification.png](/content/integrations/google-chat/filtres_notification.png)
 
 ### 4.2 Modifier une propriété après la notification
 
@@ -112,7 +112,7 @@ Depuis cette section, gérez vos paramètres de **modification de propriété ap
 
 Vous pouvez choisir de modifier une propriété après la notification puis il faut définir une valeur qui sera concerné par cette modification.
 
-![modifier_une_propriété.png](/integration/google-chat/modifier_une_propriété.png)
+![modifier_une_propriété.png](/content/integrations/google-chat/modifier_une_propriété.png)
 
 ### 4.3 Message
 
@@ -132,14 +132,14 @@ Voici un exemple de message :
 `• Sujet : {{ doc.subject }}`
 `• Message : {{ doc.description }}`
 
-![message_notification.png](/integration/google-chat/message_notification.png)
+![message_notification.png](/content/integrations/google-chat/message_notification.png)
 
 #### 5. Tester la notification
 
 1. Vous pouvez simplement tester votre notification en cliquant sur le bouton en haut à droite **Tester cette notification**.
 
-![tester_notification.png](/integration/google-chat/tester_notification.png)
+![tester_notification.png](/content/integrations/google-chat/tester_notification.png)
 
 2. Vérifiez maintenant sur Slack que vous avez bien reçu la notification.
 
-![slack.png](/integration/slack/slack.png)
+![slack.png](/content/integrations/slack/slack.png)

@@ -24,11 +24,11 @@ Pour accéder à la liste des **plans de production**, allez sur :
 
 Avant de créer et d'utiliser un plan de production, il est conseillé de créer d'abord les éléments suivants:
 
-- **[Article](/fr/stocks/item)**
-- **[Demande de matériel](/fr/stocks/material-request)**
-- **[Commande client](/fr/selling/customer-order)**
-- **[Nomenclature](/fr/manufacturing/bill-of-materials)**
-- **[Routage](/fr/manufacturing/routing)**
+- **[Article](/stocks/item)**
+- **[Demande de matériel](/stocks/material-request)**
+- **[Commande client](/selling/customer-order)**
+- **[Nomenclature](/manufacturing/bill-of-materials)**
+- **[Routage](/manufacturing/routing)**
 
 ## 2. Comment créer un plan de production 
 
@@ -39,7 +39,7 @@ Comme mentionné précédemment, un plan de production peut être utilisé pour 
 1. Allez dans la liste Plan de production, cliquez sur **:heavy_plus_sign: Ajouter Plan de production**.
 2. Sélectionnez si vous souhaitez obtenir des articles à partir d'une commande client ou d'une demande d'article.
 
-![détails_plan_de_production.png](/manufacturing/production-plan/détails_plan_de_production.png)
+![détails_plan_de_production.png](/content/manufacturing/production-plan/détails_plan_de_production.png)
 
 Un plan de production peut également être créé manuellement dans lequel vous pouvez sélectionner les articles à fabriquer.
 

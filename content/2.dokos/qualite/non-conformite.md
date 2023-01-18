@@ -22,11 +22,11 @@ Pour accéder à **la liste Non-conformité**, allez sur :
 
 > Accueil > Qualité > Revue et actions > **Non-conformité**
 
-![liste_non_conformité.png](/quality/non-conformance/liste_non_conformité.png)
+![liste_non_conformité.png](/content/qualite/non-conformance/liste_non_conformité.png)
 
 ## 1. Prérequis avant utilisation
 
-1. **[Procédure de qualité](/fr/quality/quality-procedure)**
+1. **[Procédure de qualité](/qualite/quality-procedure)**
 
 ## 2. Comment créer une non-conformité ?
 
@@ -38,7 +38,7 @@ Pour accéder à **la liste Non-conformité**, allez sur :
 6. État de mise à jour
 7. **Enregistrer**
 
-![détail_non_conformité.png](/quality/non-conformance/détail_non_conformité.png)
+![détail_non_conformité.png](/content/qualite/non-conformance/détail_non_conformité.png)
 
 ## 3. Caractértistiques
 
@@ -46,7 +46,7 @@ Pour accéder à **la liste Non-conformité**, allez sur :
 
 Dans la section des détails, indiquez tous les élements nécessaire pour détailler la non-conformité.
 
-![détails.png](/quality/non-conformance/détails.png)
+![détails.png](/content/qualite/non-conformance/détails.png)
 
 ### 3.2 Action corrective
 
@@ -54,7 +54,7 @@ Une action corrective est une action visant à éliminer une faiblesse détecté
 
 Comme une non-conformité peut avoir plusieurs causes, il est parfois nécessaire de combiner plusieurs actions afin d'éliminer la source de l'erreur.
 
-![action_corrective.png](/quality/non-conformance/action_corrective.png)
+![action_corrective.png](/content/qualite/non-conformance/action_corrective.png)
 
 ### 3.3 Action préventive
 
@@ -62,4 +62,4 @@ Une action préventive est une action visant à éliminer une faiblesse présum�
 
 L'objectif initial de l'action préventive est d'éviter l'apparition d'une non-conformité, mais elle comprend généralement aussi l'amélioration de l'efficacité du système. Elle peut être purement technique en améliorant le produit ou le service ou organisationnelle en améliorant le système.
 
-![action_préventive.png](/quality/non-conformance/action_préventive.png)
+![action_préventive.png](/content/qualite/non-conformance/action_préventive.png)

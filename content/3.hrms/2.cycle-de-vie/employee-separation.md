@@ -29,30 +29,30 @@ Pour accéder à la **liste de départ des employés**, allez à :
 
 > Ressources humaines > Cycle de vie des employés > **Départ des employés**
 
-![départ_des_employés.png](/humains-ressources/employee-seperation/départ_des_employés.png)
+![départ_des_employés.png](/content/rh/employee-seperation/départ_des_employés.png)
 
 ## 1. Prérequis avant utilisation
 
 Avant de créer une séparation d'employé, il est conseillé de créer les documents suivants :
 
-- **[Employé](/fr/human-resources/employee)**
-- **[Département](/fr/human-resources/department)**
-- **[Désignation](/fr/human-resources/designation)**
-- **[Échelon de l'employé](/fr/human-resources/employee-grade)**
+- **[Employé](/rh/employee)**
+- **[Département](/rh/department)**
+- **[Désignation](/rh/designation)**
+- **[Échelon de l'employé](/rh/employee-grade)**
 
 ## 2. Comment créer une séparation d'employés
 
 1. Accédez à la liste de Départ des employés, cliquez sur **:heavy_plus_sign: Ajouter Départ des employés**.
 2. Sélectionnez l'employé. Une fois l'employé sélectionné, les informations correspondantes sur l'employé, telles que le service, la désignation et le grade de l'employé, seront automatiquement récupérées.
 
-![nouveau_départ_des_employés.png](/humains-ressources/employee-seperation/nouveau_départ_des_employés.png)
+![nouveau_départ_des_employés.png](/content/rh/employee-seperation/nouveau_départ_des_employés.png)
 
 3. Sélectionnez le modèle de départ des employés . En fonction du modèle sélectionné, des informations telles que le service, la désignation et le grade de l'employé seront automatiquement récupérées (si déjà mentionnées dans le modèle de séparation).
 4. Saisissez la date de la lettre de démission.
 5. De plus, vous pouvez également saisir le résumé de l'entretien de sortie.
 6. Enregistrer et envoyer.
 
-![modèle_départ.png](/humains-ressources/employee-seperation/modèle_départ.png)
+![modèle_départ.png](/content/rh/employee-seperation/modèle_départ.png)
 
 ::alert{type=warning}
 **Remarque 1** : Si un modèle de départ d'employés n'est pas créé, vous pouvez directement remplir les informations de séparation dans le doctype de séparation d'employés lui-même.

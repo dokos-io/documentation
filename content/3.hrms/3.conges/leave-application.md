@@ -17,42 +17,42 @@ Pour accéder à la **liste de demande de congé**, allez sur :
 
 > Accueil > Ressources humaines > Congés > **Demande de congé**
 
-![demande_de_congés.png](/humains-ressources/leave-application/demande_de_congés.png)
+![demande_de_congés.png](/content/rh/leave-application/demande_de_congés.png)
 
 ## 1. Prérequis avant utilisation
 
 Avant de créer une demande de congé, il est conseillé d'avoir les documents suivants :
 
-- [Département](/fr/human-resources/department)
-- [Période de congé](/fr/human-resources/leave-period)
-- [Liste des jours de congés](/fr/human-resources/holiday-list)
-- [Type de congé](/fr/human-resources/leave-type)
-- [Politique de congé](/fr/human-resources/leave-policy)
-- [Allocation de congé](/fr/human-resources/leave-allocation)
+- [Département](/rh/department)
+- [Période de congé](/rh/leave-period)
+- [Liste des jours de congés](/rh/holiday-list)
+- [Type de congé](/rh/leave-type)
+- [Politique de congé](/rh/leave-policy)
+- [Allocation de congé](/rh/leave-allocation)
 
 ## 2. Comment créer une demande de congés
 
 1. Allez dans la liste demande de congé, cliquez sur **:heavy_plus_sign: Ajouter Demande de congé**.
 2. Un tableau des congés alloués sera affiché. En fonction des congés pris, les congés disponibles sont affichés pour chaque type de congé.
 
-![détails_demande_de_congés.png](/humains-ressources/leave-application/détails_demande_de_congés.png)
+![détails_demande_de_congés.png](/content/rh/leave-application/détails_demande_de_congés.png)
 
 3. Sélectionnez le nom de l'employé et le type de congé.
 4. Définissez la durée du congé à l'aide de la date de début et de la date de fin. En fonction des dates sélectionnées, les champs **Nombre total de jours de congé** et **Solde de congé avant la candidature** seront affichés.
 5. Si le congé appliqué est d'une demi-journée, cochez la case **demi-journée**.
 6. Saisissez le motif du congé.
 
-![date_demande_de_congés.png](/humains-ressources/leave-application/date_demande_de_congés.png)
+![date_demande_de_congés.png](/content/rh/leave-application/date_demande_de_congés.png)
 
 7. Sélectionnez l'approbateur de congés.
 8. Vous pouvez également lier le bulletin de salaire de l'employé dans la demande de congé pour la demande.
 
-![approbateur_de_congés.png](/humains-ressources/leave-application/approbateur_de_congés.png)
+![approbateur_de_congés.png](/content/rh/leave-application/approbateur_de_congés.png)
 
 9. Sélectionnez la date de comptabilisation de la demande de congé.
 10. Cochez la case « Suivre par e-mail » pour envoyer une notification de la demande de congé à l'approbateur des congés.
 
-![date_de_comptabilisation_congés.png](/humains-ressources/leave-application/date_de_comptabilisation_congés.png)
+![date_de_comptabilisation_congés.png](/content/rh/leave-application/date_de_comptabilisation_congés.png)
 
 11. Cliquez sur **Enregistrer**. 
 Une fois que l'employé enregistre la demande de congé, le statut de la demande de congé passe à **Ouvert** et un e-mail est envoyé à l'approbateur des congés pour approbation. Le modèle de notification d'approbation de congé peut être configuré dans les paramètres RH sous la section **Paramètres de congé**.

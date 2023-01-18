@@ -28,7 +28,7 @@ If you only want to record the payment request internally without sending it to 
 
 You need to select at least one payment gateway in order to submit your payment request.  
 dokos creates a unique link for each payment request redirecting your users to a payment page so they can choose their preferred payment method:
-![payment_request_link.png](/accounting/payment-gateways/payment_request_link.png)
+![payment_request_link.png](/content/comptabilite/payment-gateways/payment_request_link.png)
 
 If your reference doctype (Sales invoice/sales order) is linked to a subscription, dokos will do the following:
 1. Select the payment methods automatically when you click on save
@@ -52,7 +52,7 @@ In order to facilitate the selection of several payment gateways for each paymen
 
 You can either enter a fee amount manually or leave it to 0 so dokos can retrieve the exact fee amount from the payment processor and register it automatically.
 
-This amount will then be deducted from the payment amount and booked against the fee account registered in the corresponding [payment gateway](/dokos/accounting/payment-gateway.md).
+This amount will then be deducted from the payment amount and booked against the fee account registered in the corresponding [payment gateway](/dokos/comptabilite/payment-gateway).
 
 ### Notification email
 

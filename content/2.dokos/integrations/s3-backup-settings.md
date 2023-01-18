@@ -32,7 +32,7 @@ Dans les paramètres du bucket, activez **Bloquer tous les accès publics**  pou
 	- Créez une nouvelle politique pour le Service "S3", autorisant les Actions "ListBucket" et "PutObject".
 	- Créez un nouvel utilisateur pour l'accès par programmation.
   
-  ![s3_backup_add_user.png](/integration/s3-backup-settings/s3_backup_add_user.png)
+  ![s3_backup_add_user.png](/content/integrations/s3-backup-settings/s3_backup_add_user.png)
   
 - Attachez la stratégie que vous avez créée au nouvel utilisateur.
 	- Copiez la clé d'accès et le secret de l'utilisateur.

@@ -53,17 +53,17 @@ Il est également possible de laisser vos utilisateurs effectuer leurs réservat
 Pour mettre en place cette fonctionnalité, dans la section **Site Web**, cochez la case **Afficher sur le site web**. 
 
 Une fois activée, vos utilisateurs de site web auront le choix entre acheter des unités ou sélectionner un créneau:  
-![item_website_options.png](/venue/item-booking/item_website_options.png)
+![item_website_options.png](/content/lieu/item-booking/item_website_options.png)
 
 * Vous pouvez cocher la case __Désactiver l'achat d'unités__ pour ne permettre que la réservation de créneaux.
 
-> L'achat d'unités permet à votre utilisateur d'acheter X unités de votre service, sans spécifier les horaires auxquelles auront lieu ce service. Pour un fonctionnement similaire avec gestion de crédits, voir les [crédits de réservation](/fr/venue/booking-credits).
+> L'achat d'unités permet à votre utilisateur d'acheter X unités de votre service, sans spécifier les horaires auxquelles auront lieu ce service. Pour un fonctionnement similaire avec gestion de crédits, voir les [crédits de réservation](/lieu/booking-credits).
 
-* __Réservations simultanées autorisées__: Définissez le nombre de réservations simultanées autorisées > Pour que cette option apparaisse, il faut l'activer dans les [Paramètres du lieu](/fr/venue/venue-settings)
+* __Réservations simultanées autorisées__: Définissez le nombre de réservations simultanées autorisées > Pour que cette option apparaisse, il faut l'activer dans les [Paramètres du lieu](/lieu/venue-settings)
 
 Si vous souhaitez autoriser la réservation avec différentes unités de mesure (jour, heure,...) ajoutez les dans le tableau des unités de mesure.
 
 ::alert{type=warning}
-Les facteurs de conversion utilisés par le système de réservation sont ceux définis dans les [Facteurs de conversion](/fr/venue/uom-conversion-factor).
-Les facteurs de conversion définis dans la fiche article servent uniquement à la conversion des [prix de l'article](/fr/selling/item-price) pour la facturation.
+Les facteurs de conversion utilisés par le système de réservation sont ceux définis dans les [Facteurs de conversion](/lieu/uom-conversion-factor).
+Les facteurs de conversion définis dans la fiche article servent uniquement à la conversion des [prix de l'article](/selling/item-price) pour la facturation.
 ::

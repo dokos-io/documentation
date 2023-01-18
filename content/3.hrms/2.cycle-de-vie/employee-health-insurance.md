@@ -20,7 +20,7 @@ Pour accéder à à **la liste des Assurances Maladies**, allez sur :
 
 > Accueil > Ressources humaines > Employé > **Assurance maladie des employés**
 
-![liste_assurance_maladie.png](/humains-ressources/health-insurance/liste_assurance_maladie.png)
+![liste_assurance_maladie.png](/content/rh/health-insurance/liste_assurance_maladie.png)
 
 ## 1. Comment créer une assurance maladie pour les employés
 
@@ -28,4 +28,4 @@ Pour accéder à à **la liste des Assurances Maladies**, allez sur :
 2. Entrez le **nom** de l'assurance maladie.
 3. **Enregistrer**.
 
-![créer_assurance_maladie.png](/humains-ressources/health-insurance/créer_assurance_maladie.png)
+![créer_assurance_maladie.png](/content/rh/health-insurance/créer_assurance_maladie.png)

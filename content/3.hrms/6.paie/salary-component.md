@@ -20,7 +20,7 @@ Pour accéder à **la liste composante salariale**, allez sur :
 
 > Accueil > Ressources humaines > Paie > **Composante Salaire**
 
-![liste_composant_salariale.png](/payroll/liste_composant_salariale.png)
+![liste_composant_salariale.png](/content/payroll/liste_composant_salariale.png)
 
 ## 1. Comment créer une composante salariale 
 
@@ -31,7 +31,7 @@ Pour accéder à **la liste composante salariale**, allez sur :
 5. Saisissez le nom de l'entreprise et le compte par défaut de la composante salariale dans le tableau Comptes.
 6. **Enregistrer**.
 
-![détails_composante_salariale.png](/payroll/détails_composante_salariale.png)
+![détails_composante_salariale.png](/content/payroll/détails_composante_salariale.png)
 
 ## 2. Caractéristiques
 
@@ -50,7 +50,7 @@ Certains des attributs supplémentaires de la composante salariale qui peuvent �
 - **Exonéré d'impôt sur le revenu** : Si coché, le montant total sera déduit du revenu imposable avant le calcul de l'impôt sur le revenu sans aucune déclaration ni présentation de justificatif . Par exemple, la taxe professionnelle en Inde est déduite du revenu imposable avant le calcul de l'impôt sur le revenu.
 - **Désactivé** : cette case à cocher peut être cochée pour désactiver cette composante salariale. Une composante salariale désactivée ne peut pas être utilisée dans la structure salariale.
 
-![détails_composante_salariale.png](/payroll/détails_composante_salariale.png)
+![détails_composante_salariale.png](/content/payroll/détails_composante_salariale.png)
 
 ### 2.2 Avantages flexibles
 
@@ -62,7 +62,7 @@ Saisissez le montant annuel maximum de cet avantage flexible dans le champ **Mon
 - **Impact fiscal uniquement** (ne peut pas réclamer mais une partie du revenu imposable) : si elle est définie, l'avantage flexible fera partie du revenu imposable.
 Créer une écriture de paiement distincte pour la demande de prestations : Si cette case est cochée, elle vous permettra de créer une écriture de paiement distincte pour la demande de prestations.
 
-![avantages_sociaux_variables.png](/payroll/avantages_sociaux_variables.png)
+![avantages_sociaux_variables.png](/content/payroll/avantages_sociaux_variables.png)
 
 ### 2.3 Comptes
 
@@ -70,7 +70,7 @@ Dans cette section, ajoutez le comptes comptable si nécessaire pour ce composan
 
 Indiquez la société concernée et le compte comptable.
 
-![compte_composante.png](/payroll/compte_composante.png)
+![compte_composante.png](/content/payroll/compte_composante.png)
 
 ### 2.4 Condition et formule
 
@@ -82,5 +82,5 @@ Dans le cas où la Composante Salaire est basée sur un montant prédéfini, DOK
 **Remarque** : Cette configuration ci-dessus est facultative. Vous pouvez également définir le montant et la formule/condition pour une composante salariale directement dans la structure salariale. S'ils sont spécifiés dans le document de la composante salariale lui-même, les informations seront directement récupérées dans la structure salariale lorsque la composante est sélectionnée.
 ::
 
-![condition_et_formule.png](/payroll/condition_et_formule.png)
+![condition_et_formule.png](/content/payroll/condition_et_formule.png)
 

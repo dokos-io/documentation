@@ -20,7 +20,7 @@ Pour accéder à **la liste de Promesse d'embauche**, allez sur :
 
 > Accueil > Ressources Humaines > Recrutement > **Promesse d'embauche**
 
-![liste_promesse_d'embauche.png](/humains-ressources/appointment-letter/liste_promesse_d'embauche.png)
+![liste_promesse_d'embauche.png](/content/rh/appointment-letter/liste_promesse_d'embauche.png)
 
 
 ## 1. Prérequis avant utilisation
@@ -36,7 +36,7 @@ Avant de créer une lettre de rendez-vous, il est conseillé de créer les élé
 3. Vous pouvez remplir manuellement l'introduction, les conditions et la déclaration de clôture ou sélectionner un modèle de lettre de rendez-vous pour remplir automatiquement le contenu. Vous pouvez créer de nouveaux modèles de lettre de rendez-vous pour les sélectionner facilement.
 4. Cliquez sur Enregistrer.
 
-![détails_promesse_d'embauche.png](/humains-ressources/appointment-letter/détails_promesse_d'embauche.png)
+![détails_promesse_d'embauche.png](/content/rh/appointment-letter/détails_promesse_d'embauche.png)
 
 Après avoir enregistré, accédez à la vue avant impression pour afficher et enregistrer le fichier PDF de la lettre de rendez-vous.
 
@@ -48,19 +48,19 @@ Après avoir enregistré, accédez à la vue avant impression pour afficher et e
 
 Vous pouvez ajouter votre introduction pour la promesse d'embauche. Si vous avez sélectionné un Modèle de promesse d'embauche alors le contenu de celui-ci sera repris.
 
-![introduction_promesse.png](/humains-ressources/appointment-letter/introduction_promesse.png)
+![introduction_promesse.png](/content/rh/appointment-letter/introduction_promesse.png)
 
 ### 3.2 Termes
 
 Ajoutez tous les termes nécessaires pour indiquez toutes les informations de la promesse d'embauche (Date de début, Type de contrat, horaires de travail etc.)
 
-![termes_promesse.png](/humains-ressources/appointment-letter/termes_promesse.png)
+![termes_promesse.png](/content/rh/appointment-letter/termes_promesse.png)
 
 ### 3.2 Conclusion
 
 Vous pouvez ajouter votre conclusion pour la promesse d'embauche. Si vous avez sélectionné un Modèle de promesse d'embauche alors le contenu de celui-ci sera repris.
 
-![conclusion_promesse.png](/humains-ressources/appointment-letter/conclusion_promesse.png)
+![conclusion_promesse.png](/content/rh/appointment-letter/conclusion_promesse.png)
 
 # Modèle de promesse d'embauche
 
@@ -74,7 +74,7 @@ Pour accéder à **la liste de Modèle de promesse d'embauche**, allez sur :
 
 > Accueil > Ressources Humaines > Recrutement > **Modèle de promesse d'embauche**
 
-![liste_promesse_d'embauche.png](/humains-ressources/appointment-letter-template/liste_promesse_d'embauche.png)
+![liste_promesse_d'embauche.png](/content/rh/appointment-letter-template/liste_promesse_d'embauche.png)
 
 ## 1. Comment créer un modèle de promesse d'embauche ?
 
@@ -82,4 +82,4 @@ Pour accéder à **la liste de Modèle de promesse d'embauche**, allez sur :
 2. Remplissez l'introduction, les termes et la conclusion
 3. Cliquez sur **Enregistrer**.
 
-![détails_modèle.png](/humains-ressources/appointment-letter-template/détails_modèle.png)
+![détails_modèle.png](/content/rh/appointment-letter-template/détails_modèle.png)

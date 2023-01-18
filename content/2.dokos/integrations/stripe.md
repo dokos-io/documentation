@@ -45,7 +45,7 @@ Vous pouvez également créer les webhooks depuis Dokos en cliquant sur le bouto
 
 # Passerelles de paiement
 
-Une fois votre compte Stripe créé, allez dans les passerelles de paiement générées et complétez les informations présentées dans la page dédiées aux [passerelles de paiement](/fr/accounting/payment-gateways).
+Une fois votre compte Stripe créé, allez dans les passerelles de paiement générées et complétez les informations présentées dans la page dédiées aux [passerelles de paiement](/comptabilite/payment-gateways).
 Si vous devez autoriser des paiements dans d'autres devises que la devise de votre société, ajoutez des comptes de passerelle de paiement additionnels.
 
 Dokos est configuré pour accepter les devises suivantes dans Stripe:

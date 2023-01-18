@@ -19,13 +19,13 @@ Pour accéder à **la liste de journal du véhicule**, allez sur :
 
 > Accueil > Ressources humaines > Gestion de flotte > **Journal de véhicule**
 
-![liste_journal.png](/humains-ressources/vehicle-log/liste_journal.png)
+![liste_journal.png](/content/rh/vehicle-log/liste_journal.png)
 
 ## 1. Prérequis avant utilisation
 
 Avant de créer un journal de véhicule, il est nécessaire de créer les documents suivants :
 
-- **[Véhicule](/fr/human-resources/vehicle)**
+- **[Véhicule](/rh/vehicle)**
 
 ## 2. Comment créer un journal de véhicule ?
 
@@ -36,7 +36,7 @@ Avant de créer un journal de véhicule, il est nécessaire de créer les docume
 5. De plus, les détails du service du véhicule peuvent également être ajoutés comme indiqué (facultatif).
 6. Enregistrer. Une fois les informations enregistrées, les valeurs du modèle et de la marque seront automatiquement récupérées.
 
-![détails_journal.png](/humains-ressources/vehicle-log/détails_journal.png)
+![détails_journal.png](/content/rh/vehicle-log/détails_journal.png)
 
 
 ## 3. Caractéristiques
@@ -47,7 +47,7 @@ La gestion de flotte dans DOKOS vous permet de créer automatiquement une note d
 
 Le relevé du compteur kilométrique permeet d'indiquer à une date la valeur actuelle de l'odomètre.
 
-![relevé_du_compteur.png](/humains-ressources/vehicle-log/relevé_du_compteur.png)
+![relevé_du_compteur.png](/content/rh/vehicle-log/relevé_du_compteur.png)
 
 ### 3.2 Détails du ravitaillement
 
@@ -58,7 +58,7 @@ Dans les détails de ravitaillement, plusieurs champs sont à renseigner.
 - Fournisseur
 - Facture de référence
 
-![détails_du_ravitaillement.png](/humains-ressources/vehicle-log/détails_du_ravitaillement.png)
+![détails_du_ravitaillement.png](/content/rh/vehicle-log/détails_du_ravitaillement.png)
 
 ### 3.3 Détails du service
 
@@ -69,13 +69,13 @@ Dans les détails du service vous allez pouvoir indiquez tous les autres frais l
 - **Fréquence** : Kilométrage, Mensuel, Trimestriel, Semestriel, Annuel
 - **Charges** : Montant des coûts.
 
-![détails_du_service.png](/humains-ressources/vehicle-log/détails_du_service.png)
+![détails_du_service.png](/content/rh/vehicle-log/détails_du_service.png)
 
 ### 3.4 Faire une demande de remboursement des dépenses du véhicule
 
 Cliquez sur le bouton **Créer** puis sur le bouton **Note de frais**. Ce bouton n'apparaît que dans le cas des journaux de véhicule est validé.
 
-![demande_note_de_frais.png](/demande_note_de_frais.png)
+![demande_note_de_frais.png](/content/(unsorted)/demande_note_de_frais.png)
 
 Lorsque vous cliquez sur **Note de frais**,
 
@@ -83,4 +83,4 @@ Lorsque vous cliquez sur **Note de frais**,
 2. La somme des dépenses de carburant et des dépenses de service est calculée et ajoutée au montant de la note de frais.
 3. L'employé peut soumettre la note de frais pour un traitement ultérieur.
 
-![créer_note_de_frais.png](/créer_note_de_frais.png)
+![créer_note_de_frais.png](/content/(unsorted)/créer_note_de_frais.png)

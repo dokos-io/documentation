@@ -20,14 +20,14 @@ Pour accéder à **la liste salaire supplémentaire**, allez sur :
 
 > Accueil > Paie > **Salaire supplémentaire**
 
-![liste_salaire_supp.png](/payroll/additional-salary/liste_salaire_supp.png)
+![liste_salaire_supp.png](/content/payroll/additional-salary/liste_salaire_supp.png)
 
 ## 1. Prérequis avant utilisation
 
 Avant de créer un salaire supplémentaire, il est conseillé de créer les éléments suivants :
 
-- **[Employé](/fr/human-resources/employee)**
-- **[Composante salariale](/fr/payroll/salary-component)**
+- **[Employé](/rh/employee)**
+- **[Composante salariale](/payroll/salary-component)**
 
 ## 2. Comment créer un salaire supplémentaire
 
@@ -39,7 +39,7 @@ Avant de créer un salaire supplémentaire, il est conseillé de créer les él�
 6. **Enregistrer** et envoyer.
 7. Cochez la case **Remplacer le montant de la structure salariale** pour écraser la composante du salaire supplémentaire sur le montant de la structure salariale. De plus, la case à cocher « Déduire la totalité de l'impôt à la date de paie sélectionnée » peut être cochée si la totalité de l'impôt doit être déduite sur la composante du salaire supplémentaire pour cette date de paie particulière.
 
-![détails_salaire_supp.png](/payroll/additional-salary/détails_salaire_supp.png)
+![détails_salaire_supp.png](/content/payroll/additional-salary/détails_salaire_supp.png)
 
 ## 3.Caractéristiques
 
@@ -49,5 +49,5 @@ Cette fonctionnalité permet aux utilisateurs de créer un salaire supplémentai
 
 Lorsque **Récurrent** est coché, vous devez remplir **Date de début** et **Date de fin**. Cela ajoutera ou déduira le montant du salaire supplémentaire pour cet employé dans la plage de dates sélectionnée et cela sera reflété dans le bulletin de salaire de l'employé. Le salaire supplémentaire sera répété chaque mois entre l'intervalle renseigné.
 
-![récurrent_salaire_supp.png](/payroll/additional-salary/récurrent_salaire_supp.png)
+![récurrent_salaire_supp.png](/content/payroll/additional-salary/récurrent_salaire_supp.png)
 

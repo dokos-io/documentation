@@ -27,7 +27,7 @@ Pour accéder à la liste des groupes d'articles, allez sur :
 4. Pour faire de cet enfant un nœud de catégorie / groupe, cochez Nœud de groupe.
 5. Cliquez sur Créer nouveau.
 
-![nouveau_groupe_d'articles.png](/stocks/item-group/nouveau_groupe_d'articles.png)
+![nouveau_groupe_d'articles.png](/content/stocks/item-group/nouveau_groupe_d'articles.png)
 
 ## 2. Caractéristiques
 

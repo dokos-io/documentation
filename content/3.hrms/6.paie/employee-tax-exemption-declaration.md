@@ -20,13 +20,13 @@ Pour accéder à **la liste déclaration d'exonération fiscale des salariés**,
 
 > Accueil > Ressources humaines > Impôts et avantages sociaux des employés > **Déclaration d'exonération fiscale des employés**
 
-![liste_déclaration_d'exemption_de_taxe.png](/payroll/employee-tax-exemption-declaration/liste_déclaration_d'exemption_de_taxe.png)
+![liste_déclaration_d'exemption_de_taxe.png](/content/payroll/employee-tax-exemption-declaration/liste_déclaration_d'exemption_de_taxe.png)
 
 ## 1. Prérequis avant utilisation
 
 Avant de créer une déclaration d'exonération fiscale des employés, il est conseillé de créer les éléments suivants :
 
-- **[Employé](/fr/human-resources/employee)**
+- **[Employé](/rh/employee)**
 - **Catégorie d'exonération fiscale des employés**
 - **Sous-catégorie d'exonération fiscale des employés**
 
@@ -37,7 +37,7 @@ Avant de créer une déclaration d'exonération fiscale des employés, il est co
 3. Saisissez le **montant maximal** de l'exonération et le **montant déclaré**.
 4. **Enregistrer** et envoyer.
 
-![détails_déclarations.png](/payroll/employee-tax-exemption-declaration/détails_déclarations.png)
+![détails_déclarations.png](/content/payroll/employee-tax-exemption-declaration/détails_déclarations.png)
 
 Le montant total de l'exonération sera exonéré des gains annuels imposables de l'employé lors du calcul des retenues d'impôt sur la paie.
 
@@ -53,7 +53,7 @@ Les exonérations du salaire imposable sont généralement limitées aux dépens
 
 Vous pouvez configurer la catégorie d'exonération fiscale des employés en allant sur Impôts et avantages sociaux des employés > Catégorie d'exonération fiscale des employés
 
-![catégorie_exemption.png](/payroll/employee-tax-exemption-declaration/catégorie_exemption.png)
+![catégorie_exemption.png](/content/payroll/employee-tax-exemption-declaration/catégorie_exemption.png)
 
 ### 3.2 Sous-catégorie d'exonération fiscale des employés
 
@@ -61,6 +61,6 @@ Dans chaque catégorie, il pourrait y avoir de nombreux chefs pour lesquels les 
 
 Vous pouvez configurer la catégorie d'exonération fiscale des employés en allant à, Taxe et avantages sociaux des employés > Sous-catégorie d'exonération fiscale des employés
 
-![sous_catégorie_exemption.png](/payroll/employee-tax-exemption-declaration/sous_catégorie_exemption.png)
+![sous_catégorie_exemption.png](/content/payroll/employee-tax-exemption-declaration/sous_catégorie_exemption.png)
 
 

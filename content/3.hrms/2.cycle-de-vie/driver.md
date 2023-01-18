@@ -18,7 +18,7 @@ Pour accéder à **la liste de Chauffeur**, allez sur :
 
 > Accueil > Ressources humaines > Gestion de flotte > **Chauffeur**
 
-![liste_chauffeur_.png](/humains-ressources/driver/liste_chauffeur_.png)
+![liste_chauffeur_.png](/content/rh/driver/liste_chauffeur_.png)
 
 ## 1. Comment créer un chauffeur ?
 
@@ -27,7 +27,7 @@ Pour accéder à **la liste de Chauffeur**, allez sur :
 3. Si vous faites appel à un transporteur externe, sélectionnez le transporteur.
 4. Enregistrer
 
-![détails_chauffeur.png](/humains-ressources/driver/détails_chauffeur.png)
+![détails_chauffeur.png](/content/rh/driver/détails_chauffeur.png)
 
 ## 2. Caractéristiques
 
@@ -39,10 +39,10 @@ Vous pouvez saisir les différents élements de la licence du chauffeur.
 - Date d'émission
 - Date d'expiration
 
-![détails_licence_chauffeur.png](/humains-ressources/driver/détails_licence_chauffeur.png)
+![détails_licence_chauffeur.png](/content/rh/driver/détails_licence_chauffeur.png)
 
 ### 2.2 Catégorie de permis de conduire
 
 Saisissez toutes les informations relatives dans la table de catégorie du permis de conduire comme la classe du permis, une description, la date d'émission, la date d'expiration.
 
-![catégorie_permis_chauffeur.png](/humains-ressources/driver/catégorie_permis_chauffeur.png)
+![catégorie_permis_chauffeur.png](/content/rh/driver/catégorie_permis_chauffeur.png)

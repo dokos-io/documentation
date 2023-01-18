@@ -19,20 +19,20 @@ Pour ce faire, il faut avoir un compte Google Workspace.
 1. Rendez-vous à l'adresse suivante : **<a href="https://mail.google.com/chat" target="_blank">https://mail.google.com/chat</a>**
 2. Cliquez en bas à gauche, dans **Salles**. Cliquez sur **+** et ajoutez un **Espace de travail**
 
-![ajouter_salle.png](/integration/google-chat/ajouter_salle.png)
+![ajouter_salle.png](/content/integrations/google-chat/ajouter_salle.png)
 
 3. Indiquez le nom de votre **Espace de travail**
 
-![détails.png](/integration/google-chat/détails.png)
+![détails.png](/content/integrations/google-chat/détails.png)
 
 4. Puis cliquez en haut, sur la section **Nom de l'espace de travail**
 5. Faites **Gérer les Webhooks**
 
-![webhook_création.png](/integration/google-chat/webhook_création.png)
+![webhook_création.png](/content/integrations/google-chat/webhook_création.png)
 
 6. Sur la fenêtre qui s'ouvre, vous avez l'URL de votre Webhook entrant, copiez-le. Il sera à insérer sur la plateforme Dokos.
 
-![url.png](/integration/google-chat/url.png)
+![url.png](/content/integrations/google-chat/url.png)
 
 
 ## 2. Configuration du Webhook depuis Dokos
@@ -43,7 +43,7 @@ Il faut maintenant créer le Webhook permettant de dire au logiciel de lier Doko
 
 > Accueil > Intégration > Paramètres > URL de webhook entrant
 
-![liste_webhook.png](/integration/google-chat/liste_webhook.png)
+![liste_webhook.png](/content/integrations/google-chat/liste_webhook.png)
 
 2. Cliquez sur Ajouter **URL Webhook entrant**
 3. Indiquez le **nom** du Webhook entrant
@@ -51,7 +51,7 @@ Il faut maintenant créer le Webhook permettant de dire au logiciel de lier Doko
 5. Dans la section URL du webhook, il suffit d'insérer l'URL que vous avez copié dans Google Chat (Étape 6 - Accès à Google Chat et configuration)
 6. Faites **Enregistrer**
 
-![google_chat.png](/integration/google-chat/google_chat.png)
+![google_chat.png](/content/integrations/google-chat/google_chat.png)
 
 ## 3. Configuration des notifications
 
@@ -61,7 +61,7 @@ Il faut créer une notification permettant de dire au logiciel à quelle action 
 
 > Accueil > Paramètres > Email / Notifications > **Notification**
 
-![liste_notification.png](/integration/google-chat/liste_notification.png)
+![liste_notification.png](/content/integrations/google-chat/liste_notification.png)
 
 2. Cliquez sur **Ajouter une notification**
 3. Ajoutez les informations suivantes :
@@ -70,7 +70,7 @@ Il faut créer une notification permettant de dire au logiciel à quelle action 
 	- Sélectionnez un **canal** : Choisissez **Outil de collaboration externe**
 	- URL de Webhook entrant de l'outil de collaboration : Sélectionnez le Webhhook entrant que vous avez créé à l'**étape 2.2**.
 
-![détails_notification.png](/integration/google-chat/détails_notification.png)
+![détails_notification.png](/content/integrations/google-chat/détails_notification.png)
 
 ## 4 Détails de notification
 
@@ -90,7 +90,7 @@ Depuis cette section, gérez vos paramètres de **Filtres** :
 	doc.due_date==nowdate()
 	doc.total > 40000 
 
-![filtres_notification.png](/integration/google-chat/filtres_notification.png)
+![filtres_notification.png](/content/integrations/google-chat/filtres_notification.png)
 
 ### 4.2 Modifier une propriété après la notification
 
@@ -98,7 +98,7 @@ Depuis cette section, gérez vos paramètres de **modification de propriété ap
 
 Vous pouvez choisir de modifier une propriété après la notification puis il faut définir une valeur qui sera concerné par cette modification.
 
-![modifier_une_propriété.png](/integration/google-chat/modifier_une_propriété.png)
+![modifier_une_propriété.png](/content/integrations/google-chat/modifier_une_propriété.png)
 
 ### 4.3 Message
 
@@ -118,17 +118,17 @@ Voici un exemple de message :
 `• Sujet : {{ doc.subject }}`
 `• Message : {{ doc.description }}`
 
-![message_notification.png](/integration/google-chat/message_notification.png)
+![message_notification.png](/content/integrations/google-chat/message_notification.png)
 
 #### 5. Tester la notification
 
 1. Vous pouvez simplement tester votre notification en cliquant sur le bouton en haut à droite **Tester cette notification**.
 
-![tester_notification.png](/integration/google-chat/tester_notification.png)
+![tester_notification.png](/content/integrations/google-chat/tester_notification.png)
 
 2. Vérifiez maintenant sur Google Chat que vous avez bien reçu la notification. 
 
-![vérification_test.png](/integration/google-chat/vérification_test.png)
+![vérification_test.png](/content/integrations/google-chat/vérification_test.png)
 
 
 

@@ -18,7 +18,7 @@ Pour accéder à la **liste des cartes des compétences des employés**, allez s
 
 > Accueil > Ressources humaines > Cycle de vie des employés > **Carte des compétences des employés**
 
-![liste_carte_compétences.png](/humains-ressources/employee-skill-map/liste_carte_compétences.png)
+![liste_carte_compétences.png](/content/rh/employee-skill-map/liste_carte_compétences.png)
 
 Assurez-vous d'avoir défini les compétences requises pour les désignations à partir du doctype de compétence.
 
@@ -29,7 +29,7 @@ Assurez-vous d'avoir défini les compétences requises pour les désignations à
 3. Sur la base de la désignation de l'employé, le système tirera les compétences. 
 4. **Enregistrer**
 
-![détails_carte_compétence.png](/humains-ressources/employee-skill-map/détails_carte_compétence.png)
+![détails_carte_compétence.png](/content/rh/employee-skill-map/détails_carte_compétence.png)
 
 ## 2. Caractéristiques
 
@@ -38,10 +38,10 @@ Assurez-vous d'avoir défini les compétences requises pour les désignations à
 Définissez le niveau de compétence sur 5 et la date d'évaluation.
 Si l'employé manque de compétences, vous pouvez planifier des formations pour l'employé.
 
-![compétences_carte.png](/humains-ressources/employee-skill-map/compétences_carte.png)
+![compétences_carte.png](/content/rh/employee-skill-map/compétences_carte.png)
 
 ### 2.2 Formation
 
 Dans le tableau Formations, sélectionnez l'événement de formation et la date de formation.
 
-![formations_carte_compétences.png](/humains-ressources/employee-skill-map/formations_carte_compétences.png)
+![formations_carte_compétences.png](/content/rh/employee-skill-map/formations_carte_compétences.png)

@@ -20,7 +20,7 @@ Pour accéder à **la liste tranche d'impôt sur le revenu**, allez sur :
 
 > Accueil > Paie > **Tranche d'impôt sur le revenu**
 
-![liste_tranche_d'impôt.png](/payroll/income-tax-slab/liste_tranche_d'impôt.png)
+![liste_tranche_d'impôt.png](/content/payroll/income-tax-slab/liste_tranche_d'impôt.png)
 
 ## 1. Comment créer une tranche d'impôt sur le revenu
 
@@ -28,7 +28,7 @@ Pour accéder à **la liste tranche d'impôt sur le revenu**, allez sur :
 2. Cochez la case **Autoriser l'exonération fiscale**  le cas échéant.
 3. Enregistrer et envoyer.
 
-![détails_tranche_d'impôt.png](/payroll/income-tax-slab/détails_tranche_d'impôt.png)
+![détails_tranche_d'impôt.png](/content/payroll/income-tax-slab/détails_tranche_d'impôt.png)
 
 ## 2. Caractéristiques
 
@@ -38,7 +38,7 @@ Dans la table de tranches de salaires imposables, vous pouvez définir le taux p
 
 La tranche fiscale peut être applicable selon des conditions particulières. Les conditions peuvent être écrites en utilisant tous les noms de champ des documents Employé, Structure salariale, Affectation de la structure salariale et Fiche de salaire.
 
-![tranches_de_salaire_imposables.png](/payroll/income-tax-slab/tranches_de_salaire_imposables.png)
+![tranches_de_salaire_imposables.png](#not-found:/payroll/income-tax-slab/tranches_de_salaire_imposables.png)
 
 
 Exemples:
@@ -61,7 +61,7 @@ annual_taxable_earning > 500000
 
 Si d'autres taxes sont applicables sur l'impôt sur le revenu calculé, vous pouvez les saisir à l'aide de ce tableau. Vous pouvez également définir le montant imposable min et max pour lequel cette taxe sera applicable. Par exemple, la taxe sur la santé et l'éducation est appliquée en plus à l'impôt sur le revenu pour tout le monde en France.
 
-![taxes_et_frais_sur_l'impôt_sur_le_revenu.png](/payroll/income-tax-slab/taxes_et_frais_sur_l'impôt_sur_le_revenu.png)
+![taxes_et_frais_sur_l'impôt_sur_le_revenu.png](/content/payroll/income-tax-slab/taxes_et_frais_sur_l'impôt_sur_le_revenu.png)
 
 
 ### 2.3 Autres propriétés

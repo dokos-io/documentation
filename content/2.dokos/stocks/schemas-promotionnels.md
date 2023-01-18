@@ -26,10 +26,10 @@ Pour accéder à l**a liste des schémas promotionnels**, allez sur :
 
 Avant de créer et d'utiliser un système promotionnel, il est conseillé de créer d'abord les éléments suivants :
 
-- **[Article](/fr/stocks/item)**
-- **[Groupe d'article](/fr/stocks/item-group)**
-- **[Client](/fr/crm/customer)**
-- **[Fournisseur](/fr/buying/supplier)**
+- **[Article](/stocks/item)**
+- **[Groupe d'article](/stocks/item-group)**
+- **[Client](/crm/customer)**
+- **[Fournisseur](/achats/supplier)**
 
 ## 2. Comment créer un programme promotionnel
 

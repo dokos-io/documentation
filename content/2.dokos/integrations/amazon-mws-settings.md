@@ -22,19 +22,19 @@ Vous pouvez demander les informations d'identification du développeur à Amazon
 
 Saisissez l'ID du vendeur, l'ID de la clé d'accès AWS, le jeton d'authentification MWS, la clé secrète, l'ID de la place de marché, la région et le domaine.
 
-![paramètres_amazon.png](/settings/amazon/paramètres_amazon.png)
+![paramètres_amazon.png](#not-found:/settings/amazon/paramètres_amazon.png)
 
 ### 1.3 Configurer les détails de la commande 
 Configurez la société, l'entrepôt, le groupe d'articles, la liste de prix, le groupe de clients, le territoire, le type de client et le groupe de comptes. Le groupe de comptes est utilisé pour détenir les commissions, les taxes, etc. facturées par Amazon. 
 
-![détails_société_amazon.png](/settings/amazon/détails_société_amazon.png)
+![détails_société_amazon.png](/content/settings/amazon/détails_société_amazon.png)
 
 ### 1.4 Configurer les configurations de synchronisation 
 À l'aide de la date d'après, vous pouvez synchroniser les produits et les commandes créés après une date particulière. Si vous importez beaucoup de données historiques, il est suggéré de commencer dans l'ordre chronologique inverse de la date d'après et d'importer les données par petits morceaux.
 
 Après avoir configuré toutes les configurations, cliquez sur Activer Amazon et enregistrez les paramètres. Vous êtes maintenant prêt à utiliser l'intégration.
 
-![synchronis.png](/settings/amazon/synchronis.png)
+![synchronis.png](/content/settings/amazon/synchronis.png)
 
 ### 1.5 Synchroniser les produits 
 Cliquez sur ce bouton pour synchroniser les produits. Une fois cela réussi, vous devriez voir vos produits Amazon en tant qu'articles dans ERPNext.

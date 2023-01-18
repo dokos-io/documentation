@@ -27,7 +27,7 @@ Cela permet d'obtenir un jeton d'accès (autorisation d'accéder au service) de 
 1. Utilisez un projet existant ou créez un nouveau projet
 1. Dans **API and Services** sélectionnez **Credentials**
 1. Cliquez sur **Create credentials** et sélectionnez **OAuth Client ID**
-![oauth_client_creation.png](/integrations/google/oauth_client_creation.png)
+![oauth_client_creation.png](/content/integrations/google/oauth_client_creation.png)
 1. Sélectionnez **Web Application**
 1. Dans **Authorized Javascript origins** ajoutez l'URL de votre site: `https://{votresite}` (Ex. __https://dokos.io__)
 1. Dans **Authorized redirect URIs** ajoutez les URLs suivantes en fonction de vos besoins d'intégration:
@@ -37,7 +37,7 @@ Cela permet d'obtenir un jeton d'accès (autorisation d'accéder au service) de 
     
 1. Enregistrez et copiez/collez le **Client ID** et **Client Secret** générés dans les champs correspondants du document **Google Settings** de __dokos__
 2. Allez dans **OAuth consent screen** et ajoutez votre domaine aux **Authorized domains**
-![oauth_consent_setup.png](/integrations/google/oauth_consent_setup.png)
+![oauth_consent_setup.png](/content/integrations/google/oauth_consent_setup.png)
 3. . Allez dans **Library** et activez les APIs nécessaires: **Contacts API**, **Google Calendar API** et/ou **Google Drive API**
 
 ## 2. Paramétrage pour Maps

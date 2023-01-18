@@ -26,7 +26,7 @@ Pour accéder à la liste des éléments, accédez à:
 Avant de créer et d'utiliser un élément, il est conseillé de créer d'abord les éléments suivants :
 
 - **Groupe d'articles**
-- **[Entrepôt](/fr/stocks/warehouse)**
+- **[Entrepôt](/stocks/warehouse)**
 - **Une unité de mesure si nécessaire**
 
 ## 2. Comment créer un article

@@ -24,8 +24,8 @@ L'échéancier d'Entretien est généralement créé à partir d'une commande cl
 
 ## 1. Prérequis avant utilisation
 
-- **[Client](/fr/crm/customer)**
-- **[Article](/fr/stocks/item)**
+- **[Client](/crm/customer)**
+- **[Article](/stocks/item)**
 
 ## 2. Comment créer un programme de maintenance
 

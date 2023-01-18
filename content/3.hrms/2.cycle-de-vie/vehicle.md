@@ -18,7 +18,7 @@ Pour accéder à la fiche véhicule, allez sur :
 
 > Accueil > Ressources humaines > Gestion de flotte > **Véhicule**
 
-![liste_véhicule.png](/humains-ressources/vehicle/liste_véhicule.png)
+![liste_véhicule.png](/content/rh/vehicle/liste_véhicule.png)
 
 ## 1. Comment ajouter un Véhicule ?
 
@@ -28,7 +28,7 @@ Pour accéder à la fiche véhicule, allez sur :
 4. Entrez d'autres détails supplémentaires tels que le type de carburant et l'unité de mesure du carburant.
 5. **Enregistrer**.
 
-![détails_véhicules.png](/humains-ressources/vehicle/détails_véhicules.png)
+![détails_véhicules.png](/content/rh/vehicle/détails_véhicules.png)
 
 ## 2. Caractéristiques
 
@@ -43,7 +43,7 @@ Des détails supplémentaires sur le véhicule sont à complèter sur la fiche :
 - Emplacement
 - Employé gérant le véhicule
 
-![détails.png](/humains-ressources/vehicle/détails.png)
+![détails.png](/content/rh/vehicle/détails.png)
 
 ### 2.2 Détails de l'assurance 
 
@@ -54,10 +54,10 @@ Les détails de l'assurance peuvent être indiqués dans la fiche du véhicule.
 - Date de début
 - Date de fin
 
-![détails_assurance.png](/humains-ressources/vehicle/détails_assurance.png)
+![détails_assurance.png](/content/rh/vehicle/détails_assurance.png)
 
 ### 2.2 Détails supplémentaires
 
 De plus, les attributs du véhicule tels que la couleur, les roues, la porte, le dernier contrôle du carbone, le type de carburant et l'UOM peuvent être enregistrés dans le maître du véhicule.
 
-![détails_supplémentaires.png](/humains-ressources/vehicle/détails_supplémentaires.png)
+![détails_supplémentaires.png](/content/rh/vehicle/détails_supplémentaires.png)

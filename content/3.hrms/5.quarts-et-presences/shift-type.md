@@ -24,7 +24,7 @@ Pour accéder à **la liste de Type de quart**, allez sur :
 
 > Accueil > Ressources Humaines > Gestion des quarts > **Type de quart**
 
-![liste_type_de_quart.png](/humains-ressources/shift-type/liste_type_de_quart.png)
+![liste_type_de_quart.png](/content/rh/shift-type/liste_type_de_quart.png)
 
 ## 1. Type de quart
 
@@ -35,7 +35,7 @@ Le document Type d'équipe vous permet de définir les différents types d'équi
 3. Sélectionnez **la liste de congés**
 3. Enregistrer
 
-![créer_type_de_quart.png](/humains-ressources/shift-type/créer_type_de_quart.png)
+![créer_type_de_quart.png](/content/rh/shift-type/créer_type_de_quart.png)
 
 ## 2. Caractéristiques
 

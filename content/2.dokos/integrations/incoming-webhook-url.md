@@ -22,7 +22,7 @@ Il faut maintenant créer le Webhook entrant permettant de dire au logiciel de l
 
 > Accueil > Intégration > Paramètres > URL de webhook entrant
 
-![liste_webhook.png](/integration/google-chat/liste_webhook.png)
+![liste_webhook.png](/content/integrations/google-chat/liste_webhook.png)
 
 2. Cliquez sur Ajouter **URL Webhook entrant**
 3. Indiquez le **nom** du Webhook entrant
@@ -30,4 +30,4 @@ Il faut maintenant créer le Webhook entrant permettant de dire au logiciel de l
 5. Dans la section URL du webhook, il suffit d'insérer l'URL que vous avez copié dans l'outil de collaboration sélectionné
 6. Faites **Enregistrer**
 
-![slack_intégration.png](/integration/slack/slack_intégration.png)
+![slack_intégration.png](/content/integrations/slack/slack_intégration.png)

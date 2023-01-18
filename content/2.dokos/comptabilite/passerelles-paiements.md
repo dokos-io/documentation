@@ -40,7 +40,7 @@ It is possible to define the following elements for each payment gateway:
     - An icon
 
 Example:
-![payment_request_link.png](/accounting/payment-gateways/payment_request_link.png)
+![payment_request_link.png](/content/comptabilite/payment-gateways/payment_request_link.png)
 
 ## Integrations
 ### Stripe

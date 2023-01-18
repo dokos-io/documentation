@@ -20,7 +20,7 @@ Pour accéder à **la liste demandeur d'emploi**, allez sur :
 
 > Accueil > Ressources Humaines > Recrutement > **Demandeur d'emploi**
 
-![liste_demandeur_d'emploi.png](/humains-ressources/job-applicant/liste_demandeur_d'emploi.png)
+![liste_demandeur_d'emploi.png](/content/rh/job-applicant/liste_demandeur_d'emploi.png)
 
 ## 1. Prérequis avant utilisation
 
@@ -41,7 +41,7 @@ Avant de créer un demandeur d'emploi, il est conseillé de créer les élément
 **Remarque** : Si vous sélectionnez la source comme référence d'employé, vous devrez sélectionner le nom de l'employé dans le champ Nom de la source.
 ::
 
-![détails_demandeur.png](/humains-ressources/job-applicant/détails_demandeur.png)
+![détails_demandeur.png](/content/rh/job-applicant/détails_demandeur.png)
 
 ## 3. Caractéristiques
 
@@ -49,14 +49,14 @@ Avant de créer un demandeur d'emploi, il est conseillé de créer les élément
 
 Ajoutez la lettre de motivation du demandeur d'emploi pour avoir une trace écrite. Vous pouvez également ajouter son CV soit avec une pièce jointe ou alors via un lien direct.
 
-![lettre_de_motivation.png](/humains-ressources/job-applicant/lettre_de_motivation.png)
+![lettre_de_motivation.png](/content/rh/job-applicant/lettre_de_motivation.png)
 
 ### 3.2 Attente salariale
 
 - **Devise** : Sélectionner la devise pour l'attente salariale
 - Tranche inféfireur et supérieure : Indiquez dans quelle tranche le salaire se situe. Par exemple, entre 2000 et 2500 Euros / mois.
 
-![attente_salariale.png](/humains-ressources/job-applicant/attente_salariale.png)
+![attente_salariale.png](/content/rh/job-applicant/attente_salariale.png)
 
 ### 3.1 Liaison avec un compte de messagerie
 

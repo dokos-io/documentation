@@ -18,13 +18,13 @@ Pour accéder à **la liste de demande de présence**, allez sur :
 
 Accueil > Ressources humaines > Présence > **Demande de valiation de présence**
 
-![liste_demande_de_validation.png](/humains-ressources/attendance-request/liste_demande_de_validation.png)
+![liste_demande_de_validation.png](/content/rh/attendance-request/liste_demande_de_validation.png)
 
 ## 1. Prérequis avant utilisation
 
 Avant de créer une demande de présence, il est conseillé de créer d'abord les éléments suivants :
 
-- **[Employé](/fr/human-resources/employee)**
+- **[Employé](/rh/employee)**
 
 ## 2. Comment créer une demande de présence 
 
@@ -37,7 +37,7 @@ Avant de créer une demande de présence, il est conseillé de créer d'abord le
 4. Sélectionnez Raison et saisissez Explication (facultatif).
 5. Enregistrer et envoyer.
 
-![créer_demande_de_validation.png](/humains-ressources/attendance-request/créer_demande_de_validation.png)
+![créer_demande_de_validation.png](/content/rh/attendance-request/créer_demande_de_validation.png)
 
 ::alert{type=warning}
 **Remarque 1** : Vous pouvez cocher la case **Demi-journée** et saisir la date au cas où la participation est pour une demi-journée.
