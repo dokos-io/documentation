@@ -7,10 +7,11 @@
     "preview": "nuxt preview"
   },
   "devDependencies": {
-    "@nuxt-themes/docus": "^1.4.4",
+    "@nuxt-themes/docus": "^1.4.6",
     "nuxt": "^3.0.0"
   },
   "dependencies": {
-    "mermaid": "^9.3.0"
+    "mermaid": "^9.3.0",
+    "swagger-ui-dist": "^4.15.5"
   }
 }
