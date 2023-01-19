@@ -12,7 +12,7 @@ dateCreated: 2021-06-17T09:59:50.158Z
 
 Le formulaire d'attribution de la structure salariale vous permet d'affecter une structure salariale particulière à l'employé.
 
-Dans DOKOS, vous pouvez créer plusieurs attribtuions de structure salariale pour le même employé pour différentes périodes.
+Dans Dokos, vous pouvez créer plusieurs attribtuions de structure salariale pour le même employé pour différentes périodes.
 
 ---
 

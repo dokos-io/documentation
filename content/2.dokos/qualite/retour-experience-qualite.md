@@ -29,7 +29,7 @@ Pour accéder à **la liste retour de qualité**, allez sur :
 ## 1. Comment créer un retour de qualité
 
 1. Accédez à **la liste des retours sur la qualité**, cliquez sur **:heavy_plus_sign: Ajouter un retour de qualité**.
-2. Sélectionnez si le retour de qualité est par un client ou un utilisateur (utilisateur du compte DOKOS).
+2. Sélectionnez si le retour de qualité est par un client ou un utilisateur (utilisateur du compte Dokos).
 3. Sélectionnez le **client** ou l'**utilisateur** en particulier.
 4. La sélection d'un modèle de retour d'information sur la qualité remplira automatiquement les paramètres du retour d'information sur la qualité.
 5. La **date** sera automatiquement réglée sur **la date du jour**.

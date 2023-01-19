@@ -12,11 +12,11 @@ dateCreated: 2021-11-29T11:18:09.131Z
 
 Le connecteur Shopify extrait les commandes de Shopify et crée une commande client par rapport à elles dans ERPNext.
 
-Lors de la création de la commande client si le client ou l'article est manquant dans DOKOS, le système créera un nouveau client/article en extrayant les détails respectifs de Shopify.
+Lors de la création de la commande client si le client ou l'article est manquant dans Dokos, le système créera un nouveau client/article en extrayant les détails respectifs de Shopify.
 
 ## 1. Comment configurer le connecteur ?
 
-Shopify Connector est retiré de DOKOS et disponible via une application Frappe sur Frappe Cloud Marketplace
+Shopify Connector est retiré de Dokos et disponible via une application Frappe sur Frappe Cloud Marketplace
 
 ### 1.1 Note aux utilisateurs de l'ancien connecteur Shopify 
 
@@ -45,7 +45,7 @@ Autorisez les autorisations suivantes à l'application.
 
 ## 2. Configuration de Shopify sur ERPNext
 
-Une fois que vous avez créé une application privée sur Shopify, configurez les informations d'identification de l'application et d'autres détails dans les paramètres Shopify dans DOKOS.
+Une fois que vous avez créé une application privée sur Shopify, configurez les informations d'identification de l'application et d'autres détails dans les paramètres Shopify dans Dokos.
 
 Pour accéder aux paramètres Shopify, accédez à : Barre de recherche géniale > Paramètres Shopify
 
@@ -57,7 +57,7 @@ Pour accéder aux paramètres Shopify, accédez à : Barre de recherche géniale
 
 4. Configurer Tax Mapper. Préparez un mappeur de taxes et de frais d'expédition pour chaque taxe et frais d'expédition que vous appliquez dans Shopify. Vous pouvez trouver le nom de vos taxes sur votre page d'administration Shopify. Cartographie fiscale Shopify Trouver les noms de taxe Shopify
 
-Après avoir configuré toutes les configurations, activez la synchronisation Shopify et enregistrez les paramètres. Cela enregistrera les API sur Shopify et le système lancera la synchronisation des commandes entre Shopify et DOKOS.
+Après avoir configuré toutes les configurations, activez la synchronisation Shopify et enregistrez les paramètres. Cela enregistrera les API sur Shopify et le système lancera la synchronisation des commandes entre Shopify et Dokos.
 
 ## 3. Synchroniser les anciennes commandes de Shopify
 
@@ -78,11 +78,11 @@ Vous pouvez mettre à jour votre inventaire avec Shopify pour les articles synch
 
 
 ::alert{type=warning}
-**Remarque** : ce connecteur suppose qu'ERPNext est la principale source d'informations sur les niveaux de stock, toute modification apportée aux niveaux de stock de Shopify sera écrasée par ERPNext si les niveaux de stock de DOKOS changent.
+**Remarque** : ce connecteur suppose qu'ERPNext est la principale source d'informations sur les niveaux de stock, toute modification apportée aux niveaux de stock de Shopify sera écrasée par ERPNext si les niveaux de stock de Dokos changent.
 ::
 
 ::alert{type=warning}
-**Remarque** : Shopify ne prend pas en charge la quantité fractionnaire. Si une quantité fractionnaire est trouvée dans DOKOS, le niveau de stock sur Shopify sera défini en l'arrondissant au nombre entier le plus proche.
+**Remarque** : Shopify ne prend pas en charge la quantité fractionnaire. Si une quantité fractionnaire est trouvée dans Dokos, le niveau de stock sur Shopify sera défini en l'arrondissant au nombre entier le plus proche.
 ::
 
 
@@ -90,9 +90,9 @@ Vous pouvez mettre à jour votre inventaire avec Shopify pour les articles synch
 
 Vous pouvez activer la synchronisation des nouveaux éléments ERPNext vers Shopify en cochant « Télécharger les nouveaux éléments ERPNext vers Shopify ».
 
-Vous pouvez également mettre à jour l'article Shopify lors de la mise à jour de l'article DOKOS.
+Vous pouvez également mettre à jour l'article Shopify lors de la mise à jour de l'article Dokos.
 
-Le but de fournir cette fonctionnalité est de synchroniser les articles avec Shopify. Il n'est pas possible de mapper tous les champs 1 à 1. Lors de la création d'un article sur Shopify à l'aide de cette méthode, il est lié à DOKOS, ce qui élimine la possibilité de duplication. Vous pouvez modifier les articles sur Shopify ultérieurement pour ajouter plus de détails.
+Le but de fournir cette fonctionnalité est de synchroniser les articles avec Shopify. Il n'est pas possible de mapper tous les champs 1 à 1. Lors de la création d'un article sur Shopify à l'aide de cette méthode, il est lié à Dokos, ce qui élimine la possibilité de duplication. Vous pouvez modifier les articles sur Shopify ultérieurement pour ajouter plus de détails.
 
 Remarque : Cette fonctionnalité n'est pas prise en charge dans l'importation de données ou pour les éléments de variante/modèle.
 

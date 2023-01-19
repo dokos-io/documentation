@@ -12,9 +12,9 @@ dateCreated: 2021-05-05T10:22:33.372Z
 
 Un programme promotionnel est une remise temporaire sur un ou plusieurs produits.
 
-Les schémas promotionnels aident les entreprises à réussir en réduisant les prix pendant une période limitée pour attirer plus de clients. Ils peuvent être facilement configurés dans DOKOS. Un schéma promotionnel est lié à une règle de prix.
+Les schémas promotionnels aident les entreprises à réussir en réduisant les prix pendant une période limitée pour attirer plus de clients. Ils peuvent être facilement configurés dans Dokos. Un schéma promotionnel est lié à une règle de prix.
 
-Lors de la création d'un schéma promotionnel, le système crée une règle de prix. Un schéma promotionnel peut être associé à plusieurs règles de prix. Dans DOKOS, un schéma promotionnel est un moyen plus simple de gérer les prix sur plusieurs articles/groupes en fonction de différentes parties et conditions.
+Lors de la création d'un schéma promotionnel, le système crée une règle de prix. Un schéma promotionnel peut être associé à plusieurs règles de prix. Dans Dokos, un schéma promotionnel est un moyen plus simple de gérer les prix sur plusieurs articles/groupes en fonction de différentes parties et conditions.
 
 ---
 
@@ -124,7 +124,7 @@ Dans ce type de programme promotionnel, l'utilisateur a la possibilité d'offrir
 
 ## 5. Comment configurer un schéma promotionnel (exemples)
 
-Comprenons comment configurer un schéma promotionnel dans DOKOS à l'aide de quelques exemples.
+Comprenons comment configurer un schéma promotionnel dans Dokos à l'aide de quelques exemples.
 
 ### 5.1 Régimes de conditions mixtes
 
@@ -132,7 +132,7 @@ Le client A a acheté 10 quantités de paquet Britannia Cake 5 Rs et 5 quantité
 
 Ainsi, le Fournisseur souhaite appliquer la remise sur les produits Britannia Cake 5 Rs, Britannia Cake 10 Rs uniquement si ses Clients ont acheté 15 quantités d'un produit quelconque ou la somme des deux produits.
 
-Pour configurer cela dans DOKOS, les étapes sont les suivantes :
+Pour configurer cela dans Dokos, les étapes sont les suivantes :
 
 - Définissez Appliquer le comme code d'article.
 - Définissez le code d'article Britannia Cake 5 Rs, Britannia Cake 10 Rs dans le tableau des codes d'article de la règle de tarification.
@@ -146,7 +146,7 @@ Le client A a acheté 30 quantités de paquet Britannia Cake 5 Rs et 2 quantité
 
 Le fournisseur souhaite appliquer la règle uniquement si le client a acheté au moins 30 quantités du produit Britannia Cake 5 Rs ou Britannia Cake 10 Rs.
 
-Pour configurer cela dans DOKOS, les étapes sont les suivantes :
+Pour configurer cela dans Dokos, les étapes sont les suivantes :
 
 - Définissez Appliquer le comme code d'article.
 - Définissez le code d'article Britannia Cake 5 Rs, Britannia Cake 10 Rs dans le tableau des codes d'article de la règle de tarification.

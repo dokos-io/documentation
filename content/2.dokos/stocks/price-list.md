@@ -1,19 +1,13 @@
 ---
 title: Liste de prix
-description: 
-published: true
-date: 2021-05-22T08:15:16.049Z
-tags: 
-editor: markdown
-dateCreated: 2020-11-26T17:55:36.031Z
 ---
 
 # Liste de prix
-DOKOS vous permet de gérer plusieurs prix de vente et d'achat d'articles à l'aide de listes de prix.
+Dokos vous permet de gérer plusieurs prix de vente et d'achat d'articles à l'aide de listes de prix.
 
 Les listes de prix peuvent être utilisées dans des scénarios où vous avez des prix différents pour différentes zones (en fonction des frais d'expédition), pour différentes devises, etc. Un article peut avoir plusieurs prix en fonction du client, de la devise, de la région, des frais d'expédition, etc., être stockés sous forme de plans tarifaires différents.
 
-Dans DOKOS, tous les prix des articles sont stockés séparément. Le prix d'achat d'un article est différent du prix de vente et ils sont donc stockés séparément.
+Dans Dokos, tous les prix des articles sont stockés séparément. Le prix d'achat d'un article est différent du prix de vente et ils sont donc stockés séparément.
 
 ---
 

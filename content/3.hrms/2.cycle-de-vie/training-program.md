@@ -12,7 +12,7 @@ dateCreated: 2021-06-14T13:08:29.489Z
 
 Le programme de formation définit des programmes conçus pour former des employés ou d'autres personnes à des compétences spécifiques.
 
-Dans DOKOS, vous pouvez créer un programme de formation et planifier des événements de formation sous celui-ci.
+Dans Dokos, vous pouvez créer un programme de formation et planifier des événements de formation sous celui-ci.
 
 ---
 

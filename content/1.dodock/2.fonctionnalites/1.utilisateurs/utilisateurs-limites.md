@@ -3,7 +3,7 @@
 
 Les utilisateurs limités peuvent accéder uniquement aux documents spécifiques des modules spécifiques. Certains utilisateurs n'utilisent pas tous les modules et n'ont besoin que de modules spécifiques. Par exemple, dans l'entreprise, pour enregistrer la demande de présence quotidienne ou de congé, chaque employé a eu accès au système requis. Mais supposons que 500 personnes travaillent dans l'entreprise, dont seulement 100 utilisent tous les documents et les 400 autres n'ont besoin que de documents pour les demandes de présence ou de congé quotidiennes. Ces utilisateurs sont des utilisateurs limités.
 
-Le document Type d'utilisateur joue un rôle important pour gérer ce cas d'utilisation. Il existe des types d'utilisateurs par défaut, **utilisateur système** et **utilisateur du site Web**, l'utilisateur système peut accéder au bureau et au portail du site Web, tandis que l'utilisateur du site Web ne peut accéder qu'au portail du site Web. Pour gérer le cas d'accès limité aux documents pour les employés par défaut, DOKOS a ajouté un nouveau type d'utilisateur
+Le document Type d'utilisateur joue un rôle important pour gérer ce cas d'utilisation. Il existe des types d'utilisateurs par défaut, **utilisateur système** et **utilisateur du site Web**, l'utilisateur système peut accéder au bureau et au portail du site Web, tandis que l'utilisateur du site Web ne peut accéder qu'au portail du site Web. Pour gérer le cas d'accès limité aux documents pour les employés par défaut, Dokos a ajouté un nouveau type d'utilisateur
 
 ---
 

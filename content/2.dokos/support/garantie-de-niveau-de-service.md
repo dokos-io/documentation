@@ -61,7 +61,7 @@ Indiquez la date et la date de fin de l'accord de niveau de service.
 
 #### Suspendre l'ANS
  
-DOKOS vous permet de suspendre l'ANS sur les problèmes lorsque vous attendez qu'un événement se produise. Vous pouvez le faire en sélectionnant un état qui est configuré dans ce tableau "Mettre en attente".
+Dokos vous permet de suspendre l'ANS sur les problèmes lorsque vous attendez qu'un événement se produise. Vous pouvez le faire en sélectionnant un état qui est configuré dans ce tableau "Mettre en attente".
 
 - Définissez les statuts sur lesquels vous souhaitez suspendre le SLA dans le document SLA. Vous pouvez également ajouter des statuts personnalisés ici.
 

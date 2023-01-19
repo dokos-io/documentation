@@ -201,7 +201,7 @@ Si la vente a eu lieu via l'un de vos partenaires commerciaux, vous pouvez ajout
 
 ### 3.15 Équipe des ventes
 
-**Vendeurs** : DOKOS vous permet d'ajouter plusieurs vendeurs qui peuvent avoir travaillé sur cette transaction.
+**Vendeurs** : Dokos vous permet d'ajouter plusieurs vendeurs qui peuvent avoir travaillé sur cette transaction.
 
 ### 3.16 Expédition de paquets ou d'articles avec le lot de produits 
 
@@ -213,7 +213,7 @@ Si vos articles sont sérialisés, vous devrez mettre à jour le numéro de sér
 
 Si vous effectuez la livraison par conteneur ou par poids, vous pouvez utiliser le bon de livraison pour diviser votre bon de livraison en unités plus petites. Pour en savoir plus sur un bon de livraison, visitez cette page . aller à:
 
-Vous pouvez créer plusieurs bons de livraison pour votre bon de livraison et DOKOS s'assurera que les quantités du bon de livraison ne dépassent pas les quantités indiquées dans le bon de livraison. Notez que vous ne pouvez créer un bon de livraison à partir d'un bon de livraison que lorsque le bon de livraison est au stade de l'ébauche.
+Vous pouvez créer plusieurs bons de livraison pour votre bon de livraison et Dokos s'assurera que les quantités du bon de livraison ne dépassent pas les quantités indiquées dans le bon de livraison. Notez que vous ne pouvez créer un bon de livraison à partir d'un bon de livraison que lorsque le bon de livraison est au stade de l'ébauche.
 
 ### 3.18 Après la soumission 
 

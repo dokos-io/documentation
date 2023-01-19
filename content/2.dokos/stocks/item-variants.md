@@ -11,7 +11,7 @@ dateCreated: 2021-05-25T08:38:58.975Z
 # Variantes d'article
 Une variante d'article est une version d'un article avec différents attributs tels que des tailles ou des couleurs.
 
-Par exemple : Supposons que le t-shirt soit un article et qu'il soit disponible en différentes tailles et couleurs comme petit, moyen, grand et rouge, bleu, vert. Dans DOKOS, le t-shirt sera considéré comme un modèle d'article et chacune des variations sera une variante d'article.
+Par exemple : Supposons que le t-shirt soit un article et qu'il soit disponible en différentes tailles et couleurs comme petit, moyen, grand et rouge, bleu, vert. Dans Dokos, le t-shirt sera considéré comme un modèle d'article et chacune des variations sera une variante d'article.
 
 Un t-shirt bleu en taille petite plutôt qu'un simple t-shirt. Les variantes d'article vous permettent de traiter les versions petite , moyenne et grande d'un t-shirt comme des variantes d'un «t-shirt» d'article.
 
@@ -28,7 +28,7 @@ Les variantes peuvent être basées sur deux choses :
 **Conseil**: une fois qu'un modèle d'élément est créé, lorsque vous mettez à jour ce modèle, toutes les variantes sont également mises à jour en conséquence.
 
 ### 1.1 Création du modèle de variante d'article 
-1. Pour utiliser des variantes d'article dans DOKOS, créez un élément et cochez **A des variantes** sous Variantes.
+1. Pour utiliser des variantes d'article dans Dokos, créez un élément et cochez **A des variantes** sous Variantes.
 
 2. L'élément est alors désigné sous le nom de «modèle». Un tel modèle n'est plus identique à un **article** normal. Par exemple, le modèle ne peut être utilisé directement dans aucune transaction (commande client, bon de livraison, facture d'achat) elle-même.
 
@@ -43,7 +43,7 @@ Remarque: vous ne pouvez pas effectuer de transactions par rapport à un «modè
 ### 1.2 Création des variantes d'article en fonction des attributs d'article 
 Pour créer des «variantes d'article» par rapport à un «modèle», cliquez sur «Créer». À partir de là, choisissez de créer une seule variante ou plusieurs. Simple est simple où vous créez juste un ou plusieurs attributs et un élément sera créé. Lorsque vous choisissez plusieurs variantes, cochez les attributs et plusieurs éléments seront créés. Par exemple, si vous choisissez Couleur: Rouge, Vert et Taille: Petit, Moyen, Grand, 6 variantes seront créées.
 
-Création de plusieurs variantes dans DOKOS :
+Création de plusieurs variantes dans Dokos :
 
 Pour en savoir plus sur la définition des attributs, consultez Attributs d'article.
 

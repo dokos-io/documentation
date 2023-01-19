@@ -20,7 +20,7 @@ Pour accéder à **la liste de blocage des congés**, allez sur :
 
 ![liste_blocage.png](/content/rh/leave-block-list/liste_blocage.png)
 
-DOKOS vous permet de définir une liste d'Approbateurs de Congés pouvant valider les Demandes de Congés les jours bloqués, en cas d'urgence. Vous pouvez également définir si la liste sera appliquée à l'ensemble de l'entreprise ou à des services spécifiques.
+Dokos vous permet de définir une liste d'Approbateurs de Congés pouvant valider les Demandes de Congés les jours bloqués, en cas d'urgence. Vous pouvez également définir si la liste sera appliquée à l'ensemble de l'entreprise ou à des services spécifiques.
 
 ## 1. Prérequis avant utilisation
 

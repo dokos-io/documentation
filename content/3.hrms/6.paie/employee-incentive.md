@@ -12,7 +12,7 @@ dateCreated: 2021-06-21T07:59:53.784Z
 
 Les intéressements aux employés sont un moyen de récompenser et de motiver les performances des employés en dehors du salaire habituel.
 
-Lorsqu'une organisation souhaite encourager la productivité de ses employés, l'une des options disponibles consiste à récompenser l'employé avec une prime d'intéressement. DOKOS vous permet de créer des intéressements aux employés au fur et à mesure des besoins pour une entrée de paie particulière.
+Lorsqu'une organisation souhaite encourager la productivité de ses employés, l'une des options disponibles consiste à récompenser l'employé avec une prime d'intéressement. Dokos vous permet de créer des intéressements aux employés au fur et à mesure des besoins pour une entrée de paie particulière.
 
 ---
 

@@ -23,7 +23,7 @@ Si vous souhaitez que vos notifications soient envoyées à un canal Rocket Chat
 6. Définissez le scritp activé sur Vrai 
 7. Collez votre script dans le champ Script
 8. Sauvegardez l'intégration
-9. Copiez le lien créé, revenez sur la plateforme DOKOS et utilisez-le pour créer une nouvelle URL Rocket Chat Webhook.
+9. Copiez le lien créé, revenez sur la plateforme Dokos et utilisez-le pour créer une nouvelle URL Rocket Chat Webhook.
 
 ## 2. Configuration du Webhook entrant depuis Dokos
 

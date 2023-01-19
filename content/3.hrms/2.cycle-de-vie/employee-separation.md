@@ -23,7 +23,7 @@ La séparation des employés est créée pour un employé qui a démissionné ou
 
 ---
 
-Dans DOKOS, ces activités standard peuvent être suivies dans le modèle de séparation des employés. 
+Dans Dokos, ces activités standard peuvent être suivies dans le modèle de séparation des employés. 
 
 Pour accéder à la **liste de départ des employés**, allez à :
 

@@ -14,7 +14,7 @@ La structure salariale est le détail du salaire offert à un employé, en terme
 
 Toute modification de la structure salariale, c'est-à-dire parmi les composants, peut avoir un impact majeur sur ce que fait l'employé, comme le type d'exonération fiscale réclamée.
 
-DOKOS vous permet de définir les gains et les déductions d'une structure salariale, la fréquence de paie et le mode de paiement, entre autres fonctionnalités.
+Dokos vous permet de définir les gains et les déductions d'une structure salariale, la fréquence de paie et le mode de paiement, entre autres fonctionnalités.
 
 ---
 
@@ -46,7 +46,7 @@ Avant de créer une structure salariale, il est conseillé de créer les éléme
 
 ![fiche_de_temps.png](/content/payroll/salary-structure/fiche_de_temps.png)
 
-Dans DOKOS, vous pouvez également définir la structure salariale pour le bordereau de salaire basée sur la feuille de temps, ce qui permet à l'entreprise de payer l'employé selon les heures de travail.
+Dans Dokos, vous pouvez également définir la structure salariale pour le bordereau de salaire basée sur la feuille de temps, ce qui permet à l'entreprise de payer l'employé selon les heures de travail.
 
 Étapes pour créer une structure salariale basée sur les feuilles de temps :
 

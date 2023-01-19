@@ -12,7 +12,7 @@ dateCreated: 2021-06-12T07:24:40.811Z
 
 Un demandeur d'emploi est une personne qui postule pour un emploi dans votre entreprise contre une offre d'emploi particulière.
 
-Dans DOKOS, vous pouvez gérer une liste de personnes qui ont postulé pour une offre d' emploi particulière.
+Dans Dokos, vous pouvez gérer une liste de personnes qui ont postulé pour une offre d' emploi particulière.
 
 ---
 

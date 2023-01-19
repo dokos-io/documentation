@@ -12,7 +12,7 @@ dateCreated: 2021-06-01T13:01:23.671Z
 
 Une personne qui travaille à temps partiel ou à temps plein dans le cadre d'un contrat de travail et qui a des droits et devoirs reconnus de votre entreprise est votre employé.
 
-Dans DOKOS, vous pouvez gérer la fiche Employé. Il capture les détails démographiques, personnels et professionnels, les détails d'adhésion et de départ, etc. de l'employé.
+Dans Dokos, vous pouvez gérer la fiche Employé. Il capture les détails démographiques, personnels et professionnels, les détails d'adhésion et de départ, etc. de l'employé.
 
 ---
 
@@ -68,7 +68,7 @@ La fiche contact en cas d'urgence vous permet de saisir les informations de la p
 
 ![urgence_employé.png](/content/rh/urgence_employé.png)
 
-### 3.2 Créer un utilisateur DOKOS
+### 3.2 Créer un utilisateur Dokos
 
 L'ID utilisateur peut être lié à l'employé. Dans le cas où l'ID utilisateur n'est pas créé, vous pouvez cliquer sur «Créer un nouvel utilisateur» dans la liste déroulante pour en créer un.
 

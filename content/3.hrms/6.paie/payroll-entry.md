@@ -12,7 +12,7 @@ dateCreated: 2021-06-17T11:33:14.631Z
 
 La masse salariale est la somme totale de toutes les rémunérations qu'une entreprise doit verser à ses employés pendant une période donnée ou à une date donnée.
 
-Dans DOKOS, l'entrée de la paie permet le traitement en masse de la paie des employés. En d'autres termes, traiter les bulletins de salaire de tous les employés en une seule fois. Le traitement en bloc peut être à l'échelle de l'entreprise ou basé sur les catégories suivantes : succursale, service ou désignation.
+Dans Dokos, l'entrée de la paie permet le traitement en masse de la paie des employés. En d'autres termes, traiter les bulletins de salaire de tous les employés en une seule fois. Le traitement en bloc peut être à l'échelle de l'entreprise ou basé sur les catégories suivantes : succursale, service ou désignation.
 
 ---
 

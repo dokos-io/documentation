@@ -12,7 +12,7 @@ dateCreated: 2020-12-04T13:27:06.745Z
 
 La présence est un enregistrement indiquant si un employé a été présent un jour particulier ou non.
 
-Dans DOKOS, vous pouvez marquer et enregistrer quotidiennement la présence d'un employé à l'aide du doctype Présence.
+Dans Dokos, vous pouvez marquer et enregistrer quotidiennement la présence d'un employé à l'aide du doctype Présence.
 
 ---
 

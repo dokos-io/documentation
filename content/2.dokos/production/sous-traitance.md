@@ -16,7 +16,7 @@ La sous-traitance est un type de contrat de travail qui vise à sous-traiter cer
 
 La sous-traitance est pratiquée par diverses industries. Par exemple, les fabricants qui fabriquent un certain nombre de produits à partir de composants complexes sous-traitent certains composants et les emballent dans leurs installations.
 
-Si votre entreprise implique l'externalisation de certains processus à un fournisseur tiers où vous fournissez les matières premières et que le tiers s'occupe du travail / de la production, vous pouvez suivre cela en utilisant la fonction de sous-traitance de DOKOS.
+Si votre entreprise implique l'externalisation de certains processus à un fournisseur tiers où vous fournissez les matières premières et que le tiers s'occupe du travail / de la production, vous pouvez suivre cela en utilisant la fonction de sous-traitance de Dokos.
 
 ## 1. Comment mettre en place la sous-traitance
 
@@ -74,7 +74,7 @@ Cependant, le fournisseur peut choisir d'inclure les articles fournis par le fou
 
 Assurez-vous que le **taux** de l'article traité est le taux de traitement (à l'exclusion du taux de matière première).
 
-DOKOS ajoutera automatiquement le taux de matière première à des fins d'évaluation lorsque vous recevrez l'article fini dans votre stock.
+Dokos ajoutera automatiquement le taux de matière première à des fins d'évaluation lorsque vous recevrez l'article fini dans votre stock.
 
-DOKOS définira automatiquement par défaut «l'entrepôt de réserve» dans le bon de commande à partir de la nomenclature. S'il ne se trouve pas dans la nomenclature, il le ferait par défaut à partir de l'entrepôt par défaut défini dans l'article. Vous pouvez définir l'entrepôt de réserve par défaut pour tous les articles du bon de commande à partir du champ «Entrepôt de réserve» de la section Matières premières fournies.
+Dokos définira automatiquement par défaut «l'entrepôt de réserve» dans le bon de commande à partir de la nomenclature. S'il ne se trouve pas dans la nomenclature, il le ferait par défaut à partir de l'entrepôt par défaut défini dans l'article. Vous pouvez définir l'entrepôt de réserve par défaut pour tous les articles du bon de commande à partir du champ «Entrepôt de réserve» de la section Matières premières fournies.
 

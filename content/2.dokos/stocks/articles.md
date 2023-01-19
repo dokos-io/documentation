@@ -11,9 +11,9 @@ dateCreated: 2021-05-20T13:30:43.388Z
 # Articles
 Un article est un produit ou un service proposé par votre entreprise.
 
-Le terme Article s'applique également aux matières premières ou aux composants de produits à fabriquer (avant qu'ils ne puissent être vendus aux clients). DOKOS vous permet de gérer toutes sortes d'articles comme les matières premières, les sous-ensembles, les produits finis, les variantes d'articles et les articles de service.
+Le terme Article s'applique également aux matières premières ou aux composants de produits à fabriquer (avant qu'ils ne puissent être vendus aux clients). Dokos vous permet de gérer toutes sortes d'articles comme les matières premières, les sous-ensembles, les produits finis, les variantes d'articles et les articles de service.
 
-DOKOS est optimisé pour la gestion détaillée de vos ventes et achats. Si vous êtes dans les services, vous pouvez créer un élément pour chaque service que vous proposez. Remplir le Item Master est très essentiel pour la mise en œuvre réussie dans DOKOS.
+Dokos est optimisé pour la gestion détaillée de vos ventes et achats. Si vous êtes dans les services, vous pouvez créer un élément pour chaque service que vous proposez. Remplir le Item Master est très essentiel pour la mise en œuvre réussie dans Dokos.
 
 ---
 
@@ -72,7 +72,7 @@ Avant de créer et d'utiliser un élément, il est conseillé de créer d'abord 
 
 ### 3.2 Codes-barres
 
-Les codes-barres peuvent être enregistrés dans les articles pour les numériser rapidement et les ajouter dans les transactions. Dans le tableau Codes-barres, vous pouvez ajouter le code - barres d' un article pour la numérisation . Il existe deux types de codes-barres dans DOKOS :
+Les codes-barres peuvent être enregistrés dans les articles pour les numériser rapidement et les ajouter dans les transactions. Dans le tableau Codes-barres, vous pouvez ajouter le code - barres d' un article pour la numérisation . Il existe deux types de codes-barres dans Dokos :
 
 - **EAN** : Le numéro d'article européen est un numéro à 13 chiffres. EAN est utilisé internationalement et reconnu par plus de systèmes de point de vente.
 - **UPC-A** : Le code de produit universel est un numéro à 12 chiffres. UPC-A est généralement utilisé uniquement aux États-Unis et au Canada.
@@ -97,7 +97,7 @@ Lorsque le stock d'un article plonge sous une certaine quantité, vous pouvez d�
 
 - **Enregsitrement (groupe)** : Dans quel groupe entrepôts vérifier la quantité de l'article.
 - **Demander pour** : Quel entrepôt pour stocker l'article réapprovisionné.
-- **Niveau de réapprovisionnement** : Lorsque cette quantité est atteinte, la commande est déclenchée. Le niveau de commande peut être déterminé en fonction du délai et de la consommation quotidienne moyenne. Par exemple, vous pouvez définir le niveau de commande de la carte mère à 10. Lorsqu'il ne reste que 10 cartes mères en stock, le système crée automatiquement une demande de matériel dans votre compte DOKOS.
+- **Niveau de réapprovisionnement** : Lorsque cette quantité est atteinte, la commande est déclenchée. Le niveau de commande peut être déterminé en fonction du délai et de la consommation quotidienne moyenne. Par exemple, vous pouvez définir le niveau de commande de la carte mère à 10. Lorsqu'il ne reste que 10 cartes mères en stock, le système crée automatiquement une demande de matériel dans votre compte Dokos.
 - **Quantité de réapprovisionnement** : Le nombre d'unités à réorganiser pour que la somme du coût de commande et du coût de détention soit à son minimum. La quantité de commande à nouveau est basée sur la «quantité de commande minimum» spécifiée par le fournisseur et de nombreux autres facteurs.
 
 Par exemple, si le niveau de commande est de 100 articles, votre quantité de commande ne sera pas nécessairement de 100 articles mais de 200. La quantité de réapprovisionnement peut être supérieure ou égale au niveau de réapprovisionnement. Cela peut dépendre du délai de livraison, de la remise, du transport et de la consommation quotidienne moyenne.
@@ -116,7 +116,7 @@ Avec les numéros de série, vous pouvez suivre la garantie et les retours. Dans
 
 Veuillez noter que si vous vendez vos articles par milliers, et si les articles sont très petits comme des stylos ou des gommes à effacer, vous n'avez pas besoin de les mettre série.
 
-Dans DOKOS, vous devrez mentionner le numéro de série dans certaines écritures comptables. Si votre produit n'est pas un gros article de consommation durable, s'il n'a pas de garantie et n'a aucune chance d'être rappelé, évitez de donner des numéros de série.
+Dans Dokos, vous devrez mentionner le numéro de série dans certaines écritures comptables. Si votre produit n'est pas un gros article de consommation durable, s'il n'a pas de garantie et n'a aucune chance d'être rappelé, évitez de donner des numéros de série.
 
 #### 3.6.1 Numéro de lots
 
@@ -212,7 +212,7 @@ Vous devez créer un nouveau **modèle de taxe sur les articles** ou en choisir 
 **Inspection requise avant l'achat** : Si une inspection est obligatoire avant l'achat de l'article, c'est-à-dire avant de générer un reçu d'achat, cochez cette case.
 **Inspection requise avant la livraison** : Si une inspection est requise au moment de la livraison par votre fournisseur est obligatoire pour cet article, cochez cette case. Autrement dit, avant de générer un bon de livraison.
 
-L'inspection de la qualité peut être effectuée avec Quick View et vous n'avez pas besoin d'aller sur une autre page pour mettre à jour l'inspection des détails dans DOKOS.
+L'inspection de la qualité peut être effectuée avec Quick View et vous n'avez pas besoin d'aller sur une autre page pour mettre à jour l'inspection des détails dans Dokos.
 
 ### 3.16 Fabrication
 

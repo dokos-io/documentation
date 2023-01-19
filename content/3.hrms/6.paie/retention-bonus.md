@@ -12,7 +12,7 @@ dateCreated: 2021-06-21T07:12:30.121Z
 
 La prime de fidélisation est un paiement ou une récompense en dehors du salaire régulier d'un employé qui est offert comme une incitation à garder un employé clé au travail.
 
-DOKOS vous permet de configurer la prime de rétention pour un employé pour une période particulière.
+Dokos vous permet de configurer la prime de rétention pour un employé pour une période particulière.
 
 ---
 

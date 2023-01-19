@@ -41,7 +41,7 @@ Avant de créer un journal de véhicule, il est nécessaire de créer les docume
 
 ## 3. Caractéristiques
 
-La gestion de flotte dans DOKOS vous permet de créer automatiquement une note de frais contre vos dépenses de véhicule.
+La gestion de flotte dans Dokos vous permet de créer automatiquement une note de frais contre vos dépenses de véhicule.
 
 ### 3.1 Relevé du Compteur Kilométrique
 

@@ -12,7 +12,7 @@ dateCreated: 2021-06-14T11:52:11.814Z
 
 Le plan de dotation vous aide à planifier les besoins en main-d'œuvre de votre entreprise.
 
-DOKOS vous permet de le faire au niveau de l'entreprise en vous aidant à planifier et budgétiser efficacement les nouvelles embauches pour une période. Les offres d'emploi ne peuvent être créées qu'en fonction du nombre de postes vacants et du budget conformément au plan de dotation actif.
+Dokos vous permet de le faire au niveau de l'entreprise en vous aidant à planifier et budgétiser efficacement les nouvelles embauches pour une période. Les offres d'emploi ne peuvent être créées qu'en fonction du nombre de postes vacants et du budget conformément au plan de dotation actif.
 
 ---
 

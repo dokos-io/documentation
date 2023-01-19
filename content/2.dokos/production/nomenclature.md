@@ -8,9 +8,9 @@ Une **nomenclature** est une liste d'articles et de sous-ensembles avec les quan
 
 Une nomenclature peut également contenir les opérations de production nécessaires à la conception de l'article.
 
-**Une nomenclature - Liste de matériel (LDM)** est au cœur du système de production et le document le plus important qui aidera à créer d' autres types de documents tels que les bons de travail et cartes de travail. DOKOS prend en charge la nomenclature à plusieurs niveaux. Pour en savoir plus, visitez cette page.
+**Une nomenclature - Liste de matériel (LDM)** est au cœur du système de production et le document le plus important qui aidera à créer d' autres types de documents tels que les bons de travail et cartes de travail. Dokos prend en charge la nomenclature à plusieurs niveaux. Pour en savoir plus, visitez cette page.
 
-La nomenclature est une liste de tous les matériaux (achetés ou produits) et des opérations qui entrent dans la production d'un produit fini ou d'un sous-ensemble. Dans DOKOS, chaque article (sous-assemblage) peut avoir sa propre nomenclature, formant ainsi une arborescence d'articles à plusieurs niveaux.
+La nomenclature est une liste de tous les matériaux (achetés ou produits) et des opérations qui entrent dans la production d'un produit fini ou d'un sous-ensemble. Dans Dokos, chaque article (sous-assemblage) peut avoir sa propre nomenclature, formant ainsi une arborescence d'articles à plusieurs niveaux.
 
 ---
 

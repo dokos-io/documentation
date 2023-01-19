@@ -12,7 +12,7 @@ dateCreated: 2021-08-27T09:09:59.569Z
 
 Une période comptable définit une période au cours de laquelle les états financiers sont enregistrés.
 
-Dans DOKOS, la période comptable est une période en dehors de laquelle les transactions soumises sélectionnées (telles que les factures de vente/d'achat, la saisie des stocks, la saisie de la paie, la saisie au journal, etc.) ne sont pas autorisées à être créées. En d'autres termes, les transactions sélectionnées ne peuvent être créées que dans la période comptable définie.
+Dans Dokos, la période comptable est une période en dehors de laquelle les transactions soumises sélectionnées (telles que les factures de vente/d'achat, la saisie des stocks, la saisie de la paie, la saisie au journal, etc.) ne sont pas autorisées à être créées. En d'autres termes, les transactions sélectionnées ne peuvent être créées que dans la période comptable définie.
 
 **Pourquoi la période comptable est-elle nécessaire ?**
 

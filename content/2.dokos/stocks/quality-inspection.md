@@ -9,7 +9,7 @@ dateCreated: 2021-05-27T09:59:37.150Z
 ---
 
 # Inspection de la qualité
-Dans DOKOS, vous pouvez marquer vos produits entrants ou sortants pour un contrôle qualité.
+Dans Dokos, vous pouvez marquer vos produits entrants ou sortants pour un contrôle qualité.
 
 Pour accéder à cette fonctionnalité, allez sur :
 

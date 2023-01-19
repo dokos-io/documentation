@@ -12,7 +12,7 @@ dateCreated: 2021-06-14T09:02:40.452Z
 
 La section Gestion des quarts de travail des ressources humaines aide votre organisation à gérer les quarts de travail de vos employés.
 
-Pour utiliser un type de quart dans DOKOS,
+Pour utiliser un type de quart dans Dokos,
 
 - Configurer un type d'équipe.
 - Entrez la demande de décalage.
@@ -46,7 +46,7 @@ Pour accéder à **la liste de Affectation de quart**, allez sur :
 
 ## 3. Configuration de l'approbateur de demande de quart
 
-Un approbateur de demande d'équipe est un utilisateur qui peut approuver une demande d'équipe d'un employé. Dans DOKOS, l'approbation de sélection de quart peut être paramétré à deux niveaux :
+Un approbateur de demande d'équipe est un utilisateur qui peut approuver une demande d'équipe d'un employé. Dans Dokos, l'approbation de sélection de quart peut être paramétré à deux niveaux :
 
 ### 3.1 Niveau du département
 

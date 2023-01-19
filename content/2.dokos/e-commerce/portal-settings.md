@@ -51,7 +51,7 @@ Après le processus d'inscription, un e-mail sera envoyé à l'adresse e-mail du
 
 ### 2. Connexion au portail
 
-Pour se connecter à son compte client, le client doit utiliser son adresse e-mail et le mot de passe transmis par DOKOS ; générés par le processus d'inscription.
+Pour se connecter à son compte client, le client doit utiliser son adresse e-mail et le mot de passe transmis par Dokos ; générés par le processus d'inscription.
 
 
 ### 3. Commandes client, factures et statut d'expédition

@@ -12,7 +12,7 @@ dateCreated: 2021-06-02T12:52:13.018Z
 
 L'assurance maladie des employés est un avantage offert par l'entreprise à ses employés. Lorsqu'une entreprise fournit une assistance en matière d'assurance-maladie, elle paie des primes totales ou partielles pour la police d'assurance-maladie.
 
-DOKOS vous permet d'enregistrer les détails de l'assurance maladie des employés et de les lier au maître de cet employé particulier.
+Dokos vous permet d'enregistrer les détails de l'assurance maladie des employés et de les lier au maître de cet employé particulier.
 
 ---
 

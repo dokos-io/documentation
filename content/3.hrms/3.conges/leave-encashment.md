@@ -44,7 +44,7 @@ Avant de créer l'encaissement des congés, il est conseillé de créer les docu
 **Remarque** : Lorsque vous sélectionnez l'employé et le type de congé, le solde des congés et les jours encaissables (qui est le solde total des congés moins le seuil de jours défini dans le type de congé) s'afficheront avec le montant de l'encaissement basé sur l'encaissement des congés par jour tel que configuré dans Structure salariale attribuée.
 ::
 
-Lors de la soumission d'un encaissement de congé pour un employé, DOKOS crée automatiquement un salaire supplémentaire qui sera ajouté au bulletin de salaire de l'employé lors du traitement de la paie.
+Lors de la soumission d'un encaissement de congé pour un employé, Dokos crée automatiquement un salaire supplémentaire qui sera ajouté au bulletin de salaire de l'employé lors du traitement de la paie.
 
 ![paie_congés.png](/content/rh/leave-encashment/paie_congés.png)
 

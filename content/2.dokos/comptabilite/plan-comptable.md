@@ -14,7 +14,7 @@ Le plan comptable est le plan des comptes de votre organisation.
 
 La structure globale de votre plan comptable repose sur un système de comptabilité en partie double qui est devenu une norme partout dans le monde pour quantifier la situation financière d'une entreprise.
 
-Le plan comptable est une arborescence de noms des comptes (grands livres et groupes) dont une entreprise a besoin pour gérer ses livres de comptes. DOKOS met en place un plan comptable simple pour chaque Société que vous créez, mais vous pouvez le modifier en fonction de vos besoins et exigences légales.
+Le plan comptable est une arborescence de noms des comptes (grands livres et groupes) dont une entreprise a besoin pour gérer ses livres de comptes. Dokos met en place un plan comptable simple pour chaque Société que vous créez, mais vous pouvez le modifier en fonction de vos besoins et exigences légales.
 
 Pour chaque entreprise, le plan comptable signifie la manière de classer les écritures comptables, principalement en fonction des exigences légales (fiscales, conformité aux réglementations gouvernementales).
 
@@ -41,7 +41,7 @@ Pour accéder à la liste Plan comptable, rendez-vous sur :
 
 ## 1. Comment créer/modifier des comptes
 
-DOKOS est livré avec un plan comptable standard. Au lieu de créer/modifier, vous pouvez également utiliser l'outil Importateur de plan comptable . Notez que le plan comptable existant sera écrasé lorsque cet outil est utilisé.
+Dokos est livré avec un plan comptable standard. Au lieu de créer/modifier, vous pouvez également utiliser l'outil Importateur de plan comptable . Notez que le plan comptable existant sera écrasé lorsque cet outil est utilisé.
 
 1. Accédez à la liste Plan comptable.
 
@@ -91,13 +91,13 @@ Le compte de résultat est le groupe de comptes « revenus » et « dépenses »
 
 Contrairement aux comptes de bilan, les comptes de profits et pertes (ou comptes PL) ne représentent pas la valeur nette (actifs), mais représentent plutôt le montant d'argent dépensé et collecté pour servir les clients au cours de la période. Par conséquent, au début et à la fin de votre exercice fiscal, ils deviennent nuls.
 
-Dans DOKOS, il est facile de suivre les profits et les pertes via le graphique des profits et pertes.
+Dans Dokos, il est facile de suivre les profits et les pertes via le graphique des profits et pertes.
 
 Notez qu'au premier jour de l'année vous n'avez fait aucun profit ou perte, mais vous avez toujours des actifs, donc les comptes de bilan ne deviennent jamais nuls en début ou en fin de période.
 
 ### 2.3 Groupes et registres
 
-Il existe deux principaux types de comptes dans DOKOS - Groupe et Grand livre. Les groupes peuvent contenir des sous-groupes et des registres, tandis que les registres sont les nœuds feuilles de votre organigramme et ne peuvent pas contenir plus de comptes.
+Il existe deux principaux types de comptes dans Dokos - Groupe et Grand livre. Les groupes peuvent contenir des sous-groupes et des registres, tandis que les registres sont les nœuds feuilles de votre organigramme et ne peuvent pas contenir plus de comptes.
 
 Les transactions comptables ne peuvent être effectuées que sur des comptes du grand livre (pas des groupes)
 
@@ -109,7 +109,7 @@ Les transactions comptables ne peuvent être effectuées que sur des comptes du 
 
 ### 2.4 Autres types de compte
 
-Dans DOKOS, vous pouvez également spécifier plus d'informations lorsque vous créez un nouveau compte, c'est là pour vous aider à sélectionner ce compte particulier dans un scénario comme "Compte bancaire" ou un "Compte fiscal" et n'a aucun effet sur le graphique lui-même.
+Dans Dokos, vous pouvez également spécifier plus d'informations lorsque vous créez un nouveau compte, c'est là pour vous aider à sélectionner ce compte particulier dans un scénario comme "Compte bancaire" ou un "Compte fiscal" et n'a aucun effet sur le graphique lui-même.
 
 Explication des types de compte :
 
@@ -120,7 +120,7 @@ Explication des types de compte :
 Facturable : Des frais supplémentaires appliqués aux Articles peuvent être stockés dans des comptes de ce type. Par exemple, "Frais de transport et d'expédition".
 **Travaux d'immobilisation en cours** : Les frais actuels lors de la création d'immobilisations sont stockés dans les comptes CWIP. Par exemple, les coûts de construction lors de la construction d'un bâtiment.
 
-Dans DOKOS, les actifs sont comptabilisés sur les comptes CWIP lorsqu'ils ne sont pas encore utilisés.
+Dans Dokos, les actifs sont comptabilisés sur les comptes CWIP lorsqu'ils ne sont pas encore utilisés.
 Coût des marchandises vendues : Un compte de ce type est utilisé pour enregistrer le total cumulé de tous les coûts encourus lors de la fabrication/l'achat d'un produit ou d'un service, vendu par une entreprise.
 - **Amortissement** : Le compte de charges pour comptabiliser l'amortissement des immobilisations. Celui-ci apparaît sur le compte de résultat.
 - **Capitaux propres** : Ces types de comptes représentent des transactions avec les personnes qui possèdent l'entreprise, c'est-à-dire les actionnaires/propriétaires.
@@ -135,7 +135,7 @@ Coût des marchandises vendues : Un compte de ce type est utilisé pour enregist
 - **Ajustement de stock** : Un compte de dépenses pour enregistrer toute écriture d'ajustement de stock/inventaire. Vient généralement au même niveau de coût des marchandises vendues.
 - **Stock reçu mais non facturé** : Un compte de passif temporaire qui contient la valeur du stock reçu mais pas encore facturé et utilisé dans l'inventaire perpétuel.
 - **Taxe** : Tous les comptes de taxes comme la TVA, TDS, GST, etc. relèvent de ce type.
-- **Temporaire** : Un compte Temporaire est utile pour équilibrer les revenus, les dépenses et les annuler lors du passage à DOKOS en milieu d'année avec des écritures comptables en suspens.
+- **Temporaire** : Un compte Temporaire est utile pour équilibrer les revenus, les dépenses et les annuler lors du passage à Dokos en milieu d'année avec des écritures comptables en suspens.
 
 ::alert{type=warning}
 **Remarque** : lors des écritures de paiement, le compte bancaire par défaut sera récupéré dans l'ordre suivant s'il est défini :
@@ -148,7 +148,7 @@ Coût des marchandises vendues : Un compte de ce type est utilisé pour enregist
   
 ### 2.5 États financiers
 
-Les états financiers de votre entreprise sont facilement consultables dans DOKOS. Vous pouvez afficher des états financiers tels que le bilan, le compte de résultat et le tableau des flux de trésorerie.
+Les états financiers de votre entreprise sont facilement consultables dans Dokos. Vous pouvez afficher des états financiers tels que le bilan, le compte de résultat et le tableau des flux de trésorerie.
 
 Un exemple de divers états financiers est donné ci-dessous :
 

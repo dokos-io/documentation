@@ -12,7 +12,7 @@ dateCreated: 2021-06-14T12:07:19.035Z
 
 La lettre écrite par l'employeur demandant aux candidats sélectionnés de se joindre à un poste spécifique.
 
-Dans DOKOS, vous pouvez créer une lettre de promesse d'embauche que vous pouvez remettre aux candidats. 
+Dans Dokos, vous pouvez créer une lettre de promesse d'embauche que vous pouvez remettre aux candidats. 
 
 ---
 
@@ -64,7 +64,7 @@ Vous pouvez ajouter votre conclusion pour la promesse d'embauche. Si vous avez s
 
 # Modèle de promesse d'embauche
 
-Le modèle de promesse d'embauche vous permet de créer un format par défaut pour votre lettre de promesse d'embauche. Sur DOKOS vous avez la possibilité par exemple de créer un modèle selon le poste, le département etc. 
+Le modèle de promesse d'embauche vous permet de créer un format par défaut pour votre lettre de promesse d'embauche. Sur Dokos vous avez la possibilité par exemple de créer un modèle selon le poste, le département etc. 
 
 Le modèle sera repris automatiquement quand vous allez créer une Promesse d'embauche et que vous sélectionnerez le modèle.
 

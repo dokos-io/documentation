@@ -13,7 +13,7 @@ Un entrepôt est un bâtiment commercial pour le stockage de marchandises. Les e
 
 Ce sont généralement de grands bâtiments simples situés dans les zones industrielles des villes, des villes et des villages. Ils ont pour la plupart des quais de chargement pour charger et décharger les marchandises des camions.
 
-La terminologie de **Entrepôt** dans DOKOS est cependant un peu plus large et peut peut-être être considérée comme des **emplacements de stockage**. Vous pouvez créer un sous-entrepôt qui pourrait être une étagère à l'intérieur de votre emplacement réel.
+La terminologie de **Entrepôt** dans Dokos est cependant un peu plus large et peut peut-être être considérée comme des **emplacements de stockage**. Vous pouvez créer un sous-entrepôt qui pourrait être une étagère à l'intérieur de votre emplacement réel.
 
 Cela peut devenir un arbre assez détaillé comme celui-ci :
 

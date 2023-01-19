@@ -14,7 +14,7 @@ Les désignations sont les titres d'emploi officiels attribués aux employés.
 
 En ce qui concerne la gestion de l'entreprise, il existe diverses parties prenantes telles que les administrateurs, les dirigeants, les gestionnaires et les actionnaires qui guident une entreprise vers la réalisation de ses objectifs commerciaux.
 
-DOKOS vous permet de créer différentes désignations et de mentionner également les compétences requises pour celles-ci.
+Dokos vous permet de créer différentes désignations et de mentionner également les compétences requises pour celles-ci.
 
 ---
 

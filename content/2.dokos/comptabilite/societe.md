@@ -12,7 +12,7 @@ dateCreated: 2021-07-26T15:06:00.836Z
 
 Une société est une personne morale constituée d'une association de personnes pour l'exploitation d'une entreprise commerciale ou industrielle.
 
-Dans DOKOS, la première société est créée lors de la création d'un compte DOKOS. Pour chaque entreprise, vous pouvez définir un domaine comme la production, vente au détail ou services en fonction de la nature de votre activité commerciale.
+Dans Dokos, la première société est créée lors de la création d'un compte Dokos. Pour chaque entreprise, vous pouvez définir un domaine comme la production, vente au détail ou services en fonction de la nature de votre activité commerciale.
 
 ---
 
@@ -36,13 +36,13 @@ Vous pouvez également joindre un logo d'entreprise et ajouter une description d
 
 Supposons que vous dirigez un groupe d'entreprises, certaines peuvent être de plus grandes entreprises et d'autres peuvent être plus petites et faire partie de la ou des plus grandes entreprises.
 
-Dans DOKOS, vous pouvez créer plusieurs sociétés. La structure de l'entreprise peut être parallèle, c'est-à-dire des sociétés sœurs, des sociétés mère-enfant ou une combinaison des deux.
+Dans Dokos, vous pouvez créer plusieurs sociétés. La structure de l'entreprise peut être parallèle, c'est-à-dire des sociétés sœurs, des sociétés mère-enfant ou une combinaison des deux.
 
 Une société mère est une organisation plus grande qui se compose d'une ou plusieurs sociétés filles. Une société fille est une filiale d'une société mère.
 
 L'arborescence de l'entreprise affiche la structure globale de vos entreprises.
 
-Une fois que vous avez construit un arbre d'entreprise, DOKOS validera si les comptes des sociétés filles correspondent aux comptes de la société mère. Tous les comptes peuvent être regroupés dans un plan comptable consolidé.
+Une fois que vous avez construit un arbre d'entreprise, Dokos validera si les comptes des sociétés filles correspondent aux comptes de la société mère. Tous les comptes peuvent être regroupés dans un plan comptable consolidé.
 
 ### 1.2 Autres options lors de la création d'une entreprise
 
@@ -54,7 +54,7 @@ Une fois que vous avez construit un arbre d'entreprise, DOKOS validera si les co
 
 Pour chaque entreprise, le maître pour le plan comptable est maintenu séparément. Cela vous permet de tenir une comptabilité distincte pour chaque entreprise conformément aux exigences légales. Vous pouvez également importer un plan comptable à l'aide de l' outil d'importation de plans comptables.
 
-DOKOS a localisé un plan comptable facilement disponible pour certains pays. Lors de la création d'une nouvelle entreprise, vous pouvez choisir de configurer le plan comptable pour elle à partir de l'une des options suivantes.
+Dokos a localisé un plan comptable facilement disponible pour certains pays. Lors de la création d'une nouvelle entreprise, vous pouvez choisir de configurer le plan comptable pour elle à partir de l'une des options suivantes.
 
 - Plan comptable standard
 - Basé sur le plan comptable de l'entreprise existante
@@ -151,7 +151,7 @@ Pour gérer les immobilisations d'une entreprise, les comptes suivants sont néc
 
 ### 2.7 Informations sur l'entreprise
 
-Pour référence, les détails suivants de votre entreprise peuvent être enregistrés dans DOKOS :
+Pour référence, les détails suivants de votre entreprise peuvent être enregistrés dans Dokos :
 
 - Date de constitution
 - N°de téléphone

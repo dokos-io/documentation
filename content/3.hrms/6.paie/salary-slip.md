@@ -47,7 +47,7 @@ Les utilisateurs RH peuvent créer un bulletin de salaire basé sur la présence
 
 Pour créer un bordereau de salaire basé sur une feuille de temps, vous devez créer une structure de salaire pour les feuilles de temps.
 
-DOKOS fournit également une option pour créer un bulletin de salaire basé sur les heures de travail basées sur la feuille de temps . Vous pouvez créer une fiche de salaire après avoir soumis la feuille de temps en cliquant directement sur le bouton Créer une fiche de salaire en haut à droite.
+Dokos fournit également une option pour créer un bulletin de salaire basé sur les heures de travail basées sur la feuille de temps . Vous pouvez créer une fiche de salaire après avoir soumis la feuille de temps en cliquant directement sur le bouton Créer une fiche de salaire en haut à droite.
 
 Le montant du paiement est calculé en fonction du taux horaire défini dans la structure salariale et est reflété dans le tableau des gains.
 

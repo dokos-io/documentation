@@ -169,7 +169,7 @@ Mentionnez la quantité de matériaux à transférer.
 
 Dans certains cas, l'utilisateur envoie des matières premières supplémentaires aux stations de fabrication, mais parfois l'opérateur ne consomme pas toutes les matières premières pour compléter les produits finis, ou parfois la quantité à fabriquer est réduite. 
 
-Dans ce cas, les matières premières non consommées sont renvoyées au magasin. Dans DOKOS, pour transférer les matières premières vers le magasin à partir de l'entrepôt en cours de travail, l'utilisateur doit cliquer sur le bouton Renvoyer les matières non consommées. 
+Dans ce cas, les matières premières non consommées sont renvoyées au magasin. Dans Dokos, pour transférer les matières premières vers le magasin à partir de l'entrepôt en cours de travail, l'utilisateur doit cliquer sur le bouton Renvoyer les matières non consommées. 
 
 En cliquant sur un bouton, le système ouvre l'entrée de stock pour transférer les matières premières de l'entrepôt en cours de fabrication vers l'entrepôt des magasins.
 

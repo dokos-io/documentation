@@ -12,7 +12,7 @@ dateCreated: 2021-06-19T08:33:56.256Z
 
 L'exonération fiscale est l'exemption monétaire des revenus, des biens ou des transactions d'impôts qui seraient autrement prélevés sur un employé.
 
-Au début d'une période de paie, les employés peuvent déclarer le montant de l'exonération qu'ils réclameront de leur salaire imposable. DOKOS vous permet de spécifier la catégorie/sous-catégorie d'exonération fiscale, le montant de l'exonération fiscale et d'autres informations connexes dans le formulaire Déclaration d'exonération fiscale des employés.
+Au début d'une période de paie, les employés peuvent déclarer le montant de l'exonération qu'ils réclameront de leur salaire imposable. Dokos vous permet de spécifier la catégorie/sous-catégorie d'exonération fiscale, le montant de l'exonération fiscale et d'autres informations connexes dans le formulaire Déclaration d'exonération fiscale des employés.
 
 ---
 
@@ -49,7 +49,7 @@ Le montant total de l'exonération sera exonéré des gains annuels imposables d
 
 ### 3.1 Catégorie d'exonération fiscale des employés
 
-Les exonérations du salaire imposable sont généralement limitées aux dépenses relatives à des catégories particulières décidées par le gouvernement ou les organismes de réglementation. DOKOS vous permet de configurer différentes catégories qui peuvent être exemptées. 
+Les exonérations du salaire imposable sont généralement limitées aux dépenses relatives à des catégories particulières décidées par le gouvernement ou les organismes de réglementation. Dokos vous permet de configurer différentes catégories qui peuvent être exemptées. 
 
 Vous pouvez configurer la catégorie d'exonération fiscale des employés en allant sur Impôts et avantages sociaux des employés > Catégorie d'exonération fiscale des employés
 

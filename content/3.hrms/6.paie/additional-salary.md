@@ -12,7 +12,7 @@ dateCreated: 2021-06-21T06:46:32.498Z
 
 Le salaire supplémentaire est quelque chose qu'un employé reçoit de l'entreprise pour laquelle il travaille, autre que son salaire habituel.
 
-DOKOS vous propose une fonctionnalité appelée **Salaire supplémentaire** pour ajouter ou déduire le salaire supplémentaire d'un employé particulier lors du traitement de la paie. Quelques exemples de salaire supplémentaire pourraient être une prime de performance, une allocation de délégation, des arriérés, des incitations ou d'autres ajustements.
+Dokos vous propose une fonctionnalité appelée **Salaire supplémentaire** pour ajouter ou déduire le salaire supplémentaire d'un employé particulier lors du traitement de la paie. Quelques exemples de salaire supplémentaire pourraient être une prime de performance, une allocation de délégation, des arriérés, des incitations ou d'autres ajustements.
 
 ---
 

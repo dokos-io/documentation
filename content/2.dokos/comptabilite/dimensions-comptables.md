@@ -14,7 +14,7 @@ La comptabilité dimensionnelle signifie étiqueter chaque transaction avec des 
 
 Centre de coûts et Projet sont traités comme des dimensions par défaut dans Dokos. Lors de la définition d'un champ dans la dimension comptable, ce champ sera ajouté dans les rapports de transactions, le cas échéant.
 
-Dans DOKOS, vous pouvez créer des dimensions comptables configurables et les utiliser dans les transactions et les rapports.
+Dans Dokos, vous pouvez créer des dimensions comptables configurables et les utiliser dans les transactions et les rapports.
 
 ---
 

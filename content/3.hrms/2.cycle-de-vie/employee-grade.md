@@ -12,7 +12,7 @@ dateCreated: 2021-06-02T12:09:30.811Z
 
 Un grade d'employé est un regroupement d'employés ayant des postes ou des valeurs similaires afin d'attribuer des taux de rémunération et des structures salariales.
 
-DOKOS vous permet de configurer les grades des employés, vous aidant à catégoriser facilement les employés en fonction de leur ancienneté ou de tout autre critère.
+Dokos vous permet de configurer les grades des employés, vous aidant à catégoriser facilement les employés en fonction de leur ancienneté ou de tout autre critère.
 
 La note des employés vous aide également à récupérer les enregistrements des employés en masse en fonction de leurs notes lors du traitement de la paie, de l'attribution des congés, etc.
 

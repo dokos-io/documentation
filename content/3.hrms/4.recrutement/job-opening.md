@@ -12,7 +12,7 @@ dateCreated: 2021-06-14T09:58:16.138Z
 
 Une offre d'emploi est une offre qui est à pourvoir dans votre entreprise. Vous pouvez enregistrer les postes vacants dans votre entreprise en utilisant l'offre d'emploi.
 
-DOKOS permet de planifier les recrutements pour votre entreprise. Le nombre d'ouvertures de poste que vous pouvez créer pour une désignation est limité en fonction des postes vacants prévus par le plan d'effectifs défini pour l'entreprise ou l'une de ses sociétés mères dans la hiérarchie.
+Dokos permet de planifier les recrutements pour votre entreprise. Le nombre d'ouvertures de poste que vous pouvez créer pour une désignation est limité en fonction des postes vacants prévus par le plan d'effectifs défini pour l'entreprise ou l'une de ses sociétés mères dans la hiérarchie.
 
 ::alert{type=warning}
 **Remarque** : Assurez-vous que la case **Vérifier les postes vacants lors de la création d'une offre d'emploi** est cochée dans la section Paramètres d'embauche des paramètres RH.

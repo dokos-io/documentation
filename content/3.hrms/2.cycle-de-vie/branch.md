@@ -12,7 +12,7 @@ dateCreated: 2021-06-02T09:35:32.379Z
 
 Une succursale est un point de vente d'une entreprise situé à un endroit différent, autre que le bureau principal.
 
-DOKOS vous permet de créer et de conserver une trace des différentes branches de votre organisation.
+Dokos vous permet de créer et de conserver une trace des différentes branches de votre organisation.
 
 Pour accéder à la liste des **Branches**, allez sur :
 

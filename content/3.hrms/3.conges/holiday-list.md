@@ -12,7 +12,7 @@ dateCreated: 2021-06-04T12:17:21.981Z
 
 Liste des congés est une liste qui contient les dates des vacances.
 
-La plupart des organisations ont une liste de jours fériés standard pour leurs employés. Cependant, certains d'entre eux peuvent avoir des listes de jours fériés différentes en fonction de différents emplacements ou départements. Dans DOKOS, vous pouvez configurer plusieurs listes de congés et les attribuer à vos employés en fonction de vos besoins.
+La plupart des organisations ont une liste de jours fériés standard pour leurs employés. Cependant, certains d'entre eux peuvent avoir des listes de jours fériés différentes en fonction de différents emplacements ou départements. Dans Dokos, vous pouvez configurer plusieurs listes de congés et les attribuer à vos employés en fonction de vos besoins.
 
 ---
 

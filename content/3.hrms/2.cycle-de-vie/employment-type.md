@@ -12,7 +12,7 @@ dateCreated: 2021-06-02T09:15:29.511Z
 
 Vous pouvez employer des personnes dans un certain nombre de catégories, chacune ayant son propre salaire et droit à des congés. C'est ce qu'on appelle un type d'emploi.
 
-DOKOS vous permet de sélectionner un type d'emploi dans une liste prédéfinie ou même de créer un nouveau type d'emploi en fonction de vos besoins.
+Dokos vous permet de sélectionner un type d'emploi dans une liste prédéfinie ou même de créer un nouveau type d'emploi en fonction de vos besoins.
 
 ---
 

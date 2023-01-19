@@ -12,7 +12,7 @@ dateCreated: 2021-06-19T08:17:43.309Z
 
 Autres revenus de l'employé est un document permettant de déclarer les autres revenus d'un employé provenant de différentes sources.
 
-Les autres revenus d'un employé sont également importants pour calculer l'impôt sur le revenu d'un employé. Dans DOKOS, un salarié peut déclarer ses autres revenus à l'aide de ce document.
+Les autres revenus d'un employé sont également importants pour calculer l'impôt sur le revenu d'un employé. Dans Dokos, un salarié peut déclarer ses autres revenus à l'aide de ce document.
 
 ---
 

@@ -9,7 +9,7 @@ dateCreated: 2021-05-25T20:39:11.880Z
 ---
 
 # N°de lot
-La fonction de lot de DOKOS vous permet de regrouper plusieurs unités d'un article et de leur attribuer une valeur / un numéro / une étiquette unique appelée N° de lot.
+La fonction de lot de Dokos vous permet de regrouper plusieurs unités d'un article et de leur attribuer une valeur / un numéro / une étiquette unique appelée N° de lot.
 
 Ceci est fait en fonction de l'article. Si l'article est groupé, un numéro de lot doit être mentionné dans chaque transaction de stock. Les numéros de lot peuvent être gérés manuellement ou automatiquement. Cette fonction est utile pour définir la date d'expiration de plusieurs articles ou les déplacer ensemble vers différents entrepôts.
 

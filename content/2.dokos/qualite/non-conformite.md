@@ -14,7 +14,7 @@ Une non-conformité est une observation qui peut être déposée par toute perso
 
 Une fois les procédures qualité définies, l'objectif d'une organisation axée sur la qualité est de s'assurer qu'elles sont respectées. Cela garantit une qualité et des paramètres constants selon les attentes du client. Si ces procédures ne sont pas suivies, une observation est enregistrée via une Non Conformité ou appelée NC dans les systèmes qualité.
 
-Dans DOKOS, vous pouvez créer une non-conformité en sélectionnant la procédure qualité par rapport à laquelle elle a été observée, maintenir son statut et enregistrer les actions correctives et préventives.
+Dans Dokos, vous pouvez créer une non-conformité en sélectionnant la procédure qualité par rapport à laquelle elle a été observée, maintenir son statut et enregistrer les actions correctives et préventives.
 
 ---
 

@@ -43,7 +43,7 @@ Pour générer des URL de webhook, vous devez créer une nouvelle application Sl
 
 ![choix_du_canal.png](/content/integrations/slack/choix_du_canal.png)
 
-9. Copiez le lien créé, revenez sur la plateforme DOKOS et utilisez-le pour créer une nouvelle URL Slack Webhook.
+9. Copiez le lien créé, revenez sur la plateforme Dokos et utilisez-le pour créer une nouvelle URL Slack Webhook.
 
 ![copier_url_webhook.png](/content/integrations/slack/copier_url_webhook.png)
 

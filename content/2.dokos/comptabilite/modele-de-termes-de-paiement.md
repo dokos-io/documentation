@@ -15,9 +15,9 @@ Contenu bientôt disponible
 
 #### Une condition de paiement permet de définir un calendrier selon lequel les paiements seront effectués.
 
-Une condition de paiement définit une tranche de paiement spécifique. Par exemple, 50% de paiement à l'expédition et 50% à la livraison de l'article. Vous pouvez enregistrer les conditions de paiement de votre entreprise sur DOKOS et les inclure dans tous les documents du cycle de vente / achat. DOKOS effectuera toutes les écritures du grand livre en conséquence.
+Une condition de paiement définit une tranche de paiement spécifique. Par exemple, 50% de paiement à l'expédition et 50% à la livraison de l'article. Vous pouvez enregistrer les conditions de paiement de votre entreprise sur Dokos et les inclure dans tous les documents du cycle de vente / achat. Dokos effectuera toutes les écritures du grand livre en conséquence.
 
-Dans DOKOS, le formulaire Conditions de paiement ne définit que les pourcentages de portion. Le calendrier de paiement réel peut facilement être appliqué à l'aide du modèle de conditions de paiement.
+Dans Dokos, le formulaire Conditions de paiement ne définit que les pourcentages de portion. Le calendrier de paiement réel peut facilement être appliqué à l'aide du modèle de conditions de paiement.
 
 Vous pouvez utiliser les conditions de paiement dans les documents suivants:
 

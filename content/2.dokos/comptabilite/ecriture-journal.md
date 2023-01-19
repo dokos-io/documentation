@@ -62,7 +62,7 @@ Cela devrait être zéro si l'entrée de journal doit être « soumise ». Si ce
 
 Un numéro de référence peut être saisi manuellement et une date de référence peut être définie. En entrant un numéro de référence ici, une « Remarque » s'affichera, par exemple :
 
-Dans la section Référence, les champs suivants peuvent être saisis manuellement si la facture a été enregistrée hors ligne et non dans le système DOKOS. Ceci est uniquement à des fins de référence.
+Dans la section Référence, les champs suivants peuvent être saisis manuellement si la facture a été enregistrée hors ligne et non dans le système Dokos. Ceci est uniquement à des fins de référence.
 
 ### 2.5 Saisies multi-devises
 
@@ -102,7 +102,7 @@ Lisez les titres d'impression pour en savoir plus.
 
 ## 3. Types d'entrées de journal
 
-Jetons un coup d'œil à certaines des écritures comptables courantes qui peuvent être effectuées via Journal Entry dans DOKOS.
+Jetons un coup d'œil à certaines des écritures comptables courantes qui peuvent être effectuées via Journal Entry dans Dokos.
 
 ### 3.1 Saisie du journal
 

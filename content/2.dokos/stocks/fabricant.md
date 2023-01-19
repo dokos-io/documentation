@@ -5,9 +5,9 @@ title: Fabricant
 # Fabricant
 Un fabricant a créé ou produit un article.
 
-Un Fabricant peut ne pas être la même personne / société qui vend l'article sous une marque spécifique. Par exemple, DOKOS peut être le fabricant de capsules en plastique, mais elles peuvent être vendu sous une marque, disons Capsules DOKOS.
+Un Fabricant peut ne pas être la même personne / société qui vend l'article sous une marque spécifique. Par exemple, Dokos peut être le fabricant de capsules en plastique, mais elles peuvent être vendu sous une marque, disons Capsules Dokos.
 
-Dans DOKOS, un fabricant peut être utilisé pour identifier les articles à l'aide d'un numéro de pièce spécifique.
+Dans Dokos, un fabricant peut être utilisé pour identifier les articles à l'aide d'un numéro de pièce spécifique.
 
 Pour accéder à la liste des **fabricants**, allez sur :
 

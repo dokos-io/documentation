@@ -12,7 +12,7 @@ dateCreated: 2021-06-14T06:59:19.076Z
 
 La section Gestion des quarts de travail des ressources humaines aide votre organisation à gérer les quarts de travail de vos employés.
 
-Pour utiliser un type de quart dans DOKOS,
+Pour utiliser un type de quart dans Dokos,
 
 - Configurer un type d'équipe.
 - Entrez la demande de décalage.

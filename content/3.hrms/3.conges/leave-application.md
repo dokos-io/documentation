@@ -11,7 +11,7 @@ dateCreated: 2021-06-08T09:04:00.827Z
 # Demande de congé
 La demande de congé est un document formel créé par un employé pour demander des congés pour une période donnée.
 
-DOKOS permet à vos employés de demander des congés via les demandes de congé et de les faire approuver par les approbateurs de congé.
+Dokos permet à vos employés de demander des congés via les demandes de congé et de les faire approuver par les approbateurs de congé.
 
 Pour accéder à la **liste de demande de congé**, allez sur :
 

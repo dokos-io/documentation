@@ -43,7 +43,7 @@ Créez vous un compte sur la plateforme ou connectez-vous si vous en avez déjà
 
 ![validation_url.png](/content/integrations/mattermost/validation_url.png)
 
-9. Copiez le lien créé, revenez sur la plateforme DOKOS et utilisez-le pour créer une nouvelle URL Mattermost Webhook.
+9. Copiez le lien créé, revenez sur la plateforme Dokos et utilisez-le pour créer une nouvelle URL Mattermost Webhook.
 
 ![copier_url.png](/content/integrations/mattermost/copier_url.png)
 

@@ -14,7 +14,7 @@ Le connecteur Amazon extrait les produits et les commandes client de la market p
 
 ## 1. Comment configurer le connecteur Amazon MWS ? 
 
-### 1.1 Configuration des informations d'identification dans DOKOS
+### 1.1 Configuration des informations d'identification dans Dokos
 
 Vous pouvez demander les informations d'identification du développeur à Amazon MWS une fois que vous êtes un vendeur enregistré sur leur site Web.
 
@@ -41,8 +41,8 @@ Cliquez sur ce bouton pour synchroniser les produits. Une fois cela réussi, vou
 
 ### 1.6 Synchroniser les commandes
 
-Cliquez sur ce bouton pour synchroniser les commandes client. Une fois cela réussi, vous devriez voir vos commandes Amazon en tant que commandes client dans DOKOS. Vous pouvez également configurer le planificateur pour synchroniser automatiquement les commandes.
+Cliquez sur ce bouton pour synchroniser les commandes client. Une fois cela réussi, vous devriez voir vos commandes Amazon en tant que commandes client dans Dokos. Vous pouvez également configurer le planificateur pour synchroniser automatiquement les commandes.
 
 **Noter**
 
-Le connecteur ne gérera pas l'annulation de la commande. Si vous avez annulé une commande sur Amazon, vous devez annuler manuellement la commande client respective et les autres documents dans DOKOS.
+Le connecteur ne gérera pas l'annulation de la commande. Si vous avez annulé une commande sur Amazon, vous devez annuler manuellement la commande client respective et les autres documents dans Dokos.

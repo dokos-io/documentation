@@ -12,7 +12,7 @@ dateCreated: 2021-06-14T13:50:43.544Z
 
 Une fois l'événement de formation terminé, les résultats de la formation des employés peuvent être stockés en fonction de l'évaluation effectuée par le formateur.
 
-DOKOS vous permet de créer des résultats de formation et de les partager avec les employés.
+Dokos vous permet de créer des résultats de formation et de les partager avec les employés.
 
 ---
 

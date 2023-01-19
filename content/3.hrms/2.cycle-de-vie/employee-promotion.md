@@ -12,7 +12,7 @@ dateCreated: 2021-06-03T13:41:29.740Z
 
 La promotion ou l'avancement de carrière est un processus par lequel un employé d'une entreprise se voit attribuer une part plus élevée de tâches, une échelle salariale plus élevée ou les deux.
 
-Dans DOKOS, vous pouvez gérer la promotion des employés et ses différentes activités associées à l'aide de ce document.
+Dans Dokos, vous pouvez gérer la promotion des employés et ses différentes activités associées à l'aide de ce document.
 
 Pour accéder à la liste de **promotion des employés**, allez sur :
 

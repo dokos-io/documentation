@@ -10,7 +10,7 @@ dateCreated: 2021-10-14T12:11:00.258Z
 
 # Contacts Google
 
-DOKOS fournit une intégration avec Google Contacts afin que tous les utilisateurs puissent synchroniser leurs Google Contacts avec Dokos.
+Dokos fournit une intégration avec Google Contacts afin que tous les utilisateurs puissent synchroniser leurs Google Contacts avec Dokos.
 
 ---
 
@@ -22,7 +22,7 @@ Pour accéder à la liste des contacts Google, allez sur :
 
 ## 1. Comment configurer l'intégration des contacts Google ?
 
-Afin de permettre une synchronisation avec Google Contacts, vous devez autoriser DOKOS à récupérer les données de Contacts de Google. L'intégration de Google Contacts est configurée avec les étapes suivantes :
+Afin de permettre une synchronisation avec Google Contacts, vous devez autoriser Dokos à récupérer les données de Contacts de Google. L'intégration de Google Contacts est configurée avec les étapes suivantes :
 
 1. **Créez des informations d'identification** OAuth 2.0 via les paramètres Google.
 
@@ -30,14 +30,14 @@ Afin de permettre une synchronisation avec Google Contacts, vous devez autoriser
 
 2. Dans la liste des contacts Google, cliquez sur **Nouveau**
 3. Saisissez l'**e-mail du compte Google** que vous souhaitez synchroniser, puis enregistrez-le. 
-4. Cliquez maintenant sur **Autoriser l'accès aux contacts** pour autoriser DOKOS à obtenir les données des contacts de Google.
+4. Cliquez maintenant sur **Autoriser l'accès aux contacts** pour autoriser Dokos à obtenir les données des contacts de Google.
 
 ![nouveau_contact_google.png](/content/integrations/contacts-google/nouveau_contact_google.png)
 
 ## 2. Comment utiliser l'intégration des contacts Google 
 
-1. Créer un **Contact** dans DOKOS 
-2. Une fois l'intégration de Google Contacts réussie, tous les contacts créés dans DOKOS seront synchronisés si **Envoyer à Google Contact Contact** est cochée.
+1. Créer un **Contact** dans Dokos 
+2. Une fois l'intégration de Google Contacts réussie, tous les contacts créés dans Dokos seront synchronisés si **Envoyer à Google Contact Contact** est cochée.
 
 ## 3. Synchroniser les contacts à partir de Google Contacts
 

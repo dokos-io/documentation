@@ -10,7 +10,7 @@ dateCreated: 2021-06-21T10:23:47.010Z
 
 # Catégorie d'exonération fiscale des employés
 
-Les exonérations du salaire imposable sont généralement limitées aux dépenses relatives à des catégories particulières décidées par le gouvernement ou les organismes de réglementation. DOKOS vous permet de configurer différentes catégories et sous-catégories qui peuvent être exemptées. 
+Les exonérations du salaire imposable sont généralement limitées aux dépenses relatives à des catégories particulières décidées par le gouvernement ou les organismes de réglementation. Dokos vous permet de configurer différentes catégories et sous-catégories qui peuvent être exemptées. 
 
 ---
 

@@ -12,7 +12,7 @@ dateCreated: 2021-06-09T10:36:12.688Z
 
 Le congé compensatoire est un congé qui est accordé à un employé en compensation des heures supplémentaires ou des jours fériés.
 
-DOKOS permet aux employés de demander des congés compensatoires via le document Demande de congé compensatoire. Il est nécessaire que les dates mentionnées dans la demande de congé compensatoire soient dans la liste des jours fériés par défaut et également que l'employé ait sa présence marquée Présent.
+Dokos permet aux employés de demander des congés compensatoires via le document Demande de congé compensatoire. Il est nécessaire que les dates mentionnées dans la demande de congé compensatoire soient dans la liste des jours fériés par défaut et également que l'employé ait sa présence marquée Présent.
 
 ::alert{type=warning}
 **Remarque** : Seuls les types de congé marqués comme **Est compensatoire** peuvent être sélectionnés dans la demande de congé compensatoire.
@@ -56,5 +56,5 @@ Avant de créer une demande de congé compensatoire, il est nécessaire de crée
 
 ![travail_en_vacances.png](/content/rh/compensatory-leave-request/travail_en_vacances.png)
 
-Lors de la soumission de la demande de congé compensatoire, DOKOS met à jour l'enregistrement d'allocation de congé pour le type de congé compensatoire, permettant à l'employé de demander des congés de ce type ultérieurement en fonction du nombre de congés restants.
+Lors de la soumission de la demande de congé compensatoire, Dokos met à jour l'enregistrement d'allocation de congé pour le type de congé compensatoire, permettant à l'employé de demander des congés de ce type ultérieurement en fonction du nombre de congés restants.
 

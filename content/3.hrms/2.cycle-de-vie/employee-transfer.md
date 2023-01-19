@@ -12,7 +12,7 @@ dateCreated: 2021-06-03T13:54:08.668Z
 
 Le transfert d'employés est une forme de mobilité interne, dans laquelle l'employé est transféré d'un emploi à un autre, généralement dans un emplacement, un service ou une unité différent.
 
-Dans DOKOS, vous pouvez enregistrer les transferts d'employés vers différentes entreprises ou services en utilisant le document de transfert d'employés.
+Dans Dokos, vous pouvez enregistrer les transferts d'employés vers différentes entreprises ou services en utilisant le document de transfert d'employés.
 
 ---
 

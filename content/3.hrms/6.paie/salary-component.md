@@ -12,7 +12,7 @@ dateCreated: 2021-06-17T07:58:58.348Z
 
 Les salaires sont payés par les organisations à leurs employés en échange des services qu'ils rendent. Les différentes composantes qui composent la structure salariale sont appelées composantes salariales.
 
-Le salaire versé aux employés comprend plusieurs éléments différents, tels que le salaire de base, les indemnités, les arriérés, etc. DOKOS vous permet de définir ces éléments de salaire et également de spécifier ses différents attributs.
+Le salaire versé aux employés comprend plusieurs éléments différents, tels que le salaire de base, les indemnités, les arriérés, etc. Dokos vous permet de définir ces éléments de salaire et également de spécifier ses différents attributs.
 
 ---
 
@@ -76,7 +76,7 @@ Indiquez la société concernée et le compte comptable.
 
 Dans cette section, la condition et la formule requises pour le calcul de la composante salariale peuvent être spécifiées. Pour spécifier la formule, cochez la case **Montant basé sur la formule**.
 
-Dans le cas où la Composante Salaire est basée sur un montant prédéfini, DOKOS vous permet de saisir directement le montant dans le champ Montant (désactivez la case à cocher « Montant basé sur la formule »).
+Dans le cas où la Composante Salaire est basée sur un montant prédéfini, Dokos vous permet de saisir directement le montant dans le champ Montant (désactivez la case à cocher « Montant basé sur la formule »).
 
 ::alert{type=warning}
 **Remarque** : Cette configuration ci-dessus est facultative. Vous pouvez également définir le montant et la formule/condition pour une composante salariale directement dans la structure salariale. S'ils sont spécifiés dans le document de la composante salariale lui-même, les informations seront directement récupérées dans la structure salariale lorsque la composante est sélectionnée.

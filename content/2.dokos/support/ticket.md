@@ -12,7 +12,7 @@ dateCreated: 2021-07-21T14:25:22.260Z
 
 Un ticket est une requête entrante d'un client, généralement par e-mail ou à partir de la section Contact de votre site Web.
 
-**Astuce** : Une adresse e-mail dédiée à l'assistance est un bon moyen de suivre les requêtes entrantes. Par exemple, vous pouvez envoyer des demandes d'assistance à DOKOS à support@dokos.io et cela créera automatiquement un problème dans notre système.
+**Astuce** : Une adresse e-mail dédiée à l'assistance est un bon moyen de suivre les requêtes entrantes. Par exemple, vous pouvez envoyer des demandes d'assistance à Dokos à support@dokos.io et cela créera automatiquement un problème dans notre système.
 
 ---
 
@@ -52,7 +52,7 @@ Si l'expéditeur répond au fil de discussion, le statut redevient « Ouvrir ».
 **Remarque** : Si le SLA a été configuré, le statut d'exécution du SLA sera mis à jour à la fois pour le statut Fermé et Résolu .
 ::
 
-- **Client** : Si l'email a été envoyé depuis un Client stocké dans votre compte DOKOS, alors un lien Client apparaîtra dans ce champ.
+- **Client** : Si l'email a été envoyé depuis un Client stocké dans votre compte Dokos, alors un lien Client apparaîtra dans ce champ.
 - **Priorité** : La priorité peut être définie selon les exigences. Par défaut, il existe trois priorités : faible, moyenne et élevée. Vous pouvez les supprimer ou en ajouter d'autres si nécessaire.
 - **Type de problème** : un problème peut être classé à l'aide du type de problème. Des exemples de types de problèmes peuvent être : « Fonctionnel », « Technique », « Matériel », etc.
 - **Élevé par (e-mail)** : l'identifiant de l'e-mail à partir duquel le problème a été envoyé sera affiché ici.

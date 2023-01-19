@@ -12,7 +12,7 @@ dateCreated: 2021-06-11T07:57:28.821Z
 
 L'offre d'emploi est remise aux candidats sélectionnés après un entretien et une sélection qui indique les caractéristiques de l'offre comme la désignation, l'échelon, le département, le nombre de jours de congé.
 
-Dans DOKOS, vous pouvez enregistrer les offres d'emploi que vous pouvez remettre aux candidats. 
+Dans Dokos, vous pouvez enregistrer les offres d'emploi que vous pouvez remettre aux candidats. 
 
 ---
 
