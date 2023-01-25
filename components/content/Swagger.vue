@@ -17,7 +17,7 @@ const props = defineProps({
 })
 
 let demo_link = props.demo == "Dokompany" ? "https://demo.dokos.cloud" : "https://tierslieux.dokos.io"
-demo_link = "http://localhost:8003"
+
 const swaggerDomNode = ref(null);
 
 onMounted( async() => {
