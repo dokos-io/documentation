@@ -51,7 +51,7 @@ css({
     width: '100%',
     padding: '{space.8}',
     borderRadius: '{radii.xl}',
-    border: '1px solid {elements.border.primary.default}',
+    border: '1px solid {elements.border.primary.static}',
     background: '{elements.backdrop.background}',
     transition: 'all 300ms ease',
     '@dark': {
@@ -88,9 +88,9 @@ css({
       borderBottom: '1px dashed currentColor',
     },
     '&:hover': {
-      border: '1px solid {elements.color.text.primary.default}',
+      border: '1px solid {prose.a.border.color.hover}',
       '.LinkCard--link': {
-        color: '{elements.color.text.primary.default}',
+        color: '{prose.a.border.color.static}',
         borderBottom: '1px solid currentColor',
       },
     },

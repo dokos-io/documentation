@@ -2,18 +2,19 @@ export default defineAppConfig({
     docus: {
       title: 'Dokos Documentation',
       description: 'Develop applications on Dodock framework and enhance your Dokos usage.',
-      layout: {
-        fluid: true
-      },
       image: 'https://content.nuxtjs.org/preview.png',
       url: 'https://content.nuxtjs.org',
       debug: false,
       socials: {
         twitter: '@dokos_io',
-        linkedin: 'https://www.linkedin.com/company/dokos.io',
+        linkedin: {
+          label: "LinkedIn",
+          icon: "mdi:linkedin",
+          href: "https://www.linkedin.com/company/dokos.io"
+        },
         gitlab: {
           label: "Gitlab",
-          icon: "ph:gitlab-logo",
+          icon: "mdi:gitlab",
           href: "https://gitlab.com/dokos"
         }
       },
@@ -28,6 +29,11 @@ export default defineAppConfig({
       header: {
         title: false,
         logo: true,
+        fluid: true
+      },
+      main: {
+        padded: true,
+        fluid: true
       },
       footer: {
         credits: {
