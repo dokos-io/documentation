@@ -8,11 +8,11 @@ Pour déterminer le montant à rétrocéder, vous pouvez créer un nouveau rempl
 
 Une fois que vous avez calculé (ou laissé Maia calculer) le montant à rétrocéder, vous pouvez enregistrer ce montant dans une dépense:
 
-![Rétrocession d'Honoraires](/img/accounting/retrocession.png)
+![Rétrocession d'Honoraires](/content/maia/accounting/retrocession.png)
 
 N'oubliez pas d'enregistrer ensuite le paiement correspondant.
 
 
-:::tip Astuce
+:::alert
 Avant d'enregistrer votre dépense, pensez à créer un tiers pour votre remplaçant·e, car c'est ce tiers qui va être utilisé par Maia pour enregistrer comptablement la dépense.
 :::

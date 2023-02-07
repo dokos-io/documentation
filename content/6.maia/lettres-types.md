@@ -14,7 +14,7 @@ Tous vos modèles sont accessibles depuis le module "Paramètres" ou "Dossiers M
 
 
 La création d'un nouveau modèle permet de définir un titre un sujet (utilisé dans les emails) ainsi qu'un texte avec des variables:  
-![Editeur de Lettre Type](/img/standard_letter/trip_letter.png)
+![Editeur de Lettre Type](/content/maia/standard_letter/trip_letter.png)
 
 
 
@@ -28,7 +28,7 @@ Si le dossier de votre patiente s'appelle "Martine Dupond", alors "Patient(e)" s
 
 
 Les variables disponibles sont accessibles en cliquant sur l'icône en forme de document dans la barre d'outils:
-![Variables disponibles](/img/standard_letter/variables.png)
+![Variables disponibles](/content/maia/standard_letter/variables.png)
 
 Commencez par sélectionner un type de document pour ensuite choisir une variable dans ce document ou dans les documents liés.
 
@@ -47,7 +47,7 @@ Il ne vous reste plus qu'à sélectionner sur la variable pour qu'elle s'ajoute 
 
 Dans le menu des différents documents de Maia, un bouton "Lettre" permet d'ouvrir l'éditeur de lettre.
 
-![Editeur de lettre](/img/standard_letter/letter_popup.png)
+![Editeur de lettre](/content/maia/standard_letter/letter_popup.png)
 
 Vous pouvez sélectionner votre modèle et le modifier à votre guise avant d'imprimer.
 Cochez l'option "Attacher au document" pour qu'une version PDF de la lettre soit automatiquement attachée au document de référence.

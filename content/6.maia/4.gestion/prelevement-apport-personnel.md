@@ -10,7 +10,7 @@ Un prélèvement personnel doit être enregistré à chaque fois que vous retire
 A l'inverse un apport personnel doit être enregistré à chaque fois que vous ajoutez de l'argent depuis votre compte personnel sur le compte professionnel.
 
 Pour ce faire, faites une nouvelle opération diverse et sélectionnez le type "Prélèvement personnel".
-![Opération de prélèvement personnel](/img/accounting/personal_debit_credit/personal_debit_credit.png)
+![Opération de prélèvement personnel](/content/maia/accounting/personal_debit_credit/personal_debit_credit.png)
 
 Maia va automatiquement récupérer tous les postes comptables de type __Banque__, __Espèces__ et __Exploitant__ pour vous.
 
@@ -29,7 +29,7 @@ La ventilation de cette opération sera donc:
 |BNP PARIBAS    |-2000 €|
 |Exploitant     |2000 € |
 
-![Prélèvement personnel - Exemple 1](/img/accounting/personal_debit_credit/personal_debit_example_1.png)
+![Prélèvement personnel - Exemple 1](/content/maia/accounting/personal_debit_credit/personal_debit_example_1.png)
 :::
 
 :::example Exemple 2
@@ -43,7 +43,7 @@ La ventilation de cette opération sera donc:
 |BNP PARIBAS    |-1500 €|
 |Exploitant     |2000 € |
 
-![Prélèvement personnel - Exemple 2](/img/accounting/personal_debit_credit/personal_debit_example_2.png)
+![Prélèvement personnel - Exemple 2](/content/maia/accounting/personal_debit_credit/personal_debit_example_2.png)
 :::
 
 :::example Exemple 3
@@ -56,11 +56,11 @@ La ventilation de cette opération sera donc:
 |BNP PARIBAS    |-68 €|
 |Exploitant     |68 € |
 
-![Prélèvement personnel - Exemple 3](/img/accounting/personal_debit_credit/personal_debit_example_3.png)
+![Prélèvement personnel - Exemple 3](/content/maia/accounting/personal_debit_credit/personal_debit_example_3.png)
 :::
 
 
-:::tip
+:::alert
 De manière générale, à chaque fois que vous ajoutez une somme sur le compte de l'exploitant, vous procédez à un prélèvement personnel.
 Il est donc, par exemple, tout à fait possible de procéder à un prélèvement personnel lors d'un [dépôt d'espèce](/maia/comptabilite/depot-especes/) en enregistrant un seul document.
 :::
@@ -78,5 +78,5 @@ La ventilation de cette opération sera donc:
 |Exploitant     |-2000 €|
 |FORTUNEO       |2000 € |
 
-![Apport personnel - Exemple 1](/img/accounting/personal_debit_credit/personal_credit_example_1.png)
+![Apport personnel - Exemple 1](/content/maia/accounting/personal_debit_credit/personal_credit_example_1.png)
 :::

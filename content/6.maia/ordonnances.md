@@ -5,7 +5,7 @@ Maia vous propose plusieurs options pour créer des ordonnances.
 ## Créer une ordonnance directement depuis une fiche de consultation.
 
 
-![Ordonnances](/img/first_steps/prescription/Selection_059.png)
+![Ordonnances](/content/maia/first_steps/prescription/Selection_059.png)
 
 - Ajoutez autant d'éléments à prescrire que vous le souhaitez dans les tableaux correspondants.
 
@@ -20,10 +20,10 @@ Sélectionnez ensuite le type d'ordonnance à imprimer dans le menu déroulant "
 :::
 <br>
 
-![Impression Ordonnances](/img/first_steps/prescription/imprimer.png)
+![Impression Ordonnances](/content/maia/first_steps/prescription/imprimer.png)
 
 
-::: tip Astuce
+:::alert
 *Passer par la fiche de CONSULTATION permet d'imprimer une ordonnance rapidement. Pour créer un document PDF, il faut faire une ordonnance libre.*
 :::
 <br>
@@ -39,15 +39,15 @@ Cette fois vous arriverez dans le module d'impression classique de Maia.
 
 Vous pouvez changer le type d'ordonnance à imprimer depuis ce module en sélectionnant le type souhaité en haut à gauche:
 
-![Impression Ordonnances](/img/first_steps/prescription/imprimer1.png)
+![Impression Ordonnances](/content/maia/first_steps/prescription/imprimer1.png)
 
 Pour imprimer un PDF, cliquez sur PDF en haut à droite:
 
-![Impression Ordonnances](/img/first_steps/prescription/imprimer2.png)
+![Impression Ordonnances](/content/maia/first_steps/prescription/imprimer2.png)
 
 Enfin, pour envoyer l'ordonnance à votre patiente par email au format PDF, sélectionnez Email dans le menu (en haut à gauche).
 
 Ajoutez son adresse email et un petit mot et choisissez bien le type d'ordonnance à lui envoyer dans les options ci-dessous avant de l'envoyer:
 
-![Envoi de l'Ordonnance par email](/img/first_steps/prescription/imprimer3.png)  
+![Envoi de l'Ordonnance par email](/content/maia/first_steps/prescription/imprimer3.png)  
 *Dans cet exemple on envoie une ordonnance médicamenteuse.*

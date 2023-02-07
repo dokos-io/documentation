@@ -10,7 +10,7 @@ Maia dispose d'un module de prise de rendez-vous vous permettant de créer vos p
 1 .  Allez dans `Rendez-vous > Rendez-vous` et cliquez sur "**Nouveau(elle)**".
 
 
-:::tip Astuce
+:::alert
 *Jonglez entre la vue en liste et la vue calendrier à gauche de votre écran pour visualiser vos rendez-vous. Vous pouvez même créer un nouveau rendez-vous depuis la vue calendrier en faisant glisser votre souris sur le créneau qui vous intéresse.*  
 :::
 
@@ -19,9 +19,9 @@ Maia dispose d'un module de prise de rendez-vous vous permettant de créer vos p
 3 . Déterminez le type de rendez-vous.  
 **Pensez donc à configurer autant de type de rendez-vous que vous avez de consultations différentes!**  
 
-![Nouveau Rendez-Vous](/img/appointments/nouveau_rdv.png)  
+![Nouveau Rendez-Vous](/content/maia/appointments/nouveau_rdv.png)  
 
-:::tip Astuce
+:::alert
 *Choisissez des couleurs différentes pour visualiser facilement le type de consultation dans votre agenda !*  
 :::
 
@@ -32,7 +32,7 @@ Si vous le souhaitez, Maia peut vous proposer l'ensemble des créneaux disponibl
 2. Si l'une d'entre elles vous convient, cliquez sur "**Réserver**".  
 Les horaires de début et de fin se mettent automatiquement à jour, vous n'avez plus qu'à valider votre rendez-vous.
 
-![Disponibilités](/img/appointments/disponibilites.png)
+![Disponibilités](/content/maia/appointments/disponibilites.png)
 <br>
 
 ### Les différents statuts de rendez-vous
@@ -57,7 +57,7 @@ Vous pouvez modifier son contenu ainsi que la date à laquelle il doit être env
 
 Par exemple, pour que cet email soit envoyé 2 jours avant le rendez-vous, modifier le champ `Jours précédents ou suivants` et mettez 2 à la place de 1:
 
-![Notification](/img/appointments/reminder_notification.png)
+![Notification](/content/maia/appointments/reminder_notification.png)
 
 
 Il en est de même pour les SMS: **un SMS de rappel** peut être envoyé 1 ou plusieurs jours avant la consultation.  

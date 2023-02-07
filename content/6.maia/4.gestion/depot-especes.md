@@ -7,7 +7,7 @@ Cette opération est à enregistrer en tant qu'opération diverse.
 ## Sélection du type d'opération
 
 Allez dans "Comptabilité > Opération diverse" et créez une nouvelle opération de type "Dépôt d'espèces":
-![Opération de dépôt d'espèces](/img/accounting/cash_deposit/cash_deposit_operation.png)
+![Opération de dépôt d'espèces](/content/maia/accounting/cash_deposit/cash_deposit_operation.png)
 
 A ce stade, les opérations qu'il faut effectuer sont les suivantes:
 
@@ -27,13 +27,13 @@ En sélectionnant ce type d'opération, Maia va automatiquement préparer votre 
 
 En cliquant sur "Obtenir tous les paiements en espèce non réconciliés", Maia va automatiquement récupérer tous les paiements validés ayant un mode de paiement de type "Espèces" et n'étant pas encore rapproché.
 
-![Paiements en espèces](/img/accounting/cash_deposit/cash_payments.png)
+![Paiements en espèces](/content/maia/accounting/cash_deposit/cash_payments.png)
 
 Maia va automatiquement déduire le total de ces paiements du poste comptable "Espèces"
 
-![Paiements en espèces](/img/accounting/cash_deposit/amount_calculation.png)
+![Paiements en espèces](/content/maia/accounting/cash_deposit/amount_calculation.png)
 
-:::tip Astuce
+:::alert
 Lors de l'installation de Maia, un poste comptable "Espèce" est automatiquement configuré pour vous.  
 Vous pouvez tout à fait le renommer ou en ajouter d'autres si besoin depuis la rubrique "Poste comptable"
 :::
@@ -65,7 +65,7 @@ Dans ce cas la ventilation comptable de cette opération sera la suivante:
 |BNP PARIBAS    |250 €  |
 |Exploitant     |20  €  |
 
-![Ventilation comptable](/img/accounting/cash_deposit/cash_deposit_accounting_split.png)
+![Ventilation comptable](/content/maia/accounting/cash_deposit/cash_deposit_accounting_split.png)
 :::
 
 Il est important que la différence entre les montants positifs et les montants négatifs soit égale à 0, sinon Maia vous empêchera de valider l'opération.
@@ -75,7 +75,7 @@ Vous pouvez alors enregistrer et valider votre opération diverse.
 
 Vous avez donc déposé vos espèces en banque et le montant apparaît sur votre relevé bancaire, vous pouvez donc rapprocher les paiements dans Maia.
 Si vous avez lié votre document de dépôt d'espèces avec les paiements correspondants, un bouton "Action" apparaît à la place du bouton "Valider" après la validation.
-![Rapprochement bancaire](/img/accounting/cash_deposit/cash_deposit_action.png)
+![Rapprochement bancaire](/content/maia/accounting/cash_deposit/cash_deposit_action.png)
 
 Cliquez sur "Mettre à jour les dates de rapprochement", choisissez la date et validez pour que tous les paiements liés à cette opération de dépôt d'espèces soient immédiatement rapprochés.
 

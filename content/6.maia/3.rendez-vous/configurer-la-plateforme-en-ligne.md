@@ -20,7 +20,7 @@ La première étape nécessite de configurer correctement Maia.
 
 1. Configuration de la "Fiche d'Informations Professionnelles"
 
-![Fiche d'Informations Professionnelles](/img/appointments/appointment_config.gif)
+![Fiche d'Informations Professionnelles](/content/maia/appointments/appointment_config.gif)
 
 Définissez votre emploi du temps en indiquant vos heures de début et de fin de consultation pour chaque jour de la semaine.
 Ne créez qu'une ligne par jour.
@@ -30,7 +30,7 @@ Choisissez également le nombre de jours accessibles en avance à la réservatio
 
 2. Création des "Types de Rendez-Vous"
 
-![Types de Rendez-Vous](/img/appointments/appointment_config1.gif)
+![Types de Rendez-Vous](/content/maia/appointments/appointment_config1.gif)
 
 Vous pouvez créer autant de "Type de Rendez-Vous" que vous le souhaitez et ne permettre la réservation en ligne que pour certains types de rendez-vous.
 

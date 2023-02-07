@@ -7,6 +7,6 @@
 En cliquant sur le "+", vous créez directement une nouvelle consultation.
 <br>
 
-![Nouvelle Consultation de Grossesse](/img/first_steps/pregnancy_consultation/open_pregnancy_consultation.png)
+![Nouvelle Consultation de Grossesse](/content/maia/first_steps/pregnancy_consultation/open_pregnancy_consultation.png)
 
 

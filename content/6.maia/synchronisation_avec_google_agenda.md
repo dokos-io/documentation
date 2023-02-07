@@ -10,7 +10,7 @@ Dans cette section, vous pouvez créer autant d'agendas Google que vous le souha
 
 Pour synchroniser les rendez-vous de Maia, sélectionnez l'option **Rendez-vous**.
 
-![Nouveau Google Agenda](/img/appointments/google_calendar.gif)
+![Nouveau Google Agenda](/content/maia/appointments/google_calendar.gif)
 
 :::warning Attention
 Il faut que chaque sage-femme ait son propre agenda pour que logiciel puisse attribuer correctement les rendez-vous que vous créez dans Google Agenda.
@@ -22,7 +22,7 @@ Une fois créé, il ne vous reste plus qu'à attribuer cet agenda à une sage-fe
 Dans chaque fiche d'informations professionnelles, liez l'agenda correspond à chaque sage-femme.  
 Vous pouvez également cocher l'option `Synchroniser tous les événements avec Google Agenda par défaut` pour que tous les rendez-vous de cette sage-femme soient automatiquement synchronisés avec son agenda Google.   
 
-![Liaison du Google Agenda](/img/appointments/link_google_calendar.png)
+![Liaison du Google Agenda](/content/maia/appointments/link_google_calendar.png)
 
 
 ## Synchronisation des rendez-vous
@@ -32,9 +32,9 @@ Pour activer la synchronisation, cochez la case `Synchroniser avec Google Agenda
 L'agenda sera automatiquement récupéré depuis la fiche d'informations professionnelles de la sage-femme.  
 Vous pouvez le changer si vous souhaitez synchroniser ce rendez-vous avec un autre agenda.  
 
-![Synchronisation des rendez-vous](/img/appointments/sync_booking.png)
+![Synchronisation des rendez-vous](/content/maia/appointments/sync_booking.png)
 
-:::tip 
+:::alert 
 L'option `Synchroniser avec Google Agenda` est cochée par défaut si vous avez activé `Synchroniser tous les événements avec Google Agenda par défaut` dans votre fiche d'informations professionnelle.  
 Il en est de même pour les rendez-vous créés en ligne par vos patientes.  
 :::
@@ -43,6 +43,6 @@ Vous pouvez modifier vos rendez-vous sur les deux plateformes, en prenant en com
 - Si vous créez un événement dans Google Agenda, cela créera forcément un événement personnel dans Maia
 - Si vous modifier un événement au sein d'une récurrence, le changement ne sera pas pris en compte dans Maia. Il faut que vous changiez toutes les occurences pour que cela soit réflété dans Maia.
 
-:::warning
+:::alert{type=warning}
 Lorsque vous créez un rendez-vous, la modification dans Google Agenda est quasi immédiate, tandis que si vous créez/modifiez un événement sur Google Agenda, il peut mettre une minute à être créé dans Maia.
 :::

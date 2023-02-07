@@ -18,10 +18,10 @@ Le document "Dépense" disponible dans le module de comptabilité vous permet d'
 La comptabilisation des frais de repas nécessite d'enregistrer une part non déductible correspondant aux frais que la sage-femme aurait engagée si elle avait pris son repas à son domicile.
 
 Vous n'avez qu'à sélectionner le tiers qui vous a fait la facture et à enregistrer le montant et Maia vous proposera deux lignes avec le montant ventilé:  
-![Frais de repas](/img/first_steps/buying/meal_expense.png)
+![Frais de repas](/content/maia/first_steps/buying/meal_expense.png)
 
 
-:::tip Astuce
+:::alert
 L'équipe Maia a pré-enregistré les montants des déductions et limites autorisées par l'administration fiscale, mais vous pouvez les modifier ci-besoin en allant dans "Comptabilité > Déduction pour les frais de repas"
 :::
 
@@ -31,7 +31,7 @@ De la même manière que pour les frais de repas, en sélectionnant "Contributio
 
 Vous pouvez tout à fait ajouter ou supprimer des lignes dans le tableau des articles pour modifier les postes comptables que vous souhaitez utiliser.
 
-![Contributions sociales](/img/first_steps/buying/social_contributions.png)
+![Contributions sociales](/content/maia/first_steps/buying/social_contributions.png)
 
 
 :::warning Attention

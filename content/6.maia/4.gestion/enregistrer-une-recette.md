@@ -1,7 +1,7 @@
 # Enregistrer une recette
 
 Les information de facturation se trouvent au bas de la fiche de CONSULTATION :  
-![Facturation](/img/first_steps/new_invoice/facturation.png)
+![Facturation](/content/maia/first_steps/new_invoice/facturation.png)
 <br>
 
 - **Tiers-Payant**: En cochant cette case, le logiciel séparera la partie à payer par la patiente et la partie à payer par la sécurité sociale.
@@ -15,18 +15,18 @@ Les information de facturation se trouvent au bas de la fiche de CONSULTATION :
 <br>
 
 Vous pouvez ensuite vérifier que les montants à facturer et leur ventilation sont corrects dans la partie "Détails de la facturation".  
-![Détails de la facturation](/img/first_steps/new_invoice/facturation1.png)
+![Détails de la facturation](/content/maia/first_steps/new_invoice/facturation1.png)
 
 
 Maintenant, tout est bon?  
 
 Il ne vous reste plus qu'à choisir entre faire avancer les frais immédiatement ou ne pas faire payer la patiente.
 
-::: tip Astuce
+:::alert
 *Si vous faites avancer les frais, mais uniquement après plusieurs séances, ne cochez pas la case. Celle-ci est uniquement pour le règlement immédiat de cette consultation.*
 :::
 
-![Facturation 2](/img/first_steps/new_invoice/facturation2.png)
+![Facturation 2](/content/maia/first_steps/new_invoice/facturation2.png)
 <br>
 
 Donc, si nous résumons:
@@ -39,7 +39,7 @@ Si vous avez choisi l'option "Tiers Payant" le calcul est automatique et différ
 Il ne vous reste plus qu'à entrer le mode de paiement choisi par la patiente et la référence (numéro du chèque par exemple).  
 La référence n'est pas obligatoire, mais vous permettra de faciliter vos rapprochements bancaires.  
 
-::: tip Astuce
+:::alert
 *Si besoin, vous pouvez ajouter ou supprimer des méthodes de paiement. Par exemple, vous pouvez retirer le paiement par CB de la liste ou ajouter Lydia. Dans ce cas, attention à bien choisir le type de paiement "Banque" ou "Espèces" et à attribuer le compte bancaire ou le poste comptable correspondant. Si vous avez deux comptes bancaires professionnels, vous devez créer des méthodes de paiement pour chaque compte bancaire.*  
 :::
 
@@ -49,12 +49,12 @@ Après une dernière vérification, félicitations, vous avez validé votre CONS
 
 Le lien vers la recette émise est disponible dans le tableau de bord en haut de la fiche de CONSULTATION. Vous pouvez ainsi y accéder en cliquant dessus pour l'**imprimer** si votre patiente vous la demande.  
 
-![Numéro de Facture](/img/first_steps/new_invoice/facturation3.png)
+![Numéro de Facture](/content/maia/first_steps/new_invoice/facturation3.png)
 <br>
 
 Un récapitulatif de ce que votre patiente vous doit est également disponible dans le DOSSIER PATIENTE.  
 
-![Récapitulatif de Facture](/img/first_steps/new_invoice/facturation4.png)
+![Récapitulatif de Facture](/content/maia/first_steps/new_invoice/facturation4.png)
 <br>
 
 Après la validation de votre consultation, vous ne pourrez plus la modifier, cependant Maia vous permet de l'annuler et de la modifier avant de la valider à nouveau.

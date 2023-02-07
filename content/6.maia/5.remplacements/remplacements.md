@@ -7,7 +7,7 @@ Le rapport de remplacement disponible dans Maia fait le calcul tout seul pour vo
 ### Comment ça fonctionne ?
 
 Depuis votre fiche d'information professionnelle, créez un nouveau remplacement.
-![Nouveau remplacements](/img/replacement/new_replacement.png)
+![Nouveau remplacements](/content/maia/replacement/new_replacement.png)
 
 Vous pouvez définir trois critères:
 

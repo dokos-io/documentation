@@ -13,7 +13,7 @@ C'est le thème par défaut de Maia.
 Il est préconfiguré à l'installation de Maia et vous pouvez le modifier en changeant son titre, sous-titre ou en ajoutant des sections sur le corps du site.
 
 Exemple:
-![Site Web thème Maia](/img/website/maia_theme.png)
+![Site Web thème Maia](/content/maia/website/maia_theme.png)
 
 
 #### One Page Wonder
@@ -33,7 +33,7 @@ Vous pouvez définir autant de sections que vous le souhaitez. Chaque section co
 Une fois que vous avez défini vos différentes sections, cliquez sur 'Enregistrer' pour mettre à jour votre site web.
 
 Exemple:
-![Site Web Personnalisé](/img/website/one_page_wonder.png)
+![Site Web Personnalisé](/content/maia/website/one_page_wonder.png)
 
 
 

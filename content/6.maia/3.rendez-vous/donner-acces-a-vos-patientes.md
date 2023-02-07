@@ -6,7 +6,7 @@ Il existe deux possibilités pour autoriser vos patientes à y accéder.
 
 ### Donnez un accès directement depuis le "Dossier Patient·e"
 
-![Accès à la plateforme](/img/appointments/appointment_access.gif)
+![Accès à la plateforme](/content/maia/appointments/appointment_access.gif)
 
 Pour donner accès à votre patiente, allez dans la section "Adresse et Contact" de votre "Dossier Patient(e)".
 
@@ -22,7 +22,7 @@ La patiente reçoit ensuite un email lui demandant de configurer un mot de passe
 ### Votre patiente demande un accès sur votre site web
 
 
-![Accès à la plateforme](/img/appointments/appointment_access1.gif)
+![Accès à la plateforme](/content/maia/appointments/appointment_access1.gif)
 
 Votre patiente peut demander un accès directement depuis votre site web en cliquant sur le formulaire d'inscription.
 
@@ -32,7 +32,7 @@ Elle recevra ensuite un email pour saisir son mot de passe et pourra se connecte
 Par défaut cette option n'est pas activée.
 Pour l'activer, allez dans le module "Site Web" > "Paramètres du Site web" > "Désactiver Inscription" > "Désactiver Inscription"  
 
-![Donner accès à Maia](/img/appointments/appointment_access2.png)
+![Donner accès à Maia](/content/maia/appointments/appointment_access2.png)
 
 
 

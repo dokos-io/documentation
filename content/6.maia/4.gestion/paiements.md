@@ -19,21 +19,21 @@ Vous devez créer une ou plusieurs écritures de paiement lorsque vous recevez l
 Avant la validation de la fiche de CONSULTATION, ne cochez pas l'option "Paiement Immédiat".
 Seule une facture à l'attention de la CPAM sera générée.
 
-![Recette CPAM](/img/first_steps/new_payment/payment1.png)
+![Recette CPAM](/content/maia/first_steps/new_payment/payment1.png)
 
 
 Lorsque vous êtes notifié·e du remboursement par la CPAM - la plupart des logiciels de télétransmission vous permettent de suivre vos remboursements - vous pouvez créer une paiement correspondant.
 
 Pour cela, ouvrez la recette correspondante et cliquez sur "Actions > Paiement"
 
-![Bouton d'actions](/img/first_steps/new_payment/action_button.png)
+![Bouton d'actions](/content/maia/first_steps/new_payment/action_button.png)
 
 Sélectionnez la bonne méthode de paiement et soumettez votre paiement.
 
-![Nouveau Paiement](/img/first_steps/new_payment/payment2.png)
+![Nouveau Paiement](/content/maia/first_steps/new_payment/payment2.png)
 
 
-::: tip Astuce
+:::alert
 *Si vous enregistrez votre paiement après que celui-ci ai été déposé sur votre compte bancaire, profitez-en pour ajouter une date de rapprochement dans le paiement avant de valider. Sinon vous pourrez le faire après la validation.*
 :::
 <br>
@@ -49,20 +49,20 @@ Si vous ne faites payer votre patiente qu'au bout de plusieurs séances, vous po
 4. Ajoutez le montant payé par la patiente
 
 Maia va alors récupérer toutes les recettes impayées et va leur allouer le montant payé.  
-![Allocation de paiement](/img/first_steps/new_payment/payment3.png)
+![Allocation de paiement](/content/maia/first_steps/new_payment/payment3.png)
 
 Si la patiente n'a pas payé la totalité des séances, Maia enregistrera un paiement partiel pour cette recette et vous pourrez enregistrer le solde une autre fois:
 
 **Lors du paiement global**  
-![Allocation de paiement](/img/first_steps/new_payment/payment5.png)
+![Allocation de paiement](/content/maia/first_steps/new_payment/payment5.png)
 
 **Lors d'un autre paiement**  
-![Allocation de paiement](/img/first_steps/new_payment/payment6.png)
+![Allocation de paiement](/content/maia/first_steps/new_payment/payment6.png)
 
 Vous pouvez bien entendu modifier manuellement les allocations proposées par Maia.
 
 
-::: tip Astuce
+:::alert
 Si votre patiente vous paie des séances en avance, enregistrez bien le montant payé dans un paiement.
 Maia mettra ce montant en attente et vous pourrez le déduire d'un prochain paiement.
 Ce montant sera également soustrait au total des impayés de la patiente dans son dossier patient.
