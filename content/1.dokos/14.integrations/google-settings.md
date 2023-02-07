@@ -10,7 +10,7 @@ dateCreated: 2020-11-26T16:31:26.328Z
 
 ## Paramètres Google
 
-__dokos__ peut être connecté avec plusieurs outils de la suite d'applications Google : Google Agenda, Google Drive, Google Contacts et Google Maps
+_Dokos_ peut être connecté avec plusieurs outils de la suite d'applications Google : Google Agenda, Google Drive, Google Contacts et Google Maps
 
 ---
 
@@ -18,7 +18,7 @@ Pour accéder au **paramétrage de Google**, allez sur :
 
 > Accueil > Intégrations > **Paramètres Google**
 
-Afin de connecter les outils Google avec __dokos__, vous devez activer et paramétrer une intégration Oauth avec la plateforme Google Cloud.
+Afin de connecter les outils Google avec _Dokos_, vous devez activer et paramétrer une intégration Oauth avec la plateforme Google Cloud.
 Cela permet d'obtenir un jeton d'accès (autorisation d'accéder au service) de la part de Google pour le service que vous souhaitez utiliser.
 
 ## 1. Paramétrage pour Agenda, Drive and Contacts
@@ -35,7 +35,7 @@ Cela permet d'obtenir un jeton d'accès (autorisation d'accéder au service) de 
     - Google Contacts: `https://{votresite}?cmd=frappe.integrations.doctype.google_contacts.google_contacts.google_callback`
     - Google Drive: `https://{votresite}?cmd=frappe.integrations.doctype.google_drive.google_drive.google_callback`
     
-1. Enregistrez et copiez/collez le **Client ID** et **Client Secret** générés dans les champs correspondants du document **Google Settings** de __dokos__
+1. Enregistrez et copiez/collez le **Client ID** et **Client Secret** générés dans les champs correspondants du document **Google Settings** de _Dokos_
 2. Allez dans **OAuth consent screen** et ajoutez votre domaine aux **Authorized domains**
 ![oauth_consent_setup.png](/content/integrations/google/oauth_consent_setup.png)
 3. . Allez dans **Library** et activez les APIs nécessaires: **Contacts API**, **Google Calendar API** et/ou **Google Drive API**
@@ -49,4 +49,4 @@ L'accès à Google Maps ne nécessite pas de connexion OAuth, seulement une clé
 3. Dans **API and Services** sélectionnez **Credentials**
 4. Cliquez sur **Create credentials** et sélectionnez **API key**
 5. Allez dans **Bibliothèque** et activez la librairie **Geocoding API**
-6. Copiez et collez cette clé dans le champs **API key** du document **Google Settings** de __dokos__
+6. Copiez et collez cette clé dans le champs **API key** du document **Google Settings** de _Dokos_

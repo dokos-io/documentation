@@ -25,7 +25,7 @@ Vous pouvez utiliser le sélecteur de fichiers de Frappe Framework pour sélecti
 1. Dans **Authorized Javascript origins** ajoutez l'URL de votre site: `https://{votresite}` (Ex. __https://dokos.io__)
 1. Dans **Authorized redirect URIs** ajoutez les URLs suivantes en fonction de vos besoins d'intégration:
     - Google Drive: `https://{votresite}?cmd=frappe.integrations.doctype.google_drive.google_drive.google_callback`
-1. Enregistrez et copiez/collez le **Client ID** et **Client Secret** générés dans les champs correspondants du document **Google Settings** de __dokos__
+1. Enregistrez et copiez/collez le **Client ID** et **Client Secret** générés dans les champs correspondants du document **Google Settings** de _Dokos_
 1. Allez dans **OAuth consent screen** et ajoutez votre domaine aux **Authorized domains**
 ![oauth_consent_setup.png](/content/integrations/google/oauth_consent_setup.png)
 1. Allez dans **Library** et activez les APIs nécessaires: **Contacts API**, **Google Calendar API** et/ou **Google Drive API**
