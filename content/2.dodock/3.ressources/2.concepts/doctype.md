@@ -1,3 +1,7 @@
+---
+title: Type de document
+---
+
 # Type de document
 
 Un type de document est le bloc de construction de base de toute application basée sur le framework Frappe.
@@ -21,13 +25,13 @@ Définitions des champs, propriétés et droits d’accès
 2. Cliquez sur **+ Ajouter Type de document** 
 Ou vous pouvez saisir **Type de document** dans la barre de recherche.
 
-![doctype_1.png](/content/content/cas_usage_booming_tiers_lieu/revue_de_presse/doctype_1.png)
+![doctype_1.png](/content/cas_usage_booming_tiers_lieu/revue_de_presse/doctype_1.png)
 
 3. Accédez au formulaire qui permet de définir les **informations du nouveau document**.
 4. Nommer le document dans le champ **Nom**
 5. Sélectionnez le **module** qui sera associé au document.
 
-![doctype_2.png](/content/content/cas_usage_booming_tiers_lieu/revue_de_presse/doctype_2.png)
+![doctype_2.png](/content/cas_usage_booming_tiers_lieu/revue_de_presse/doctype_2.png)
 
 Dans le partie **contenu**, vous pouvez définir tous les champs du document. Il s'agit des champs que les utilisateurs devront remplir pour valider une Revue de presse.
 
@@ -55,13 +59,13 @@ Etc..
 
 4. **Options** : Quand le **Type** de donnée est **Sélectionner** ou **Lien**, vous devez saisir les choix ou le nom de type de document pour rediriger la page...
 
-![doctype_3.png](/content/content/cas_usage_booming_tiers_lieu/revue_de_presse/doctype_3.png)
+![doctype_3.png](/content/cas_usage_booming_tiers_lieu/revue_de_presse/doctype_3.png)
 
 
 5. Le champ suivant est le **Nom automatique** qui sera généré à la création d'un document.
 
 Vous pouvez définir la façon de nommer les différents documents en ce type. Par défaut c’est aléatoire. Ici on utilise la façon [série], on remplit "REVUE.#####" dans ce champ.
-![doctype_4.png](/content/content/cas_usage_booming_tiers_lieu/revue_de_presse/doctype_4.png)
+![doctype_4.png](/content/cas_usage_booming_tiers_lieu/revue_de_presse/doctype_4.png)
 
 6. **Enregistrer** le nouveau document.
 
@@ -70,7 +74,7 @@ Vous pouvez définir la façon de nommer les différents documents en ce type. P
 > Accueil > Module > **{nom-de-votre-doctype}**
 ou en recherchant Revue de presse dans la barre de recherche.
 
-![doc_revue_de_presse5.png](/content/content/cas_usage_booming_tiers_lieu/revue_de_presse/doc_revue_de_presse5.png)
+![doc_revue_de_presse5.png](/content/cas_usage_booming_tiers_lieu/revue_de_presse/doc_revue_de_presse5.png)
 
 
 ### 1.2 Paramètres du formulaire
