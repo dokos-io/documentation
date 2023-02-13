@@ -1,22 +1,16 @@
 ---
 title: Leave Policy
-description: 
-published: true
-date: 2020-11-27T07:14:51.099Z
-tags: 
-editor: undefined
-dateCreated: 2020-11-27T07:14:49.194Z
 ---
 
-# Leave Policy
+# Politique de congés
 
-A leave policy defines the rules applicable to a category of employees.  
+Une politique de congés défini les règles applicables à une catégorie d'employés.
 
-## Leave allocation
+## Allocations de congés
 
-In the allocation table, add a new line for each leave type and define the annual leave allocation applicable for this leave type.  
+Dans le tableau des allocations ajoutez une nouvelle ligne pour chaque type de congés et définissez l'allocation annuelle de congés applicable pour ce type de congés.  
 
-## Links
+## Liens
 
-The leave policy can be affected to each employee directly or to a grade.  
-If you affect it to a grade, don't forget to assign this grade to all applicable employees.  
+La politique de congés peut être affectée à chaque employé directement ou à un échelon.  
+Si vous l'affectez à un échelon, n'oubliez d'affecter cet échelon à tous les employés concernés.  
