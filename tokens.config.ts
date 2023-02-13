@@ -4,7 +4,7 @@ export default defineTheme({
   docus: {
     header: { height: '64px' },
     footer: { padding: '{space.4} 0' },
-    readableLine: '117ch'
+    readableLine: '90ch'
   },
   prose: {
     p: {

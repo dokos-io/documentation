@@ -17,12 +17,16 @@ defineProps({
     type: String,
     default: ''
   },
+  linkText: {
+    type: String,
+    default: ''
+  },
 })
 </script>
 
 <template>
   <NuxtLink tag="div" :to="href" :class="{ blurry }" class="card LinkCard">
-    <Icon v-if="icon" :name="icon" class="LinkCard--icon" />
+    <Icon v-if="icon" :name="icon" class="LinkCard--icon" :class="iconClass" />
     <slot />
     <div>
       <h3 class="title">
@@ -34,10 +38,13 @@ defineProps({
         <ContentSlot :use="$slots.description" unwrap="p">
           Card description
         </ContentSlot>
-        <div class="LinkCard--link">
-          <span>Documentation</span>
-          <Icon name="material-symbols:arrow-right-alt-rounded"></Icon>
-        </div>
+        <span v-if="linkText" class="LinkCard--link">
+          <span>{{ linkText }}</span>
+          <Icon name="material-symbols:arrow-right-alt-rounded" />
+        </span>
+        <span v-else class="LinkCard--arrow">
+          <Icon name="material-symbols:arrow-right-alt-rounded" />
+        </span>
       </p>
     </div>
   </NuxtLink>
@@ -87,11 +94,24 @@ css({
       color: '{elements.color.text.secondary.default}',
       borderBottom: '1px dashed currentColor',
     },
+    '.LinkCard--arrow': {
+      display: 'block',
+      position: 'absolute',
+      bottom: '{space.2}',
+      right: '{space.2}',
+      fontSize: '{text.xl.fontSize}',
+      color: '{elements.color.text.secondary.default}',
+      opacity: 0.3,
+      transition: 'all 300ms ease',
+    },
     '&:hover': {
       border: '1px solid {prose.a.border.color.hover}',
       '.LinkCard--link': {
         color: '{prose.a.border.color.static}',
         borderBottom: '1px solid currentColor',
+      },
+      '.LinkCard--arrow': {
+        opacity: 1,
       },
     },
   }
