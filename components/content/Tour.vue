@@ -1,7 +1,7 @@
 <template>
-    <button @click="showTour">
-        <ContentSlot :use="$slots.default" unwrap="p" />
-    </button>
+  <DemoLink class="tour-link" :doctype="doctype" :demo="demo" icon="material-symbols:quick-reference-all-outline" show-tour :underline="false">
+    <ContentSlot :use="$slots.default" unwrap="p" />
+  </DemoLink>
 </template>
 
 <script setup>
@@ -15,21 +15,23 @@ const props = defineProps({
     default: 'Dokompany' // or Mappemonde
   },
 })
-
-const demo_link = props.demo == "Dokompany" ? "https://demo.dokos.cloud" : "https://tierslieux.dokos.io"
-
-const showTour = () => window.open(`${demo_link}/app/${props.doctype.replace(/ /g, "-").toLowerCase()}?show_tour=true`, '_blank');
-
 </script>
 
 <style scoped lang="ts">
 css({
-  'button': {
-    padding: '.4rem',
+  '.tour-link': {
+    display: 'inline-flex',
+    lineHeight: '1',
+    gap: '0.2rem',
+    padding: '0.4rem 0.4rem',
     borderRadius: '4px',
     color: '#000',
     backgroundColor: 'rgb(209, 250, 229)',
-    border: '1px solid rgb(52, 211, 153)'
+    border: '1px solid rgb(52, 211, 153)',
+    transition: 'all 0.2s ease',
+    '&:hover': {
+      boxShadow: '0 0 0 1px rgb(52, 211, 153)',
+    },
   },
 })
 </style>
