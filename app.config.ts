@@ -25,11 +25,14 @@ export default defineAppConfig({
       aside: {
         level: 1,
         collapsed: true,
+        exclude: ['/applications']
       },
       header: {
         title: false,
         logo: true,
-        fluid: true
+        fluid: true,
+        showLinkIcon: true,
+        exclude: ['/integrations', '/federation-lieux', '/maia']
       },
       main: {
         padded: true,
