@@ -13,19 +13,19 @@ const props = defineProps({
   >
     <div class="sub-navbar-links">
       <ApplicationBarLink
-          title="integrations"
+          title="Intégrations"
           icon="mdi:connection"
           href="/integrations"
           :current-page-id="currentPageId"
       />
       <ApplicationBarLink
-          title="federation-lieux"
+          title="Fédération de lieux"
           icon="material-symbols:add-location-alt-outline"
           href="/federation-lieux"
           :current-page-id="currentPageId"
       />
       <ApplicationBarLink
-          title="maia"
+          title="Maia"
           icon="healthicons:doctor-female-outline"
           href="/maia"
           :current-page-id="currentPageId"
