@@ -1,5 +1,5 @@
 ---
-title: Leave Policy
+title: Politique de congés
 ---
 
 # Politique de congés

@@ -28,8 +28,8 @@ Pour accéder à **la liste de Affectation de quart**, allez sur :
 
 ## 1. Prérequis avant utilisation
 
-- **[Employé](/rh/employee)**
-- **[Type de quart](/rh/shift-type)**
+- **[Employé](/hrms/cycle-de-vie/employee)**
+- **[Type de quart](/hrms/quarts-et-presences/shift-type)**
 
 ## 2. Comment créer une affectation de quart
 

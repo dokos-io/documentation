@@ -26,7 +26,7 @@ Pour accéder à **la liste déclaration d'exonération fiscale des salariés**,
 
 Avant de créer une déclaration d'exonération fiscale des employés, il est conseillé de créer les éléments suivants :
 
-- **[Employé](/rh/employee)**
+- **[Employé](/hrms/cycle-de-vie/employee)**
 - **Catégorie d'exonération fiscale des employés**
 - **Sous-catégorie d'exonération fiscale des employés**
 

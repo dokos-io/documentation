@@ -16,7 +16,7 @@ Avec la fonction de retour d'achat, vous pouvez retourner les produits au fourni
 ## 1. Prérequis 
 Avant de créer et d'utiliser un retour d'achat, il est conseillé de créer d'abord les éléments suivants:
 
-- **[1. Article](/stocks/item)**
+- **[1. Article](/dokos/parametrage/articles)**
 - **[2. Facture d'achat](/achats/purchase-invoice)**
 
 Ou alors

@@ -1,11 +1,5 @@
 ---
 title: Type de congés
-description: 
-published: true
-date: 2021-09-23T15:36:45.733Z
-tags: 
-editor: markdown
-dateCreated: 2020-11-27T07:16:21.728Z
 ---
 
 # Type de congés

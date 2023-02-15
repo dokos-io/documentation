@@ -24,8 +24,8 @@ Pour utiliser un type de quart dans Dokos,
 
 Pour créer une demande d'équipe, celles-ci doivent d'abord être créées :
 
-- **[Employé](/rh/employee)**
-- **[Type de quart](/rh/shift-type)**
+- **[Employé](/hrms/cycle-de-vie/employee)**
+- **[Type de quart](/hrms/quarts-et-presences/shift-type)**
 
 La sélection de quart est utilisée par un employé pour demander un type d'équipe particulier.
 

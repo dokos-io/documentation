@@ -26,7 +26,7 @@ Pour accéder à la liste de prime de fidélisation, allez sur :
 
 Avant de créer une prime de fidélisation, il est conseillé de créer les éléments suivants :
 
-- **[Employé](/rh/employee)**
+- **[Employé](/hrms/cycle-de-vie/employee)**
 - **[Composante salariale](/hrms/paie/salary-component)**
 
 ## 2. Comment créer une prime de fidélisation

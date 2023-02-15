@@ -26,7 +26,7 @@ Accueil > Ressources humaines > **Présence**
 
 Avant de créer un enregistrement de présence, il est conseillé de créer d'abord les éléments suivants :
 
-- **[Employé](/rh/employee)**
+- **[Employé](/hrms/cycle-de-vie/employee)**
 - **Type d'équipe**
 
 ## 2. Comment créer une présence

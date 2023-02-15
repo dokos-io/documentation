@@ -1,11 +1,5 @@
 ---
 title: Demande de congé
-description: 
-published: true
-date: 2021-06-08T13:20:19.741Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-08T09:04:00.827Z
 ---
 
 # Demande de congé
@@ -23,12 +17,12 @@ Pour accéder à la **liste de demande de congé**, allez sur :
 
 Avant de créer une demande de congé, il est conseillé d'avoir les documents suivants :
 
-- [Département](/rh/department)
-- [Période de congé](/rh/leave-period)
-- [Liste des jours de congés](/rh/holiday-list)
-- [Type de congé](/rh/leave-type)
-- [Politique de congé](/rh/leave-policy)
-- [Allocation de congé](/rh/leave-allocation)
+- [Département](/hrms/cycle-de-vie/department)
+- [Période de congé](/hrms/conges/leave-period)
+- [Liste des jours de congés](/hrms/conges/holiday-list)
+- [Type de congé](/hrms/conges/leave-type)
+- [Politique de congé](/hrms/conges/leave-policy)
+- [Allocation de congé](/hrms/conges/leave-allocation)
 
 ## 2. Comment créer une demande de congés
 

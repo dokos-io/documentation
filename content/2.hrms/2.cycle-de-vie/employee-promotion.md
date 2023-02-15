@@ -24,8 +24,8 @@ Pour accéder à la liste de **promotion des employés**, allez sur :
 
 Avant de créer une promotion d'employé, il est conseillé de créer les documents suivants :
 
-- **[Employé](/rh/employee)**
-- **[Département](/rh/department)**
+- **[Employé](/hrms/cycle-de-vie/employee)**
+- **[Département](/hrms/cycle-de-vie/department)**
 
 ## 2. Comment créer une promotion d'employé
 

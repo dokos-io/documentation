@@ -1,11 +1,5 @@
 ---
 title: Allocation de congé
-description: 
-published: true
-date: 2021-06-08T12:57:18.490Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-08T12:51:32.388Z
 ---
 
 # Allocation de congés

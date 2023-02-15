@@ -1,11 +1,5 @@
 ---
 title: Premiers pas avec les congés
-description: 
-published: true
-date: 2022-08-17T20:44:53.589Z
-tags: 
-editor: markdown
-dateCreated: 2020-12-03T13:26:39.013Z
 ---
 
 Cet exemple est basé sur la configuration de démonstration de Dokos disponible à l'adresse https://demo.dokos.cloud
@@ -79,10 +73,10 @@ Validez et cliquez sur **Allouer des congés**.
 # Calcul des congés acquis
 
 L'allocation des congés acquis se fait en début de période et le nombre de congés alloués est initialement de 0.
-Au cours de la période, l'allocation est modifiée et le total des congés attribué est incrémenté du nombre de congés calculés par le système en fonction des règles définies dans le [type de congés](/rh/leave-type).
+Au cours de la période, l'allocation est modifiée et le total des congés attribué est incrémenté du nombre de congés calculés par le système en fonction des règles définies dans le [type de congés](/hrms/conges/leave-type).
 
 Par exemple, pour les congés payés, il faudra créer des feuilles de présence pour chaque employé afin que le système puisse calculer correctement le nombre de congés à allouer.
 
 
 ---
-**Suivant : [1. Liste de congés](/rh/holiday-list) :arrow_right:**
+**Suivant : [1. Liste de congés](/hrms/conges/holiday-list) :arrow_right:**

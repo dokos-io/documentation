@@ -26,8 +26,8 @@ Pour accéder à l**a liste des schémas promotionnels**, allez sur :
 
 Avant de créer et d'utiliser un système promotionnel, il est conseillé de créer d'abord les éléments suivants :
 
-- **[Article](/stocks/item)**
-- **[Groupe d'article](/stocks/item-group)**
+- **[Article](/dokos/parametrage/articles)**
+- **[Groupe d'article](/dokos/parametrage/articles-group)**
 - **[Client](/crm/customer)**
 - **[Fournisseur](/achats/supplier)**
 

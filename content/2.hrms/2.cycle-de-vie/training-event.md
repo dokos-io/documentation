@@ -27,7 +27,7 @@ Accueil > Ressources humaines > Formation > **Événement de formation**
 Avant de créer un événement de formation, il est conseillé de créer les documents suivants :
 
 - **[Programme de formation](/rh/training-program)**
-- **[Employé](/rh/employee)**
+- **[Employé](/hrms/cycle-de-vie/employee)**
 
 ## 2. Comment créer un événement de formation 
 

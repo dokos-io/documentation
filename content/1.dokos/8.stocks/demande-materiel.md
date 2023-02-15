@@ -15,7 +15,7 @@ Pour accéder à la demande de matériel, allez sur:
 Avant de créer et d'utiliser une demande de matériel, il est conseillé de créer d'abord les éléments suivants:
 
 1. **[Un Fournisseur](/achats/supplier)**
-2. **[Un article](/stocks/item)**
+2. **[Un article](/dokos/parametrage/articles)**
 
 ## Comment créer une demande de matériel
 

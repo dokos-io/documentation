@@ -16,7 +16,7 @@ Les entreprises retournent souvent des biens déjà vendus. Ils pourraient être
 ## 1. Prérequis avant utilisation
 Avant de créer et d'utiliser un retour sur vente, il est conseillé de créer d'abord les éléments suivants:
 
-- **[Article](/stocks/item)**
+- **[Article](/dokos/parametrage/articles)**
 - **[Facture de vente](/selling/sales-invoice)**
 
 Ou alors

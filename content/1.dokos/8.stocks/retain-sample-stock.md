@@ -11,7 +11,7 @@ L'article pour lequel le stock d'échantillons est stocké peut être une matiè
 ## 1. Prérequis 
 Avant d'utiliser la rétention d'échantillons, il est conseillé de créer d'abord les éléments suivants:
 
-- **[Article](/stocks/item)**
+- **[Article](/dokos/parametrage/articles)**
 - **[N°de Lot](/stocks/batch)**
 - **[Entrepôt](/stocks/warehouse)**
 

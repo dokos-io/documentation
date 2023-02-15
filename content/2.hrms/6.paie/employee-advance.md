@@ -22,8 +22,8 @@ Ressources humaines > Notes de frais > **Avance d'employé**
 
 ## 1. Prérequis avant utilisation
 
-- **[Employé](/rh/employee)**
-- **[Département](/rh/department)**
+- **[Employé](/hrms/cycle-de-vie/employee)**
+- **[Département](/hrms/cycle-de-vie/department)**
 - **Plan comptable**
 
 ## 2. Comment créer une avance d'employé 

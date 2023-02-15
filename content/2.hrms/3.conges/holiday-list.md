@@ -1,11 +1,5 @@
 ---
 title: Liste des congés
-description: 
-published: true
-date: 2021-06-07T07:29:18.373Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-04T12:17:21.981Z
 ---
 
 # Liste des congés (Jours fériés)

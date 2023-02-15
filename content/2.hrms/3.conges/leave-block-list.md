@@ -1,11 +1,5 @@
 ---
 title: Liste de blocage des congés
-description: 
-published: true
-date: 2021-06-09T10:24:09.248Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-09T10:24:09.248Z
 ---
 
 # Liste de blocage des congés

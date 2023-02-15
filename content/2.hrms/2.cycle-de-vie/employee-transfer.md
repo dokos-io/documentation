@@ -24,8 +24,8 @@ Ressources humaines > Cycle de vie des employés > **Transfert d'employés**
 
 ## 1. Prérequis avant utilisation
 
-- **[Employé](/rh/employee)**
-- **[Département](/rh/department)**
+- **[Employé](/hrms/cycle-de-vie/employee)**
+- **[Département](/hrms/cycle-de-vie/department)**
 
 ## 2. Comment créer un transfert d'employé
 

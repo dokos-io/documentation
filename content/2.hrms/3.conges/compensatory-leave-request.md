@@ -1,11 +1,5 @@
 ---
 title: Demande de congé compensatoire
-description: 
-published: true
-date: 2021-06-09T10:36:12.688Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-09T10:36:12.688Z
 ---
 
 # Demande de congé compensatoire
@@ -30,12 +24,12 @@ Accueil > Ressources humaines > Congés > **Demande de congé compensatoire**
 
 Avant de créer une demande de congé compensatoire, il est nécessaire de créer les documents suivants :
 
-- **[Employé](/rh/employee)**
-- **[Période de congés](/rh/leave-period)** 
-- **[Types de congés](/rh/leave-type)**
-- **[Politique de congés](/rh/leave-policy)**
-- **[Allocation de congés](/rh/leave-allocation)**
-- **[Listes de jours fériés](/rh/holiday-list)**
+- **[Employé](/hrms/cycle-de-vie/employee)**
+- **[Période de congés](/hrms/conges/leave-period)** 
+- **[Types de congés](/hrms/conges/leave-type)**
+- **[Politique de congés](/hrms/conges/leave-policy)**
+- **[Allocation de congés](/hrms/conges/leave-allocation)**
+- **[Listes de jours fériés](/hrms/conges/holiday-list)**
 - **Présence**
 
 ## 2. Comment créer une demande de congé compensatoire

@@ -27,7 +27,7 @@ Avant de créer un résultat d'entraînement, il est conseillé de créer les do
 
 - **[Programme de formation](/rh/training-program)**
 - **[Événement de formation](/rh/training-event)**
-- **[Employé](/rh/employee)**
+- **[Employé](/hrms/cycle-de-vie/employee)**
 
 ## 2. Comment créer un résultat d'entraînement 
 

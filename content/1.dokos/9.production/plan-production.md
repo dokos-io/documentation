@@ -24,7 +24,7 @@ Pour accéder à la liste des **plans de production**, allez sur :
 
 Avant de créer et d'utiliser un plan de production, il est conseillé de créer d'abord les éléments suivants:
 
-- **[Article](/stocks/item)**
+- **[Article](/dokos/parametrage/articles)**
 - **[Demande de matériel](/stocks/material-request)**
 - **[Commande client](/selling/customer-order)**
 - **[Nomenclature](/manufacturing/bill-of-materials)**

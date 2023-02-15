@@ -1,11 +1,5 @@
 ---
 title: Congés accumulés à encaisser
-description: 
-published: true
-date: 2021-06-08T13:47:35.881Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-08T13:39:12.447Z
 ---
 
 # Congés accumulés à encaisser

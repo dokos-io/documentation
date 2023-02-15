@@ -1,11 +1,5 @@
 ---
 title: Période de congés
-description: 
-published: true
-date: 2021-06-08T07:35:26.579Z
-tags: 
-editor: markdown
-dateCreated: 2020-11-27T07:16:15.978Z
 ---
 
 # Période de congés

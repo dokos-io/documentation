@@ -22,7 +22,7 @@ Accueil > Ressources humaines > Présence > **Outil de chargement de présences*
 
 Avant de télécharger un enregistrement de présence en masse, il est conseillé de créer d'abord ce qui suit :
 
-- **[Employé](/rh/employee)**
+- **[Employé](/hrms/cycle-de-vie/employee)**
 
 ## 2. Comment télécharger la présence en masse
 

@@ -22,7 +22,7 @@ Accueil > Ressources humaines > Employé > **Groupe d'employés**
 
 Avant de créer un groupe d'employés, il est conseillé de créer les documents suivants :
 
-- **[Employé](/rh/employee)**
+- **[Employé](/hrms/cycle-de-vie/employee)**
 
 ## 2. Comment créer un groupe d'employés
 

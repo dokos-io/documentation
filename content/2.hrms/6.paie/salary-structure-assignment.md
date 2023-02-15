@@ -26,7 +26,7 @@ Pour accéder à **la liste attribution de la structure salariale**, allez sur :
 
 Avant de créer une affectation de structure salariale, il est conseillé de disposer des documents suivants :
 
-- **[Employé](/rh/employee)**
+- **[Employé](/hrms/cycle-de-vie/employee)**
 - **[Composante salariale](/hrms/paie/salary-component)**
 - **[Grilles des salaires](/hrms/paie/salary-structure)**
 

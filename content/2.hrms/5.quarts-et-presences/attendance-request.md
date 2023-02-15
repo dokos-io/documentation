@@ -24,7 +24,7 @@ Accueil > Ressources humaines > Présence > **Demande de valiation de présence*
 
 Avant de créer une demande de présence, il est conseillé de créer d'abord les éléments suivants :
 
-- **[Employé](/rh/employee)**
+- **[Employé](/hrms/cycle-de-vie/employee)**
 
 ## 2. Comment créer une demande de présence 
 
