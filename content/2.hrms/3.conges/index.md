@@ -3,7 +3,7 @@ title: "Congés"
 description: "Application de gestion de congés pour Dokos"
 ---
 
-```mermaid
+<mermaid>
 journey
     title Gestion des congés
     section Configuration
@@ -18,4 +18,4 @@ journey
     section Demandes de congés
      Demandes de congés: 5: Employé
      Validation de congés: 5: RH
-```
+</mermaid>
