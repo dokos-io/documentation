@@ -1,11 +1,5 @@
 ---
 title: Utilisateurs et autorisations
-description: 
-published: true
-date: 2022-10-17T15:00:19.396Z
-tags: 
-editor: markdown
-dateCreated: 2021-05-10T14:50:47.385Z
 ---
 
 # Utilisateurs et autorisations
@@ -20,20 +14,20 @@ DOKOS implémente le contrôle des autorisations au niveau de l'utilisateur et d
 ---
 ## 1. Utilisateurs et rôles
 
-- [1. Ajouter un utilisateur](/fr/settings/users-and-permissions/user)
-- [2. Rôle et profil de rôle](/fr/settings/users-and-permissions/role)
+- [1. Ajouter un utilisateur](/dodock/fonctionnalites/utilisateurs/utilisateurs)
+- [2. Rôle et profil de rôle](/dodock/fonctionnalites/utilisateurs/roles)
 
 ## 2. Autorisations 
 
-- [1. Autorisations basées sur les rôles](/fr/settings/users-and-permissions/permission-manager)
-- [2. Autorisations des utilisateurs](/fr/settings/users-and-permissions/user-permissions)
-- [3. Autorisation de rôle pour la page et le rapport](/fr/settings/users-and-permissions/role-permission-for-page-and-report)
+- [1. Autorisations basées sur les rôles](/dodock/fonctionnalites/utilisateurs/role-et-autorisations)
+- [2. Autorisations des utilisateurs](/dodock/fonctionnalites/utilisateurs/autorisations-utilisateur)
+- [3. Autorisation de rôle pour la page et le rapport](/dodock/fonctionnalites/utilisateurs/autorisations-pages-rapports)
 
 ## 3. Configuration
 
-- [1. Partager un document](/fr/settings)
-- [2. Utilisateur limité](/fr/settings/users-and-permissions/limited-user)
-- [3. Administrateur](/fr/settings/users-and-permissions/administrator)
+- [1. Partager un document](/dodock/fonctionnalites/utilisateurs/partager-un-document)
+- [2. Utilisateur limité](/dodock/fonctionnalites/utilisateurs/utilisateurs-limites)
+- [3. Administrateur](/dodock/fonctionnalites/utilisateurs/administrateur)
 
 
 ## Sécurité

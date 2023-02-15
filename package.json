@@ -8,7 +8,8 @@
   },
   "devDependencies": {
     "@nuxt-themes/docus": "^1.8.1",
-    "nuxt": "^3.0.0"
+    "nuxt": "^3.0.0",
+    "nuxt-link-checker": "^1.0.3"
   },
   "dependencies": {
     "mermaid": "^9.3.0",

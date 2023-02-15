@@ -27,7 +27,7 @@ Pour accéder à **la liste salaire supplémentaire**, allez sur :
 Avant de créer un salaire supplémentaire, il est conseillé de créer les éléments suivants :
 
 - **[Employé](/rh/employee)**
-- **[Composante salariale](/payroll/salary-component)**
+- **[Composante salariale](/hrms/paie/salary-component)**
 
 ## 2. Comment créer un salaire supplémentaire
 

@@ -27,7 +27,7 @@ Pour accéder à **la liste intéressement des employés**, allez sur :
 Avant de créer une incitation pour les employés, il est conseillé de créer les éléments suivants :
 
 - **[Employé](/rh/employee)**
-- **[Composante salariale](/payroll/salary-component)**
+- **[Composante salariale](/hrms/paie/salary-component)**
 
 ## 2. Comment créer un incitatif pour les employés 
 

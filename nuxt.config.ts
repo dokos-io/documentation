@@ -1,6 +1,9 @@
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
-  modules: ['@nuxt/content'],
+  modules: [
+    '@nuxt/content',
+    'nuxt-link-checker',
+  ],
   extends: '@nuxt-themes/docus',
   colorMode: {
     preference: 'dark'
@@ -13,9 +16,13 @@ export default defineNuxtConfig({
   },
   nitro: {
     prerender: {
+      crawlLinks: true,
       routes: [
         '/',
       ]
     }
+  },
+  linkChecker: {
+    failOn404: false
   },
 })

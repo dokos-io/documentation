@@ -6,16 +6,16 @@ export default defineAppConfig({
       url: 'https://content.nuxtjs.org',
       debug: false,
       socials: {
-        twitter: '@dokos_io',
-        linkedin: {
-          label: "LinkedIn",
-          icon: "mdi:linkedin",
-          href: "https://www.linkedin.com/company/dokos.io"
-        },
         gitlab: {
           label: "Gitlab",
           icon: "mdi:gitlab",
           href: "https://gitlab.com/dokos"
+        },
+        twitter: '@dokos_io',
+        youtub: {
+          label: "Youtube",
+          icon: "mdi:youtube",
+          href: "https://www.youtube.com/@dokos_io"
         }
       },
       cover: {
@@ -41,7 +41,14 @@ export default defineAppConfig({
       footer: {
         credits: {
           text: 'Propulsé par Docus / CC-BY-SA 3.0'
-        }
+        },
+        textLinks: [
+          {
+            text: 'Hébergement et Services',
+            href: 'https://dokos.io',
+            target: '_blank'
+          }
+        ]
       }
     }
   })

@@ -1,11 +1,5 @@
 ---
 title: Partager un document
-description: 
-published: true
-date: 2021-05-12T07:45:29.926Z
-tags: 
-editor: markdown
-dateCreated: 2021-05-12T07:44:44.861Z
 ---
 
 # Partager un document

@@ -25,8 +25,8 @@ Pour accéder à **la liste de fiche de paie**, allez sur :
 Avant de créer un bulletin de salaire, il est conseillé de créer d'abord les éléments suivants :
 
 - **[Employé](/rh/employee)**
-- **[Composante salariale](/payroll/salary-component)**
-- **[Attribution de la structure salariale](/payroll/salary-structure-assignment)**
+- **[Composante salariale](/hrms/paie/salary-component)**
+- **[Attribution de la structure salariale](/hrms/paie/salary-structure-assignment)**
 
 ## 2. Comment créer une fiche de paie
 

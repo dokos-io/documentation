@@ -28,7 +28,7 @@ Pour accéder à **la liste de grilles des salaires**, allez sur :
 
 Avant de créer une structure salariale, il est conseillé de créer les éléments suivants :
 
-- **[Composante salariale](/payroll/salary-component)**
+- **[Composante salariale](/hrms/paie/salary-component)**
 
 ## 2. Comment créer une structure salariale
 
