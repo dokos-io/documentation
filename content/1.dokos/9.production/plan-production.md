@@ -26,9 +26,9 @@ Avant de créer et d'utiliser un plan de production, il est conseillé de créer
 
 - **[Article](/dokos/parametrage/articles)**
 - **[Demande de matériel](/stocks/material-request)**
-- **[Commande client](/selling/customer-order)**
-- **[Nomenclature](/manufacturing/bill-of-materials)**
-- **[Routage](/manufacturing/routing)**
+- **[Commande client](/dokos/ventes/commande-client)**
+- **[Nomenclature](/dokos/production/nomenclature)**
+- **[Routage](/dokos/production/routage)**
 
 ## 2. Comment créer un plan de production 
 

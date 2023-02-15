@@ -25,8 +25,8 @@ Pour accéder à **la liste de résultat de la formation**, allez sur :
 ## 1. Prérequis avant utilisation 
 Avant de créer un résultat d'entraînement, il est conseillé de créer les documents suivants :
 
-- **[Programme de formation](/rh/training-program)**
-- **[Événement de formation](/rh/training-event)**
+- **[Programme de formation](/hrms/cycle-de-vie/training-program)**
+- **[Événement de formation](/hrms/cycle-de-vie/training-event)**
 - **[Employé](/hrms/cycle-de-vie/employee)**
 
 ## 2. Comment créer un résultat d'entraînement 

@@ -22,7 +22,7 @@ Pour accéder à la **liste de routage**, allez sur :
 ## 1. Prérequis avant utilisation
 
 - **[Opération](/dokos/production/operation)**
-- **[Station de travail](/manufacturing/workstation)**
+- **[Station de travail](/dokos/production/station-de-travail)**
 
 ## 2. Comment créer un routage
 

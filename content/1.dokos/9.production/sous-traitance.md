@@ -1,11 +1,5 @@
 ---
-title: Sous-traitant
-description: 
-published: true
-date: 2021-06-01T11:43:03.773Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-01T11:38:00.343Z
+title: Sous-traitance
 ---
 
 # Sous-traitant

@@ -28,7 +28,7 @@ Avant de créer une présence des employés, il est conseillé de créer d'abord
 
 - **[Employé](/hrms/cycle-de-vie/employee)**
 - **[Département](/hrms/cycle-de-vie/department)**
-- **[Outil de gestion des présences des employés](/hrms/cycle-de-vie/employee-attendance-tool)**
+- **[Outil de gestion des présences des employés](/hrms/quarts-et-presences/employee-attendance-tool)**
 
 ## 2. Comment marquer la présence à l'aide de l'outil de présence des employés
 

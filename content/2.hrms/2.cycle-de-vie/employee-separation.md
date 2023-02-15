@@ -37,7 +37,7 @@ Avant de créer une séparation d'employé, il est conseillé de créer les docu
 
 - **[Employé](/hrms/cycle-de-vie/employee)**
 - **[Département](/hrms/cycle-de-vie/department)**
-- **[Désignation](/rh/designation)**
+- **[Désignation](/hrms/cycle-de-vie/designation)**
 - **[Échelon de l'employé](/hrms/cycle-de-vie/employee-grade)**
 
 ## 2. Comment créer une séparation d'employés

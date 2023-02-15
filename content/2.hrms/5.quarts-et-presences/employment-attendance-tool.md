@@ -1,11 +1,5 @@
 ---
 title: Outil de présence des employés
-description: 
-published: true
-date: 2021-06-03T08:14:53.954Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-03T08:14:53.954Z
 ---
 
 # Outil de présence des employés
@@ -24,7 +18,7 @@ Avant de créer une présence des employés, il est conseillé de créer d'abord
 
 - **[Employé](/hrms/cycle-de-vie/employee)**
 - **[Département](/hrms/cycle-de-vie/department)**
-- **[Branche](/rh/branch)**
+- **[Branche](/hrms/cycle-de-vie/branch)**
 
 ## 2. Comment marquer la présence à l'aide de l'outil de présence des employés
 

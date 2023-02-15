@@ -17,7 +17,7 @@ Les entreprises retournent souvent des biens déjà vendus. Ils pourraient être
 Avant de créer et d'utiliser un retour sur vente, il est conseillé de créer d'abord les éléments suivants:
 
 - **[Article](/dokos/parametrage/articles)**
-- **[Facture de vente](/selling/sales-invoice)**
+- **[Facture de vente](/dokos/ventes/facture-de-vente)**
 
 Ou alors
 

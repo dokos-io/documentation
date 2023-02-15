@@ -30,9 +30,9 @@ Pour accéder à la **liste des cartes de travail**, allez sur :
 
 Avant de créer et d'utiliser une carte de travail, il est conseillé de créer d'abord les éléments suivants:
 
-- **[Nomenclature](/manufacturing/bill-of-materials)**
+- **[Nomenclature](/dokos/production/nomenclature)**
 - **[Opération](/dokos/production/operation)**
-- **[Sation de travail](/manufacturing/workstation)**
+- **[Sation de travail](/dokos/production/station-de-travail)**
 - **Demande de service**
 
 ## 2. Comment créer une carte de travail

@@ -25,7 +25,7 @@ Pour accéder à **la liste de journal du véhicule**, allez sur :
 
 Avant de créer un journal de véhicule, il est nécessaire de créer les documents suivants :
 
-- **[Véhicule](/rh/vehicle)**
+- **[Véhicule](/hrms/cycle-de-vie/vehicle)**
 
 ## 2. Comment créer un journal de véhicule ?
 

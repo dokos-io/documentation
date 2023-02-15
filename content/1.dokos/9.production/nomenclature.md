@@ -30,8 +30,8 @@ Avant de créer et d'utiliser une nomenclature, il est conseillé de créer d'ab
 
 - **[Article](/dokos/parametrage/articles)**
 - **[Opération](/dokos/production/operation)**
-- **[Station de travail](/manufacturing/workstation)**
-- **[Routage](/manufacturing/routing)**
+- **[Station de travail](/dokos/production/station-de-travail)**
+- **[Routage](/dokos/production/routage)**
 
 ## 2. Comment créer une nomenclature
 
