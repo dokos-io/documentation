@@ -22,24 +22,20 @@ DOKOS implémente le contrôle des autorisations au niveau de l'utilisateur et d
 
 - [1. Ajouter un utilisateur](/fr/settings/users-and-permissions/user)
 - [2. Rôle et profil de rôle](/fr/settings/users-and-permissions/role)
-{.links-list}
 
 ## 2. Autorisations 
 
 - [1. Autorisations basées sur les rôles](/fr/settings/users-and-permissions/permission-manager)
 - [2. Autorisations des utilisateurs](/fr/settings/users-and-permissions/user-permissions)
 - [3. Autorisation de rôle pour la page et le rapport](/fr/settings/users-and-permissions/role-permission-for-page-and-report)
-{.links-list}
 
 ## 3. Configuration
 
 - [1. Partager un document](/fr/settings)
 - [2. Utilisateur limité](/fr/settings/users-and-permissions/limited-user)
 - [3. Administrateur](/fr/settings/users-and-permissions/administrator)
-{.links-list}
 
 
 ## Sécurité
 
 - [1. Authentification à double facteur](/fr/settings/users-and-permissions/authentification_double_facteur)
-{.links-list}

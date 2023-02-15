@@ -1,11 +1,5 @@
 ---
 title: Intégration avec Paypal
-description: 
-published: true
-date: 2021-01-27T14:28:34.071Z
-tags: 
-editor: markdown
-dateCreated: 2021-01-27T14:27:01.388Z
 ---
 
 # Configuration
@@ -21,4 +15,3 @@ Afin de configurer une intégration avec Paypal, vous devez ajouter les élémen
 # Usage
 
 - [Passerelles de paiement](/fr/accounting/payment-gateways)
-{.links-list}
