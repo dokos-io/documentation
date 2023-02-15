@@ -21,7 +21,7 @@ Avant de créer et d'utiliser un retour d'achat, il est conseillé de créer d'a
 
 Ou alors
 
-- **[Reçu d'achat](/achats/purchase-receipt)**
+- **[Reçu d'achat](/dokos/stocks/recus-achats)**
 
 ## 2. Comment créer un retour d'achat 
 1. Ouvrez d'abord le reçu d'achat d'origine, avec lequel le fournisseur a livré les articles.

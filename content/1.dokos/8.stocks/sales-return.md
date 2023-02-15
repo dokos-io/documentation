@@ -21,7 +21,7 @@ Avant de créer et d'utiliser un retour sur vente, il est conseillé de créer d
 
 Ou alors
 
-- **[Bon de livraison](/stocks/delivery-note)**
+- **[Bon de livraison](/dokos/stocks/delivery-note)**
 
 ## 2. Comment créer un retour sur vente 
 

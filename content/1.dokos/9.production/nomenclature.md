@@ -29,7 +29,7 @@ Notez qu'une fois qu'une nomenclature est soumise, elle ne peut pas être modifi
 Avant de créer et d'utiliser une nomenclature, il est conseillé de créer d'abord les éléments suivants:
 
 - **[Article](/dokos/parametrage/articles)**
-- **[Opération](/manufacturing/operation)**
+- **[Opération](/dokos/production/operation)**
 - **[Station de travail](/manufacturing/workstation)**
 - **[Routage](/manufacturing/routing)**
 

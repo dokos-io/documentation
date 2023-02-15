@@ -28,7 +28,7 @@ Avant de créer et d'utiliser un système promotionnel, il est conseillé de cr�
 
 - **[Article](/dokos/parametrage/articles)**
 - **[Groupe d'article](/dokos/parametrage/articles-group)**
-- **[Client](/crm/customer)**
+- **[Client](/dokos/parametrage/clients)**
 - **[Fournisseur](/achats/supplier)**
 
 ## 2. Comment créer un programme promotionnel

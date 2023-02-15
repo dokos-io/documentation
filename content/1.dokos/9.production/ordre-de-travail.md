@@ -27,7 +27,7 @@ Pour accéder à la liste des bons de travail, allez sur :
 Avant de créer et d'utiliser un bon de travail, il est conseillé de créer d'abord les éléments suivants:
 
 - **[Nomenclature](/manufacturing/bom)**
-- **[Opération](/manufacturing/operation)**
+- **[Opération](/dokos/production/operation)**
 - **[Station de travail](/manufacturing/workstation)**
 
 ## 2. Comment créer un ordre de travail 
