@@ -32,4 +32,4 @@ DOKOS implémente le contrôle des autorisations au niveau de l'utilisateur et d
 
 ## Sécurité
 
-- [1. Authentification à double facteur](/fr/settings/users-and-permissions/authentification_double_facteur)
+- [1. Authentification à double facteur](/dodock/fonctionnalites/utilisateurs/2fa)

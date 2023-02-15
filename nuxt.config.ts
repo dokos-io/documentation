@@ -23,6 +23,9 @@ export default defineNuxtConfig({
     }
   },
   linkChecker: {
-    failOn404: false
+    failOn404: false,
+    exclude: [
+      '/applications'
+    ],
   },
 })

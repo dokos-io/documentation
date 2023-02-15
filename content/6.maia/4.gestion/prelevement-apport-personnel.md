@@ -62,7 +62,7 @@ La ventilation de cette opération sera donc:
 
 :::alert
 De manière générale, à chaque fois que vous ajoutez une somme sur le compte de l'exploitant, vous procédez à un prélèvement personnel.
-Il est donc, par exemple, tout à fait possible de procéder à un prélèvement personnel lors d'un [dépôt d'espèce](/maia/comptabilite/depot-especes/) en enregistrant un seul document.
+Il est donc, par exemple, tout à fait possible de procéder à un prélèvement personnel lors d'un [dépôt d'espèce](/maia/gestion/depot-especes/) en enregistrant un seul document.
 :::
 
 ## Apport personnel

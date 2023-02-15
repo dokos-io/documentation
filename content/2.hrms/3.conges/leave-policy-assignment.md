@@ -2,11 +2,11 @@
 title: Leave Policy Assignment
 ---
 
-```mermaid
+<mermaid>
 graph LR;
     PC(Politique de congés)-->APC(Allocation de politique de congés)-->AC(Allocation de congés);
 		class APC current-doc;
-```
+</mermaid>
 
 
 # Usage

@@ -40,7 +40,7 @@ Copiez ensuite la clé secrète et collez là dans votre compte Stripe sur dokos
 
 # Passerelles de paiement
 
-Une fois votre compte Stripe créé, allez dans les passerelles de paiement générées et complétez les informations présentées dans la page dédiées aux [passerelles de paiement](/fr/accounting/payment-gateways).
+Une fois votre compte Stripe créé, allez dans les passerelles de paiement générées et complétez les informations présentées dans la page dédiées aux [passerelles de paiement](/dokos/comptabilite/passerelles-paiements).
 Si vous devez autoriser des paiements dans d'autres devises que la devise de votre société, ajoutez des comptes de passerelle de paiement additionnels.
 
 Dokos est configuré pour accepter les devises suivantes dans Stripe:

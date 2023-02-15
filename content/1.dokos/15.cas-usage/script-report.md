@@ -12,10 +12,6 @@ MappeMonde (Tiers Lieu) avait besoin d'une liste claire et formelle qui contiend
 
 ## Solution pour la création du rapport
 
-::alert
-Si vous souhaitez en savoir plus sur les différentes fonctions de ce logiciel, veuillez cliquer sur [Documentation](/fr/home) pour y accéder
-::
-
 ### 1.1 Créer événement
 
 > Accueil > Lieu > Evénement > **+ Ajouter Événement**

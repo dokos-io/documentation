@@ -14,4 +14,4 @@ Afin de configurer une intégration avec Paypal, vous devez ajouter les élémen
 
 # Usage
 
-- [Passerelles de paiement](/fr/accounting/payment-gateways)
+- [Passerelles de paiement](/dokos/comptabilite/passerelles-paiements)
