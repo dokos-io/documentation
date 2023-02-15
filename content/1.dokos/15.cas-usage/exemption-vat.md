@@ -1,11 +1,5 @@
 ---
 title: Exonération de TVA
-description: 
-published: true
-date: 2022-02-28T10:08:37.862Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-28T09:44:44.112Z
 ---
 
 # Exonération de TVA

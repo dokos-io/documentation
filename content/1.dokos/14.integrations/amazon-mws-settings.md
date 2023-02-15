@@ -1,11 +1,5 @@
 ---
 title: Paramètres Amazon MWS
-description: 
-published: true
-date: 2021-11-29T11:02:15.237Z
-tags: 
-editor: markdown
-dateCreated: 2021-11-29T10:49:01.645Z
 ---
 
 # Paramètres Amazon MWS

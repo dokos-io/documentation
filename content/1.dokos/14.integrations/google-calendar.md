@@ -1,11 +1,5 @@
 ---
 title: Google Agenda
-description: 
-published: true
-date: 2021-10-16T10:43:39.582Z
-tags: 
-editor: markdown
-dateCreated: 2021-10-16T10:17:30.127Z
 ---
 
 # Intégration à Google Agenda

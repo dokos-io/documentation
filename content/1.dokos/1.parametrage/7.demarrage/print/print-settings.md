@@ -1,11 +1,5 @@
 ---
 title: Paramètres d'impression
-description: 
-published: true
-date: 2022-11-03T11:16:40.108Z
-tags: 
-editor: markdown
-dateCreated: 2021-05-12T08:41:32.870Z
 ---
 
 # Paramètres d'impression

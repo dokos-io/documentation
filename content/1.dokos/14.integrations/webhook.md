@@ -1,11 +1,5 @@
 ---
 title: Webhook
-description: 
-published: true
-date: 2021-10-14T11:50:52.735Z
-tags: 
-editor: markdown
-dateCreated: 2021-10-14T11:46:12.210Z
 ---
 
 # Webhook

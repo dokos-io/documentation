@@ -23,7 +23,7 @@ Par défaut, le nom de l'article est défini selon le code d'article entré. Si 
 
 ### 2.1 Groupe d'articles par défaut
 
-Ce sera le groupe d'articles par défaut alloué à un article nouvellement créé. Les groupes d'éléments sont utiles pour la classification et la définition des propriétés de l'ensemble du groupe. Pour en savoir plus, visitez la page **[Groupe d'articles](/dokos/parametrage/articles-group)**.
+Ce sera le groupe d'articles par défaut alloué à un article nouvellement créé. Les groupes d'éléments sont utiles pour la classification et la définition des propriétés de l'ensemble du groupe. Pour en savoir plus, visitez la page **[Groupe d'articles](/dokos/parametrage/articles#groupes-darticles)**.
 
 ### 2.2 Unité de mesure par Défaut des Articles
 

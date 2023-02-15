@@ -1,11 +1,5 @@
 ---
 title: Lancement de Dokos
-description: 
-published: false
-date: 2021-11-04T16:43:05.567Z
-tags: 
-editor: markdown
-dateCreated: 2021-10-27T13:27:08.059Z
 ---
 
 # Fonctionnement du logiciel

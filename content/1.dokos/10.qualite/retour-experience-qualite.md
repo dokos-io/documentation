@@ -1,11 +1,5 @@
 ---
 title: Retours de qualité
-description: 
-published: true
-date: 2021-07-01T08:41:31.893Z
-tags: 
-editor: markdown
-dateCreated: 2021-07-01T08:30:14.742Z
 ---
 
 # Retours de qualité

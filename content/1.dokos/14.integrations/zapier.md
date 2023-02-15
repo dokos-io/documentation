@@ -1,11 +1,5 @@
 ---
 title: Zapier Integration
-description: 
-published: true
-date: 2020-11-27T07:14:59.208Z
-tags: 
-editor: undefined
-dateCreated: 2020-11-26T16:37:01.960Z
 ---
 
 # Zapier application

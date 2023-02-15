@@ -1,11 +1,5 @@
 ---
 title: Imprimer les titres
-description: 
-published: true
-date: 2021-05-12T12:17:38.775Z
-tags: 
-editor: markdown
-dateCreated: 2021-05-12T12:17:38.775Z
 ---
 
 # Imprimer les titres

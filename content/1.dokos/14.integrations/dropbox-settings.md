@@ -1,11 +1,5 @@
 ---
 title: Paramètres Dropbox
-description: 
-published: true
-date: 2021-10-27T09:21:00.295Z
-tags: 
-editor: markdown
-dateCreated: 2021-10-07T10:08:47.519Z
 ---
 
 # Paramètres Dropbox

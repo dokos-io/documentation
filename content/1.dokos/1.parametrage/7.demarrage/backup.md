@@ -1,11 +1,5 @@
 ---
 title: Téléchargement de sauvegardes
-description: 
-published: true
-date: 2021-05-10T14:15:37.625Z
-tags: 
-editor: markdown
-dateCreated: 2021-05-10T14:15:37.625Z
 ---
 
 # Téléchargement de sauvegardes

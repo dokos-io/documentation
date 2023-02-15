@@ -1,11 +1,5 @@
 ---
 title: Flux de travail
-description: 
-published: true
-date: 2021-11-09T15:20:11.747Z
-tags: 
-editor: markdown
-dateCreated: 2021-05-13T16:53:05.895Z
 ---
 
 # Flux de travail

@@ -1,11 +1,5 @@
 ---
 title: Mattermost
-description: 
-published: true
-date: 2021-10-13T10:25:40.079Z
-tags: 
-editor: markdown
-dateCreated: 2021-10-13T09:11:08.412Z
 ---
 
 # Connexion avec Mattermost

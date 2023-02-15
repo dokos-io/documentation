@@ -1,11 +1,5 @@
 ---
 title: En-tête de lettre
-description: 
-published: true
-date: 2021-05-12T12:42:31.122Z
-tags: 
-editor: markdown
-dateCreated: 2021-05-12T12:40:15.686Z
 ---
 
 # En-tête de document

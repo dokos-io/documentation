@@ -1,11 +1,5 @@
 ---
 title: Balance Générale
-description: 
-published: true
-date: 2022-04-06T15:50:47.352Z
-tags: 
-editor: markdown
-dateCreated: 2022-04-06T15:50:47.352Z
 ---
 
 # Balance Générale

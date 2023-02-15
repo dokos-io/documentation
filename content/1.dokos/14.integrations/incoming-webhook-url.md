@@ -1,11 +1,5 @@
 ---
 title: URL de webhook entrant
-description: 
-published: true
-date: 2022-03-25T09:49:46.495Z
-tags: 
-editor: markdown
-dateCreated: 2021-10-27T09:22:14.737Z
 ---
 
 # URL de webhook entrant

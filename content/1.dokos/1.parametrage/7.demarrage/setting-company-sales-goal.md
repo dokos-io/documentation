@@ -1,11 +1,5 @@
 ---
 title: Définition de l'objectif de vente de l'entreprise
-description: 
-published: true
-date: 2021-05-10T12:57:34.433Z
-tags: 
-editor: markdown
-dateCreated: 2021-05-10T12:57:34.433Z
 ---
 
 # Définition de l'objectif de vente de l'entreprise

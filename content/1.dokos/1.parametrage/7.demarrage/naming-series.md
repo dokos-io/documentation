@@ -1,11 +1,5 @@
 ---
 title: Nom de séries
-description: 
-published: true
-date: 2022-10-10T14:24:51.984Z
-tags: 
-editor: markdown
-dateCreated: 2022-03-06T19:06:26.002Z
 ---
 
 # Paramètres de nommage des documents

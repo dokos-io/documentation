@@ -1,11 +1,5 @@
 ---
 title: Google Drive
-description: 
-published: true
-date: 2021-10-26T10:40:55.404Z
-tags: 
-editor: markdown
-dateCreated: 2021-10-18T14:17:58.955Z
 ---
 
 # Google Drive

@@ -1,11 +1,5 @@
 ---
 title: Configurer les taxes
-description: 
-published: true
-date: 2021-06-12T07:53:08.759Z
-tags: 
-editor: markdown
-dateCreated: 2021-05-10T09:41:48.483Z
 ---
 
 # Configurer les taxes

@@ -1,11 +1,5 @@
 ---
 title: Compte de résultat
-description: 
-published: true
-date: 2022-04-06T15:45:52.626Z
-tags: 
-editor: markdown
-dateCreated: 2022-04-06T15:41:14.342Z
 ---
 
 # Compte de résultat

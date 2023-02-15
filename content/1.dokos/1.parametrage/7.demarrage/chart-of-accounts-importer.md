@@ -1,11 +1,5 @@
 ---
 title: Importateur de plans de comptes
-description: 
-published: true
-date: 2021-05-10T14:45:25.114Z
-tags: 
-editor: markdown
-dateCreated: 2021-05-10T14:45:25.114Z
 ---
 
 # Importateur de plans de comptes

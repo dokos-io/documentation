@@ -1,11 +1,5 @@
 ---
 title: Export de données
-description: 
-published: true
-date: 2021-05-10T14:00:43.198Z
-tags: 
-editor: markdown
-dateCreated: 2021-05-10T14:00:20.801Z
 ---
 
 # Export de données

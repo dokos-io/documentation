@@ -1,11 +1,5 @@
 ---
 title: Action de qualité
-description: 
-published: true
-date: 2021-07-05T13:16:38.644Z
-tags: 
-editor: markdown
-dateCreated: 2021-07-05T13:11:18.339Z
 ---
 
 # Action de qualité

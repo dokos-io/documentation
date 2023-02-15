@@ -1,11 +1,5 @@
 ---
 title: Réunion qualité
-description: 
-published: true
-date: 2021-07-01T13:02:02.714Z
-tags: 
-editor: markdown
-dateCreated: 2021-07-01T12:15:39.153Z
 ---
 
 # Réunion de qualité

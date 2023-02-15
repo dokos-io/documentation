@@ -1,11 +1,5 @@
 ---
 title: Outil d'importation de données
-description: 
-published: true
-date: 2022-11-03T11:20:31.071Z
-tags: 
-editor: markdown
-dateCreated: 2021-05-10T13:22:40.820Z
 ---
 
 # Outil d'importation de données

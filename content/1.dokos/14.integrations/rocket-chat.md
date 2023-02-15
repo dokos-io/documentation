@@ -1,11 +1,5 @@
 ---
 title: Rocket Chat
-description: 
-published: true
-date: 2021-10-13T10:49:36.749Z
-tags: 
-editor: markdown
-dateCreated: 2021-10-13T10:44:35.205Z
 ---
 
 # Connexion avec Rocket Chat

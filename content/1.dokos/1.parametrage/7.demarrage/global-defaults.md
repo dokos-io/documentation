@@ -1,11 +1,5 @@
 ---
 title: Valeurs par défaut globales
-description: 
-published: true
-date: 2022-11-03T11:18:54.528Z
-tags: 
-editor: markdown
-dateCreated: 2021-05-10T09:53:32.838Z
 ---
 
 # Valeurs par défaut global

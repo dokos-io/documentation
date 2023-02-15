@@ -1,11 +1,5 @@
 ---
 title: Objectif de qualité
-description: 
-published: true
-date: 2021-06-29T08:45:03.938Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-29T08:38:49.606Z
 ---
 
 # Objectif de qualité

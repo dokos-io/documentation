@@ -1,11 +1,5 @@
 ---
 title: Revue de la qualité
-description: 
-published: true
-date: 2021-07-05T12:34:18.787Z
-tags: 
-editor: markdown
-dateCreated: 2021-07-05T10:43:36.627Z
 ---
 
 # Revue de la qualité

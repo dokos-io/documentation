@@ -1,11 +1,5 @@
 ---
 title: Intégration Stripe
-description: 
-published: true
-date: 2022-11-14T14:58:00.131Z
-tags: 
-editor: markdown
-dateCreated: 2020-12-02T14:21:49.903Z
 ---
 
 L'intégration avec [Stripe](https://stripe.com/fr) permet de proposer des paiements par carte bancaire sur votre site Dokos.

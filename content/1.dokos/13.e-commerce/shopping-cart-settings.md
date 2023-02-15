@@ -1,11 +1,5 @@
 ---
 title: Paramètres du panier
-description: 
-published: true
-date: 2021-03-17T21:44:44.827Z
-tags: 
-editor: markdown
-dateCreated: 2020-12-02T14:57:38.387Z
 ---
 
 # Paramètres de caisse

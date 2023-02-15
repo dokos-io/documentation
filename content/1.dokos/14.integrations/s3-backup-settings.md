@@ -1,11 +1,5 @@
 ---
 title: Paramètres de sauvegarde S3
-description: 
-published: true
-date: 2021-10-26T13:28:12.436Z
-tags: 
-editor: markdown
-dateCreated: 2021-10-26T11:21:16.314Z
 ---
 
 # Paramètres de sauvegarde S3 - Amazon S3

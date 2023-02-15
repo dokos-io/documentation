@@ -1,11 +1,5 @@
 ---
 title: Formats d'impression
-description: 
-published: true
-date: 2021-05-13T07:57:40.563Z
-tags: 
-editor: markdown
-dateCreated: 2020-11-26T15:02:30.606Z
 ---
 
 # Format d'impression

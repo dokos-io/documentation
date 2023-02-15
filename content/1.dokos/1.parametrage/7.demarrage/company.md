@@ -1,11 +1,5 @@
 ---
 title: Configuration de l'entreprise
-description: 
-published: true
-date: 2022-11-03T11:19:30.531Z
-tags: 
-editor: markdown
-dateCreated: 2021-05-10T08:42:36.881Z
 ---
 
 > # Configuration de la société

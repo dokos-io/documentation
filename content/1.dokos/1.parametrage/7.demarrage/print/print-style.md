@@ -1,11 +1,5 @@
 ---
 title: Style d'impression
-description: 
-published: true
-date: 2021-05-12T11:51:12.195Z
-tags: 
-editor: markdown
-dateCreated: 2021-05-12T11:51:12.195Z
 ---
 
 # Style d'impression

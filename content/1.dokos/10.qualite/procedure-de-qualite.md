@@ -1,11 +1,5 @@
 ---
 title: Procédure de qualité
-description: 
-published: true
-date: 2021-07-01T08:27:45.995Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-29T16:25:55.589Z
 ---
 
 # Procédure de qualité

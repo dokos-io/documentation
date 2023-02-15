@@ -1,11 +1,5 @@
 ---
 title: Google Chat
-description: 
-published: true
-date: 2022-03-25T09:50:29.321Z
-tags: 
-editor: markdown
-dateCreated: 2021-10-07T11:53:13.900Z
 ---
 
 # Connexion avec Google Chat

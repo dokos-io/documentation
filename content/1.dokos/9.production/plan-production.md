@@ -1,11 +1,5 @@
 ---
 title: Plan de production
-description: 
-published: true
-date: 2022-11-01T11:22:44.778Z
-tags: 
-editor: markdown
-dateCreated: 2021-05-31T12:56:25.283Z
 ---
 
 # Plan de production
@@ -25,7 +19,7 @@ Pour accéder à la liste des **plans de production**, allez sur :
 Avant de créer et d'utiliser un plan de production, il est conseillé de créer d'abord les éléments suivants:
 
 - **[Article](/dokos/parametrage/articles)**
-- **[Demande de matériel](/stocks/material-request)**
+- **[Demande de matériel](/dokos/stocks/demande-materiel)**
 - **[Commande client](/dokos/ventes/commande-client)**
 - **[Nomenclature](/dokos/production/nomenclature)**
 - **[Routage](/dokos/production/routage)**

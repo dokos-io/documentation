@@ -15,7 +15,7 @@ Le Stock de clôture de la période comptable précédente devient le Stock d'ou
 
 ## 1. Prérequis avant utilisation
 
-- Créez des **[entrepôts](/stocks/warehouse)**.
+- Créez des **[entrepôts](/dokos/stocks/warehouse)**.
 - Liez l'entrepôt aux grands livres comptables appropriés.
 
 ## 2. Stock d'ouverture pour les articles non sérialisés 

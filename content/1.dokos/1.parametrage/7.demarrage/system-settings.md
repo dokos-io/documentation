@@ -1,11 +1,5 @@
 ---
 title: Les paramètres du système
-description: 
-published: true
-date: 2022-11-03T11:16:18.233Z
-tags: 
-editor: markdown
-dateCreated: 2021-05-10T10:20:22.087Z
 ---
 
 # Les paramètres du système

@@ -1,11 +1,5 @@
 ---
 title: Termes et conditions
-description: 
-published: true
-date: 2021-05-12T13:45:41.618Z
-tags: 
-editor: markdown
-dateCreated: 2021-05-07T07:41:40.612Z
 ---
 
 # Termes et conditions

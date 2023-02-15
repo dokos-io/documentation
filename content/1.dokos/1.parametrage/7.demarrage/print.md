@@ -1,11 +1,5 @@
 ---
 title: Impression
-description: 
-published: true
-date: 2021-05-12T08:40:12.296Z
-tags: 
-editor: markdown
-dateCreated: 2021-05-12T08:40:12.296Z
 ---
 
 # Impression

@@ -1,11 +1,5 @@
 ---
 title: Actions de flux de travail
-description: 
-published: true
-date: 2022-11-03T11:22:04.268Z
-tags: 
-editor: markdown
-dateCreated: 2021-05-13T17:24:30.741Z
 ---
 
 # Actions de Flux de travail

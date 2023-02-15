@@ -1,11 +1,5 @@
 ---
 title: Slack
-description: 
-published: true
-date: 2021-10-13T09:34:36.796Z
-tags: 
-editor: markdown
-dateCreated: 2021-10-12T14:03:21.147Z
 ---
 
 # Connexion avec Slack

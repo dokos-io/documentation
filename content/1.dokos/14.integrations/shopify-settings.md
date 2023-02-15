@@ -1,11 +1,5 @@
 ---
 title: Paramètres Shopify
-description: 
-published: true
-date: 2021-11-29T11:18:09.131Z
-tags: 
-editor: markdown
-dateCreated: 2021-11-29T11:18:09.131Z
 ---
 
 # Paramètres Shopfify

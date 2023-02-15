@@ -1,11 +1,5 @@
 ---
 title: Règle d'attribution
-description: 
-published: true
-date: 2022-11-03T11:24:12.511Z
-tags: 
-editor: markdown
-dateCreated: 2021-05-14T07:00:33.129Z
 ---
 
 # Règle d'attribution
