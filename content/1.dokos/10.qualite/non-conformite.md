@@ -20,7 +20,7 @@ Pour accéder à **la liste Non-conformité**, allez sur :
 
 ## 1. Prérequis avant utilisation
 
-1. **[Procédure de qualité](/qualite/quality-procedure)**
+1. **[Procédure de qualité](/dokos/qualite/procedure-de-qualite)**
 
 ## 2. Comment créer une non-conformité ?
 
