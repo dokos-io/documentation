@@ -11,6 +11,9 @@ export default defineNuxtConfig({
       preload: ['xml']
     }
   },
+  css: [
+    '~/assets/style/main.css',
+  ],
   nitro: {
     prerender: {
       crawlLinks: false,
