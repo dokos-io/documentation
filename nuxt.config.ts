@@ -5,9 +5,6 @@ export default defineNuxtConfig({
     'nuxt-link-checker',
   ],
   extends: '@nuxt-themes/docus',
-  colorMode: {
-    preference: 'dark'
-  },
   content: {
     sources: [],
     highlight: {
@@ -29,11 +26,13 @@ export default defineNuxtConfig({
     ],
   },
   runtimeConfig: {
-    algolia: {
-      applicationId: process.env.DOCSEARCH_APP_ID,
-      apiKey: process.env.DOCSEARCH_API_KEY,
-      docSearch: {
-        indexName: 'dokos'
+    public: {
+      algolia: {
+        applicationId: process.env.DOCSEARCH_APP_ID,
+        apiKey: process.env.DOCSEARCH_API_KEY,
+        docSearch: {
+          indexName: 'dokos'
+        }
       }
     }
   }
