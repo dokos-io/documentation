@@ -28,4 +28,14 @@ export default defineNuxtConfig({
       '/applications'
     ],
   },
+  runtimeConfig: {
+    algolia: {
+      applicationId: process.env.DOCSEARCH_APP_ID,
+      apiKey: process.env.DOCSEARCH_API_KEY,
+      langAttribute: 'lang',
+      docSearch: {
+        indexName: 'dokos'
+      }
+    }
+  }
 })
