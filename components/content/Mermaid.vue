@@ -5,7 +5,6 @@
 </template>
 
 <script>
-import  mermaid from "mermaid/dist/mermaid"
 export default {
     data() {
         return { show: false }
@@ -13,6 +12,7 @@ export default {
     mounted: function() {
         this.show = true;
 
+        const mermaid = initMermaid()
         mermaid.initialize({ startOnLoad: true });
         this.$nextTick(() => {
             mermaid.init();
