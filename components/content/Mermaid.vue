@@ -13,7 +13,6 @@ export default {
         this.show = true;
 
         const mermaid = initMermaid()
-        mermaid.initialize({ startOnLoad: true });
         this.$nextTick(() => {
             mermaid.init();
         })
