@@ -1,4 +1,6 @@
 # Redirect default Netlify subdomain to primary domain
-https://doc.dokos.io/fr/accounting/sales-invoice /dokos/ventes/facture-de-vente
-https://clever-tulumba-189136.netlify.app/fr/selling/sales-invoice /dokos/ventes/facture-de-vente
+https://doc.dokos.io/fr/accounting/sales-invoice /dokos/ventes/facture-de-vente 301!
+https://clever-tulumba-189136.netlify.app/fr/selling/ https://doc.dokos.io/dokos/ventes/ 301!
+https://clever-tulumba-189136.netlify.app/fr/selling https://doc.dokos.io/dokos/ventes 301!
+https://clever-tulumba-189136.netlify.app/fr/selling/sales-invoice /dokos/ventes/facture-de-vente 301!
 https://clever-tulumba-189136.netlify.app/* https://doc.dokos.io/:splat 301!
