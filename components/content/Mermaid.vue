@@ -6,7 +6,6 @@
 
 <script>
 import  mermaid from "mermaid/dist/mermaid"
-mermaid.initialize({ startOnLoad: true });
 export default {
     data() {
         return { show: false }
@@ -14,6 +13,7 @@ export default {
     mounted: function() {
         this.show = true;
 
+        mermaid.initialize({ startOnLoad: true });
         this.$nextTick(() => {
             mermaid.init();
         })
