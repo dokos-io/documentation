@@ -32,7 +32,7 @@ export default defineNuxtConfig({
       algolia: {
         applicationId: process.env.DOCSEARCH_APP_ID,
         apiKey: process.env.DOCSEARCH_API_KEY,
-        langAttribute: 'fr',
+        langAttribute: 'lang',
         docSearch: {
           indexName: 'dokos'
         }
