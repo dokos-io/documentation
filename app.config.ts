@@ -11,9 +11,13 @@ export default defineAppConfig({
           icon: "mdi:gitlab",
           href: "https://gitlab.com/dokos"
         },
-        twitter: '@dokos_io',
-        youtub: {
-          label: "Youtube",
+        discourse: {
+          label: "Forum",
+          icon: "bxl:discourse",
+          href: "https://community.dokos.io"
+        },
+        youtube: {
+          label: "Vidéos",
           icon: "mdi:youtube",
           href: "https://www.youtube.com/@dokos_io"
         }
