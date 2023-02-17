@@ -4,20 +4,19 @@
     </div>
 </template>
 
-<script>
-export default {
-    data() {
-        return { show: false }
-    },
-    mounted: function() {
-        this.show = true;
+<script setup>
 
-        const mermaid = initMermaid()
-        this.$nextTick(() => {
-            mermaid.init();
-        })
-    }
-};
+let show = ref(false);
+
+const { $mermaid } = useNuxtApp()
+
+onMounted( async() => {
+  show.value = true
+  $mermaid().initialize({startOnLoad: true })
+  await nextTick()
+  $mermaid().init();
+})
+
 </script>
 
 <style>
