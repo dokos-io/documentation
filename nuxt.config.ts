@@ -13,6 +13,9 @@ export default defineNuxtConfig({
     locales: ['fr'],
     defaultLocale: 'fr'
   },
+  css: [
+    '~/assets/style/main.css',
+  ],
   nitro: {
     prerender: {
       crawlLinks: false,
