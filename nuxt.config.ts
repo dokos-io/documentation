@@ -9,7 +9,9 @@ export default defineNuxtConfig({
     sources: [],
     highlight: {
       preload: ['xml']
-    }
+    },
+    locales: ['fr'],
+    defaultLocale: 'fr'
   },
   nitro: {
     prerender: {
@@ -30,13 +32,10 @@ export default defineNuxtConfig({
       algolia: {
         applicationId: process.env.DOCSEARCH_APP_ID,
         apiKey: process.env.DOCSEARCH_API_KEY,
+        langAttribute: 'fr',
         docSearch: {
           indexName: 'dokos'
-        },
-        language: {
-          selectors: ".exists-probably .language",
-          defaultValue: ["fr"],
-        },
+        }
       }
     }
   }
