@@ -32,7 +32,11 @@ export default defineNuxtConfig({
         apiKey: process.env.DOCSEARCH_API_KEY,
         docSearch: {
           indexName: 'dokos'
-        }
+        },
+        language: {
+          selectors: ".exists-probably .language",
+          defaultValue: ["fr"],
+        },
       }
     }
   }
