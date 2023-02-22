@@ -344,5 +344,9 @@ https://clever-tulumba-189136.netlify.app/*	https://doc.dokos.io/:splat	301!
 /website/web-page	/dodock/fonctionnalites/site-web/page-web 301!
 /website/website-settings	/dodock/fonctionnalites/site-web/parametres-site-web 301!
 /website/website-theme	/dodock/fonctionnalites/site-web/theme-site-web 301!
+/en/getting-started/easy-installation /dodock/administration/installation/automatique 301!
+/getting-started/easy-installation /dodock/administration/installation/automatique 301!
+/getting-started/docker-installation /dodock/administration/installation/docker 301!
+/developers /dodock 301!
 
 /fr/*	/:splat	301!
