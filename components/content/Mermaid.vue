@@ -1,18 +1,24 @@
 <template>
-    <div class="mermaid" v-if="show">
+    <pre class="mermaid" v-if="show">
         <slot></slot>
-    </div>
+    </pre>
 </template>
 
 <script setup>
 
 let show = ref(false);
 
+const { $mermaid } = useNuxtApp()
+
 onMounted( async() => {
   show.value = true
-  const { $mermaid } = useNuxtApp()
+
   await nextTick()
-  $mermaid().init();
+  $mermaid().initialize({startOnLoad: false })
+  $mermaid().run({
+    querySelector: '.mermaid',
+    suppressErrors: false,
+  });
 })
 
 </script>
