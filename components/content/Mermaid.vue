@@ -8,11 +8,9 @@
 
 let show = ref(false);
 
-const { $mermaid } = useNuxtApp()
-
 onMounted( async() => {
   show.value = true
-  $mermaid().initialize({startOnLoad: true })
+  const { $mermaid } = useNuxtApp()
   await nextTick()
   $mermaid().init();
 })
