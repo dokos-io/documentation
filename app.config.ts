@@ -48,11 +48,22 @@ export default defineAppConfig({
         },
         textLinks: [
           {
+            text: 'Contribuer',
+            href: '/dodock/contributer',
+            target: '_blank'
+          },
+          {
             text: 'Hébergement et Services',
             href: 'https://dokos.io',
             target: '_blank'
           }
         ]
+      },
+      gitlab: {
+        edit: true,
+        owner: 'dokos',
+        repo: 'documentation',
+        branch: 'main'
       }
     }
   })
