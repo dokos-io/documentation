@@ -7,14 +7,14 @@
     "preview": "nuxt preview"
   },
   "devDependencies": {
-    "@nuxt-themes/docus": "^1.8.3",
+    "@nuxt-themes/docus": "^1.9.1",
     "nuxt": "^3.0.0",
     "nuxt-link-checker": "^1.0.3"
   },
   "dependencies": {
     "@docsearch/css": "^3.3.3",
     "@docsearch/js": "^3.3.3",
-    "mermaid": "^10.0.0",
+    "mermaid": "^10.0.2",
     "swagger-ui-dist": "4.15.5"
   }
 }

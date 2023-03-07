@@ -43,7 +43,7 @@ css({
     'place-items': 'center',
     'z-index': '10',
     'padding': '0.4rem 0',
-    'background-color': '#f8faff',
+    'border-bottom': '1px solid {elements.backdrop.background}',
     '@dark': {
       'background-color': 'transparent',
     }

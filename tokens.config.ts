@@ -10,5 +10,10 @@ export default defineTheme({
     p: {
       margin: '18px 0'
     }
+  },
+  elements: {
+    backdrop: {
+      background: "#f6f6f7"
+    }
   }
 })

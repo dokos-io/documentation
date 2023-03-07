@@ -1,9 +1,9 @@
 export default defineAppConfig({
     docus: {
       title: 'Dokos Documentation',
-      description: 'Develop applications on Dodock framework and enhance your Dokos usage.',
-      image: 'https://content.nuxtjs.org/preview.png',
-      url: 'https://content.nuxtjs.org',
+      description: 'Dokos ecosystem documentation.',
+      image: 'https://doc.dokos.io/preview.png',
+      url: 'https://doc.dokos.io',
       debug: false,
       socials: {
         gitlab: {
@@ -49,7 +49,7 @@ export default defineAppConfig({
         textLinks: [
           {
             text: 'Contribuer',
-            href: '/dodock/contributer',
+            href: '/dodock/contribuer',
             target: '_blank'
           },
           {
