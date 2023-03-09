@@ -13,7 +13,10 @@ export default defineTheme({
   },
   elements: {
     backdrop: {
-      background: "#f6f6f7"
+      background: {
+        initial: "#f6f6f7",
+        dark: "#0c0d0ccc"
+      }
     }
   }
 })
