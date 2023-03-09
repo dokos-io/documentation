@@ -1,0 +1,54 @@
+---
+title: Demande de congé compensatoire
+---
+
+# Demande de congé compensatoire
+
+Le congé compensatoire est un congé qui est accordé à un employé en compensation des heures supplémentaires ou des jours fériés.
+
+Dokos permet aux employés de demander des congés compensatoires via le document Demande de congé compensatoire. Il est nécessaire que les dates mentionnées dans la demande de congé compensatoire soient dans la liste des jours fériés par défaut et également que l'employé ait sa présence marquée Présent.
+
+::alert{type=warning}
+**Remarque** : Seuls les types de congé marqués comme **Est compensatoire** peuvent être sélectionnés dans la demande de congé compensatoire.
+::
+
+---
+
+Pour accéder à la **liste demande de congé compensatoire**, allez à :
+
+Accueil > Ressources humaines > Congés > **Demande de congé compensatoire**
+
+![liste_congé_compensatoire.png](/content/rh/compensatory-leave-request/liste_congé_compensatoire.png)
+
+## 1. Prérequis avant utilisation
+
+Avant de créer une demande de congé compensatoire, il est nécessaire de créer les documents suivants :
+
+- **[Employé](/dokos/hrms/cycle-de-vie/employee)**
+- **[Période de congés](/dokos/hrms/conges/leave-period)** 
+- **[Types de congés](/dokos/hrms/conges/leave-type)**
+- **[Politique de congés](/dokos/hrms/conges/leave-policy)**
+- **[Allocation de congés](/dokos/hrms/conges/leave-allocation)**
+- **[Listes de jours fériés](/dokos/hrms/conges/holiday-list)**
+- **Présence**
+
+## 2. Comment créer une demande de congé compensatoire
+
+1. Allez dans la liste des demandes de congé compensatoire, cliquez sur **:heavy_plus_sign: Ajouter Demande de congé compensatoire**.
+2. Sélectionnez l'ID de l'employé. Une fois sélectionnés, le nom et le service de l'employé seront automatiquement récupérés.
+3. Sélectionnez le Type de congé.
+
+![détails_congé.png](/content/rh/compensatory-leave-request/détails_congé.png)
+
+## 3. Caractéristiques
+
+### 3.1 Travail en vacances
+
+- Sélectionnez la **date de début de travail** et la **date de fin de travail**. Il s'agit de la date du ou des jours où l'employé a travaillé, pendant un jour férié.
+- Cochez la case **Demi-journée** s'il s'agit d'un demi-jour de congé
+- Entrez la **raison** de la demande de congé compensatoire.
+
+![travail_en_vacances.png](/content/rh/compensatory-leave-request/travail_en_vacances.png)
+
+Lors de la soumission de la demande de congé compensatoire, Dokos met à jour l'enregistrement d'allocation de congé pour le type de congé compensatoire, permettant à l'employé de demander des congés de ce type ultérieurement en fonction du nombre de congés restants.
+

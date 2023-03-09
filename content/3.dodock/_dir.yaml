@@ -1,2 +1,4 @@
 title: Dodock
 icon: carbon:container-software
+aside:
+  collapsed: false
