@@ -79,4 +79,4 @@ Par exemple, pour les congés payés, il faudra créer des feuilles de présence
 
 
 ---
-**Suivant : [1. Liste de congés](/dokos/hrms/conges/holiday-list) :arrow_right:**
+**Suivant : [1. Liste de congés](/dokos/hrms/conges/jours-feries) :arrow_right:**
