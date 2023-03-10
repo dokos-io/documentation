@@ -8,7 +8,10 @@ export default defineTheme({
   },
   prose: {
     p: {
-      margin: '18px 0'
+      margin: '18px 0',
+      br: {
+        margin: '5px 0',
+      }
     }
   },
   elements: {
