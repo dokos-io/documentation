@@ -17,10 +17,10 @@ Pour accéder à la **liste de demande de congé**, allez sur :
 
 Avant de créer une demande de congé, il est conseillé d'avoir les documents suivants :
 
-- [Département](/dokos/hrms/cycle-de-vie/department)
+- [Département](/dokos/hrms/parametrage/departement)
 - [Période de congé](/dokos/hrms/conges/leave-period)
 - [Liste des jours de congés](/dokos/hrms/conges/jours-feries)
-- [Type de congé](/dokos/hrms/conges/leave-type)
+- [Type de congé](/dokos/hrms/conges/type-de-conges)
 - [Politique de congé](/dokos/hrms/conges/leave-policy)
 - [Allocation de congé](/dokos/hrms/conges/leave-allocation)
 

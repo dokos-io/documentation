@@ -36,8 +36,8 @@ Pour accéder à la **liste de départ des employés**, allez à :
 Avant de créer une séparation d'employé, il est conseillé de créer les documents suivants :
 
 - **[Employé](/dokos/hrms/cycle-de-vie/employee)**
-- **[Département](/dokos/hrms/cycle-de-vie/department)**
-- **[Désignation](/dokos/hrms/cycle-de-vie/designation)**
+- **[Département](/dokos/hrms/parametrage/departement)**
+- **[Désignation](/dokos/hrms/parametrage/poste)**
 - **[Échelon de l'employé](/dokos/hrms/cycle-de-vie/employee-grade)**
 
 ## 2. Comment créer une séparation d'employés

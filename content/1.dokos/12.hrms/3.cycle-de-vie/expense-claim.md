@@ -25,7 +25,7 @@ Pour accéder à la **liste note de frais**, allez sur :
 ## 1. Prérequis avant utilisation
 
 - **[Employé](/dokos/hrms/cycle-de-vie/employee)**
-- **[Département](/dokos/hrms/cycle-de-vie/department)**
+- **[Département](/dokos/hrms/parametrage/departement)**
 - Plan comptable
 
 ## 2. Comment créer une note de frais 

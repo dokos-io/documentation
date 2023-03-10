@@ -26,7 +26,7 @@ Avant de créer une demande de congé compensatoire, il est nécessaire de crée
 
 - **[Employé](/dokos/hrms/cycle-de-vie/employee)**
 - **[Période de congés](/dokos/hrms/conges/leave-period)** 
-- **[Types de congés](/dokos/hrms/conges/leave-type)**
+- **[Types de congés](/dokos/hrms/conges/type-de-conges)**
 - **[Politique de congés](/dokos/hrms/conges/leave-policy)**
 - **[Allocation de congés](/dokos/hrms/conges/leave-allocation)**
 - **[Listes de jours fériés](/dokos/hrms/conges/jours-feries)**

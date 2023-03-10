@@ -27,7 +27,7 @@ Cet outil vous permet d'ajouter rapidement des enregistrements de présence pour
 Avant de créer une présence des employés, il est conseillé de créer d'abord les éléments suivants :
 
 - **[Employé](/dokos/hrms/cycle-de-vie/employee)**
-- **[Département](/dokos/hrms/cycle-de-vie/department)**
+- **[Département](/dokos/hrms/parametrage/departement)**
 - **[Outil de gestion des présences des employés](/dokos/hrms/quarts-et-presences/employee-attendance-tool)**
 
 ## 2. Comment marquer la présence à l'aide de l'outil de présence des employés

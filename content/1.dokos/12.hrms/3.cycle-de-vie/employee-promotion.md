@@ -25,7 +25,7 @@ Pour accéder à la liste de **promotion des employés**, allez sur :
 Avant de créer une promotion d'employé, il est conseillé de créer les documents suivants :
 
 - **[Employé](/dokos/hrms/cycle-de-vie/employee)**
-- **[Département](/dokos/hrms/cycle-de-vie/department)**
+- **[Département](/dokos/hrms/parametrage/departement)**
 
 ## 2. Comment créer une promotion d'employé
 
