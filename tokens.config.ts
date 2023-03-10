@@ -17,7 +17,7 @@ export default defineTheme({
   elements: {
     backdrop: {
       background: {
-        initial: "#f6f6f7",
+        initial: "rgb(246,248,250)",
         dark: "#0c0d0ccc"
       }
     }
