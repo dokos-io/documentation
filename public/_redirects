@@ -42,6 +42,7 @@ https://clever-tulumba-189136.netlify.app/*	https://doc.dokos.io/:splat	301!
 /buying/request-for-quotation	/dokos/achats/appel-offre 301!
 /buying/supplier-quotation	/dokos/achats/devis-fournisseurs 301!
 /buying/supplier-scorecard	/dokos/achats/evaluation-fournisseurs 301!
+/contributing	/dodock/contribuer#vous-souhaitez-contribuer 301!
 /contributing/translations	/dodock/contribuer/traductions 301!
 /crm	/dokos/crm 301!
 /crm/address	/dodock/fonctionnalites/contacts_addresses/addresses 301!
@@ -69,8 +70,7 @@ https://clever-tulumba-189136.netlify.app/*	https://doc.dokos.io/:splat	301!
 /customizations/use-cases/query-report	/dokos/cas-usage/query-report 301!
 /customizations/use-cases/script-report	/dokos/cas-usage/script-report 301!
 /customizations/workspace	/dodock/ressources/concepts/espaces-de-travail 301!
-/developers	/dodock/ressources/api/exemples 301!
-/developers	/dokos/api 301!
+/developers	/dodock/ressources/api/document_api 301!
 /developers/api-rest	/dodock/ressources/api/rest_api 301!
 /developers/get-contacts-addresses	/dodock/ressources/api/exemples/get-contacts-addresses 301!
 /developers/item-booking-call	/dodock/ressources/api/exemples/order_item 301!
@@ -349,6 +349,5 @@ https://clever-tulumba-189136.netlify.app/*	https://doc.dokos.io/:splat	301!
 /getting-started/docker-installation /dodock/administration/installation/docker 301!
 /getting-started /dodock/administration/installation/automatique 301!
 /en/getting-started /dodock/administration/installation/automatique 301!
-/developers /dodock 301!
 
 /fr/*	/:splat	301!
