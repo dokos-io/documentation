@@ -1,5 +1,6 @@
-// https://v3.nuxtjs.org/api/configuration/nuxt.config
+// https://nuxt.com/docs/getting-started/deployment#static-hosting
 export default defineNuxtConfig({
+  ssr: true,
   modules: [
     '@nuxt/content',
     'nuxt-link-checker',
@@ -11,14 +12,15 @@ export default defineNuxtConfig({
       preload: ['xml']
     },
     locales: ['fr'],
-    defaultLocale: 'fr'
+    defaultLocale: 'fr',
   },
   css: [
     '~/assets/style/main.css',
   ],
   nitro: {
+    preset: "netlify",
     prerender: {
-      crawlLinks: false,
+      crawlLinks: true,
       routes: [
         '/',
       ]
