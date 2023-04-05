@@ -1,20 +1,20 @@
 {
   "private": true,
   "scripts": {
-    "build": "nuxt build",
-    "dev": "nuxt dev",
-    "generate": "nuxt generate",
-    "preview": "nuxt preview"
+    "build": "nuxi build",
+    "dev": "nuxi dev",
+    "generate": "nuxi generate",
+    "preview": "nuxi preview"
   },
   "devDependencies": {
-    "@nuxt-themes/docus": "^1.9.9",
-    "nuxt": "^3.2.3",
+    "@nuxt-themes/docus": "^1.10.1",
+    "nuxt": "^3.3.3",
     "nuxt-link-checker": "^1.0.3"
   },
   "dependencies": {
     "@docsearch/css": "^3.3.3",
     "@docsearch/js": "^3.3.3",
-    "mermaid": "^10.0.2",
-    "swagger-ui-dist": "4.18.0"
+    "mermaid": "^10.1.0",
+    "swagger-ui-dist": "4.18.2"
   }
 }
