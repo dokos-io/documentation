@@ -17,6 +17,9 @@ export default defineNuxtConfig({
   css: [
     '~/assets/style/main.css',
   ],
+  routeRules: {
+    '/**': { static: true },
+  },
   nitro: {
     preset: "netlify",
     prerender: {
