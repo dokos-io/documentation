@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "build": "nuxi build",
+    "build": "nuxi generate",
     "dev": "nuxi dev",
     "generate": "nuxi generate",
     "preview": "nuxi preview"
