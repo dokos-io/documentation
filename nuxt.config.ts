@@ -17,9 +17,6 @@ export default defineNuxtConfig({
   css: [
     '~/assets/style/main.css',
   ],
-  routeRules: {
-    '/**': { static: true },
-  },
   nitro: {
     preset: "netlify",
     prerender: {
@@ -46,5 +43,28 @@ export default defineNuxtConfig({
         }
       }
     }
-  }
+  },
+  experimental: {
+    payloadExtraction: true,
+  },
+  vite: {
+    build: {
+      rollupOptions: {
+        output: {
+          manualChunks(id) {
+            const lid = id.toLowerCase();
+            if (lid.includes('prose')) {
+              return 'manualChunk_prose';
+            }
+            if (lid.includes('markdown')) {
+              return 'manualChunk_markdown';
+            }
+            // if (["mindmap", "diagram", "mermaid", "flow", "edges"].some((s) => lid.includes(s))) {
+            //   return 'manualChunk_mermaid';
+            // }
+          },
+        },
+      },
+    },
+  },
 })
