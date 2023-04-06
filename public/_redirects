@@ -84,14 +84,14 @@ https://clever-tulumba-189136.netlify.app/*	https://doc.dokos.io/:splat	301!
 /esignature	/integrations/esignature 301!
 /esignature/adobe-sign	/integrations/esignature/adobe-sign 301!
 /first-configuration	/dodock/fonctionnalites/utilisateurs 301!
-/getting-started/dokos-v3-migration	/dodock/administration/installation/migration-v3 301!
-/getting-started/domain-setup	/dodock/administration/installation/domaine 301!
+/getting-started/dokos-v3-migration	/dodock/administration/migration-v3 301!
+/getting-started/domain-setup	/dodock/administration/domaine 301!
 /getting-started/email-setup	/dodock/administration/operations/emails 301!
 /getting-started/email-setup	/dodock/administration/operations/emails 301!
-/getting-started/erpnext-migration	/dodock/administration/installation/certificat 301!
-/getting-started/Installation_rhel_8_9	/dodock/administration/installation/installation-rhel-8-9 301!
+/getting-started/erpnext-migration	/dodock/administration/certificat 301!
+/getting-started/Installation_rhel_8_9	/dodock/installation/installation-rhel-8-9 301!
 /getting-started/print-formats	/dodock/fonctionnalites/personnalisations/print_format 301!
-/getting-started/ssl-certificate	/dodock/administration/installation/certificat 301!
+/getting-started/ssl-certificate	/dodock/administration/certificat 301!
 /home	/dokos 301!
 /human-resources	/dokos/hrms/cycle-de-vie/employee 301!
 /human-resources/appointment-letter	/dokos/hrms/recrutement/promesse-embauche 301!
@@ -344,10 +344,12 @@ https://clever-tulumba-189136.netlify.app/*	https://doc.dokos.io/:splat	301!
 /website/web-page	/dodock/fonctionnalites/site-web/page-web 301!
 /website/website-settings	/dodock/fonctionnalites/site-web/parametres-site-web 301!
 /website/website-theme	/dodock/fonctionnalites/site-web/theme-site-web 301!
-/en/getting-started/easy-installation /dodock/administration/installation/standard 301!
-/getting-started/easy-installation /dodock/administration/installation/standard 301!
-/getting-started/docker-installation /dodock/administration/installation/docker 301!
-/getting-started /dodock/administration/installation/standard 301!
-/en/getting-started /dodock/administration/installation/standard 301!
+/en/getting-started/easy-installation /dodock/installation/manuelle 301!
+/getting-started/easy-installation /dodock/installation/manuelle 301!
+/getting-started/docker-installation /dodock/installation/docker 301!
+/getting-started /dodock/installation/manuelle 301!
+/en/getting-started /dodock/installation/manuelle 301!
+
+/dodock/administration/installation/*  /dodock/installation/:splat	301!
 
 /fr/*	/:splat	301!
