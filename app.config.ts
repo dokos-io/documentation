@@ -36,7 +36,7 @@ export default defineAppConfig({
         logo: true,
         fluid: true,
         showLinkIcon: true,
-        exclude: ['/integrations', '/federation-lieux', '/maia']
+        exclude: ['/federation-lieux', '/maia']
       },
       main: {
         padded: true,
