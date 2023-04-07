@@ -1,5 +1,6 @@
-// https://v3.nuxtjs.org/api/configuration/nuxt.config
+// https://nuxt.com/docs/getting-started/deployment#static-hosting
 export default defineNuxtConfig({
+  ssr: true,
   modules: [
     '@nuxt/content',
     'nuxt-link-checker',
@@ -11,14 +12,15 @@ export default defineNuxtConfig({
       preload: ['xml']
     },
     locales: ['fr'],
-    defaultLocale: 'fr'
+    defaultLocale: 'fr',
   },
   css: [
     '~/assets/style/main.css',
   ],
   nitro: {
+    preset: "netlify",
     prerender: {
-      crawlLinks: false,
+      crawlLinks: true,
       routes: [
         '/',
       ]
@@ -41,5 +43,28 @@ export default defineNuxtConfig({
         }
       }
     }
-  }
+  },
+  experimental: {
+    payloadExtraction: true,
+  },
+  vite: {
+    build: {
+      rollupOptions: {
+        output: {
+          manualChunks(id) {
+            const lid = id.toLowerCase();
+            if (lid.includes('prose')) {
+              return 'manualChunk_prose';
+            }
+            if (lid.includes('markdown')) {
+              return 'manualChunk_markdown';
+            }
+            // if (["mindmap", "diagram", "mermaid", "flow", "edges"].some((s) => lid.includes(s))) {
+            //   return 'manualChunk_mermaid';
+            // }
+          },
+        },
+      },
+    },
+  },
 })

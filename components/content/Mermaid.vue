@@ -1,26 +1,38 @@
 <template>
-    <pre class="mermaid" v-if="show">
-        <slot></slot>
-    </pre>
+  <pre ref="el" :style="{ display: rendered ? 'block' : 'none' }">
+    <slot />
+  </pre>
 </template>
 
 <script setup>
+const slot = useSlots()
+const el = ref(null)
+const rendered = ref(false)
 
-let show = ref(false);
+async function render() {
+  if (!el.value) {
+    return
+  }
+  if (el.value.querySelector('svg')) {
+    // Already rendered
+    return
+  }
 
-const { $mermaid } = useNuxtApp()
+  // Iterate children to remove comments
+  for (const child of el.value.childNodes) {
+    if (child.nodeType === Node.COMMENT_NODE) {
+      el.value.removeChild(child)
+    }
+  }
+  const { default: mermaid } = await import("mermaid")
+  el.value.classList.add('mermaid')
+  rendered.value = true
+  await mermaid.run({ nodes: [el.value] })
+}
 
-onMounted( async() => {
-  show.value = true
-
-  await nextTick()
-  $mermaid().initialize({startOnLoad: false })
-  $mermaid().run({
-    querySelector: '.mermaid',
-    suppressErrors: false,
-  });
+onMounted(() => {
+  render()
 })
-
 </script>
 
 <style>
