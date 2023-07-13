@@ -148,7 +148,6 @@ https://clever-tulumba-189136.netlify.app/*	https://doc.dokos.io/:splat	301!
 /dokos/integrations/google-contacts	/integrations/google-contacts 301!
 /dokos/integrations/google-drive	/integrations/google-drive 301!
 /dokos/integrations/google-settings	/integrations/google-settings 301!
-/integrations/hiboutik	/integrations/hiboutik 301!
 /dokos/integrations/incoming-webhook-url	/integrations/incoming-webhook-url 301!
 /dokos/integrations/mattermost	/integrations/mattermost 301!
 /integrations/paypal	/integrations/payments/paypal 301!
@@ -160,7 +159,6 @@ https://clever-tulumba-189136.netlify.app/*	https://doc.dokos.io/:splat	301!
 /dokos/integrations/webhook	/integrations/webhook 301!
 /integrations/woocommerce-bookings	/integrations/woocommerce/woocommerce-bookings 301!
 /dokos/integrations/zapier	/integrations/zapier 301!
-/integrations/zapier	/integrations/zapier 301!
 /introduction	/dokos/qualite 301!
 /manufacturing	/dokos/production 301!
 /manufacturing/bom	/dokos/production/nomenclature 301!
