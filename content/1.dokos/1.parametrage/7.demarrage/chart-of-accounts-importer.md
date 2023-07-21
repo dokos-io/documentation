@@ -20,7 +20,7 @@ Pour y accéder, allez sur :
 
 1. Sélectionnez la **société** pour laquelle vous souhaitez **importer** le **plan comptable**.
 
-![import_plan_comptable.png](/setup/chart-of-accounts-import/import_plan_comptable.png)
+![import_plan_comptable.png](/content/setup/chart-of-accounts-import/import_plan_comptable.png)
 
 2. Cliquez sur le bouton **Télécharger le modèle** pour télécharger le modèle. 
 3. Sélectionnez le **type de fichier** dans lequel vous souhaitez télécharger le modèle. 

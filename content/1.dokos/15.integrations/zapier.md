@@ -136,4 +136,4 @@ For the **Datetime** format, you can select the option "Use a Custom Value":
 #### Arrays
 
 The application doesn't yet autorize sending arrays in document objects.
-Please send us an email at [help@dokos.io](mailto=help@dokos.io) if this limitation causes you integration issues.
+Please send us an email at [help@dokos.io](mailto:help@dokos.io) if this limitation causes you integration issues.

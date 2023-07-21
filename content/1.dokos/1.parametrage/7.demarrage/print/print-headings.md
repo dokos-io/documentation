@@ -13,7 +13,7 @@ Pour accéder aux **en-têtes d'impression**, allez sur :
 
 > Accueil > Paramètres > **En-tête d'impression**
 
-![titre_d'impression.png](/setup/print/titre_d'impression.png)
+![titre_d'impression.png](/content/setup/print/titre_d'impression.png)
 
 ## 1. Comment créer un en-tête d'impression ?
 
@@ -21,7 +21,7 @@ Pour accéder aux **en-têtes d'impression**, allez sur :
 2. Entrez l'en-tête qui apparaîtra sur le document.
 3. **Enregistrer**.
 
-![créer_nouveau_titre.png](/setup/print/créer_nouveau_titre.png)
+![créer_nouveau_titre.png](/content/setup/print/créer_nouveau_titre.png)
 
 ## 1.1 Comment utiliser le modèle d'en-tête d'impression
 
@@ -30,4 +30,4 @@ Pour accéder aux **en-têtes d'impression**, allez sur :
 3. Sur le document, allez à la section **Paramètres d'impression**
 4. Titre d'impression : Choisir le modèle que vous venez de créer
 
-![choisir_titre_d'impression.png](/setup/print/choisir_titre_d'impression.png)
+![choisir_titre_d'impression.png](/content/setup/print/choisir_titre_d'impression.png)

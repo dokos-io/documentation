@@ -24,7 +24,7 @@ Aperçu avant impression de l'offre client dans la langue par défaut du client.
 
 L'utilisateur a la possibilité de sélectionner une autre langue sur la vue d'impression.
 
-![choix_langue_impression.png](/setup/custom-translations/choix_langue_impression.png)
+![choix_langue_impression.png](/content/setup/custom-translations/choix_langue_impression.png)
 
 
 ## 2. Traductions personnalisées
@@ -33,11 +33,11 @@ Les utilisateurs peuvent définir leurs traductions personnalisées à l'aide du
 
 > Accueil > Personnalisation > Autre > Traductions personnalisées > **:heavy_plus_sign: Ajouter traduction**
 
-![liste_traductions.png](/setup/custom-translations/liste_traductions.png)
+![liste_traductions.png](/content/setup/custom-translations/liste_traductions.png)
 
 La traduction est appliquée lorsque l'utilisateur sélectionne la langue en tant qu'espagnol dans l'aperçu avant impression du devis fournisseur. Notez qu'aucune traduction n'est appliquée pour la description du deuxième élément car il n'a pas été créé dans la liste Traduction.
 
-![traduction.png](/setup/custom-translations/traduction.png)
+![traduction.png](/content/setup/custom-translations/traduction.png)
 
 
 

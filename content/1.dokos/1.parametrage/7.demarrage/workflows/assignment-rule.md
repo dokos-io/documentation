@@ -22,7 +22,7 @@ Pour accéder à la **règle d'attribution**, allez sur :
 3. Écrivez la **description** qui sera ajoutée à la tâche.
 4. Sélectionnez la **condition de l'affectation**. Vous pouvez écrire des expressions Python simples pour l'affectation automatique dans les fichiers Assigner une règle, Fermer Règle et Règle de désassignation. Vous aurez accès à toutes les propriétés du document et pourrez utiliser des opérateurs comme>, <, ==, etc. ainsi que plusieurs conditions comme andet or.
 
-![créer_règle_d'attribution.png](/setup/workflows/créer_règle_d'attribution.png)
+![créer_règle_d'attribution.png](/content/setup/workflows/créer_règle_d'attribution.png)
 
 Exemples:
 
@@ -35,7 +35,7 @@ issue_type == "Technical" and priority=="High" and status == "Open"
 
 Sélectionnez la liste des utilisateurs auxquels cette règle d'attribution s'appliquera :
 
-![ajouter_utilisateur_-_règle_attribution.png](/setup/workflows/ajouter_utilisateur_-_règle_attribution.png)
+![ajouter_utilisateur_-_règle_attribution.png](/content/setup/workflows/ajouter_utilisateur_-_règle_attribution.png)
 
 
 Basé sur le champ : introduite dans la v13, cette règle peut être utilisée pour attribuer un document à l'utilisateur défini dans le champ configuré.

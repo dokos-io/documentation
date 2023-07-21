@@ -26,7 +26,7 @@ Pour configurer une notification :
 1. Indiquez le nom du document
 2. Sélectionnez le type de canal : Email, Outils collaboratifs (Slack, RocketChat..., notification système ou SMS)
 
-![nouvelle_notification.png](/settings/notifications/nouvelle_notification.png)
+![nouvelle_notification.png](/content/settings/notifications/nouvelle_notification.png)
 
 #### Filtres
 
@@ -41,20 +41,20 @@ Pour configurer une notification :
 	- **Méthode** : Envoie une notification lorsqu'une méthode spécifique est déclenchée. Par exemple : avant_insertion.
 	- **Personnalisé** : envoyer une notification à un compte de messagerie sélectionné.
 
-![fitres_notifications.png](/settings/notifications/fitres_notifications.png)
+![fitres_notifications.png](/content/settings/notifications/fitres_notifications.png)
 
 #### Conditions
 
 - Définissez des conditions supplémentaires si nécessaire.
 - Définissez les destinataires de cette alerte. Le destinataire peut être soit un champ du document, soit une liste d'adresses e-mail fixes.
 
-![conditions.png](/settings/notifications/conditions.png)
+![conditions.png](/content/settings/notifications/conditions.png)
 
 #### Message
 
 - Composez le message. Le message doit être écrit en HTML.
 
-![messages.png](/settings/notifications/messages.png)
+![messages.png](/content/settings/notifications/messages.png)
 
 Et enfin faites **Enregistrer**.
 
