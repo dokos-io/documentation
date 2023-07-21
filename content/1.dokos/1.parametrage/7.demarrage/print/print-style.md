@@ -15,7 +15,7 @@ Pour créer un **nouveau style d'impression**, allez sur :
 
 Accueil > Paramètres > **Style d'impression**
 
-![liste_style_d'impression.png](/setup/print/liste_style_d'impression.png)
+![liste_style_d'impression.png](/content/setup/print/liste_style_d'impression.png)
 
 ## 1. Comment créer un nouveau style d'impression 
 1. Allez dans la **liste Style d'impression**, cliquez sur **:heavy_plus_sign: Nouveau Style d'impression**.
@@ -23,7 +23,7 @@ Accueil > Paramètres > **Style d'impression**
 3. Entrez le **CSS** qui définira à quoi ressemblera le style.
 4. **Enregistrer**.
 
-![créeer_nouveau_style_impression.png](/setup/print/créeer_nouveau_style_impression.png)
+![créeer_nouveau_style_impression.png](/content/setup/print/créeer_nouveau_style_impression.png)
 
 Les styles que vous créez ici s'appliquent aux formats d'impression standard et personnalisés. Pour connaître les différentes classes CSS disponibles, vous pouvez créer un format d'impression standard, ouvrir dans une nouvelle page et voir la source.
 

@@ -13,7 +13,7 @@ En plus des autorisations d'utilisateur et de rôle, vous pouvez également part
 
 Pour partager un document, ouvrez le document, cliquez sur l'icône **:heavy_plus_sign:** sous **Partage avec** et sélectionnez l'utilisateur avec lequel vous souhaitez partager :
 
-![partager_un_doc.png](/setup/user-permissions/partager_un_doc.png)
+![partager_un_doc.png](/content/setup/user-permissions/partager_un_doc.png)
 
 Dans la fenêtre contextuelle, vous pouvez sélectionner tous les utilisateurs ou un utilisateur en particulier.
 

@@ -14,7 +14,7 @@ Pour accéder à l'**en-tête**, allez sur :
 
 > Accueil > Paramètres > **En-tête**
 
-![en-tête_document.png](/setup/print/en-tête_document.png)
+![en-tête_document.png](/content/setup/print/en-tête_document.png)
 
 ## 1. Comment créer un en-tête de lettre 
 1. Allez dans la liste des en-têtes, cliquez sur Nouveau.
@@ -25,7 +25,7 @@ Pour accéder à l'**en-tête**, allez sur :
 - **Image du logo** : cliquez sur le bouton Joindre pour joindre une image. Une fois l'image insérée, le code HTML correspondant sera généré automatiquement.
 - Autres informations (comme l'adresse, le numéro d'identification fiscale, etc.) que vous souhaitez mettre sur votre en-tête.
 
-![création_en-tête_image.png](/setup/print/création_en-tête_image.png)
+![création_en-tête_image.png](/content/setup/print/création_en-tête_image.png)
 
 Si vous souhaitez en faire l'en-tête par défaut, cliquez sur **En-tête par défaut**.
 
@@ -33,4 +33,4 @@ Si vous souhaitez en faire l'en-tête par défaut, cliquez sur **En-tête par d�
 
 Vous pouvez définir l'en-tête basé sur HTML pour y apporter des modifications :
 
-![création_en-tête_html.png](/setup/print/création_en-tête_html.png)
+![création_en-tête_html.png](/content/setup/print/création_en-tête_html.png)

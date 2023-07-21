@@ -22,4 +22,4 @@ Pour accéder à l'exportation de données, allez sur :
 5. Vous pouvez également **ajouter des filtres** pour sélectionner uniquement des données spécifiques, par exemple, Total général> = 1 000 pour les commandes client.
 6. Cliquez sur **Exporter** pour **télécharger le fichier**.
 
-![export_données.png](/setup/data-export/export_données.png)
+![export_données.png](/content/setup/data-export/export_données.png)

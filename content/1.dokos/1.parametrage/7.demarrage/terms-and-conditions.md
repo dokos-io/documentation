@@ -18,26 +18,26 @@ Pour accéder au modèle de **termes et conditions**, accédez à:
 **Ou**
 > Accueil > Vente > Paramètres > **Modèle de termes et conditions**
 
-![termes_et_conditions.png](/setup/terms-and-conditions/termes_et_conditions.png)
+![termes_et_conditions.png](/content/setup/terms-and-conditions/termes_et_conditions.png)
 
 ## 1. Comment créer un modèle de conditions générales 
 
 1. Accédez à la liste des modèles de conditions générales, cliquez sur **:heavy_plus_sign: Ajouter Termes et conditions**.
 2. Ajoutez les termes et conditions.
 
-![cgv_société.png](/setup/terms-and-conditions/cgv_société.png)
+![cgv_société.png](/content/setup/terms-and-conditions/cgv_société.png)
 
 ### 1.1 Sélectionner dans les transactions
 
 Dans les transactions, vous trouverez une section des termes et conditions dans laquelle vous pourrez rechercher et récupérer le champs des conditions générales requis.
 
-![récupérer_info_cgv.png](/setup/terms-and-conditions/récupérer_info_cgv.png)
+![récupérer_info_cgv.png](/content/setup/terms-and-conditions/récupérer_info_cgv.png)
 
 ### 1.2 Termes et conditions lors de l'impression
 
 Une fois les conditions générales définies dans une transaction de vente / achat, elles apparaîtront lors de l'impression :
 
-![impression_transaction.png](/setup/terms-and-conditions/impression_transaction.png)
+![impression_transaction.png](/content/setup/terms-and-conditions/impression_transaction.png)
 
 ### 1.3 Que doivent contenir les conditions générales ?
 

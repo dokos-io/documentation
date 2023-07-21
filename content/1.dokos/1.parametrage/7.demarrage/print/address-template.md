@@ -14,7 +14,7 @@ Pour accéder au **modèle d'adresse**, allez sur :
 
 > Accueil > Paramètres > **Modèle d'adresse**
 
-![modèle_adresse.png](/setup/print/modèle_adresse.png)
+![modèle_adresse.png](/content/setup/print/modèle_adresse.png)
 
 Un modèle d'adresse par défaut est créé lors de la configuration du système. Vous pouvez le modifier ou créer un nouveau modèle. Ce modèle par défaut s'appliquera à tous les pays n'ayant pas de modèle spécifique.
 
@@ -28,7 +28,7 @@ Le modèle d'adresse vérifie le champ **Pays** dans la base d'adresses pour app
 3. Modifiez le **CSS** et **Jinja** si nécessaire.
 4. **Enregistrer**.
 
-![créer_modèle_adresse.png](/setup/print/créer_modèle_adresse.png)
+![créer_modèle_adresse.png](/content/setup/print/créer_modèle_adresse.png)
 
 ### 1.1 Modèles de Jinja 
 Le moteur de création de modèles est basé sur HTML et le système de modèles Jinja . Tous les champs (y compris les champs personnalisés) seront disponibles pour la création du modèle.

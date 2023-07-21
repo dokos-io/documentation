@@ -20,7 +20,7 @@ Pour accéder à **la liste de flux de travail** et des **règles de transition*
 
 Une fois qu'un flux de travail est créé, vous pouvez effectuer des actions sur celui-ci via les actions de flux de travail.
 
-![liste_flux_de_travail.png](/setup/workflows/liste_flux_de_travail.png)
+![liste_flux_de_travail.png](/content/setup/workflows/liste_flux_de_travail.png)
 
 ## 1. Prérequis avant utilisation
 
@@ -36,7 +36,7 @@ Avant de créer un Flux de travail, il est conseillé de les créer d'abord:
 2. Entrez un **nom** pour le Flux de travail et sélectionnez le Document Type sur lequel appliquer.
 3. Entrez les différents états du Flux de travail. Entrez le statut du document pour eux, sélectionnez le champ à mettre à jour dans la colonne Champ de mise à jour, entrez la valeur à mettre à jour sous Mettre à jour la valeur.
 
-![créer_un_flux_de_travail.png](/setup/workflows/créer_un_flux_de_travail.png)
+![créer_un_flux_de_travail.png](/content/setup/workflows/créer_un_flux_de_travail.png)
 
 Les états du Flux de travail peuvent avoir des couleurs différentes selon l'état. Par exemple: vert pour le succès. 
 
@@ -48,7 +48,7 @@ Les différents États de document :
 
 Par exemple, un employé demande une demande de congé pour une période. Le document sera enregistré.
 
-![etat_flux_de_travail.png](/setup/workflows/etat_flux_de_travail.png)
+![etat_flux_de_travail.png](/content/setup/workflows/etat_flux_de_travail.png)
 
 Le champ que vous sélectionnez sous Champ de mise à jour sera mis à jour pour le type de document lorsque l'état change. La valeur de mise à jour est le texte qui apparaît sur le champ sélectionné dans le champ de mise à jour. Donc, ici, le champ d'état est mis à jour en Appliqué, Approuvé, etc.
 
@@ -56,7 +56,7 @@ Le champ que vous sélectionnez sous Champ de mise à jour sera mis à jour pour
 
 Indiquez les actions qu'un approbateur peut entreprendre sur la demande de congé. L'état suivant est l'état dans lequel se trouve le type de document lorsque l'action est appliquée. Donc, ici, l'état passe de Appliqué à Approuvé par HR lorsque l'action Approuver est exécutée sur celui-ci.
 
-![règle_de_transition_flux_de_travail.png](/setup/workflows/règle_de_transition_flux_de_travail.png)
+![règle_de_transition_flux_de_travail.png](/content/setup/workflows/règle_de_transition_flux_de_travail.png)
 
 5. Sous Champ d'état du flux de travail, entrez un nom pour le champ personnalisé qui sera ajouté au document type, quittez l'application dans ce cas.
 

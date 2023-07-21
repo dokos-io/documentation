@@ -38,7 +38,7 @@ Dans la table de tranches de salaires imposables, vous pouvez définir le taux p
 
 La tranche fiscale peut être applicable selon des conditions particulières. Les conditions peuvent être écrites en utilisant tous les noms de champ des documents Employé, Structure salariale, Affectation de la structure salariale et Fiche de salaire.
 
-![tranches_de_salaire_imposables.png](/dokos/hrms/paie/income-tax-slab/tranches_de_salaire_imposables.png)
+![tranches_de_salaire_imposables.png](/content/dokos/hrms/paie/income-tax-slab/tranches_de_salaire_imposables.png)
 
 
 Exemples:
