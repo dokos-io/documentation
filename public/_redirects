@@ -333,7 +333,8 @@ https://clever-tulumba-189136.netlify.app/*	https://doc.dokos.io/:splat	301!
 /website/organization-chart	/dokos/lieu/portails/trombinoscope 301!
 /website/portal	/dokos/e-commerce/portal-settings 301!
 /website/portal-settings	/dokos/e-commerce/portal-settings 301!
-/website/shopping-cart-settings	/dokos/e-commerce/shopping-cart-settings 301!
+/website/shopping-cart-settings	/dokos/e-commerce/parametres 301!
+/dokos/e-commerce/shopping-cart-settings	/dokos/e-commerce/parametres 301!
 /website/web-forms	/dodock/fonctionnalites/site-web/formulaire-web 301!
 /website/web-forms	/dodock/fonctionnalites/site-web/formulaire-web 301!
 /website/web-page	/dodock/fonctionnalites/site-web/page-web 301!
