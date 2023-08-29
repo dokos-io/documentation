@@ -1,5 +1,5 @@
 ---
-title: Contacts Google
+title: Google Contacts
 ---
 
 # Contacts Google

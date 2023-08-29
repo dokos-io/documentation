@@ -6,7 +6,7 @@ title: Slack
 
 Si vous souhaitez que vos notifications soient envoyées à un canal Slack dédié, vous pouvez également choisir l'option "**Slack**" dans les options du canal et sélectionner l'URL du Webhook Slack appropriée.
 
-## 1. Accès à Slack et configuration
+## Accès à Slack et configuration
 
 Pour générer des URL de webhook, vous devez créer une nouvelle application Slack :
 
@@ -41,7 +41,7 @@ Pour générer des URL de webhook, vous devez créer une nouvelle application Sl
 
 ![copier_url_webhook.png](/content/integrations/slack/copier_url_webhook.png)
 
-## 2. Configuration du Webhook entrant depuis Dokos
+## Configuration du Webhook entrant depuis Dokos
 
 Il faut maintenant créer le Webhook entrant permettant de dire au logiciel de lier Dokos avec Slack. 
 
@@ -59,7 +59,7 @@ Il faut maintenant créer le Webhook entrant permettant de dire au logiciel de l
 
 ![slack_intégration.png](/content/integrations/slack/slack_intégration.png)
 
-## 3. Configuration des notifications
+## Configuration des notifications
 
 Il faut créer une notification permettant de dire au logiciel à quelle action une information sera envoyée sur Slack.
 
@@ -78,9 +78,9 @@ Il faut créer une notification permettant de dire au logiciel à quelle action 
 
 ![détails_notification.png](/content/integrations/google-chat/détails_notification.png)
 
-## 4 Détails de notification
+## Détails de notification
 
-### 4.1 Filtres
+### Filtres
 
 Depuis cette section, gérez vos paramètres de **Filtres** :
 
@@ -100,7 +100,7 @@ Depuis cette section, gérez vos paramètres de **Filtres** :
 
 ![filtres_notification.png](/content/integrations/google-chat/filtres_notification.png)
 
-### 4.2 Modifier une propriété après la notification
+### Modifier une propriété après la notification
 
 Depuis cette section, gérez vos paramètres de **modification de propriété après la notification** :
 
@@ -108,7 +108,7 @@ Vous pouvez choisir de modifier une propriété après la notification puis il f
 
 ![modifier_une_propriété.png](/content/integrations/google-chat/modifier_une_propriété.png)
 
-### 4.3 Message
+### Message
 
 Depuis cette section, gérez vos messages qui seront envoyés sur **Slack** :
 
@@ -128,7 +128,7 @@ Voici un exemple de message :
 
 ![message_notification.png](/content/integrations/google-chat/message_notification.png)
 
-#### 5. Tester la notification
+### Tester la notification
 
 1. Vous pouvez simplement tester votre notification en cliquant sur le bouton en haut à droite **Tester cette notification**.
 

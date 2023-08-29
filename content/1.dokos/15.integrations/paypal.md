@@ -1,8 +1,10 @@
 ---
-title: Intégration avec Paypal
+title: PayPal
 ---
 
-# Configuration
+# Intégration avec PayPal
+
+## Configuration
 
 Afin de configurer une intégration avec Paypal, vous devez ajouter les éléments suivants:
 
@@ -12,6 +14,6 @@ Afin de configurer une intégration avec Paypal, vous devez ajouter les élémen
   Ces informations peuvent être obtenues en créant un compte sur `https://developer.paypal.com/` puis en créant une nouvelle application
 - Cochez `Utiliser la sandbox` s'il s'agit d'une application Paypal de test (Sandbox)
 
-# Usage
+## Usage
 
 - [Passerelles de paiement](/dokos/comptabilite/passerelles-paiements)

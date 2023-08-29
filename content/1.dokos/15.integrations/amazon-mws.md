@@ -1,5 +1,5 @@
 ---
-title: Paramètres Amazon MWS
+title: Amazon MWS
 ---
 
 # Paramètres Amazon MWS

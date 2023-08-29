@@ -1,5 +1,5 @@
 ---
-title: Paramètres Shopify
+title: Shopify
 ---
 
 # Paramètres Shopfify
