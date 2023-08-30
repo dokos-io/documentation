@@ -7,15 +7,15 @@
     "preview": "nuxi preview"
   },
   "devDependencies": {
-    "@nuxt-themes/docus": "^1.10.1",
-    "nuxt": "^3.3.3",
-    "nuxt-link-checker": "^1.0.3"
+    "@nuxt-themes/docus": "^1.14.6",
+    "nuxt": "^3.7.0",
+    "nuxt-link-checker": "^2.1.5"
   },
   "dependencies": {
-    "@docsearch/css": "^3.3.3",
-    "@docsearch/js": "^3.3.3",
-    "mermaid": "^10.1.0",
-    "swagger-ui-dist": "4.18.2"
+    "@docsearch/css": "^3.5.2",
+    "@docsearch/js": "^3.5.2",
+    "mermaid": "^10.4.0",
+    "swagger-ui-dist": "5.4.2"
   },
   "homepage": "/"
 }
