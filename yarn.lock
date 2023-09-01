@@ -1125,7 +1125,7 @@
     pinceau "^0.18.8"
     ufo "^1.1.1"
 
-"@nuxt/content@^2.7.2":
+"@nuxt/content@^2.7.2", "@nuxt/content@^2.8.0":
   version "2.8.1"
   resolved "https://registry.yarnpkg.com/@nuxt/content/-/content-2.8.1.tgz#28009ecb80c0adb66bf21bdfeaebbc1c805a1443"
   integrity sha512-uFhZXuP/5MVkK8rhj/1QPQKasW1ThyjE9JfLwTF0QEH/KJWgDg1FssKhGY7aCidR3ycUI+V3zHd407uSrdoCFw==
