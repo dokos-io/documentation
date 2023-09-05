@@ -1,139 +1,153 @@
 ---
-title: Zapier Integration
+title: Zapier
+description: 
+published: true
+date: 2021-01-05T09:23:03.491Z
+tags: 
+editor: markdown
+dateCreated: 2020-11-26T16:34:52.934Z
 ---
 
-# Zapier application
+# Application Zapier
 
-Zapier is an online platform helping non technical users connecting multiple applications together.
-
-## Install the Zapier application
-
-### Fetch the redirection URI
-
-> Go to zapier.com and login or create a new account
-
-1. In the `My Apps` section, click in `Connect a new account` and search for `dokos`  
-![zapier_new_connection.png](/content/integrations/zapier/zapier_new_connection.png)
-
-1. In the popup, copy the redirection address (Redirect URI) displayed above the Client ID and Client Secret fields.
-   It is the same address, so you can copy it only once.  
-![zapier_auth.png](/content/integrations/zapier/zapier_auth.png)
-
-1. Keep the popup open to finish the connexion after step 1.2.
-
-### Register a new connexion on dokos
-
-> Open dokos and go o module `Integrations`
-
-1. Create a new `OAuth Client` document, give a name to the client application (E.g. Zapier) and paste the redirection URI copied earlier in fields `Redirection URIs` and `Default redirection URI`.  
-
-![dokos_oauth.png](/content/integrations/zapier/dokos_oauth.png)
-
-1. Save and dokos will automatically generate the two missing informations to finish your connection to Zapier: The Client ID and Client Secret.
-Copy these two keys.  
-
-![dokos_client_keys.png](/content/integrations/zapier/dokos_client_keys.png)
-
-### Setup social login keys
-
-> To allow OAuth2 integrations types, at least one Frappe social login key is required.
-
-1. Go to `Integrations > Social Login Key`
-1. Create a new social login key
-1. In the field **Social Login Provider**, select `Frappe`
-1. In the field **Base URL** register the base URL of your site without any subdomain.
-  E.g. If your URL is `https://demo.dokos.io`, register `https://dokos.io`  
-
-![frappe_social_login.png](/content/integrations/zapier/frappe_social_login.png)  
-
-5. Save
-
-### Finish Zapier authentication
-
-> Go back to Zapier and open the window from section 1.1. again.
-
-- **Base URL**: Register the Base URL of your dokos site. E.g. `https://demo.dokos.io`
-- **Client ID**: Paste the corresponding key generated at step 1.2.
-- **Client Secret**: Paste the corresponding key generated at step 1.2.
-
-1. Click on `Yes, Continue`
-1. You will be redirected to your dokos site to validate the authentication. Click on `Allow`
-
-:tada: Your Zapier application is now connected to your dokos site.  
-You can create your first Zap.
-
-### Create a Zap
-
-The **dokos** Zapier application allows the creation of two types of interactions:
-
-- Triggering a Zap based on an event affecting a document
-- Searching or creating an document
-
-### Generating a Zap
-
-To generate a new Zap, select the **dokos** application in the Zap editor. 
-
-1. In the **Choose Trigger Event** field, select **Document events**.
-1. Select an account to use. It will probably be the account created at step 1.
-1. In the **Customize Document** section, select:
-    - The **DocType** (document type) used to trigger a Zap
-    - The event (**Trigger Event**) triggering this Zap.
-    This event can be one of the following:
-        - **After insert**: After the creation of a document
-        - **On change**: After the modification of a document (can be triggered simultaneously with `On update` or `On submit`)
-        - **On update**: After saving the document
-        - **On submit**: After the submission of the document
-        - **On update after submit**: After saving an already submitted document. Possible only if some fields are allowed to be edited after submission.
-        - **On cancel**: After cancellation of the document
-        - **On trash**: After deletion of the document
-    - The fields to send to Zapier (**Webhook Data**)
-      Click on the + button to add an additional field
-
-::alert{type=info}
-The Zapier integration creates new Webhooks in dokos.  
-You can find them in `Integrations > Webhooks`.
-::
+Zapier est une plateforme permettant à des personnes sans connaissances techniques de connecter différentes applications entre elles.
 
 
-You can then save and create you action with another Zapier application or with the dokos application.
+> Cette application est en version beta sur invitation en cliquant sur ce [lien](https://zapier.com/developer/public-invite/33806/ce6c67ecce01c7125330cee32bd60910/).
+> Pour les utilisateurs d'ERPNext, cette application est également compatible avec la version 12.x.x.
+{.is-warning}
 
-### Triggering an action on dokos
 
-There are two types of actions available on dokos: **Create Document** or **Find Document**
+## Installer l'application Zapier
 
-#### Create a document
+### Récupérer l'URI de redirection
 
-Once you have selected the type of document to create, choose some values for the mandatory fields and test you Zap.
-A new document should be created on your dokos site.
+> Allez sur zapier.com et connectez-vous ou créez-vous un compte
 
-#### Find a document
+1. Dans la section `My Apps` cliquez dans `Connect a new account` et cherchez `dokos`  
+![zapier_new_connection.png](/integrations/zapier/zapier_new_connection.png)
 
-If you want to find a document, you can define 3 parameters:
-    1. The maximum number of documents to fetch
-    2. The name of the fields to fetch
-    3. A filter to find your documents
-       If you want to find a specific document, think about filtering per ID (Name in dokos).
+1. Dans la fenêtre qui s'ouvre, copiez l'adresse de redirection (Redirect URI) affichée au dessus des champs Client ID et Client Secret.
+   Il s'agit de la même adresse, donc vous pouvez n'en copier qu'une seule.  
+![zapier_auth.png](/integrations/zapier/zapier_auth.png)
 
-By checking `Create dokos Document if it doesn't exist yet?` you autorize Zapier to create a new document if it doesn't find the document matching your filters.
+1. Gardez cette fenête ouverte pour terminer la connexion après l'étape 1.2.
 
-Once your document found or created, you can go to the next step and reuse it in another Zap.
+### Enregistrer une nouvelle connection sur dokos
 
-### Data format
+> Ouvrez dokos et allez dans le module `Intégrations`
+
+1. Créez un nouveau document `Client OAuth`, donnez un nom à l'application cliente (Ex. Zapier) et collez l'URI de redirection copiée plus haut dans les champs `URIs de redirection` et `URI de redirection par défaut`.  
+
+![dokos_oauth.png](/integrations/zapier/dokos_oauth.png)
+
+1. Enregistrez et dokos va générer automatiquement les deux informations manquantes pour terminer notre connexion à Zapier: L'ID client et le secret client.  
+Copiez ces deux clés.  
+
+![dokos_client_keys.png](/integrations/zapier/dokos_client_keys.png)
+
+### Configurer les connexions sociales
+
+> Pour permettre les intégrations de type OAuth2, il faut avoir au moins une clé de connexion sociale Dodock.
+
+1. Allez dans `Intégrations > Clé de connexion sociale`
+1. Créez une nouvelle clé de connexion de sociale
+1. Dans le champ **Fournisseur de connexion sociale** sélectionnez `Dodock`
+1. Dans le champ **URL de base** entrez l'URL de base de votre site sans les éventuels sous-domaines.
+   Ex: Si votre URL est `https://demo.dokos.io`, entrez `https://dokos.io`  
+
+![frappe_social_login.png](/integrations/zapier/frappe_social_login.png)
+
+1. Enregistrez
+
+### Terminer l'authentification de Zapier
+
+> Retournez sur Zapier et ouvrez à nouveau la fenêtre de la section 1.1.  
+
+- **Base URL**: Entrez l'URL de base de votre site dokos. Ex. `https://demo.dokos.io`
+- **Client ID**: Collez la clé générée à l'étape 1.2. correspondante
+- **Client Secret**: Collez la clé générée à l'étape 1.2. correspondante
+
+1. Cliquez sur `Yes, Continue`
+1. Vous allez être redirigé sur votre site dokos pour valider l'authentification. Cliquez sur `Autoriser`
+
+:tada: Votre application Zapier est désormais connectée à votre site dokos.  
+Vous pouvez créer votre premier Zap. 
+
+### Créer un Zap
+
+L'application Zapier **dokos** permet de créer deux types d'interactions:
+
+- La génération d'un Zap en fonction d'un événement affectant un document
+- La recherche ou la création d'un document
+
+
+### Génération d'un Zap
+
+Pour générer un nouveau Zap, séléctionnez l'application **dokos** dans l'éditeur de Zap.
+
+1. Dans le champ **Choose Trigger Event** sélectionnez **Document events**.
+1. Sélectionnez le compte à utiliser. Il s'agit probablement du compte créé à l'étape 1.
+1. Dans la section **Customize Document**, sélectionnez:
+    - Le **DocType** (Type de document) utilisé pour déclencher un Zap
+    - L'événement (**Trigger Event**) qui déclenchera ce Zap.
+    Cet évément peut être l'un des suivants:
+        - **After insert**: Après la création d'un document
+        - **On change**: Après la modification du document (peut être déclenché en même temps que `On update` ou `On submit`)
+        - **On update**: Après l'enregistrement du document
+        - **On submit**: Après la validation du document
+        - **On update after submit**: Après enregistrement d'un document déjà soumis. Possible seulement si certains champs sont éditables après validation.
+        - **On cancel**: Après l'annulation du document
+        - **On trash**: Après suppression du document
+    - Les champs à envoyer à Zapier (**Webhook Data**)
+      Cliquez sur le bouton + pour ajouter un champ supplémentaire
+
+> L'intégration avec Zapier crée des nouveaux Webhooks dans dokos.  
+> Vous pouvez les retrouver en allant dans `Intégrations > Webhooks`.
+{.is-info}
+
+
+Vous pouvez ensuite enregistrer et créer votre action avec une autre application Zapier ou avec l'application dokos si vous le souhaitez.
+
+### Déclenchement d'une action sur dokos
+
+Il existe deux types d'actions disponibles sur dokos: **Créer un document** (Create Document) ou **Rechercher un document** (Find Document)
+
+#### Création de document
+
+Un fois que vous avez sélectionné le type de document à créer, choisissez des valeurs pour les champs obligatoires et testez votre Zap.
+Un nouveau document devrait être créé sur votre site dokos.
+
+#### Recherche de document
+
+Si vous sélectionnez la recherche de documents, vous pouvez définir 3 paramètres:
+    1. Le nombre de document maximum à récupérer
+    2. Le nom des champs à récupérer
+    3. Un filtre pour trouver votre/vos documents
+       Si vous cherchez un document en particulier, pensez à filtrer par identifiant (Nom dans dokos).
+
+
+En cochant la case `Create dokos Document if it doesn't exist yet?` vous autorisez Zapier à créer un nouveau document s'il ne trouve pas de document correspondant à vos filtres.
+
+Une fois votre document trouvé ou créé, vous pouvez passer à l'étape suivante et le réutiliser dans un autre Zap.
+
+### Formats des données
 
 #### Dates
-When you send a field of type **Date** or **Datetime**, you need to use the following formats:
+Lorsque vous envoyez un champ de type **Date** ou **Date/Heure**(Datetime), vous devez utiliser les formats suivants:
 
 - **Date**: `YYYY-MM-DD`
-  E.g. 2019-11-30
-- **Datetime**: `YYYY-MM-DD HH:mm:ss`
-  E.g. 2019-11-30 08:30:00
+  Ex: 2019-11-30
+- **Date/Heure**: `YYYY-MM-DD HH:mm:ss`
+  Ex: 2019-11-30 08:30:00
 
-You can use the [Zapier Formatter](https://zapier.com/help/create/format/modify-date-formats-in-zaps) tool if needed.
-For the **Datetime** format, you can select the option "Use a Custom Value":  
+Vous pouvez utiliser les outils [Zapier Formatter](https://zapier.com/help/create/format/modify-date-formats-in-zaps) pour cela si besoin.
+Pour le format **Date/Heure**, vous pouvez sélectionner l'option "Use a Custom Value":  
 
-![zapier_datetime.png](/content/integrations/zapier/zapier_datetime.png)
+![zapier_datetime.png](/integrations/zapier/zapier_datetime.png)  
 
-#### Arrays
+#### Listes
 
-The application doesn't yet autorize sending arrays in document objects.
-Please send us an email at [help@dokos.io](mailto:help@dokos.io) if this limitation causes you integration issues.
+L'application n'autorise pas encore l'envoi de listes dans les objects composant les documents.
+Veuillez envoyer un mail à [help@dokos.io](mailto=help@dokos.io) si cette limitation vous pose des problèmes d'intégrations.
+

@@ -1,5 +1,5 @@
 ---
-title: Paramètres Dropbox
+title: Dropbox
 ---
 
 # Paramètres Dropbox

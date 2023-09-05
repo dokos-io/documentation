@@ -1,5 +1,5 @@
 ---
-title: Intégration Google
+title: Google
 ---
 
 ## Paramètres Google

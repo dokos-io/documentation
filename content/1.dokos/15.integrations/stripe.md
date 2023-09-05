@@ -1,10 +1,12 @@
 ---
-title: Intégration Stripe
+title: Stripe
 ---
+
+# Intégration Stripe
 
 L'intégration avec [Stripe](https://stripe.com/fr) permet de proposer des paiements par carte bancaire sur votre site Dokos.
 
-# Configuration
+## Configuration
 
 Afin de configurer une intégration avec Stripe, vous devez ajouter les éléments suivants:
 
@@ -17,7 +19,7 @@ Afin de configurer une intégration avec Stripe, vous devez ajouter les élémen
 - Ajoutez une URL de redirection si différente de l'URL de redirection standard.
   Après un paiement réussi, l'utilisateur est redirigé vers une page de `Succès de paiement` (`/integrations/payment-success`) contenant un bouton `continuer`. Vous pouvez définir le lien de redirection de ce bouton dans ce champ.
 
-# Webhooks
+## Webhooks
 
 Il est aussi possible de recevoir des webhooks de Stripe pour générer des actions de facturation automatiquement.
 Afin d'activer les webhooks, allez dans votre tableau de bord Stripe, sélectionnez `Webhooks` dans la section `Développeur` et ajoutez un nouveau `endpoint` avec l'URL suivante:
@@ -37,7 +39,7 @@ Vous pouvez également créer les webhooks depuis Dokos en cliquant sur le bouto
 ::
 
 
-# Passerelles de paiement
+## Passerelles de paiement
 
 Une fois votre compte Stripe créé, allez dans les passerelles de paiement générées et complétez les informations présentées dans la page dédiées aux [passerelles de paiement](/dokos/comptabilite/passerelles-paiements).
 Si vous devez autoriser des paiements dans d'autres devises que la devise de votre société, ajoutez des comptes de passerelle de paiement additionnels.

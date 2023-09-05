@@ -1,5 +1,5 @@
 ---
-title: Paramètres de sauvegarde S3
+title: Amazon S3
 ---
 
 # Paramètres de sauvegarde S3 - Amazon S3
