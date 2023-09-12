@@ -39,6 +39,7 @@ css({
       flex: 1,
       display: 'flex',
       alignItems: 'center',
+      justifyContent: 'flex-end',
       gap: '{space.2}'
     }
   }
