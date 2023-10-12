@@ -25,9 +25,9 @@ const props = defineProps({
           :current-page-id="currentPageId"
       />
       <ApplicationBarLink
-          title="Maia"
+          title="ToobibPro"
           icon="healthicons:doctor-female-outline"
-          href="/maia"
+          href="/toobibpro"
           :current-page-id="currentPageId"
       />
     </div>

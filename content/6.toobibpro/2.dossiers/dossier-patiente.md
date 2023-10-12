@@ -18,13 +18,13 @@ Entrez le prénom et le nom de famille de votre patient·e, puis "enregistrez".
 Il ne vous reste plus qu'à compléter votre anamnèse!
 
 
-:::alert
+::alert
 *L’anamnèse a pour objectif d’être étoffée tout au long de la vie de la patiente. Vous pourrez la compléter au fil des années.*
 
 *Il en est de même pour tous les dossiers (grossesse, rééducation, gynécologie…).*
 
 *Si lors de votre consultation, vous avez uniquement le temps de compléter votre recueil de données, n’oubliez pas de codifier une consultation!*
-:::
+::
 
 
 ## Gérer les adresses
@@ -51,14 +51,14 @@ Si la référence n'est pas enregistrée automatiquement, pensez à l'ajouter po
 
 
 
-::: warning Attention
+::alert
 **Après l’enregistrement, si la redirection n’est pas automatique cliquez simplement sur la flèche retour (arrière) de votre navigateur pour revenir à votre dossier patient.**
-:::
+::
 
 
-::: warning Attention
+::alert
 **L'Email et le Numéro de Mobile apparaissant au dessus des adresses seront utilisés pour les relances par mail/sms avant la consultation.**
-:::
+::
 
 
 ## Gérer les informations de relance automatique
