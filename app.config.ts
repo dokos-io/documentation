@@ -36,7 +36,7 @@ export default defineAppConfig({
         logo: true,
         fluid: true,
         showLinkIcon: true,
-        exclude: ['/federation-lieux', '/maia']
+        exclude: ['/federation-lieux', '/toobibpro']
       },
       main: {
         padded: true,
