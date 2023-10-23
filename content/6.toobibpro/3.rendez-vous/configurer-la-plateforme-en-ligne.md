@@ -1,6 +1,6 @@
 # Configurer la plateforme de prise de rendez-vous en ligne
 
-Maia vous permet d'avoir votre propre plateforme de rendez-vous en ligne.
+ToobibPro vous permet d'avoir votre propre plateforme de rendez-vous en ligne.
 
 
 ### En quoi ça consiste ?
@@ -16,7 +16,7 @@ Une fois que votre patiente a pris rendez-vous, elle reçoit automatiquement un 
 
 ### Comment ça marche ?
 
-La première étape nécessite de configurer correctement Maia.
+La première étape nécessite de configurer correctement ToobibPro.
 
 1. Configuration de la "Fiche d'Informations Professionnelles"
 
@@ -36,7 +36,7 @@ Vous pouvez créer autant de "Type de Rendez-Vous" que vous le souhaitez et ne p
 
 Chaque "Type de Rendez-Vous" dispose des options suivantes:
 
-- **Durée:** A définir en minutes. La durée permet à Maia de calculer l'horaire de fin de la consultation et les différents créneaux disponibles.
+- **Durée:** A définir en minutes. La durée permet à ToobibPro de calculer l'horaire de fin de la consultation et les différents créneaux disponibles.
 - **Couleur:** Vous permet de différencier les différents types de rendez-vous dans votre calendrier.
 - **Envoyer un SMS de rappel:** En cochant cette option, un SMS de rappel sera envoyé automatiquement la veille à votre patiente si elle a un numéro de téléphone mobile valide (Celui-ci est défini dans le "Dossier Patient·e").
 Si vous notez vos rendez-vous vous-même, vous pouvez décocher cette option dans la fiche du rendez-vous avant de valider.

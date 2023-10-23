@@ -1,7 +1,7 @@
 
 # Prendre un rendez-vous
 
-Maia dispose d'un module de prise de rendez-vous vous permettant de créer vos propres rendez-vous ou de laisser vos patientes prendre rendez-vous en ligne sur votre plateforme.
+ToobibPro dispose d'un module de prise de rendez-vous vous permettant de créer vos propres rendez-vous ou de laisser vos patientes prendre rendez-vous en ligne sur votre plateforme.
 
 
 #### Créer un rendez-vous
@@ -26,7 +26,7 @@ Maia dispose d'un module de prise de rendez-vous vous permettant de créer vos p
 :::
 
 
-Si vous le souhaitez, Maia peut vous proposer l'ensemble des créneaux disponibles le jour que vous avez sélectionné.
+Si vous le souhaitez, ToobibPro peut vous proposer l'ensemble des créneaux disponibles le jour que vous avez sélectionné.
 
 1. Cliquez sur "**Disponibilités**" pour voir les suggestions.
 2. Si l'une d'entre elles vous convient, cliquez sur "**Réserver**".  

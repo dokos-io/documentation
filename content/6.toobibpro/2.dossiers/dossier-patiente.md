@@ -4,7 +4,7 @@
 
 Sélectionnez le module "Dossiers médicaux":
 
-![Onglet Maia](/content/maia/first_steps/new_patient_folder/maia_desk.png)
+![Onglet ToobibPro](/content/maia/first_steps/new_patient_folder/maia_desk.png)
 
 Puis allez dans "Dossier patient·e":
 

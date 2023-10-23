@@ -14,7 +14,7 @@ Vérifiez que vous avez bien l'adresse email de votre patiente, sinon entrez là
 
 Ensuite, choisissez un utilisateur existant, si la patiente s'est déjà inscrite toute seule, sinon cliquez sur "Inviter sur votre site web".
 
-Maia vous demande confirmation puis crée un nouvel utilisateur ayant accès uniquement à votre site web.
+ToobibPro vous demande confirmation puis crée un nouvel utilisateur ayant accès uniquement à votre site web.
 
 La patiente reçoit ensuite un email lui demandant de configurer un mot de passe; Elle peut ensuite se connecter quand elle le souhaite pour prendre ses rendez-vous.
 
@@ -32,7 +32,7 @@ Elle recevra ensuite un email pour saisir son mot de passe et pourra se connecte
 Par défaut cette option n'est pas activée.
 Pour l'activer, allez dans le module "Site Web" > "Paramètres du Site web" > "Désactiver Inscription" > "Désactiver Inscription"  
 
-![Donner accès à Maia](/content/maia/appointments/appointment_access2.png)
+![Donner accès à ToobibPro](/content/maia/appointments/appointment_access2.png)
 
 
 
@@ -42,10 +42,10 @@ Pour l'activer, allez dans le module "Site Web" > "Paramètres du Site web" > "D
 
 Pour consulter votre liste d'utilisateur/utilisatrices, rendez-vous dans le module "Utilisateurs et Autorisations" > "Utilisateur".
 
-Vous y trouverez tous les utilisateurs de Maia.
+Vous y trouverez tous les utilisateurs de ToobibPro.
 
-Vos patientes doivent avoir le statut "Utilisateur du Site Web", car les "Utilisateurs Système" ont accès à Maia.
-Si vous avez des questions concernant les rôles disponibles dans Maia, n'hésitez pas à nous contacter.
+Vos patientes doivent avoir le statut "Utilisateur du Site Web", car les "Utilisateurs Système" ont accès à ToobibPro.
+Si vous avez des questions concernant les rôles disponibles dans ToobibPro, n'hésitez pas à nous contacter.
 
 Si vous ne souhaitez plus qu'une patiente accède à votre plateforme, cochez simplement la case "Utilisateur désactivé" dans son dossier patient·e.
 

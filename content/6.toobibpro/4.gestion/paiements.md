@@ -48,10 +48,10 @@ Si vous ne faites payer votre patiente qu'au bout de plusieurs séances, vous po
 3. Sélectionnez comme type de tiers: "Dossier patient·e" et comme tiers le dossier de votre patient·e
 4. Ajoutez le montant payé par la patiente
 
-Maia va alors récupérer toutes les recettes impayées et va leur allouer le montant payé.  
+ToobibPro va alors récupérer toutes les recettes impayées et va leur allouer le montant payé.  
 ![Allocation de paiement](/content/maia/first_steps/new_payment/payment3.png)
 
-Si la patiente n'a pas payé la totalité des séances, Maia enregistrera un paiement partiel pour cette recette et vous pourrez enregistrer le solde une autre fois:
+Si la patiente n'a pas payé la totalité des séances, ToobibPro enregistrera un paiement partiel pour cette recette et vous pourrez enregistrer le solde une autre fois:
 
 **Lors du paiement global**  
 ![Allocation de paiement](/content/maia/first_steps/new_payment/payment5.png)
@@ -59,12 +59,12 @@ Si la patiente n'a pas payé la totalité des séances, Maia enregistrera un pai
 **Lors d'un autre paiement**  
 ![Allocation de paiement](/content/maia/first_steps/new_payment/payment6.png)
 
-Vous pouvez bien entendu modifier manuellement les allocations proposées par Maia.
+Vous pouvez bien entendu modifier manuellement les allocations proposées par ToobibPro.
 
 
 :::alert
 Si votre patiente vous paie des séances en avance, enregistrez bien le montant payé dans un paiement.
-Maia mettra ce montant en attente et vous pourrez le déduire d'un prochain paiement.
+ToobibPro mettra ce montant en attente et vous pourrez le déduire d'un prochain paiement.
 Ce montant sera également soustrait au total des impayés de la patiente dans son dossier patient.
 :::
 

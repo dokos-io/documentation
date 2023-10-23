@@ -1,6 +1,6 @@
 # Créer son site web
 
-Maia vous permet de créer un site web personnalisé en quelques minutes.
+ToobibPro vous permet de créer un site web personnalisé en quelques minutes.
 Vous pouvez soit utiliser un nos modèles pré-configurés ou bien vous créer un site entièrement personnalisé en utilisant les outils mis à votre disposition dans le module "Site Web".
 
 
@@ -55,7 +55,7 @@ Vous pouvez vous réferer à la [documentation](https://support.google.com/analy
 
 ##### Créer une page de contact
 
-Maia vous permet de créer facilement une page permettant à vos patientes de vous envoyer directement des messages.
+ToobibPro vous permet de créer facilement une page permettant à vos patientes de vous envoyer directement des messages.
 
 Afin de paramètrer celle-ci, allez dans "Paramètres du Formulaire de Contact".
 

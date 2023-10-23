@@ -6,7 +6,7 @@ Cependant, le type de champ "Données" est trop petit, vous souhaitez avoir plus
 
 #### Les Types de champs
 
-Tous les champs dans Maia ont un type bien particulier.
+Tous les champs dans ToobibPro ont un type bien particulier.
 Celui-ci défini la forme et le contenu du champ:  
 
 ![Personnalisation de Dossiers](/content/maia/customization/customization4.png)

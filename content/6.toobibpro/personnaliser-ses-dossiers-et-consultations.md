@@ -1,7 +1,7 @@
 # Personnaliser ses dossiers et fiches de consultation
 
-Maia dispose de dossiers complétés au fil du temps par les sages-femmes de l'équipe Maia et grâce au retour des utilisateurs/utilisatrices du logiciel, mais vous pouvez tout à fait vouloir y apporter des changements.
-Ça tombe bien, Maia vous permet de personnaliser tous vos documents.
+ToobibPro dispose de dossiers complétés au fil du temps par les sages-femmes de l'association Toobib et grâce au retour des utilisateurs/utilisatrices du logiciel, mais vous pouvez tout à fait vouloir y apporter des changements.
+Ça tombe bien, ToobibPro vous permet de personnaliser tous vos documents.
 
 
 ##### Exemple

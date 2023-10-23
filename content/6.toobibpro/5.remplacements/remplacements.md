@@ -1,7 +1,7 @@
 # Remplacements
 
 Lorsque vous faites prenez un·e remplaçant·e, il est parfois compliqué de calculer les rétrocessions d'honoraires.
-Le rapport de remplacement disponible dans Maia fait le calcul tout seul pour vous !
+Le rapport de remplacement disponible dans ToobibPro fait le calcul tout seul pour vous !
 
 
 ### Comment ça fonctionne ?
@@ -19,7 +19,7 @@ Les recettes et les paiements créés par le·la remplaçant·e sont alors enreg
 
 ### Calcul des rétrocessions
 
-Maia calcule les rétrocessions dues à la sage-femme remplacée grâce au rapport de remplacement.
+ToobibPro calcule les rétrocessions dues à la sage-femme remplacée grâce au rapport de remplacement.
 Celui est disponible dans le module "Dossiers médicaux".
 
 ### Prise de rendez-vous en ligne
@@ -27,4 +27,4 @@ Celui est disponible dans le module "Dossiers médicaux".
 Vous pouvez autoriser la prise de rendez-vous en ligne pour votre remplaçante en activant l'option "Autoriser les réservations en ligne" dans sa fiche d'information professionnelle.
 Pensez également à mettre à jour son calendrier de disponibilités.
 
-Maia n'ouvrira la prise de rendez-vous pour votre remplaçante que pendant sa période de remplacement et bloquera la votre pendant cette même période.
+ToobibPro n'ouvrira la prise de rendez-vous pour votre remplaçante que pendant sa période de remplacement et bloquera la votre pendant cette même période.

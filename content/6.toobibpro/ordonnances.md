@@ -1,6 +1,6 @@
 # Les ordonnances
 
-Maia vous propose plusieurs options pour créer des ordonnances.
+ToobibPro vous propose plusieurs options pour créer des ordonnances.
 
 ## Créer une ordonnance directement depuis une fiche de consultation.
 
@@ -35,7 +35,7 @@ Les ordonnances libres fonctionnent de la même façon que les ordonnances prove
 Créez des lignes avec les éléments à prescrire dans les différents tableaux, puis sélectionnez le type d'ordonnance à imprimer.
 
 
-Cette fois vous arriverez dans le module d'impression classique de Maia.
+Cette fois vous arriverez dans le module d'impression classique de ToobibPro.
 
 Vous pouvez changer le type d'ordonnance à imprimer depuis ce module en sélectionnant le type souhaité en haut à gauche:
 

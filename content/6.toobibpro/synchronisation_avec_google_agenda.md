@@ -1,14 +1,14 @@
 # Synchronisation avec Google Agenda
 
-Maia permet de synchronisez vos rendez-vous avec Google Agenda.
-Vous pouvez voir tous vos rendez-vous enregistrés dans Maia, les modifier ou en créer de nouveaux depuis votre agenda Google.
+ToobibPro permet de synchronisez vos rendez-vous avec Google Agenda.
+Vous pouvez voir tous vos rendez-vous enregistrés dans ToobibPro, les modifier ou en créer de nouveaux depuis votre agenda Google.
 
-## Lier Maia et Google Agenda
+## Lier ToobibPro et Google Agenda
 
 Allez dans `Rendez-vous > Google Agenda`.
 Dans cette section, vous pouvez créer autant d'agendas Google que vous le souhaitez.  
 
-Pour synchroniser les rendez-vous de Maia, sélectionnez l'option **Rendez-vous**.
+Pour synchroniser les rendez-vous de ToobibPro, sélectionnez l'option **Rendez-vous**.
 
 ![Nouveau Google Agenda](/content/maia/appointments/google_calendar.gif)
 
@@ -40,9 +40,9 @@ Il en est de même pour les rendez-vous créés en ligne par vos patientes.
 :::
 
 Vous pouvez modifier vos rendez-vous sur les deux plateformes, en prenant en compte les limitations suivantes:
-- Si vous créez un événement dans Google Agenda, cela créera forcément un événement personnel dans Maia
-- Si vous modifier un événement au sein d'une récurrence, le changement ne sera pas pris en compte dans Maia. Il faut que vous changiez toutes les occurences pour que cela soit réflété dans Maia.
+- Si vous créez un événement dans Google Agenda, cela créera forcément un événement personnel dans ToobibPro
+- Si vous modifier un événement au sein d'une récurrence, le changement ne sera pas pris en compte dans ToobibPro. Il faut que vous changiez toutes les occurences pour que cela soit réflété dans ToobibPro.
 
 :::alert{type=warning}
-Lorsque vous créez un rendez-vous, la modification dans Google Agenda est quasi immédiate, tandis que si vous créez/modifiez un événement sur Google Agenda, il peut mettre une minute à être créé dans Maia.
+Lorsque vous créez un rendez-vous, la modification dans Google Agenda est quasi immédiate, tandis que si vous créez/modifiez un événement sur Google Agenda, il peut mettre une minute à être créé dans ToobibPro.
 :::
