@@ -43,6 +43,22 @@ sequenceDiagram
 </mermaid>
 
 
+## Démarrer avec Bank API
+
+Pour récupérer des transactions bancaires associées à un compte bancaire, il faut mettre en place, a minima, le flux suivant:
+
+1. Récupérer un lien de connexion/authentification. L'authentification se passe sur le site du fournisseur Open-Banking.  
+:point_right: *get_bridge_connect_link*
+
+  Dans certains cas, il faudra aussi obtenir des liens d'authentification [SCA](https://docs.bridgeapi.io/docs/strong-customer-authentication) ou [Pro](https://docs.bridgeapi.io/docs/business-accounts)
+
+2. A la fin du flux d'authentification, enregistrer l'identifiant d'Item (terme Bridge pour désigner la banque)
+3. Récupérer tous les comptes bancaires associés avec cet item  
+:point_right: *get_bank_accounts*
+4. Récupérer les transactions associées à cet item  
+:point_right: *get_bank_transactions*
+
+
 ## Méthodes d'API
 
 L'ensemble des méthodes d'API ci-dessous peuvent être appelées à l'adresse:  
@@ -50,6 +66,7 @@ L'ensemble des méthodes d'API ci-dessous peuvent être appelées à l'adresse:
 
 
 #### get_bridge_connect_link
+Cette méthode permet d'obtenir un lien d'authentification Bridge Connect.  
 */api/method/bank_api.bridge.get_bridge_connect_link*
 
 - `base_url`: URL de base du site demandeur
@@ -59,6 +76,7 @@ L'ensemble des méthodes d'API ci-dessous peuvent être appelées à l'adresse:
 - `site`: Identifiant du site
 
 #### get_bridge_edit_link
+Cette méthode permet d'obtenir un lien d'authentification Bridge Connect en mode **Edition**.
 */api/method/bank_api.bridge.get_bridge_edit_link*
 
 - `base_url`: URL de base du site demandeur
@@ -68,6 +86,7 @@ L'ensemble des méthodes d'API ci-dessous peuvent être appelées à l'adresse:
 - `site`: Identifiant du site
 
 #### get_sca_authentication_link
+Cette méthode permet d'obtenir un lien de rafraîchissement Strong Customer Authentication.
 */api/method/bank_api.bridge.get_sca_authentication_link*
 
 - `base_url`: URL de base du site demandeur
@@ -77,6 +96,7 @@ L'ensemble des méthodes d'API ci-dessous peuvent être appelées à l'adresse:
 - `site`: Identifiant du site
 
 #### get_pro_confirmation_link
+Cette méthode permet d'obtenir un lien de rafraîchissement Business accounts.
 */api/method/bank_api.bridge.get_pro_confirmation_link*
 
 - `base_url`: URL de base du site demandeur
@@ -86,35 +106,41 @@ L'ensemble des méthodes d'API ci-dessous peuvent être appelées à l'adresse:
 - `site`: Identifiant du site
 
 #### get_bridge_item_id
+Cette méthode permet d'obtenir l'identifiant de l'Item Bridge et le nom de la banque associés à une requête d'authentification.
 */api/method/bank_api.bridge.get_bridge_item_id*
 
 - `request`: Identifiant de la requête de connexion
 
 #### get_bridge_item_details
+Cette méthode permet d'obtenir le document Bridge Item correspondant à un identifiant.
 */api/method/bank_api.bridge.get_bridge_item_details*
 
 - `item_id`: Identitiant de l'Item
 
 #### delete_bridge_item_id
+Cette méthode permet de supprimer un Item.
 */api/method/bank_api.bridge.delete_bridge_item_id*
 
 - `item_id`: Identitiant de l'Item
 - `site`: Identifiant du site
 
 #### get_bank_accounts
+Cette méthode permet de récupérer les comptes bancaires associés à un Item.
 */api/method/bank_api.bridge.get_bank_accounts*
 
 - `item_id`: Identitiant de l'Item
 - `site`: Identifiant du site
 
 #### get_bank_transactions
+Cette méthode permet de récupérer les transactions bancaires associées à un Item.
 */api/method/bank_api.bridge.get_bank_transactions*
 
-- `since`: Datetime
+- `since`: Date (`format: yyyy-mm-dd`) de modifications des transactions la plus ancienne.
 - `lang`: Langue de la demande. Les catégories seront renvoyées dans cette langue
 - `site`: Identifiant du site
 
 #### get_category
+Cette méthode permet de récupérer le détail d'une catégorie Bridge.
 */api/method/bank_api.bridge.get_category*
 
 - `lang`: Langue de la demande. Les catégories seront renvoyées dans cette langue
