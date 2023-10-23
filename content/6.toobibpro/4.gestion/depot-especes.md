@@ -1,6 +1,6 @@
 # Dépôt d'espèces
 
-Lorsque votre patiente vous règle en espèces, vous devez indiquer à Maia lorsque vous déposez celles-ci à la banque pour que le logiciel puisse mettre à jour le montant disponible sur votre compte bancaire.
+Lorsque votre patiente vous règle en espèces, vous devez indiquer à ToobibPro lorsque vous déposez celles-ci à la banque pour que le logiciel puisse mettre à jour le montant disponible sur votre compte bancaire.
 
 Cette opération est à enregistrer en tant qu'opération diverse.
 
@@ -17,7 +17,7 @@ A ce stade, les opérations qu'il faut effectuer sont les suivantes:
 4. Mettre à jour la date de rapprochement bancaire dans les différents documents de paiements correspondant à ce dépôt.
 
 
-En sélectionnant ce type d'opération, Maia va automatiquement préparer votre document:
+En sélectionnant ce type d'opération, ToobibPro va automatiquement préparer votre document:
 
 - Dans la section écriture comptable, tous les postes comptables de type __Banque__, __Espèce__, __Exploitant__ sont ajoutés automatiquement dans le tableau.
 - Une nouvelle section permettant de sélectionner les paiement correspondants est automatiquement ajoutées au dessus des postes comptables.
@@ -25,16 +25,16 @@ En sélectionnant ce type d'opération, Maia va automatiquement préparer votre 
 
 ## Sélection des paiements
 
-En cliquant sur "Obtenir tous les paiements en espèce non réconciliés", Maia va automatiquement récupérer tous les paiements validés ayant un mode de paiement de type "Espèces" et n'étant pas encore rapproché.
+En cliquant sur "Obtenir tous les paiements en espèce non réconciliés", ToobibPro va automatiquement récupérer tous les paiements validés ayant un mode de paiement de type "Espèces" et n'étant pas encore rapproché.
 
 ![Paiements en espèces](/content/maia/accounting/cash_deposit/cash_payments.png)
 
-Maia va automatiquement déduire le total de ces paiements du poste comptable "Espèces"
+ToobibPro va automatiquement déduire le total de ces paiements du poste comptable "Espèces"
 
 ![Paiements en espèces](/content/maia/accounting/cash_deposit/amount_calculation.png)
 
 :::alert
-Lors de l'installation de Maia, un poste comptable "Espèce" est automatiquement configuré pour vous.  
+Lors de l'installation de ToobibPro, un poste comptable "Espèce" est automatiquement configuré pour vous.  
 Vous pouvez tout à fait le renommer ou en ajouter d'autres si besoin depuis la rubrique "Poste comptable"
 :::
 
@@ -68,12 +68,12 @@ Dans ce cas la ventilation comptable de cette opération sera la suivante:
 ![Ventilation comptable](/content/maia/accounting/cash_deposit/cash_deposit_accounting_split.png)
 :::
 
-Il est important que la différence entre les montants positifs et les montants négatifs soit égale à 0, sinon Maia vous empêchera de valider l'opération.
+Il est important que la différence entre les montants positifs et les montants négatifs soit égale à 0, sinon ToobibPro vous empêchera de valider l'opération.
 Vous pouvez alors enregistrer et valider votre opération diverse.
 
 ## Rapprochement des paiements
 
-Vous avez donc déposé vos espèces en banque et le montant apparaît sur votre relevé bancaire, vous pouvez donc rapprocher les paiements dans Maia.
+Vous avez donc déposé vos espèces en banque et le montant apparaît sur votre relevé bancaire, vous pouvez donc rapprocher les paiements dans ToobibPro.
 Si vous avez lié votre document de dépôt d'espèces avec les paiements correspondants, un bouton "Action" apparaît à la place du bouton "Valider" après la validation.
 ![Rapprochement bancaire](/content/maia/accounting/cash_deposit/cash_deposit_action.png)
 

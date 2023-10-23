@@ -1,14 +1,14 @@
 
-### Créer vos lettres types dans Maia
+### Créer vos lettres types dans ToobibPro
 
-Maia vous permet de créer des modèles de lettres que vous pouvez ensuite imprimer directement depuis vos dossiers.
+ToobibPro vous permet de créer des modèles de lettres que vous pouvez ensuite imprimer directement depuis vos dossiers.
 
 Le principe d'une lettre type est de définir un texte qui sera invariant quelque soit la situation de la patiente et des variables qui dépendent au contraire de sa situation.
 
 
 ### Créer ou modifier une lettre type
 
-Maia vous donne la possibilité de créer des modèles d'email et de lettres types que vous pouvez ensuite réutiliser depuis vos dossiers.
+ToobibPro vous donne la possibilité de créer des modèles d'email et de lettres types que vous pouvez ensuite réutiliser depuis vos dossiers.
 
 Tous vos modèles sont accessibles depuis le module "Paramètres" ou "Dossiers Médicaux", dans le type de document "Modèle Email".
 

@@ -14,5 +14,5 @@ N'oubliez pas d'enregistrer ensuite le paiement correspondant.
 
 
 :::alert
-Avant d'enregistrer votre dépense, pensez à créer un tiers pour votre remplaçant·e, car c'est ce tiers qui va être utilisé par Maia pour enregistrer comptablement la dépense.
+Avant d'enregistrer votre dépense, pensez à créer un tiers pour votre remplaçant·e, car c'est ce tiers qui va être utilisé par ToobibPro pour enregistrer comptablement la dépense.
 :::

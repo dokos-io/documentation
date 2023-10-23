@@ -12,7 +12,7 @@ A l'inverse un apport personnel doit être enregistré à chaque fois que vous a
 Pour ce faire, faites une nouvelle opération diverse et sélectionnez le type "Prélèvement personnel".
 ![Opération de prélèvement personnel](/content/maia/accounting/personal_debit_credit/personal_debit_credit.png)
 
-Maia va automatiquement récupérer tous les postes comptables de type __Banque__, __Espèces__ et __Exploitant__ pour vous.
+ToobibPro va automatiquement récupérer tous les postes comptables de type __Banque__, __Espèces__ et __Exploitant__ pour vous.
 
 Il ne vous reste plus qu'à ventiler votre écriture en fonction de l'opération que vous souhaitez effectuer.
 
