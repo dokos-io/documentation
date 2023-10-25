@@ -73,10 +73,11 @@ Cette méthode permet d'obtenir un lien d'authentification Bridge Connect.
 - `bank`: Nom de la banque concernée
 - `redirect_url`: URL de redirection après la connexion avec la banque
 - `item_id`: Identitiant de l'Item, si connu
-- `site`: Identifiant du site
+- `site`: Identifiant du site - Il s'agit d'une clé permettant d'identifier le site/client demandeur
+- `user`: ID d'utilisateur
 
 #### get_bridge_edit_link
-Cette méthode permet d'obtenir un lien d'authentification Bridge Connect en mode **Edition**.
+Cette méthode permet d'obtenir un lien d'authentification Bridge Connect en mode **Edition**.  
 */api/method/bank_api.bridge.get_bridge_edit_link*
 
 - `base_url`: URL de base du site demandeur
@@ -84,9 +85,10 @@ Cette méthode permet d'obtenir un lien d'authentification Bridge Connect en mod
 - `redirect_url`: URL de redirection après la connexion avec la banque
 - `item_id`: Identitiant de l'Item
 - `site`: Identifiant du site
+- `user`: ID d'utilisateur
 
 #### get_sca_authentication_link
-Cette méthode permet d'obtenir un lien de rafraîchissement Strong Customer Authentication.
+Cette méthode permet d'obtenir un lien de rafraîchissement Strong Customer Authentication.  
 */api/method/bank_api.bridge.get_sca_authentication_link*
 
 - `base_url`: URL de base du site demandeur
@@ -94,9 +96,10 @@ Cette méthode permet d'obtenir un lien de rafraîchissement Strong Customer Aut
 - `redirect_url`: URL de redirection après la connexion avec la banque
 - `item_id`: Identitiant de l'Item
 - `site`: Identifiant du site
+- `user`: ID d'utilisateur
 
 #### get_pro_confirmation_link
-Cette méthode permet d'obtenir un lien de rafraîchissement Business accounts.
+Cette méthode permet d'obtenir un lien de rafraîchissement Business accounts.  
 */api/method/bank_api.bridge.get_pro_confirmation_link*
 
 - `base_url`: URL de base du site demandeur
@@ -106,41 +109,61 @@ Cette méthode permet d'obtenir un lien de rafraîchissement Business accounts.
 - `site`: Identifiant du site
 
 #### get_bridge_item_id
-Cette méthode permet d'obtenir l'identifiant de l'Item Bridge et le nom de la banque associés à une requête d'authentification.
+Cette méthode permet d'obtenir l'identifiant de l'Item Bridge et le nom de la banque associés à une requête d'authentification.  
 */api/method/bank_api.bridge.get_bridge_item_id*
 
 - `request`: Identifiant de la requête de connexion
 
 #### get_bridge_item_details
-Cette méthode permet d'obtenir le document Bridge Item correspondant à un identifiant.
+Cette méthode permet d'obtenir le document Bridge Item correspondant à un identifiant.  
 */api/method/bank_api.bridge.get_bridge_item_details*
 
 - `item_id`: Identitiant de l'Item
 
 #### delete_bridge_item_id
-Cette méthode permet de supprimer un Item.
+Cette méthode permet de supprimer un Item.  
 */api/method/bank_api.bridge.delete_bridge_item_id*
 
 - `item_id`: Identitiant de l'Item
-- `site`: Identifiant du site
+- `user`: ID d'utilisateur
+
+#### post_item_refresh
+Cette méthode permet de demander le rafraîchissement d'un Item.  
+*/api/method/bank_api.bridge.post_item_refresh*
+
+- `item_id`: Identitiant de l'Item
+- `user`: ID d'utilisateur
 
 #### get_bank_accounts
-Cette méthode permet de récupérer les comptes bancaires associés à un Item.
+Cette méthode permet de récupérer les comptes bancaires associés à un Item.  
 */api/method/bank_api.bridge.get_bank_accounts*
 
 - `item_id`: Identitiant de l'Item
-- `site`: Identifiant du site
+- `user`: ID d'utilisateur
+
+#### get_single_bank
+Cette méthode permet de récupérer le détail d'une banque.  
+*/api/method/bank_api.bridge.get_single_bank*
+
+- `bank_id`: Identitiant de l'Item
+
+#### get_bank_transactions_by_account
+Cette méthode permet de récupérer les transactions associées à un compte bancaire.  
+*/api/method/bank_api.bridge.get_bank_transactions_by_account*
+
+- `account_id`: Identitiant du compte bancaire.
+- `user`: ID d'utilisateur
 
 #### get_bank_transactions
-Cette méthode permet de récupérer les transactions bancaires associées à un Item.
+Cette méthode permet de récupérer les transactions bancaires associées à un Item.  
 */api/method/bank_api.bridge.get_bank_transactions*
 
 - `since`: Date (`format: yyyy-mm-dd`) de modifications des transactions la plus ancienne.
 - `lang`: Langue de la demande. Les catégories seront renvoyées dans cette langue
-- `site`: Identifiant du site
+- `user`: ID d'utilisateur
 
 #### get_category
-Cette méthode permet de récupérer le détail d'une catégorie Bridge.
+Cette méthode permet de récupérer le détail d'une catégorie Bridge.  
 */api/method/bank_api.bridge.get_category*
 
 - `lang`: Langue de la demande. Les catégories seront renvoyées dans cette langue
