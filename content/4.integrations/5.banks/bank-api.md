@@ -75,6 +75,7 @@ Cette méthode permet d'obtenir un lien d'authentification Bridge Connect.
 - `item_id`: Identitiant de l'Item, si connu
 - `site`: Identifiant du site - Il s'agit d'une clé permettant d'identifier le site/client demandeur
 - `user`: ID d'utilisateur
+- `webhook_url`: URL à laquelle envoyer des webhooks
 
 #### get_bridge_edit_link
 Cette méthode permet d'obtenir un lien d'authentification Bridge Connect en mode **Edition**.  
@@ -86,6 +87,7 @@ Cette méthode permet d'obtenir un lien d'authentification Bridge Connect en mod
 - `item_id`: Identitiant de l'Item
 - `site`: Identifiant du site
 - `user`: ID d'utilisateur
+- `webhook_url`: URL à laquelle envoyer des webhooks
 
 #### get_sca_authentication_link
 Cette méthode permet d'obtenir un lien de rafraîchissement Strong Customer Authentication.  
@@ -97,6 +99,7 @@ Cette méthode permet d'obtenir un lien de rafraîchissement Strong Customer Aut
 - `item_id`: Identitiant de l'Item
 - `site`: Identifiant du site
 - `user`: ID d'utilisateur
+- `webhook_url`: URL à laquelle envoyer des webhooks
 
 #### get_pro_confirmation_link
 Cette méthode permet d'obtenir un lien de rafraîchissement Business accounts.  
@@ -107,6 +110,7 @@ Cette méthode permet d'obtenir un lien de rafraîchissement Business accounts.
 - `redirect_url`: URL de redirection après la connexion avec la banque
 - `item_id`: Identitiant de l'Item, si connu
 - `site`: Identifiant du site
+- `webhook_url`: URL à laquelle envoyer des webhooks
 
 #### get_bridge_item_id
 Cette méthode permet d'obtenir l'identifiant de l'Item Bridge et le nom de la banque associés à une requête d'authentification.  
