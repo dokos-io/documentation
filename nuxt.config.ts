@@ -53,7 +53,7 @@ export default defineNuxtConfig({
   content: {
     sources: [],
     highlight: {
-      preload: ['xml']
+      preload: ['xml', 'python']
     },
     locales: ['fr'],
     defaultLocale: 'fr',
