@@ -13,11 +13,11 @@ Une application dédiée permet de synchronisez vos factures d'achat et de vente
 
 2. Une fois l'installation terminée, ajoutez l'application Agicap à votre bench en lançant
     ```
-    $ bench get-app agicap --branch <version branch> https://gitlab.com/dokos/agicap.git
+    $ bench get-app agicap --branch develop https://gitlab.com/dokos/agicap.git
     ```
 
-> Exemple: Si vous souhaitez utiliser cette application avec Dodock/Dokos v3, vous devez utiliser la branche `v3.x.x`  
-> `$ bench get-app agicap --branch v3.x.x https://gitlab.com/dokos/agicap.git`
+<!-- > Exemple: Si vous souhaitez utiliser cette application avec Dodock/Dokos v3, vous devez utiliser la branche `develop`  
+> `$ bench get-app agicap --branch develop https://gitlab.com/dokos/agicap.git` -->
 
 3. Installez l'application Agicap sur votre site en lançant
     ```
