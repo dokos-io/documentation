@@ -1,0 +1,48 @@
+---
+title: Modèle d'adresse
+---
+
+# Modèle d'adresse
+
+Le modèle d'adresse peut stocker différents formats d'adresses en fonction de la région.
+
+Chaque région a sa manière de définir les adresses. Pour gérer plusieurs formats d'adresses pour vos documents (comme les devis, les factures d'achat, etc.), vous pouvez créer des modèles d'adresses par pays .
+
+---
+
+Pour accéder au **modèle d'adresse**, allez sur :
+
+> Accueil > Paramètres > **Modèle d'adresse**
+
+![modèle_adresse.png](/content/setup/print/modèle_adresse.png)
+
+Un modèle d'adresse par défaut est créé lors de la configuration du système. Vous pouvez le modifier ou créer un nouveau modèle. Ce modèle par défaut s'appliquera à tous les pays n'ayant pas de modèle spécifique.
+
+Prenons l'exemple d'un client de France où **Région** fait partie de l'adresse. Si vous définissez la région dans le modèle d'adresse pour les France, il apparaîtra dans le champ d'adresse et donc dans l'aperçu avant impression. Des champs tels que le code PIN peuvent être modifiés pour être affichés sous forme de code postal et des champs tels que la région peuvent être ajoutés à l'aide de modèles d'adresses.
+
+Le modèle d'adresse vérifie le champ **Pays** dans la base d'adresses pour appliquer différents modèles d'adresses aux transactions.
+
+## 1. Comment créer un modèle d'adresse 
+1. Allez dans la **liste des modèles d'adresses**, cliquez sur :heavy_plus_sign: Ajouter modèle d'adresse.
+2. Choisissez un **pays**.
+3. Modifiez le **CSS** et **Jinja** si nécessaire.
+4. **Enregistrer**.
+
+![créer_modèle_adresse.png](/content/setup/print/créer_modèle_adresse.png)
+
+### 1.1 Modèles de Jinja 
+Le moteur de création de modèles est basé sur HTML et le système de modèles Jinja . Tous les champs (y compris les champs personnalisés) seront disponibles pour la création du modèle.
+
+Voici le modèle Jinja par défaut:
+
+```
+{{ address_line1 }}<br>
+{% if address_line2 %}{{ address_line2 }}<br>{% endif -%}
+{{ city }}<br>
+{% if state %}{{ state }}<br>{% endif -%}
+{% if pincode %}PIN:  {{ pincode }}<br>{% endif -%}
+{{ country }}<br>
+{% if phone %}Phone: {{ phone }}<br>{% endif -%}
+{% if fax %}Fax: {{ fax }}<br>{% endif -%}
+{% if email_id %}Email: {{ email_id }}<br>{% endif -%}
+```

@@ -1,0 +1,55 @@
+---
+title: Nom de séries
+---
+
+# Paramètres de nommage des documents
+
+Les documents et les transactions peuvent recevoir des préfixes sous la forme de séries de dénomination.
+
+Dokos vous permet de faire des préfixes à vos documents, chaque préfixe formant sa propre série. Par exemple, une série avec le préfixe FA-.YYYY.-.MM.-.DD.-.### aura les numéros FA-2022-03-05-001, FA-2022-03-05-002, FA-2022-03-06-003 etc.
+
+Vous pouvez avoir plusieurs séries pour toutes vos transactions. Par exemple, des ID de facture de vente comme ceux-ci peuvent être générés :
+
+---
+
+Pour accéder au document **Paramètres de nommage des documents**, recherchez depuis la barre de recherche :
+
+`Paramètres de nommage des documents`
+
+
+## 1. Configuration de la série de noms pour les documents 
+
+1. Sélectionnez la transaction pour laquelle vous voulez faire la série. Le système mettra à jour la série actuelle dans la zone de texte.
+2. Modifiez la série selon vos besoins avec des préfixes uniques pour chaque série. Le premier préfixe sera le préfixe par défaut. Chaque nouvelle série de nommage de préfixe doit être ajoutée sur une nouvelle ligne. La série de noms nouvellement ajoutée sera disponible dans le document. Plusieurs séries de dénomination
+
+Si vous souhaitez que l'utilisateur sélectionne explicitement une série au lieu de celle par défaut, cochez la case "L'utilisateur doit toujours sélectionner". Il n'y aura pas de série de nommage par défaut si cette case est cochée.
+
+Vous pouvez également mettre à jour le point de départ d'une série en entrant le nom de la série et le point de départ dans la section "Mettre à jour la série".
+
+Cliquez sur le bouton Mettre à jour pour mettre à jour l'ensemble des séries de dénomination pour le document sélectionné.
+
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
+Remarque : Pour voir la série de noms nouvellement ajoutée, cliquez sur Paramètres > Recharger.
+::
+
+
+## 2. Année financière dans la série de dénomination
+
+Vous pouvez également afficher l'exercice financier dans la série de dénomination. Par défaut, si vous saisissez "YYYY" dans la série de dénomination, l'année en cours sera sélectionnée. Pour définir des séries de dénomination basées sur l'exercice fiscal. Il est courant d'avoir une série distincte pour chaque exercice financier.
+
+## 3. Mise à jour de la valeur actuelle des séries de dénomination existantes
+
+Vous pouvez modifier le numéro de séquence de départ/actuel d'une série existante.
+
+1. Dans la section Mettre à jour la série, sélectionnez le préfixe dont la séquence doit être modifiée.
+2. La valeur actuelle sera récupérée et affichée.
+3. Modifiez le numéro de séquence de départ/existant si nécessaire.
+4. Cliquez sur Mettre à jour le numéro de série.
+
+Par exemple, si le numéro de série actuel de la commande client est 16 et que vous souhaitez redémarrer ou le définir sur 50, entrez 0 ou 50 selon votre cas. Toute nouvelle commande client créée commencera à partir du nouveau numéro de séquence.
+
+**Astuce** : Vous pouvez avoir une série distincte pour chaque type de client ou pour chacun de vos points de vente.
+
+## 4. Utilisation des valeurs de champ dans les séries de noms 
+
+Certaines entreprises préfèrent utiliser des "codes abrégés" pour les fournisseurs, c'est-à-dire WN pour les "notes Web" de l'entreprise qui peuvent ensuite être utilisées dans des séries de dénomination pour une identification rapide.

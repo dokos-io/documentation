@@ -1,0 +1,130 @@
+---
+title: Configuration de l'entreprise
+---
+
+> # Configuration de la société
+
+Une **société** est une personne morale constituée d'une association de personnes pour l'exploitation d'une entreprise commerciale ou industrielle.
+
+Dans DOKOS, la première société est créée lors de la création d'un compte DOKOS. Pour chaque entreprise, vous pouvez définir un domaine comme la fabrication, la vente au détail ou des services en fonction de la nature de votre activité commerciale.
+
+---
+
+Si vous avez plusieurs entreprises, vous pouvez les ajouter à partir de:
+
+> Accueil > Comptabilité > **Société**
+
+## 1. Comment créer une nouvelle société ?
+
+Allez dans la liste des entreprises, cliquez sur **:heavy_plus_sign: Ajouter une société**.
+- Saissez le **nom de la société**.
+- Indiquez le **domaine de l'activité** (Service, Distributeur, Production).
+- Ajoutez une **abréviation**.
+- Choisir une **maison mère** (facultatif).
+- **Enregistrer**
+
+L'abréviation de votre entreprise est créée par défaut. Par exemple, FT pour Frappe Technologies. L'abréviation aide à différencier les actifs d'une entreprise d'une autre.
+
+L'abréviation apparaît également dans divers comptes, centres de coûts, modèles de taxes, entrepôt, etc. de votre entreprise.
+
+Vous pouvez également joindre un logo d'entreprise et ajouter une description de l'entreprise.
+
+#### Autres champs lors de la création
+
+**Domaine** : le domaine de travail de l'entreprise. Ex: fabrication, services, etc. Choisissez-en un lors de la création de votre compte.
+
+**Est un groupe** : si coché, cela devient une société mère.
+
+**Société mère** : S'il s'agit d'une société enfant, définissez la société mère dans ce champ, c'est-à-dire sélectionnez une société du groupe à laquelle appartient cette société. Si une société mère est définie, le plan comptable de la nouvelle société que vous créez sera créé en fonction de la société mère sélectionnée.
+
+
+### 1.1 Structure Multi-entreprises
+
+Supposons que vous dirigiez un groupe d'entreprises, certaines peuvent être des entreprises plus grandes et d'autres peuvent être plus petites et faire partie de la ou des plus grandes entreprises.
+
+Dans DOKOS, vous pouvez configurer plusieurs sociétés. La structure de l'entreprise peut être parallèle, c'est-à-dire des sociétés sœurs, des sociétés mères-enfants ou une combinaison des deux.
+
+Une **société mère** est une organisation plus grande qui se compose d'**une** ou **plusieurs sociétés filles**. Une **société enfant** est une **filiale** d'une **société mère**.
+
+L'arborescence de l'entreprise affiche la structure globale de vos entreprises.
+
+Une fois que vous avez construit une arborescence de sociétés, DOKOS validera si les comptes des sociétés enfants correspondent aux comptes de la société mère. Tous les comptes peuvent être combinés dans un plan comptable consolidé.
+
+### 1.2 Valeurs par défaut
+
+Dans la fiche Société, vous pouvez définir de nombreuses valeurs par défaut pour les maîtres et les comptes. Ces comptes par défaut vous aideront dans la comptabilisation rapide des transactions comptables, où la valeur du compte sera extraite de la fiche de la société si elle est fournie. Dès que la société est créée, un plan comptable et un centre de coûts par défaut sont automatiquement créés.
+
+Les valeurs par défaut suivantes peuvent être définies pour une entreprise :
+
+- **Devise** par défaut
+- **En-tête** par défaut pour l'impression
+- **Liste de congé**s par défaut
+- **Livre comptable** par défaut
+- **Termes** et **conditions applicables à la vente**
+- **Termes** et **conditions applicables à l'achat**
+- **Entrepôt** par défaut pour les retours de ventes
+- **Entrepôt de transit** par défaut
+- **Pays**
+- **Créer un plan comptable** basé sur
+- **Numéro de TVA**
+- **Date de création**
+
+### 1.4 Paramètre de vente
+
+Indiquez quel est votre objectif de vente mensuelle.
+
+### 1.5 Plan comptable
+
+Pour chaque société, le maître du plan comptable est géré séparément. Cela vous permet de maintenir une comptabilité distincte pour chaque société conformément aux exigences légales. Vous pouvez également importer des comptes en utilisant tableau **les tableaux des comptes importateur**.
+
+DOKOS a un plan comptable localisé facilement disponible pour certains pays. Lors de la création d'une nouvelle société, vous pouvez choisir de configurer le plan comptable pour celle-ci à partir de l'une des options suivantes.
+
+- **Plan comptable standard**
+- **Basé sur le plan comptable de l'entreprise existante**
+
+Notez que, si la société mère est sélectionnée lors de la création d'une nouvelle société, le plan comptable sera créé en fonction de la société mère existante.
+
+## 2. Caractéristiques des comptes
+
+### 2.1 Paramètres de comptabilité
+
+Certains des comptes suivants seront définis par défaut lorsque vous créez une nouvelle société, d'autres peuvent être créés. Les comptes sont visibles dans le plan comptable. Ces valeurs peuvent être modifiées ultérieurement si nécessaire.
+
+- Compte de transfert inter-bancaire
+- Compte d'arrondis
+- Centre de coûts pour les arrondis
+- Compte de passage en perte
+- Compte de remises autorisées
+- Compte de remises reçues
+- Compte de gains / pertes de change
+- Compte de gains / pertes de change non réalisés
+- Compte de bénéfice/perte non réalisée
+- Compte d'acompte fournisseur par défaut
+- Compte d'avances versées aux employés par défaut
+- Begin typing for results.
+- Compte de remise sur le paiement par défaut
+
+### 2.2 Paramètres d'Amortissement des Immobilisations
+
+- Compte d'amortissement cumulé
+- Compte de dotations aux amortissement
+- Série pour les amortissements d'actifs (Ecriture de journal)
+- Dépenses incluses dans la valorisation de l'actif
+- Compte de Cessions des Immobilisations
+- Centre de coûts de l'Amortissement d'Actifs
+- Compte d'immobilisation en cours
+- Actif reçu mais non facturé
+
+### 2.3 Détail du budget
+
+Choisir le rôle pour la personne qui validera l'approbation d'un budget exceptionnel.
+
+## 3. Informations sur la société
+
+- Date de constitution
+- N° de téléphone
+- Fax
+- Email
+- Site web
+- Numéro de SIREN
+- Description de l'entreprise

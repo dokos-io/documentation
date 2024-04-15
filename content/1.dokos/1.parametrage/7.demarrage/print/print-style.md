@@ -1,0 +1,32 @@
+---
+title: Style d'impression
+---
+
+# Style d'impression
+Dans Style d'impression, vous pouvez définir des styles CSS personnalisés appliqués aux formats d'impression.
+
+DOKOS est livré avec des styles prédéfinis pour l'impression de documents. Vous pouvez également créer de nouveaux styles à l'aide de CSS qui peuvent être appliqués à tous vos formats d'impression.
+
+Les styles d'impression standard de DOKOS sont: Monochrome, Moderne et Classique. 
+
+---
+
+Pour créer un **nouveau style d'impression**, allez sur :
+
+Accueil > Paramètres > **Style d'impression**
+
+![liste_style_d'impression.png](/content/setup/print/liste_style_d'impression.png)
+
+## 1. Comment créer un nouveau style d'impression 
+1. Allez dans la **liste Style d'impression**, cliquez sur **:heavy_plus_sign: Nouveau Style d'impression**.
+2. Entrez un **nom** pour le style d'impression.
+3. Entrez le **CSS** qui définira à quoi ressemblera le style.
+4. **Enregistrer**.
+
+![créeer_nouveau_style_impression.png](/content/setup/print/créeer_nouveau_style_impression.png)
+
+Les styles que vous créez ici s'appliquent aux formats d'impression standard et personnalisés. Pour connaître les différentes classes CSS disponibles, vous pouvez créer un format d'impression standard, ouvrir dans une nouvelle page et voir la source.
+
+Un style d'impression par défaut peut être défini dans les **paramètres d'impression.**
+
+Tous les styles de format d'impression sont basés sur le framework CSS Bootstrap (version 3).
