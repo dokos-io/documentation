@@ -14,7 +14,7 @@ Pour accéder au **modèle d'adresse**, allez sur :
 
 > Accueil > Paramètres > **Modèle d'adresse**
 
-![modèle_adresse.png](/content/setup/print/modèle_adresse.png)
+![modèle\_adresse.png](/content/setup/print/mode%CC%80le_adresse.png)
 
 Un modèle d'adresse par défaut est créé lors de la configuration du système. Vous pouvez le modifier ou créer un nouveau modèle. Ce modèle par défaut s'appliquera à tous les pays n'ayant pas de modèle spécifique.
 
@@ -22,20 +22,22 @@ Prenons l'exemple d'un client de France où **Région** fait partie de l'adresse
 
 Le modèle d'adresse vérifie le champ **Pays** dans la base d'adresses pour appliquer différents modèles d'adresses aux transactions.
 
-## 1. Comment créer un modèle d'adresse 
-1. Allez dans la **liste des modèles d'adresses**, cliquez sur :heavy_plus_sign: Ajouter modèle d'adresse.
+## 1. Comment créer un modèle d'adresse
+
+1. Allez dans la **liste des modèles d'adresses**, cliquez sur ➕ Ajouter modèle d'adresse.
 2. Choisissez un **pays**.
 3. Modifiez le **CSS** et **Jinja** si nécessaire.
 4. **Enregistrer**.
 
-![créer_modèle_adresse.png](/content/setup/print/créer_modèle_adresse.png)
+![créer\_modèle\_adresse.png](/content/setup/print/cre%CC%81er_mode%CC%80le_adresse.png)
 
-### 1.1 Modèles de Jinja 
+### 1.1 Modèles de Jinja
+
 Le moteur de création de modèles est basé sur HTML et le système de modèles Jinja . Tous les champs (y compris les champs personnalisés) seront disponibles pour la création du modèle.
 
 Voici le modèle Jinja par défaut:
 
-```
+```text
 {{ address_line1 }}<br>
 {% if address_line2 %}{{ address_line2 }}<br>{% endif -%}
 {{ city }}<br>
@@ -45,4 +47,5 @@ Voici le modèle Jinja par défaut:
 {% if phone %}Phone: {{ phone }}<br>{% endif -%}
 {% if fax %}Fax: {{ fax }}<br>{% endif -%}
 {% if email_id %}Email: {{ email_id }}<br>{% endif -%}
+
 ```
