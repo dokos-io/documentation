@@ -1,4 +1,5 @@
 <script setup lang="ts">
+
 const { data: page } = await useAsyncData('index', () => queryContent('/').findOne())
 
 useSeoMeta({
@@ -11,7 +12,6 @@ useSeoMeta({
 </script>
 
 <template>
-  <div class="gradient" />
   <div>
     <ULandingHero v-if="page.hero" v-bind="page.hero">
       <template #headline>
@@ -30,7 +30,9 @@ useSeoMeta({
         <MDC :value="page.hero.title" />
       </template>
 
-      <!-- <MDC :value="page.hero.code" tag="pre" class="prose prose-primary dark:prose-invert mx-auto" /> -->
+      <ClientOnly>
+        <HomeTetris />
+      </ClientOnly>
     </ULandingHero>
 
     <ULandingSection :title="page.features.title" :links="page.features.links">
@@ -40,17 +42,3 @@ useSeoMeta({
     </ULandingSection>
   </div>
 </template>
-
-
-<style scoped lang="postcss">
-.gradient {
-  position: fixed;
-  top: 25vh;
-  width: 100%;
-  height: 30vh;
-  background: radial-gradient(50% 50% at 50% 50%, #00c8dc 0%, rgba(0, 220, 130, 0) 100%);
-  filter: blur(180px);
-  opacity: 0.6;
-  z-index: -1;
-}
-</style>

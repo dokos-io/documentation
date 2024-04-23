@@ -1,24 +1,15 @@
-![nuxt-ui-docs-social-card](https://github.com/nuxt-ui-pro/docs/assets/739984/f64e13d9-9ae0-4e03-bf7f-6be4c36cd9ba)
+# Site web pour la documentation de Dokos
 
-# Nuxt UI Pro - Docs template
+[Live website](https://doc.dokos.io/)
 
-[![Nuxt UI Pro](https://img.shields.io/badge/Made%20with-Nuxt%20UI%20Pro-00DC82?logo=nuxt.js&labelColor=020420)](https://ui.nuxt.com/pro)
-[![Nuxt Studio](https://img.shields.io/badge/Open%20in%20Nuxt%20Studio-18181B?&logo=nuxt.js&logoColor=3BB5EC)](https://nuxt.studio/themes/docs)
 
-- [Live demo](https://docs-template.nuxt.dev/)
-- [Play on Stackblitz](https://stackblitz.com/github/nuxt-ui-pro/docs)
-- [Documentation](https://ui.nuxt.com/pro/getting-started)
-- [Clone on Nuxt Studio](https://nuxt.studio/themes/docs)
+## Installation locale
+<details>
+<summary>Commandes</summary>
 
-## Quick Start
+## Paramétrage
 
-```bash [Terminal]
-npx nuxi init -t github:nuxt-ui-pro/docs
-```
-
-## Setup
-
-Make sure to install the dependencies:
+Installez les dépendances:
 
 ```bash
 # npm
@@ -34,9 +25,9 @@ yarn install
 bun install
 ```
 
-## Development Server
+## Serveur de développement
 
-Start the development server on `http://localhost:3000`:
+Démarrez un serveur de développement à l'adresse `http://localhost:3000`:
 
 ```bash
 # npm
@@ -54,7 +45,7 @@ bun run dev
 
 ## Production
 
-Build the application for production:
+Publier l'application pour la production:
 
 ```bash
 # npm
@@ -70,7 +61,7 @@ yarn build
 bun run build
 ```
 
-Locally preview production build:
+Prévisualisez le site de production localement:
 
 ```bash
 # npm
@@ -86,40 +77,11 @@ yarn preview
 bun run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Plus d'information sur la [documentation de déploiement à cette adresse](https://nuxt.com/docs/getting-started/deployment).
+<details>
 
-## Nuxt Studio integration
+## Documentation Nuxt UI / Nuxt UI Pro
 
-Add `@nuxthq/studio` dependency to your package.json:
+Ce site est basé sur les composants de Nuxt UI et Nuxt UI Pro.  
 
-```bash
-# npm
-npm install --save-dev @nuxthq/studio
-
-# pnpm
-pnpm add -D @nuxthq/studio
-
-# yarn
-yarn add -D @nuxthq/studio
-
-# bun
-bun add -d @nuxthq/studio
-```
-
-Add this module to your `nuxt.config.ts`:
-
-```ts
-export default defineNuxtConfig({
-  ...
-  modules: [
-    ...
-    '@nuxthq/studio'
-  ]
-})
-```
-
-Read more on [Nuxt Studio docs](https://nuxt.studio/docs/projects/setup).
-
-## Renovate integration
-
-Install [Renovate GitHub app](https://github.com/apps/renovate/installations/select_target) on your repository and you are good to go.
+Tous les composants sont documentés à l'adresse suivante: https://ui.nuxt.com/
