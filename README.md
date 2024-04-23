@@ -78,7 +78,7 @@ bun run preview
 ```
 
 Plus d'information sur la [documentation de déploiement à cette adresse](https://nuxt.com/docs/getting-started/deployment).
-<details>
+</details>
 
 ## Documentation Nuxt UI / Nuxt UI Pro
 
