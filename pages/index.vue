@@ -22,7 +22,8 @@ useSeoMeta({
 
           {{ page.hero.headline.label }}
 
-          <UIcon v-if="page.hero.headline.icon" :name="page.hero.headline.icon" class="ml-1 w-4 h-4 pointer-events-none" />
+          <UIcon v-if="page.hero.headline.icon" :name="page.hero.headline.icon"
+            class="ml-1 w-4 h-4 pointer-events-none" />
         </UBadge>
       </template>
 
@@ -35,10 +36,33 @@ useSeoMeta({
       </ClientOnly>
     </ULandingHero>
 
-    <ULandingSection :title="page.features.title" :links="page.features.links">
+    <ULandingSection :links="page.modules.links">
+      <template #title>
+        <span v-html="page.modules?.title"></span>
+      </template>
       <UPageGrid>
-        <ULandingCard v-for="(item, index) of page.features.items" :key="index" v-bind="item" />
+        <ULandingCard v-for="(item, index) of page.modules.items" :key="index" v-bind="item" />
       </UPageGrid>
+    </ULandingSection>
+
+    <ULandingSection>
+      <template v-if="page.admin.title" #title>
+        <span v-html="page.admin?.title" />
+      </template>
+
+      <template v-if="page.admin.description" #description>
+        <span v-html="page.admin?.description" />
+      </template>
+
+      <ULandingGrid>
+          <ULandingCard v-for="(item, index) of page.admin.items" :key="index"
+          class="col-span-6 row-span-2"
+          :icon="item.icon"
+          :title="item.title"
+          :description="item.description"
+          >
+          </ULandingCard>
+        </ULandingGrid>
     </ULandingSection>
   </div>
 </template>

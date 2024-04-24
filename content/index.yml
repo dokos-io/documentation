@@ -20,8 +20,8 @@ hero:
       size: lg
       color: gray
       to: /dodock/contribuer
-features:
-  title: 'Soyez <span class="text-primary">autonomes et libres</span>'
+modules:
+  title: 'Modules et applications'
   links:
     - label: "Hébergement et Services"
       icon: 'i-carbon-container-software'
@@ -35,10 +35,6 @@ features:
       description: "Créez des applications métiers fiables grâce au framework low-code Dodock"
       icon: 'i-carbon-container-software'
       to: '/dodock'
-    - title: Administration du logiciel
-      description: Créez des applications métiers fiables grâce au framework low-code Dodock
-      icon: i-carbon-container-software
-      to: /dodock
     - title: CRM
       description: Gestion de la prospection
       icon:  i-carbon-chart-relationship
@@ -103,4 +99,14 @@ features:
       description: Gestion de patientèle pour les professionnels de santé libéraux
       icon: 'i-healthicons-doctor-female-outline'
       to: '/toobibpro'
-      
+admin:
+  title: 'Administration du logiciel'
+  items:
+    - title: Controllez et personnalisez votre site DOkos
+      description: Créez des applications métiers fiables grâce au framework low-code Dodock
+      icon: i-carbon-container-software
+      to: /dodock
+    - title: Créez des applications Low-Code
+      description: "Créez des applications métiers fiables grâce au framework low-code Dodock"
+      icon: 'i-carbon-container-software'
+      to: '/dodock'
