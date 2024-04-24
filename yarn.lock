@@ -700,6 +700,13 @@
   dependencies:
     "@iconify/types" "*"
 
+"@iconify-json/iconoir@^1.1.43":
+  version "1.1.43"
+  resolved "https://registry.yarnpkg.com/@iconify-json/iconoir/-/iconoir-1.1.43.tgz#8a4916c033f21204875418860686f0bf8f86687c"
+  integrity sha512-HJwAOLqQUKdOLLoerJV7DorwA6g0N0W/wN1iqMnVinNoC4Iq6YOyy8mUkxKpKMuPau0406oQ8+8r8SDPNyh1Ng==
+  dependencies:
+    "@iconify/types" "*"
+
 "@iconify-json/logos@^1.1.42":
   version "1.1.42"
   resolved "https://registry.yarnpkg.com/@iconify-json/logos/-/logos-1.1.42.tgz#85f62457ea54b727752b1fed8071847d17f28da1"
