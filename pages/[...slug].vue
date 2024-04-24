@@ -33,7 +33,7 @@ defineOgImage({
 })
 
 const headline = computed(() => findPageHeadline(page.value))
-console.log(page.faq)
+
 const links = computed(() => [toc?.bottom?.edit && {
   icon: 'i-heroicons-pencil-square',
   label: 'Modifier cette page',
