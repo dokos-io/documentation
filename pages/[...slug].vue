@@ -51,8 +51,8 @@ const links = computed(() => [toc?.bottom?.edit && {
 
       <template v-if="page.faq !== false">
         <ULandingSection>
-          <UDivider :label="page.faq.title || 'Questions Fréquentes'" />
-          <ULandingFAQ :items="page.faq.items" multiple />
+          <UDivider :label="page.faq?.title || 'Questions Fréquentes'" />
+          <ULandingFAQ :items="page.faq?.items" multiple />
         </ULandingSection>
       </template>
 
