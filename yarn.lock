@@ -616,6 +616,13 @@
   dependencies:
     "@iconify/types" "*"
 
+"@iconify-json/cib@^1.1.8":
+  version "1.1.8"
+  resolved "https://registry.yarnpkg.com/@iconify-json/cib/-/cib-1.1.8.tgz#21159bd535bdef079a0346c567e557c026bd2067"
+  integrity sha512-wL7uxAq8pC9la11dRSHUrz4g4cNLhoR8VC/rnmTcswER/vICNgUYt7vNs0VVaGjC6G1dTY+iyKS4ooRCXChsqw==
+  dependencies:
+    "@iconify/types" "*"
+
 "@iconify-json/clarity@^1.1.12":
   version "1.1.12"
   resolved "https://registry.yarnpkg.com/@iconify-json/clarity/-/clarity-1.1.12.tgz#ef1c981324e6df074389eafde9895e14d400ab93"
@@ -630,6 +637,13 @@
   dependencies:
     "@iconify/types" "*"
 
+"@iconify-json/devicon-plain@^1.1.38":
+  version "1.1.38"
+  resolved "https://registry.yarnpkg.com/@iconify-json/devicon-plain/-/devicon-plain-1.1.38.tgz#05a61a708b914e2d0e013575253c57412ba24951"
+  integrity sha512-ay2QsiDThYpu/H4r3RR/hOAhvP8+pvzW0HQD5mx/0/yKnBa71zupOOiyqgWwBbc61Qi3n+iBcVdKV3xp05KIBA==
+  dependencies:
+    "@iconify/types" "*"
+
 "@iconify-json/eos-icons@^1.1.10":
   version "1.1.10"
   resolved "https://registry.yarnpkg.com/@iconify-json/eos-icons/-/eos-icons-1.1.10.tgz#182e9ac4596948d9428243deb09d295f163e1581"
@@ -641,6 +655,20 @@
   version "1.1.15"
   resolved "https://registry.yarnpkg.com/@iconify-json/ep/-/ep-1.1.15.tgz#174397b62ae6aad104194d612b605946e360754c"
   integrity sha512-96JBJQrJhxYy+j+KE5lqyE+Y6O+06fVUdMaHJ1Rb9+bbOjI1tw6EwYl9H4SB6Hkf7zB80VX6GgG0yH0Z0c8K1Q==
+  dependencies:
+    "@iconify/types" "*"
+
+"@iconify-json/fa6-brands@^1.1.19":
+  version "1.1.19"
+  resolved "https://registry.yarnpkg.com/@iconify-json/fa6-brands/-/fa6-brands-1.1.19.tgz#dfbc859e1e24cf357687623893bb71af8636110c"
+  integrity sha512-3Dl0D1gtFwIj7/GT2xJbkM9D/LjuozsgfLrqRWP6B5xuajtsyEvR1wD0Z06y3iaNtASpgWPWyYbml+AHQ3Hw0g==
+  dependencies:
+    "@iconify/types" "*"
+
+"@iconify-json/fa6-solid@^1.1.21":
+  version "1.1.21"
+  resolved "https://registry.yarnpkg.com/@iconify-json/fa6-solid/-/fa6-solid-1.1.21.tgz#5702864881a0aa1cbe8b628ab049a1a5e128cbb0"
+  integrity sha512-+C6F3dFjNdqj8S83ggIXZFsX2CwecFErJKk9dVEZNd0XpNx2iNCNS+K/fl1HLFhYRhS4lb2Rgfi8yVV4MQU7yA==
   dependencies:
     "@iconify/types" "*"
 

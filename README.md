@@ -187,6 +187,10 @@ Actuellement, les librairies d'icônes installées sont les suivantes:
 - gg
 - iconoir
 - system-uicons
+- fa6-solid
+- fa6-brands
+- cib
+- devicon-plain
 
 Si possible, essayez d'utiliser ces librairies en priorité.  
 Pour l'installation de librairies additionnelles, merci de créer un ticket Github et de l'affecter à [Charles-Henri](https://github.com/chdecultot).

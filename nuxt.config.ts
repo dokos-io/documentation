@@ -17,7 +17,7 @@ export default defineNuxtConfig({
     }
   },
   ui: {
-    icons: ['heroicons', 'simple-icons', 'mdi', 'vaadin', 'uil', 'carbon', 'material-symbols', 'fluent', 'eos-icons', 'ri', 'icon-park-outline', 'ep', 'clarity', 'fontisto', 'ic', 'codicon', 'octicon', 'feather', 'logos', 'healthicons']
+    icons: ['heroicons', 'simple-icons', 'mdi', 'vaadin', 'uil', 'carbon', 'material-symbols', 'fluent', 'eos-icons', 'ri', 'icon-park-outline', 'ep', 'clarity', 'fontisto', 'ic', 'codicon', 'octicon', 'feather', 'logos', 'healthicons', 'gg', 'iconoir', 'system-uicons', 'fa6-solid', 'fa6-brands', 'cib', 'devicon-plain']
   },
   routeRules: {
     '/api/search.json': { prerender: true },
