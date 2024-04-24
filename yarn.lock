@@ -749,6 +749,13 @@
   dependencies:
     "@iconify/types" "*"
 
+"@iconify-json/system-uicons@^1.1.12":
+  version "1.1.12"
+  resolved "https://registry.yarnpkg.com/@iconify-json/system-uicons/-/system-uicons-1.1.12.tgz#50d016e4ba8d5fa22ca4f3ce2521211bfd818e33"
+  integrity sha512-W3laFVxVNG4qmS8tsSMt2kQMVK+6i1hZOxZTxSaWQWRnmki4qp9rGHnMfRhxBqZ7SQoIrG3toodooK+y4qoBcQ==
+  dependencies:
+    "@iconify/types" "*"
+
 "@iconify-json/tabler@^1.1.109":
   version "1.1.109"
   resolved "https://registry.yarnpkg.com/@iconify-json/tabler/-/tabler-1.1.109.tgz#9fd09481701432c647b5ae8be162d95e5d40c35f"

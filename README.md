@@ -186,6 +186,7 @@ Actuellement, les librairies d'icônes installées sont les suivantes:
 - healthicons
 - gg
 - iconoir
+- system-uicons
 
 Si possible, essayez d'utiliser ces librairies en priorité.  
 Pour l'installation de librairies additionnelles, merci de créer un ticket Github et de l'affecter à [Charles-Henri](https://github.com/chdecultot).
