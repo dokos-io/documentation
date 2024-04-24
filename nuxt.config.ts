@@ -29,7 +29,6 @@ export default defineNuxtConfig({
     strict: false
   },
   content: {
-    sources: {},
     highlight: {
       preload: ['xml', 'python', 'jinja']
     },

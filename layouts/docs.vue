@@ -10,7 +10,7 @@ const navigation = inject<Ref<NavItem[]>>('navigation')
       <template #left>
         <UAside>
           <UContentSearchButton label="Rechercher..." class="mb-5"/>
-          <UNavigationTree :links="mapContentNavigation(navigation)" />
+          <UNavigationTree :links="mapContentNavigation(navigation)" multiple="false" default-open="false"/>
         </UAside>
       </template>
 
