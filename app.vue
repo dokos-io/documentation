@@ -49,7 +49,7 @@ function get_links(items) {
 
 const dodock_children = nav.value?.find(item => item._path === `/dodock`)?.children
 const dokos_children = nav.value?.find(item => item._path === `/dokos`)?.children
-const all_children = (dokos_children.concat(dodock_children))
+const all_children = (dodock_children.concat(dokos_children))
 const integration_children = nav.value?.find(item => item._path === `/integrations`)?.children
 
 const setup_links = get_links(all_children.filter(f => setup.includes(f._path)) || [])

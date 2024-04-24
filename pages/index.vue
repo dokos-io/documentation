@@ -36,6 +36,17 @@ useSeoMeta({
       </ClientOnly>
     </ULandingHero>
 
+    <ULandingSection>
+      <template #title>
+        <span v-html="page.demo?.title"></span>
+      </template>
+      <ULandingGrid>
+        <ULandingCard v-for="(item, index) of page.demo.items" :key="index" v-bind="item" class="col-span-6 row-span-2">
+          <img :src="item.image" class="w-full rounded-md" />
+        </ULandingCard>
+      </ULandingGrid>
+    </ULandingSection>
+
     <ULandingSection :links="page.modules.links">
       <template #title>
         <span v-html="page.modules?.title"></span>
@@ -45,7 +56,7 @@ useSeoMeta({
       </UPageGrid>
     </ULandingSection>
 
-    <ULandingSection>
+    <ULandingSection :links="page.admin.links">
       <template v-if="page.admin.title" #title>
         <span v-html="page.admin?.title" />
       </template>
@@ -55,14 +66,10 @@ useSeoMeta({
       </template>
 
       <ULandingGrid>
-          <ULandingCard v-for="(item, index) of page.admin.items" :key="index"
-          class="col-span-6 row-span-2"
-          :icon="item.icon"
-          :title="item.title"
-          :description="item.description"
-          >
-          </ULandingCard>
-        </ULandingGrid>
+        <ULandingCard v-for="(item, index) of page.admin.items" :key="index" class="col-span-6 row-span-2"
+          :icon="item.icon" :title="item.title" :description="item.description">
+        </ULandingCard>
+      </ULandingGrid>
     </ULandingSection>
   </div>
 </template>

@@ -20,16 +20,27 @@ hero:
       size: lg
       color: gray
       to: /dodock/contribuer
+demo:
+  title: Essayez Dokos sur une de nos <span class='text-primary'>démos publiques</span>
+  items:
+    - title: Dokompany
+      description: Développez l'entreprise qui produit et commercialise la fameuse Dokoboard
+      icon: 'i-fluent-manufacturer-24-filled'
+      to: 'https://demo.dokos.cloud'
+      color: green
+      orientation: 'horizontal'
+      image: '/dokoboard.png'
+      target: '_blank'
+    - title: Mappemonde
+      description: Gérez un tiers lieu proposant de nombreux services
+      icon: 'i-material-symbols-hive'
+      to: 'https://tierslieux.dokos.cloud'
+      color: green
+      orientation: 'horizontal'
+      image: '/coworking.jpg'
+      target: '_blank'
 modules:
   title: 'Modules et applications'
-  links:
-    - label: "Hébergement et Services"
-      icon: 'i-carbon-container-software'
-      trailingIcon: 'i-heroicons-arrow-right-20-solid'
-      color: 'gray'
-      to: 'https://dokos.io'
-      target: '_blank'
-      size: lg
   items:
     - title: Création d'applications Low-Code
       description: "Créez des applications métiers fiables grâce au framework low-code Dodock"
@@ -101,6 +112,14 @@ modules:
       to: '/toobibpro'
 admin:
   title: 'Administration du logiciel'
+  links:
+    - label: "Hébergement et Services"
+      icon: 'i-carbon-container-software'
+      trailingIcon: 'i-heroicons-arrow-right-20-solid'
+      color: 'gray'
+      to: 'https://dokos.io'
+      target: '_blank'
+      size: lg
   items:
     - title: Controllez et personnalisez votre site DOkos
       description: Créez des applications métiers fiables grâce au framework low-code Dodock
