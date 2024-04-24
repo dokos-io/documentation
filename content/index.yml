@@ -21,7 +21,7 @@ hero:
       color: gray
       to: /dodock/contribuer
 features:
-  title: 'Devenez <span class="text-primary">libres et autonomes</span>'
+  title: 'Soyez <span class="text-primary">autonomes et libres</span>'
   links:
     - label: "Hébergement et Services"
       icon: 'i-carbon-container-software'
@@ -31,84 +31,76 @@ features:
       target: '_blank'
       size: lg
   items:
-    - title: "Création d'applications Low-Code"
+    - title: Création d'applications Low-Code
       description: "Créez des applications métiers fiables grâce au framework low-code Dodock"
       icon: 'i-carbon-container-software'
       to: '/dodock'
-    - title: 'Administration du logiciel'
-      description: "Créez des applications métiers fiables grâce au framework low-code Dodock"
-      icon: 'i-carbon-container-software'
-      to: '/dodock'
-    - title: 'CRM'
-      description: "Logiciel de gestion d'entreprise"
-      icon: 'i-ic-twotone-area-chart'
-      to: '/dokos'
-    - title: 'Ventes'
-      description: "Logiciel de gestion d'entreprise"
-      icon: 'i-ic-twotone-area-chart'
-      to: '/dokos'
-    - title: 'Achats'
-      description: "Logiciel de gestion d'entreprise"
-      icon: 'i-ic-twotone-area-chart'
-      to: '/dokos'
-    - title: 'Comptabilité'
-      description: "Logiciel de gestion d'entreprise"
-      icon: 'i-ic-twotone-area-chart'
-      to: '/dokos'
-    - title: 'Comptabilité'
-      description: "Logiciel de gestion d'entreprise"
-      icon: 'i-ic-twotone-area-chart'
-      to: '/dokos'
-    - title: 'Projets'
-      description: "Logiciel de gestion d'entreprise"
-      icon: 'i-ic-twotone-area-chart'
-      to: '/dokos'
-    - title: 'Stocks'
-      description: "Logiciel de gestion d'entreprise"
-      icon: 'i-ic-twotone-area-chart'
-      to: '/dokos'
-    - title: 'Production'
-      description: "Logiciel de gestion d'entreprise"
-      icon: 'i-ic-twotone-area-chart'
-      to: '/dokos'
+    - title: Administration du logiciel
+      description: Créez des applications métiers fiables grâce au framework low-code Dodock
+      icon: i-carbon-container-software
+      to: /dodock
+    - title: CRM
+      description: Gestion de la prospection
+      icon:  i-carbon-chart-relationship
+      to: /dokos/crm
+    - title: Ventes
+      description: Gestion du flux commercial
+      icon: i-ep-sell
+      to: /dokos/achats
+    - title: Achats
+      description: Gestion des achats
+      icon: i-icon-park-outline-buy
+      to: /dokos/ventes
+    - title: Comptabilité
+      description: Saisie de la comptabilité et états financiers
+      icon: i-uil-balance-scale
+      to: /dokos/comptabilite
+    - title: Projets
+      description: Suivi des projets et des temps
+      icon: i-eos-icons-project-outlined
+      to: /dokos/projets
+    - title: Stocks
+      description: Gestion des niveaux et des valorisations de stock
+      icon: i-vaadin-stock
+      to: /dokos/stocks
+    - title: Production
+      description: De l'achat des matières premières à la création de produits finis
+      icon: i-fluent-manufacturer-24-regular
+      to: /dokos/production
     - title: 'Qualité'
-      description: "Logiciel de gestion d'entreprise"
-      icon: 'i-ic-twotone-area-chart'
-      to: '/dokos'
+      description: Création de processus et suivi de la qualité
+      icon: i-carbon-rule-data-quality
+      to: '/dokos/qualite'
     - title: 'Support'
-      description: "Logiciel de gestion d'entreprise"
-      icon: 'i-ic-twotone-area-chart'
-      to: '/dokos'
-    - title: 'Ressources réservables'
-      description: "Logiciel de gestion d'entreprise"
-      icon: 'i-ic-twotone-area-chart'
-      to: '/dokos'
-    - title: 'Ressources Humaines'
-      description: 'Application de gestion des ressources humaines pour Dokos'
+      description: Outil de gestion de ticket pour le support client
+      icon: 'i-ri-customer-service-2-line'
+      to: '/dokos/support'
+    - title: Administration d'un lieu
+      description: Gestion de réservations de ressources, création de contrats, génération d'abonnements, crédits de réservation et événements
+      icon: 'i-material-symbols-location-on-outline-rounded'
+      to: '/dokos/lieu'
+    - title: Ressources Humaines
+      description: Gestion des congés, notes de frais, recrutement, quarts et présence, performance 
       icon: 'i-mdi-human-capacity-increase'
       to: '/dokos/hrms'
-    - title: 'E-Commerce'
-      description: "Logiciel de gestion d'entreprise"
-      icon: 'i-ic-twotone-area-chart'
-      to: '/dokos'
-    - title: 'Signature Electronique'
-      description: 'Application de signature électronique pour Dodock et Dokos'
-      icon: 'i-clarity-digital-signature-line'
-      to: '/integrations/esignature'
+    - title: Portail web & e-commerce
+      description: Vente de produits/services, réservations de ressources en ligne et création d'un portail client/fournisseur
+      icon: 'i-gg-website'
+      to: '/dokos/e-commerce'
     - title: 'OCR'
-      description: 'Application de signature électronique pour Dodock et Dokos'
-      icon: 'i-clarity-digital-signature-line'
-      to: '/integrations/esignature'
+      description: 'Reconnaissance automatique des factures et notes de frais'
+      icon: 'i-mdi-ocr'
+      to: '/integrations/ocr'
     - title: 'Paiements en ligne'
-      description: 'Application de gestion des paiements pour Dokos'
+      description: 'Collecte de paiements en ligne'
       icon: 'i-ic-twotone-payments'
       to: '/integrations/payments'
-    - title: 'Intégrations'
-      description: 'Application de gestion des paiements pour Dokos'
-      icon: 'i-ic-twotone-payments'
+    - title: Intégrations
+      description: Sauvegarde externalisées, services Google, e-commerce, connecteurs no-code
+      icon: i-mdi-connection
       to: '/integrations'
     - title: 'ToobibPro'
-      description: 'Application de gestion de patientèle pour les professionnels de santé libéraux'
+      description: Gestion de patientèle pour les professionnels de santé libéraux
       icon: 'i-healthicons-doctor-female-outline'
       to: '/toobibpro'
       
