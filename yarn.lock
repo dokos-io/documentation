@@ -665,6 +665,13 @@
   dependencies:
     "@iconify/types" "*"
 
+"@iconify-json/gg@^1.1.9":
+  version "1.1.9"
+  resolved "https://registry.yarnpkg.com/@iconify-json/gg/-/gg-1.1.9.tgz#0800b3479a11d871fbc704f217fe24d5480a426a"
+  integrity sha512-gj4XlLoYR645g4WWMzv2+E5EBIbqnyOLlKL+9MPjb05fSDqYb6BRG2ICn68hIWOtcMS/UPNJQ5M8/Y2FgWD72g==
+  dependencies:
+    "@iconify/types" "*"
+
 "@iconify-json/healthicons@^1.1.17":
   version "1.1.17"
   resolved "https://registry.yarnpkg.com/@iconify-json/healthicons/-/healthicons-1.1.17.tgz#982ce881edb6b462ec506899d7c71ce9682c614a"
