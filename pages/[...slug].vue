@@ -33,7 +33,7 @@ defineOgImage({
 })
 
 const headline = computed(() => findPageHeadline(page.value))
-
+console.log(page.faq)
 const links = computed(() => [toc?.bottom?.edit && {
   icon: 'i-heroicons-pencil-square',
   label: 'Modifier cette page',
@@ -49,7 +49,7 @@ const links = computed(() => [toc?.bottom?.edit && {
     <UPageBody prose>
       <ContentRenderer v-if="page.body" :value="page" />
 
-      <template v-if="page.faq !== false">
+      <template v-if="page.faq">
         <ULandingSection>
           <UDivider :label="page.faq?.title || 'Questions Fréquentes'" />
           <ULandingFAQ :items="page.faq?.items" multiple />
