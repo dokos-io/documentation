@@ -86,7 +86,7 @@ modules:
     - title: 'OCR'
       description: 'Reconnaissance automatique des factures et notes de frais'
       icon: 'i-mdi-ocr'
-      to: '/integrations/ocr'
+      to: '/integrations'
     - title: 'Paiements en ligne'
       description: 'Collecte de paiements en ligne'
       icon: 'i-ic-twotone-payments'
