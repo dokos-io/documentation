@@ -121,7 +121,7 @@ admin:
       target: '_blank'
       size: lg
   items:
-    - title: Controllez et personnalisez votre site DOkos
+    - title: Contrôlez et personnalisez votre site DOkos
       description: Créez des applications métiers fiables grâce au framework low-code Dodock
       icon: i-carbon-container-software
       to: /dodock
