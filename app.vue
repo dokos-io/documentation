@@ -58,13 +58,13 @@ const modules_links = get_links(dokos_children.filter(f => !setup.includes(f._pa
 const integrations_links = get_links(integration_children.filter(f => f._path != '/integrations') || [])
 
 
-// useSeoMeta({
-//   titleTemplate: `%s - ${seo?.siteName}`,
-//   ogSiteName: seo?.siteName,
-//   ogImage: 'https://docs-template.nuxt.dev/social-card.png',
-//   twitterImage: 'https://docs-template.nuxt.dev/social-card.png',
-//   twitterCard: 'summary_large_image'
-// })
+useSeoMeta({
+  titleTemplate: `%s - ${seo?.siteName}`,
+  ogSiteName: seo?.siteName,
+  ogImage: 'https://docs-template.nuxt.dev/social-card.png',
+  twitterImage: 'https://docs-template.nuxt.dev/social-card.png',
+  twitterCard: 'summary_large_image'
+})
 
 const links = [
   {

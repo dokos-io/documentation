@@ -31,25 +31,28 @@
     </template>
 
     <template #panel>
-      <UAsideLinks :links="links" />
+      <template v-for="(links_group, index) of mobile_links" :key="index">
+          <UAsideLinks :links="links_group" />
+          <UDivider type="dashed" class="my-4" />
+      </template>
 
-      <UDivider type="dashed" class="my-4" />
-
-      <UNavigationTree :links="mapContentNavigation(navigation)" :multiple="false" default-open />
+      <!-- <UNavigationTree :links="mapContentNavigation(navigation)" :multiple="false" default-open /> -->
     </template>
   </UHeader>
-</template>
+</template> 
 
 <script setup lang="ts">
-import type { NavItem } from '@nuxt/content/dist/runtime/types'
+// import type { NavItem } from '@nuxt/content/dist/runtime/types'
 import type { HeaderLink } from '#ui-pro/types'
 
-defineProps<{
+const props = defineProps<{
   links: HeaderLink[]
 }>()
 
+
+const mobile_links = props.links.map(l => l.children)
 const { metaSymbol } = useShortcuts()
 
-const nav = inject<Ref<NavItem[]>>('navigation')
-const navigation = nav.value
+// const nav = inject<Ref<NavItem[]>>('navigation')
+// const navigation = nav.value
 </script>
