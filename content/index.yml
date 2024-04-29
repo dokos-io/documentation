@@ -94,6 +94,10 @@ modules:
       description: Vente de produits/services, réservations de ressources en ligne et création d'un portail client/fournisseur
       icon: 'i-gg-website'
       to: '/dokos/e-commerce'
+    - title: "Chantiers et ouvrages"
+      description: "Module dédié à la gestion d'ouvrages et de chantiers"
+      icon: 'i-healthicons-construction-worker'
+      to: '/integrations'
     - title: 'OCR'
       description: 'Reconnaissance automatique des factures et notes de frais'
       icon: 'i-mdi-ocr'
