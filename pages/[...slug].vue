@@ -52,7 +52,11 @@ const links = computed(() => [toc?.bottom?.edit && {
       <template v-if="page.faq">
         <ULandingSection>
           <UDivider :label="page.faq?.title || 'Questions Fréquentes'" />
-          <ULandingFAQ :items="page.faq?.items" multiple />
+          <ULandingFAQ :items="page.faq?.items" multiple>
+            <template #item="{ item }">
+              <MDC :value="item.content" class="prose prose-primary dark:prose-invert max-w-none text-gray-500 dark:text-gray-400" />
+            </template>
+          </ULandingFAQ>
         </ULandingSection>
       </template>
 
