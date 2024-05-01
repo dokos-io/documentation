@@ -53,11 +53,11 @@ modules:
     - title: Ventes
       description: Gestion du flux commercial
       icon: i-ep-sell
-      to: /dokos/achats
+      to: /dokos/ventes
     - title: Achats
       description: Gestion des achats
       icon: i-icon-park-outline-buy
-      to: /dokos/ventes
+      to: /dokos/achats
     - title: Comptabilité
       description: Saisie de la comptabilité et états financiers
       icon: i-uil-balance-scale
@@ -94,6 +94,10 @@ modules:
       description: Vente de produits/services, réservations de ressources en ligne et création d'un portail client/fournisseur
       icon: 'i-gg-website'
       to: '/dokos/e-commerce'
+    - title: "Chantiers et ouvrages"
+      description: "Module dédié à la gestion d'ouvrages et de chantiers"
+      icon: 'i-healthicons-construction-worker'
+      to: '/integrations'
     - title: 'OCR'
       description: 'Reconnaissance automatique des factures et notes de frais'
       icon: 'i-mdi-ocr'
