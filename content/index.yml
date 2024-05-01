@@ -53,11 +53,11 @@ modules:
     - title: Ventes
       description: Gestion du flux commercial
       icon: i-ep-sell
-      to: /dokos/achats
+      to: /dokos/ventes
     - title: Achats
       description: Gestion des achats
       icon: i-icon-park-outline-buy
-      to: /dokos/ventes
+      to: /dokos/achats
     - title: Comptabilité
       description: Saisie de la comptabilité et états financiers
       icon: i-uil-balance-scale
