@@ -1,7 +1,6 @@
 ---
 title: Unité de mesure (UDM)
 description: Dokos rend la gestion des unités de mesure simple et efficace, vous permettant ainsi d'acheter et de vendre avec des unités de mesure différentes.
-
 ---
 
 ## Définition
@@ -10,17 +9,13 @@ Une unité de mesure est une référence standard utilisée pour **quantifier** 
 
 Elle permet de définir de manière précise comment les quantités sont exprimées et gérées dans le système, facilitant ainsi la gestion des stocks, des ventes et des achats.
 
-## 1. Prérequis 
+## 1. Prérequis
 
 Avant d'établir vos unités de mesure, il est important de prendre en compte plusieurs aspects.
 
 - **Analyse des besoins métier :** Identifiez les besoins spécifiques de votre entreprise et de vos clients. Identifiez les types de produits ou services que vous proposez, ainsi que les différentes manières dont ils sont utilisés ou vendus.
-
 - **Définition des processus :** Analysez votre manière, d'acheter, de vendre, de gérer des stocks, etc. Identifiez les étapes clés où les unités de mesure seront utilisées et les interactions entre ces étapes.
-
 - **Considération des conversions :** Pensez aux différentes manières dont vos produits ou services peuvent être mesurés et vendus. Identifiez les taux de conversion nécessaires entre les différentes unités de mesure pour garantir une gestion cohérente des stocks, des ventes, etc.
-
-
 
 ## 2. La notion d’unité de mesure
 
@@ -49,29 +44,37 @@ Permet de définir des taux de conversion entre les différentes unités de mesu
 
 ![Image permettant de visualiser les paramètre du lieu afin de définir des conversion.](/conversionminute.png)
 
-
 ### 2.3. Utilisation lors d’achat ou de vente
 
 Lorsque vous effectuez des achats, des ventes, vous pouvez spécifier les quantités dans l'unité de mesure correspondante. Dokos se charge alors de convertir automatiquement les quantités en fonction des taux de conversion définis.
 
+Dans le contexte des réservations de salles, lorsque votre article est disponible sur le portail, Dokos va automatiquement récupérer l'unité de mesure appropriée et configurer les calendriers en conséquence. De plus, il affichera les prix corrects associés à cette unité de mesure pour faciliter la réservation et la tarification des salles.
+
 ### 2.4. Les prix
 
-Dans Dokos, le prix est souvent associé à des unités de mesure pour faciliter la gestion des produits et services. 
-
+Dans Dokos, le prix est souvent associé à des unités de mesure pour faciliter la gestion des produits et services.
 
 - **Prix par unité de mesure :** Vous pouvez définir un prix pour chaque unité de mesure de vos produits ou services. De cette façon, lorsque vous vendez un produit, le prix sera automatiquement calculé en fonction de la quantité vendue.
-
-
 - **Tarifs multiples :** Vous pouvez également configurer des tarifs multiples pour un même produit ou service, en fonction de différentes unités de mesure. Par exemple, vous pouvez avoir un prix à la pièce pour un produit, ainsi qu'un prix par sachet pour le même produit. Cela vous permet de proposer des tarifs différents en fonction des besoins de vos clients.
-
-
 - **Conversion des prix :** Dokos gère automatiquement la conversion des prix entre différentes unités de mesure. Par exemple, si un produit est vendu à la fois à la pièce et par sachet, le système calcule automatiquement le prix en fonction de l'unité de mesure sélectionnée par le client lors de la vente.
-
-
 - **Gestion des listes de prix/ règle de prix :** Vous pouvez gérer plusieurs listes de prix, ce qui vous permet d'offrir des tarifs spéciaux ou des remises pour certains clients ou pour certaines périodes. Chaque liste de prix peut avoir des prix définis pour différentes unités de mesure.
 
+::callout
+Rendez-vous sur la page prix de la documentation.
+::
 
-## 3. Cas concret
+## 3. Site Web 
+
+Dans le **contexte des abonnements**, pour configurer plusieurs "unités de mesure" (mois, annuel) de l'abonnement sur le site web, accédez à la section "Article du Site web" que vous souhaitez modifier, puis modifiez le champ "Périodes de récurrence autorisées". Assurez-vous que les unités que vous utilisez existent dans votre table "Unité de mesure", et qu'il existe une conversion vers votre unité de base.
+
+Lorsque votre article est disponible sur le site web, Dokos va automatiquement récupérer l'unité de mesure appropriée et configurer les calendriers en conséquence. De plus, il affichera les prix corrects associés à cette unité de mesure pour faciliter l'achat de l'abonnements.
+
+::callout
+Rendez-vous sur la page personnalisation du site web de la documentation.
+::
+
+
+## 4. Cas concret
 
 1. Entreprise de fournitures de bureau
 
