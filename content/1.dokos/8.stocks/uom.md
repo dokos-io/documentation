@@ -29,7 +29,7 @@ Dans chaque unité de mesure, il existe une **option "Doit être un nombre entie
 
 ### 2.1. Unités de mesure multiples pour un même article 
 
-Vous pouvez **définir plusieurs unités de mesure pour un même article**, ce qui est utile lorsque l'article est utilisé dans différentes unités 
+Vous pouvez **définir plusieurs unités de mesure pour un même article**, ce qui est utile lorsque l'article est utilisé dans différentes unités. Lors de l'achat, avec une commande fournisseur en utilisant une unité comme la palette et ensuite lors d'un commande client en utilisant une unité comme le carton.
 
 - Par exemple, mètres, palettes, rouleaux, boîtes, etc ou la durée (heures, demi-journées, journées) ou la capacité (nombre de personnes). 
 
