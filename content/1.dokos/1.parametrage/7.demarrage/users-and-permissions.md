@@ -1,15 +1,17 @@
 ---
-title: Utilisateurs et autorisations
+title: Utilisateurs, rôles et autorisations
 ---
 
 # Utilisateurs et autorisations
 Dans DOKOS, vous pouvez créer plusieurs utilisateurs et leur attribuer des rôles différents.
 
-**Un rôle** est un ensemble d'autorisations attribuées à un utilisateur afin qu'il puisse accéder aux documents dont il a besoin. Par exemple, un employé des ventes aura besoin d'accéder aux transactions de vente, mais n'aura pas accès pour approuver les congés.
+La gestion des utilisateurs et des rôles est essentielle pour contrôler l'accès aux données et aux fonctionnalités du système. En définissant clairement les rôles et les autorisations, vous pouvez garantir que chaque utilisateur a accès uniquement aux informations et aux outils dont il a besoin pour accomplir son travail, tout en protégeant les données confidentielles.
 
-Certains utilisateurs ne peuvent accéder qu'à la partie publique de DOKOS (c'est-à-dire une vue de portail). Ces utilisateurs sont appelés **utilisateurs du site Web**. Les **utilisateurs système** auront accès aux modules et pourront accéder aux documents selon les rôles définis.
+Un rôle est un ensemble d'autorisations attribuées à un utilisateur afin qu'il puisse accéder aux documents dont il a besoin. Par exemple, un employé des ventes aura besoin d'accéder aux transactions de vente, mais n'aura pas accès pour approuver les congés.
 
-DOKOS implémente le contrôle des autorisations au niveau de l'utilisateur et du rôle. Chaque utilisateur du système peut se voir attribuer plusieurs rôles et autorisations. Le rôle le plus important est **Manager du sytème**. Tout utilisateur ayant ce rôle peut ajouter d'autres utilisateurs et définir des rôles pour tous les utilisateurs.
+Certains utilisateurs ne peuvent accéder qu'à la partie publique de DOKOS (Le portail / site web). Ces utilisateurs sont appelés utilisateurs du site Web. Les utilisateurs système auront accès aux modules et pourront accéder aux documents selon les rôles définis.
+
+Chaque utilisateur du système peut se voir attribuer plusieurs rôles et autorisations. Le rôle le plus important est Manager du système. Tout utilisateur ayant ce rôle peut ajouter d'autres utilisateurs et définir des rôles pour tous les utilisateurs.
 
 ---
 ## 1. Utilisateurs et rôles
