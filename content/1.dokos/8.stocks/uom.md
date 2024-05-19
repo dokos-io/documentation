@@ -3,6 +3,10 @@ title: Unité de mesure (UDM)
 description: Dokos rend la gestion des unités de mesure simple et efficace, vous permettant ainsi d'acheter et de vendre avec des unités de mesure différentes.
 ---
 
+::DemoLink{path="/app/uom" demo="Mappemonde"}
+Utilisez la **barre de recherche** pour accéder à la page : **Unité de mesure**.
+::
+
 ## Définition
 
 Une unité de mesure est une référence standard utilisée pour **quantifier** et **gérer** différentes caractéristiques ou grandeurs spécifiques des produits, des stocks ou des services.
@@ -60,19 +64,18 @@ Dans Dokos, le prix est souvent associé à des unités de mesure pour faciliter
 - **Gestion des listes de prix/ règle de prix :** Vous pouvez gérer plusieurs listes de prix, ce qui vous permet d'offrir des tarifs spéciaux ou des remises pour certains clients ou pour certaines périodes. Chaque liste de prix peut avoir des prix définis pour différentes unités de mesure.
 
 ::callout
-Rendez-vous sur la page prix de la documentation.
+Rendez-vous sur la page [**Les prix**](/dokos/parametrage/prix) de la documentation.
 ::
 
-## 3. Site Web 
+## 3. Site Web
 
 Dans le **contexte des abonnements**, pour configurer plusieurs "unités de mesure" (mois, annuel) de l'abonnement sur le site web, accédez à la section "Article du Site web" que vous souhaitez modifier, puis modifiez le champ "Périodes de récurrence autorisées". Assurez-vous que les unités que vous utilisez existent dans votre table "Unité de mesure", et qu'il existe une conversion vers votre unité de base.
 
 Lorsque votre article est disponible sur le site web, Dokos va automatiquement récupérer l'unité de mesure appropriée et configurer les calendriers en conséquence. De plus, il affichera les prix corrects associés à cette unité de mesure pour faciliter l'achat de l'abonnements.
 
 ::callout
-Rendez-vous sur la page personnalisation du site web de la documentation.
+Rendez-vous sur la page [**personnalisation du site web**](dodock/fonctionnalites/site-web/parametres-site-web) de la documentation. 
 ::
-
 
 ## 4. Cas concret
 
