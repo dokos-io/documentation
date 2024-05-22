@@ -2,7 +2,7 @@
 title: Utilisateurs, rôles et autorisations
 ---
 
-# Utilisateurs et autorisations
+
 Dans DOKOS, vous pouvez créer plusieurs utilisateurs et leur attribuer des rôles différents.
 
 La gestion des utilisateurs et des rôles est essentielle pour contrôler l'accès aux données et aux fonctionnalités du système. En définissant clairement les rôles et les autorisations, vous pouvez garantir que chaque utilisateur a accès uniquement aux informations et aux outils dont il a besoin pour accomplir son travail, tout en protégeant les données confidentielles.
@@ -14,12 +14,13 @@ Certains utilisateurs ne peuvent accéder qu'à la partie publique de DOKOS (Le 
 Chaque utilisateur du système peut se voir attribuer plusieurs rôles et autorisations. Le rôle le plus important est Manager du système. Tout utilisateur ayant ce rôle peut ajouter d'autres utilisateurs et définir des rôles pour tous les utilisateurs.
 
 ---
+
 ## 1. Utilisateurs et rôles
 
 - [1. Ajouter un utilisateur](/dodock/fonctionnalites/utilisateurs/utilisateurs)
 - [2. Rôle et profil de rôle](/dodock/fonctionnalites/utilisateurs/roles)
 
-## 2. Autorisations 
+## 2. Autorisations
 
 - [1. Autorisations basées sur les rôles](/dodock/fonctionnalites/utilisateurs/role-et-autorisations)
 - [2. Autorisations des utilisateurs](/dodock/fonctionnalites/utilisateurs/autorisations-utilisateur)
@@ -30,7 +31,6 @@ Chaque utilisateur du système peut se voir attribuer plusieurs rôles et autori
 - [1. Partager un document](/dodock/fonctionnalites/utilisateurs/partager-un-document)
 - [2. Utilisateur limité](/dodock/fonctionnalites/utilisateurs/utilisateurs-limites)
 - [3. Administrateur](/dodock/fonctionnalites/utilisateurs/administrateur)
-
 
 ## Sécurité
 
