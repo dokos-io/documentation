@@ -74,7 +74,7 @@ Dans le **contexte des abonnements**, pour configurer plusieurs "unités de mesu
 Lorsque votre article est disponible sur le site web, Dokos va automatiquement récupérer l'unité de mesure appropriée et configurer les calendriers en conséquence. De plus, il affichera les prix corrects associés à cette unité de mesure pour faciliter l'achat de l'abonnements.
 
 ::callout
-Rendez-vous sur la page [**personnalisation du site web**](dodock/fonctionnalites/site-web/parametres-site-web) de la documentation. 
+Rendez-vous sur la page [**personnalisation du site web**](/dodock/fonctionnalites/site-web/parametres-site-web) de la documentation. 
 ::
 
 ## 4. Cas concret
