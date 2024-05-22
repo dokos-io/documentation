@@ -30,7 +30,7 @@ export default defineNuxtConfig({
   },
   content: {
     highlight: {
-      preload: ['xml', 'python', 'jinja']
+      preload: ['xml', 'python', 'jinja', 'perl']
     },
     locales: ['fr'],
     defaultLocale: 'fr',
