@@ -1,12 +1,12 @@
 ---
 title: Bank API
 description: Middleware pour connecter l'application Bank au fournisseur d'open-banking
-icon: fluent:building-bank-link-16-filled
+icon: i-fluent-building-bank-link-16-filled
 ---
 
 # Bank API
 
-::alert
+::callout
 Cette application permet de faire le lien entre l'application Bank et les fournisseurs de solutions d'open-banking.  
 Elle doit être un installée sur un site Dodock/Dokos distant et sert de passerelle pour les sites Dokos *clients*.  
 ::
@@ -21,7 +21,7 @@ Pour vous connecter, il faut utiliser une combinaison clé privé/clé secrète 
 - `api_key`: Clé publique de connexion au site
 - `api_secret`: Clé privée de connexion au site
 
-::alert
+::callout
 Les clés publiques et privées peuvent être obtenues en créant un utilisateur sur le site sur lequel est installée l'application **Bank API**
 ::
 

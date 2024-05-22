@@ -33,7 +33,7 @@ Dans DOKOS, vous pouvez sauvegarder la base de données ainsi que vos fichiers. 
 
 Ce champ indique le nombre de sauvegardes après lequel les plus anciennes seront supprimées. Par défaut, 3 sauvegardes sont enregistrées sur 24 heures. De nouvelles sauvegardes sont automatiquement créées au bout de quelques heures et la dernière sauvegarde écrasera la plus ancienne. Pour une sauvegarde des fichiers, cliquez sur le bouton **Télécharger** la sauvegarde des fichiers dans le formulaire **Télécharger les sauvegardes**.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 Garder des sauvegardes régulières de votre système est une bonne pratique en cas d'accident et que vous souhaitez revenir en arrière ou simplement pour vos archives.
 ::
 

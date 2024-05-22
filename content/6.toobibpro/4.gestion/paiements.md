@@ -33,7 +33,7 @@ Sélectionnez la bonne méthode de paiement et soumettez votre paiement.
 ![Nouveau Paiement](/content/maia/first_steps/new_payment/payment2.png)
 
 
-:::alert
+:::callout
 *Si vous enregistrez votre paiement après que celui-ci ai été déposé sur votre compte bancaire, profitez-en pour ajouter une date de rapprochement dans le paiement avant de valider. Sinon vous pourrez le faire après la validation.*
 :::
 <br>
@@ -62,7 +62,7 @@ Si la patiente n'a pas payé la totalité des séances, ToobibPro enregistrera u
 Vous pouvez bien entendu modifier manuellement les allocations proposées par ToobibPro.
 
 
-:::alert
+:::callout
 Si votre patiente vous paie des séances en avance, enregistrez bien le montant payé dans un paiement.
 ToobibPro mettra ce montant en attente et vous pourrez le déduire d'un prochain paiement.
 Ce montant sera également soustrait au total des impayés de la patiente dans son dossier patient.

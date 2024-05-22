@@ -33,7 +33,7 @@ ToobibPro va automatiquement déduire le total de ces paiements du poste comptab
 
 ![Paiements en espèces](/content/maia/accounting/cash_deposit/amount_calculation.png)
 
-:::alert
+:::callout
 Lors de l'installation de ToobibPro, un poste comptable "Espèce" est automatiquement configuré pour vous.  
 Vous pouvez tout à fait le renommer ou en ajouter d'autres si besoin depuis la rubrique "Poste comptable"
 :::

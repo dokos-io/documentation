@@ -36,7 +36,7 @@ Ressources humaines > Notes de frais > **Avance d'employé**
 
 ![liste_avance_aux_employés.png](/content/rh/employee-advance/liste_avance_aux_employés.png)
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : L'employé peut uniquement sauvegarder l'avance de l'employé, mais ne peut pas la soumettre. Il ne peut être soumis que par l'approbateur des dépenses.
 ::
 
@@ -64,7 +64,7 @@ L'entrée de paiement ressemblera à ce qui suit :
 
 Alternativement, une écriture de journal peut également être créée contre l'avance de l'employé.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : Assurez-vous que le type de partie est sélectionné comme employé et que le type de référence est sélectionné comme avance d'employé.
 ::
 

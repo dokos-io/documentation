@@ -31,7 +31,7 @@ Avant de créer et d'utiliser une revue qualité, il est conseillé de créer d'
 
 ![détails_notes.png](/content/qualite/quality-review/détails_notes.png)
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : Si la Procédure Qualité est liée à l'Objectif Qualité, la Procédure Qualité sera récupérée dans la Revue Qualité.
 ::
 

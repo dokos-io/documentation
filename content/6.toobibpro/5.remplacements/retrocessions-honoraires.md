@@ -13,6 +13,6 @@ Une fois que vous avez calculé (ou laissé Maia calculer) le montant à rétroc
 N'oubliez pas d'enregistrer ensuite le paiement correspondant.
 
 
-:::alert
+:::callout
 Avant d'enregistrer votre dépense, pensez à créer un tiers pour votre remplaçant·e, car c'est ce tiers qui va être utilisé par ToobibPro pour enregistrer comptablement la dépense.
 :::

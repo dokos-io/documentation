@@ -40,6 +40,6 @@ Avant de créer un résultat d'entraînement, il est conseillé de créer les do
 
 Lorsque le résultat de la formation est soumis, tous les employés recevront un e-mail les informant qu'ils doivent partager leurs commentaires via Training Feedback . Ceci est également géré via une alerte par e-mail, vous pouvez donc également personnaliser cette alerte.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : Vous pouvez également accéder aux résultats de la formation directement à partir du tableau de bord des événements de formation.
 ::

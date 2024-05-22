@@ -101,7 +101,7 @@ XXX
 
 ```
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 Vous avez sûrement remarqué que dans les modèles d'email on n'utilise pas le préfixe `doc.` avant d'appeler un champ de notre document de référence.
 C'est une différence historique de fonctionnement entre les modèles d'emails et les autres documents qui sera probablement corrigée à l'avenir.
 ::

@@ -40,17 +40,17 @@ defineProps({
         </ContentSlot>
         <span v-if="linkText" class="LinkCard--link">
           <span>{{ linkText }}</span>
-          <Icon name="material-symbols:arrow-right-alt-rounded" />
+          <Icon name="i-material-symbols-arrow-right-alt-rounded" />
         </span>
         <span v-else class="LinkCard--arrow">
-          <Icon name="material-symbols:arrow-right-alt-rounded" />
+          <Icon name="i-material-symbols-arrow-right-alt-rounded" />
         </span>
       </p>
     </div>
   </NuxtLink>
 </template>
 
-<style scoped lang="ts">
+<!-- <style scoped lang="ts">
 css({
   '.card': {
     display: 'block',
@@ -116,4 +116,4 @@ css({
     },
   }
 })
-</style>
+</style> -->

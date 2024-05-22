@@ -52,7 +52,7 @@ Le Type permet de définir le type de ces données, il existe plusieurs choix po
 
 3. Il faut repérer le Libellé **Accounting** (les noms des champs sont en anglais) = Comptabilité.
 
-::alert
+::callout
 Les noms des sections sont en **Gras**
 ::
 
@@ -63,7 +63,7 @@ Ici, on voit que le type de champ est une section **Saut de section**.
 
 ![cachez-un-champ.png](/content/use-cases/cachez-un-champ.png)
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 Si vous cachez le champ avec le type **Saut de section**, alors toute les champs présents à l'intérieur de cette section seront masqués.
 ::
 
@@ -77,7 +77,7 @@ Si vous cachez le champ avec le type **Saut de section**, alors toute les champs
 
 Nous allons ajouter un champ **Information** sur le devis. Ce champ permettra d'ajouter des informations personnalisées sur l'article qui sera envoyé dans le devis.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 Ce champ **Information** fait partie de la table article. Cette table d'article est modifié depuis le formulaire Personnalisé : **Item quotation** (Article du devis)
 ::
 
@@ -112,7 +112,7 @@ Dans notre cas, nous allons cochez les champs :
 
 Maintenant, si vous retournez sur le formulaire du Devis, vous allez avoir ce nouveau champ qui sera dans la table d'article. 
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 Si vous voulez que ce champ soit repris sur la commande et la facture, il faut faire la même manipulation mais pour les Formulaires **Article de la commande** et **Article de la facture**. 
 Il faut garder le même nom de libellé pour que ce champ reprenne bien l'information une fois que vous avez validé le devis et que vous le passez en commande.
 ::

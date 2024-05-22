@@ -33,7 +33,7 @@ Pour accéder à la liste de programme de formation, allez sur :
 
 De plus, vous pouvez également rédiger une brève description du programme de formation dans la case Description (facultatif).
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : Par défaut, le statut du programme de formation est « Planifié ». Cependant, vous pouvez modifier le statut en « Terminé » ou « Annulé » selon les besoins.
 ::
 

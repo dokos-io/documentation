@@ -45,7 +45,7 @@ Le rapport est maintenant créé.
 
 ![creer_rapport.png](/content/cas_usage_booming_tiers_lieu/script_report/creer_rapport.png)
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Le langage Python** est le langage de programmation Open source le plus employé par les développeurs. Ce langage s’est propulsé en tête de la gestion d’infrastructure, d’analyse de données ou dans le domaine du développement de logiciels. C'est aussi l'un des langages informatiques les plus utilisés au monde. 
 ::
 
@@ -81,7 +81,7 @@ Pour accéder à la **liste Type de document**, allez sur :
 
 > Accueil > Développement > Modèles > **Type de document**
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Attention les noms des documents sont en anglais**
 ::
 
@@ -99,7 +99,7 @@ Retournez sur le rapport de l'événement que vous venez de créer en allant sur
 
 Sur la liste des rapports, retrouvez le rapport que vous avez créé.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 Pour les rapports de script, la librairie Frappe API est utilisé pour créer et gérer les données. 
 ::
 
@@ -210,7 +210,7 @@ Vous pouvez par exemple ajouter une ligne, ‘le nom du champ' est 'starts_on', 
 
 Et une ligne ‘le nom du champ' est 'ends_on', le libellé est Ends On’, ‘le type de champ’ est ‘date’.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **A noter** :  
 Les filtres que vous ajoutez peuvent être utilisés dans les codes suivants comme :
 -filters.starts_on
@@ -242,7 +242,7 @@ Les événements entre 30/06/2021 et 31/07/2021
 
 ![filtre_date2.png](/content/cas_usage_booming_tiers_lieu/script_report/filtre_date2.png)
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 Quand on ajoute des filtres, le contenu de cette page est modifié donc il faut recharger la page sur le bouton dans le coin supérieur droit.
 ::
 

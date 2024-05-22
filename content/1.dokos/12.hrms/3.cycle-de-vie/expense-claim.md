@@ -100,7 +100,7 @@ Pour effectuer le paiement contre la note de frais, l'utilisateur doit cliquer s
 
 #### Saisie de paiement
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : Ce montant ne doit pas être associé au Salaire car le montant sera alors imposable pour l'Employé.
 ::
 

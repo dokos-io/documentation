@@ -10,7 +10,7 @@ dateCreated: 2022-03-01T18:23:48.000Z
 
 # Créer une commande client via l'API avec Postman
 
-::alert
+::callout
 Postman est une plateforme permettant d'utiliser une API. Nous l'utilisons ici pour simplifier les appels à l'API de Dokos.  
 https://www.postman.com/
 ::
@@ -30,7 +30,7 @@ Exemple: `http://localhost:8000/api/resource/Sales Order`
 |Authorization|token [clé publique]:[clé privée]|
 |Content-Type|application/json|
 
-::alert
+::callout
 Vous pouvez récupérer une clé publique et une clé privée associée à un utilisateur en allant dans ses paramètres utilisateur; section Accès API.
 ::
 
@@ -68,7 +68,7 @@ Exemple en associant votre commande à une réservation d'articles:
 }
 ```
 
-::alert
+::callout
 Seuls le champ `customer`et une ligne de commande (`items`) sont obligatoires, mais il est possible d'ajouter une valeur pour n'importe quel autre champ disponible dans le document.  
 Pour connaître les champs disponible et leur caractère obligatoire ou non, il suffit d'aller dans la liste de Réservations d'article et de sélectionner Menu (...) > Personnaliser.  
 Pour les tables enfants (_Sales Order Item_ par exemple), sélectionnez _Personnaliser une table enfant_ dans la page de personnalisation de formulaire.
@@ -319,7 +319,7 @@ Avec, dans le corps de l'appel, un brouillon de commande créé précédemment:
 }
 ```
 
-::alert
+::callout
 Vous pouvez trouver d'autres méthodes d'API disponibles dans ce fichier: https://gitlab.com/dokos/dodock/-/blob/develop/frappe/client.py
 ::
 
@@ -340,7 +340,7 @@ Corps de l'appel:
 
 Ensuite il ne vous reste plus qu'à poster la facture directement ou via les API de frappe.client
 
-::alert
+::callout
 Vous pouvez modifier le contenu de la facture avant de la poster, pour changer les quantités ou montants facturés par exemple.
 ::
 

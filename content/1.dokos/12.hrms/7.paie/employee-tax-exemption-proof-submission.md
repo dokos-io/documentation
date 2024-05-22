@@ -14,7 +14,7 @@ Les employés sont tenus de fournir des justificatifs de toutes les dépenses po
 
 Cela se fait généralement à la fin d'une période de paie, mais les employés peuvent soumettre n'importe quel nombre de preuves contrairement à la déclaration d'exonération fiscale des employés.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : Créez une déclaration d'exonération fiscale pour les employés avant de créer une soumission de preuve d'exonération fiscale pour les employés
 ::
 
@@ -44,6 +44,6 @@ Les détails sont déjà récupérés si vous cliquez sur **Soumettre une preuve
 
 Le montant total d'exonération sera exonéré des gains annuels imposables de l'employé lors du calcul des retenues d'impôt sur la dernière paie.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : Même si les employés soumettent des preuves d'exemption à tout moment pendant la période de paie, Dokos ne les considérera que lors de la dernière paie de la période de paie pour ajuster les taxes finales en fonction de la preuve soumise. Si vous devez ajuster toute taxe supplémentaire collectée ou envisager de soumettre une preuve des employés à tout moment avant la dernière paie, lors du traitement de l'entrée de la paie (ou dans le bulletin de salaire de l'employé), cochez l' option Déduire la taxe pour la preuve d'exonération fiscale non soumise .
 ::

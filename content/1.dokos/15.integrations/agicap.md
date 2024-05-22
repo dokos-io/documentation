@@ -34,7 +34,7 @@ Les nouvelles factures créées des transactions en attente dans Agicap.
 En cas de modifications sur vos factures, les transactions attendues sont mises à jour sur Agicap.  
 En cas d'annulation d'une facture, la transaction correspondante est supprimée sur Agicap.  
 
-::alert{type=info}
+::callout{icon="i-heroicons-light-bulb" color="teal"}
 La synchronisation est effectuée automatiquement une fois par heure
 ::
 

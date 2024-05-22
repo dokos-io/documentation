@@ -27,7 +27,7 @@ Avant de créer une présence des employés, il est conseillé de créer d'abord
 3. Sélectionnez les employés.
 4. Marquez Présent, Absent ou Demi-journée selon les besoins.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : La participation ne peut pas être marquée pour des dates futures.
 ::
 

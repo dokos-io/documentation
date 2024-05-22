@@ -34,7 +34,7 @@ Vous pouvez envoyez tous les événements liés aux documents:
 
 Copiez ensuite la clé secrète et collez là dans votre compte Stripe sur dokos.
 
-::alert{type=info}
+::callout{icon="i-heroicons-light-bulb" color="teal"}
 Vous pouvez également créer les webhooks depuis Dokos en cliquant sur le bouton *Webhooks > Créer des webhooks Stripe* disponible dans le document de Paramètres Stripe.
 ::
 

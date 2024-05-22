@@ -28,7 +28,7 @@ Vous pouvez également mettre à jour le point de départ d'une série en entran
 
 Cliquez sur le bouton Mettre à jour pour mettre à jour l'ensemble des séries de dénomination pour le document sélectionné.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 Remarque : Pour voir la série de noms nouvellement ajoutée, cliquez sur Paramètres > Recharger.
 ::
 

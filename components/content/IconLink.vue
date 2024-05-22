@@ -1,5 +1,5 @@
 <template>
-  <NuxtLink prefetch :href="href" :target="target" class="icon-link" :class="{ 'icon-link--underline': underline }">
+  <NuxtLink prefetch :to="href" :target="target" class="icon-link" :class="{ 'icon-link--underline': underline }">
     <Icon :name="icon" />
     <span class="icon-link__text">
       <ContentSlot :use="$slots.default" unwrap="p" />
@@ -23,7 +23,7 @@ const props = defineProps({
   },
   icon: {
     type: String,
-    default: 'material-symbols:link'
+    default: 'i-material-symbols-link'
   },
   target: {
     type: String,
@@ -36,7 +36,7 @@ const props = defineProps({
 })
 </script>
 
-<style scoped lang="ts">
+<!-- <style scoped lang="ts">
 css({
   '.icon-link': {
     display: 'inline-flex',
@@ -54,4 +54,4 @@ css({
     }
   },
 })
-</style>
+</style> -->

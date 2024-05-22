@@ -10,7 +10,7 @@ ToobibPro dispose d'un module de prise de rendez-vous vous permettant de créer 
 1 .  Allez dans `Rendez-vous > Rendez-vous` et cliquez sur "**Nouveau(elle)**".
 
 
-:::alert
+:::callout
 *Jonglez entre la vue en liste et la vue calendrier à gauche de votre écran pour visualiser vos rendez-vous. Vous pouvez même créer un nouveau rendez-vous depuis la vue calendrier en faisant glisser votre souris sur le créneau qui vous intéresse.*  
 :::
 
@@ -21,7 +21,7 @@ ToobibPro dispose d'un module de prise de rendez-vous vous permettant de créer 
 
 ![Nouveau Rendez-Vous](/content/maia/appointments/nouveau_rdv.png)  
 
-:::alert
+:::callout
 *Choisissez des couleurs différentes pour visualiser facilement le type de consultation dans votre agenda !*  
 :::
 

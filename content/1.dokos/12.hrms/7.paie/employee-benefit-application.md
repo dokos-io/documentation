@@ -49,7 +49,7 @@ Ici, l'employé peut afficher les avantages maximum selon l'affectation de la co
 
 C'est sur la base de la demande d'avantages sociaux que le montant maximal de l'avantage sera réparti entre les éléments de rémunération flexibles lors de la génération du bordereau de salaire. Si un employé ne soumet pas la demande d'avantages sociaux avant le traitement de la paie, le montant maximal des avantages éligibles pour l'employé sera distribué proportionnellement à chacun des éléments flexibles présents dans la structure salariale de l'employé.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : Les employés ne peuvent soumettre qu'une seule demande d'avantages sociaux pour une période de paie.
 ::
 
@@ -57,6 +57,6 @@ La demande d'avantages sociaux doit couvrir le montant total que l'employé doit
 
 Notez également que les éléments qui doivent être reçus sur la base des demandes d'avantages sociaux peuvent également faire partie de la demande, mais ne seront versés que sous forme de somme forfaitaire, dans le cadre de leur salaire lorsque l'employé soumet une demande pour cela.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : Le calcul de l'impôt normal n'inclut pas les avantages flexibles, car dans la plupart des cas, ils sont exonérés d'impôt. Pour imposer ces composants à tout moment avant la dernière paie, utilisez Déduire l'impôt pour les avantages sociaux non réclamés dans Saisie de la paie / Bulletin de salaire lors du traitement du salaire.
 ::

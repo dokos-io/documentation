@@ -42,6 +42,6 @@ Dans cette section, vous pouvez indiquer les preuves de dépenses. Joignez une p
 
 Ici, l'employé peut voir le montant admissible selon son affectation de structure salariale et réclamer le montant qu'il souhaite recevoir dans le cadre de son prochain salaire. Tout montant restant que l'employé n'a pas réclamé, au cours d'une période de paie, sera versé dans le cadre du dernier salaire de paie.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : Le calcul de l'impôt normal n'inclut pas les avantages flexibles, car dans la plupart des cas, ils sont exonérés d'impôt. Pour imposer ces composants à tout moment avant la dernière paie, utilisez Déduire l'impôt pour les avantages sociaux non réclamés dans Saisie de la paie / Bulletin de salaire lors du traitement du salaire.
 ::

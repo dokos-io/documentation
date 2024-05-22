@@ -58,7 +58,7 @@ Tout d'abord, il faut ajouter sur le type de document Commande client / Facture 
 
 ![ajouter-nouvelle-ligne.png](/content/use-cases/ajouter-nouvelle-ligne.png)
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 Avant cela, ajoutez un champ **Saut de section**, cela vous permettra d'avoir une section indépendante - Déplacez ce champ à la ligne 17.
 ::
 

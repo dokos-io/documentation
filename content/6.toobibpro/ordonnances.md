@@ -23,7 +23,7 @@ Sélectionnez ensuite le type d'ordonnance à imprimer dans le menu déroulant "
 ![Impression Ordonnances](/content/maia/first_steps/prescription/imprimer.png)
 
 
-:::alert
+:::callout
 *Passer par la fiche de CONSULTATION permet d'imprimer une ordonnance rapidement. Pour créer un document PDF, il faut faire une ordonnance libre.*
 :::
 <br>
