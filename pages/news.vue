@@ -5,7 +5,7 @@ definePageMeta({ layout: "docs" })
 
 <template>
   <UPage>
-    <UPageHeader title="Dernière mises à jour" />
+    <UPageHeader title="Dernières mises à jour" />
 
     <UPageBody prose>
       <div>
