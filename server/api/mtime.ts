@@ -40,21 +40,16 @@ async function doFetch() {
       },
     })
 
+    console.log(data)
     const page = data[0]
-    page._updatedAt = mtime
+    if (!page) return
+    page.updatedAt = mtime
     return page
   }))
 
-  return { recentFiles }
+  return { recentFiles: recentFiles.filter(Boolean) }
 }
 
-let prom
-
 export default defineEventHandler(async () => {
-  if (!prom) {
-    prom = doFetch()
-  } else {
-    return []
-  }
-  return await prom
+  return await doFetch()
 })
