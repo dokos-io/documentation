@@ -46,13 +46,13 @@ Dans la section **Nom et Type**, allez dans sur le champs **Catégorie de taxe**
 
 Puis faites enregistrer.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 Il est important de bien lier votre **catégorie de TVA** à **votre modèle de taxes et frais**.
 ::
 
 Maintenant, si vous créez un devis, une commande etc.. aucune TVA ne sera appliqué. Le montant de la TVA sera de 0€.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 Si vous êtes un auto-entrepreneur ou une société qui n'est pas assujeti à la TVA, pensez bien à faire figurer la mention **TVA non applicable, article 293B du CGI** sur vos documents.
 ::
 

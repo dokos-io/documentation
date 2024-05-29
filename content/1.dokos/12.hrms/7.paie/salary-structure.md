@@ -70,13 +70,13 @@ Vous pouvez également affecter la structure salariale créée à plusieurs empl
 
 Les gains spécifient les éléments de salaire gagnés par un employé. Ces composants comprennent généralement les indemnités de base, les indemnités, les primes et les incitations qui sont ajoutées au salaire total de l'employé. D'autre part, les déductions spécifient les éléments de salaire qui sont déduits du salaire total de l'employé. Ceux-ci incluent généralement les taxes.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : Seuls les éléments de salaire définis comme « gains » seront affichés dans le tableau des gains et les éléments définis comme « retenues » seront affichés dans le tableau des déductions.
 ::
 
 Pour créer des Revenus et des Déductions, sélectionnez la Composante Salaire dans la colonne Composant. Saisissez la formule/condition si elle n'a pas été spécifiée précédemment lors de la création de la composante salariale. De plus, vous pouvez également saisir un montant prédéfini dans la colonne Montant.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : Assurez-vous de cliquer sur la flèche vers le bas et d'activer la case à cocher « Montant basé sur la formule » au cas où la composante salariale est calculée à l'aide d'une formule.
 ::
 

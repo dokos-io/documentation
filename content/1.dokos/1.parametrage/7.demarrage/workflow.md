@@ -88,7 +88,7 @@ Dans les États, l'état de flux de travail facultatif signifie que l'état peut
 
 Par exemple, des états comme Annulé ou Rejeté peuvent être facultatifs.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 Remarque : les actions de workflow ne sont pas créées pour les états facultatifs.
 ::
 

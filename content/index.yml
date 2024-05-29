@@ -1,0 +1,135 @@
+title: "Ecosytème open-source d'applications d'entreprise"
+description: Maîtrisez l'écosystème Dokos
+navigation: false
+hero:
+  title: "Maîtrisez l'écosystème Dokos"
+  description: Dokos est un logiciel de gestion d'entreprise open-source construit sur le modèle applicatif Dodock. Son écosystème est constitué d'applications complétementaires répondant à des besoins métiers précis.
+  orientation: vertical
+  headline:
+    label: Dodock et Dokos sont des adaptations de Frappe et ERPNext
+    to: https://frappeframework.com
+    icon: i-heroicons-arrow-top-right-on-square-20-solid
+  links:
+    - label: Installer Dokos
+      icon: i-heroicons-arrow-right-20-solid
+      trailing: true
+      to: '/dodock/installation'
+      size: lg
+    - label: Contribuer →
+      icon: i-simple-icons-gitlab
+      size: lg
+      color: gray
+      to: /dodock/contribuer
+demo:
+  title: Essayez Dokos sur une de nos <span class='text-primary'>démos publiques</span>
+  items:
+    - title: Dokompany
+      description: Développez l'entreprise qui produit et commercialise la fameuse Dokoboard
+      icon: 'i-fluent-manufacturer-24-filled'
+      to: 'https://demo.dokos.cloud'
+      color: green
+      orientation: 'horizontal'
+      image: '/dokoboard.png'
+      target: '_blank'
+    - title: Mappemonde
+      description: Gérez un tiers lieu proposant de nombreux services
+      icon: 'i-material-symbols-hive'
+      to: 'https://tierslieux.dokos.cloud'
+      color: green
+      orientation: 'horizontal'
+      image: '/coworking.jpg'
+      target: '_blank'
+modules:
+  title: 'Modules et applications'
+  items:
+    - title: Création d'applications Low-Code
+      description: "Créez des applications métiers fiables grâce au framework low-code Dodock"
+      icon: 'i-carbon-container-software'
+      to: '/dodock'
+    - title: CRM
+      description: Gestion de la prospection
+      icon:  i-carbon-chart-relationship
+      to: /dokos/crm
+    - title: Ventes
+      description: Gestion du flux commercial
+      icon: i-ep-sell
+      to: /dokos/ventes
+    - title: Achats
+      description: Gestion des achats
+      icon: i-icon-park-outline-buy
+      to: /dokos/achats
+    - title: Comptabilité
+      description: Saisie de la comptabilité et états financiers
+      icon: i-uil-balance-scale
+      to: /dokos/comptabilite
+    - title: Projets
+      description: Suivi des projets et des temps
+      icon: i-eos-icons-project-outlined
+      to: /dokos/projets
+    - title: Stocks
+      description: Gestion des niveaux et des valorisations de stock
+      icon: i-vaadin-stock
+      to: /dokos/stocks
+    - title: Production
+      description: De l'achat des matières premières à la création de produits finis
+      icon: i-fluent-manufacturer-24-regular
+      to: /dokos/production
+    - title: 'Qualité'
+      description: Création de processus et suivi de la qualité
+      icon: i-carbon-rule-data-quality
+      to: '/dokos/qualite'
+    - title: 'Support'
+      description: Outil de gestion de ticket pour le support client
+      icon: 'i-ri-customer-service-2-line'
+      to: '/dokos/support'
+    - title: Réservations de ressources
+      description: Création de contrats, génération d'abonnements, crédits de réservation et événements
+      icon: 'i-material-symbols-location-on-outline-rounded'
+      to: '/dokos/lieu'
+    - title: Ressources Humaines
+      description: Gestion des congés, notes de frais, recrutement, quarts et présence, performance
+      icon: 'i-mdi-human-capacity-increase'
+      to: '/dokos/hrms'
+    - title: Portail web & e-commerce
+      description: Vente de produits/services, réservations de ressources en ligne et création d'un portail client/fournisseur
+      icon: 'i-gg-website'
+      to: '/dokos/e-commerce'
+    - title: "Chantiers et ouvrages"
+      description: "Module dédié à la gestion d'ouvrages et de chantiers"
+      icon: 'i-healthicons-construction-worker'
+      to: '/integrations'
+    - title: 'OCR'
+      description: 'Reconnaissance automatique des factures et notes de frais'
+      icon: 'i-mdi-ocr'
+      to: '/integrations'
+    - title: 'Paiements en ligne'
+      description: 'Collecte de paiements en ligne'
+      icon: 'i-ic-twotone-payments'
+      to: '/integrations/payments'
+    - title: Intégrations
+      description: Sauvegarde externalisées, services Google, e-commerce, connecteurs no-code
+      icon: i-mdi-connection
+      to: '/integrations'
+    - title: 'ToobibPro'
+      description: Gestion de patientèle pour les professionnels de santé libéraux
+      icon: 'i-healthicons-doctor-female-outline'
+      to: '/toobibpro'
+admin:
+  title: 'Administration du logiciel'
+  links:
+    - label: "Hébergement et Services"
+      icon: 'i-carbon-container-software'
+      trailingIcon: 'i-heroicons-arrow-right-20-solid'
+      color: 'gray'
+      to: 'https://dokos.io'
+      target: '_blank'
+      size: lg
+  items:
+    - title: Contrôlez et personnalisez votre site Dokos
+      description: Créez des applications métiers fiables grâce au framework low-code Dodock
+      icon: i-carbon-container-software
+      to: /dodock
+    - title: Créez des applications Low-Code
+      description: "Créez des applications métiers fiables grâce au framework low-code Dodock"
+      icon: 'i-carbon-container-software'
+      to: '/dodock'

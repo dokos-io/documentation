@@ -26,7 +26,7 @@ Un **Espace de travail** représente un module (par exemple CRM dans Dokos). Un 
 
 Toute personnalisation à apporter à l'espace de travail standard peut être effectuée avec l'option **Personnaliser** l'espace de travail dans le coin supérieur droit de l'espace de travail.
 
-:::alert{type=warning}
+:::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 Ces personnalisations seront spécifiques à l'utilisateur et ne seront visibles que par cet utilisateur.
 :::
 

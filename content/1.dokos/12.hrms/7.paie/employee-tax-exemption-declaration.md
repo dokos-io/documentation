@@ -41,7 +41,7 @@ Avant de créer une déclaration d'exonération fiscale des employés, il est co
 
 Le montant total de l'exonération sera exonéré des gains annuels imposables de l'employé lors du calcul des retenues d'impôt sur la paie.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : Les employés ne peuvent soumettre qu'une seule déclaration d'exonération fiscale pour une période de paie.
 ::
 

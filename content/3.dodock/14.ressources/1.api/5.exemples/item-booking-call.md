@@ -10,7 +10,7 @@ dateCreated: 2022-03-01T17:27:36.894Z
 
 # Créer une réservation d'article via l'API avec Postman
 
-::alert
+::callout
 Postman est une plateforme permettant d'utiliser une API. Nous l'utilisons ici pour simplifier les appels à l'API de Dokos.
 https://www.postman.com/
 ::
@@ -30,7 +30,7 @@ Exemple: `http://localhost:8000/api/resource/Item Booking`
 |Authorization|token [clé publique]:[clé privée]|
 |Content-Type|application/json|
 
-::alert
+::callout
 Vous pouvez récupérer une clé publique et une clé privée associée à un utilisateur en allant dans ses paramètres utilisateur; section Accès API.
 ::
 
@@ -46,7 +46,7 @@ Exemple:
 }
 ```
 
-::alert
+::callout
 Seuls les champs `item`, `starts_on` et `ends_on` sont obligatoires, mais il est possible d'ajouter une valeur pour n'importe quel autre champ disponible dans le document.
 Pour connaître les champs disponible et leur caractère obligatoire ou non, il suffit d'aller dans la liste de Réservations d'article et de sélectionner Menu (...) > Personnaliser.
 ::

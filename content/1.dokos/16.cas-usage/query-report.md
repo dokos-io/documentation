@@ -80,7 +80,7 @@ Pour accéder à la **liste Type de document**, allez sur :
 > Accueil > Développement > Modèles > **Type de document**
 
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Attention les noms des documents sont en anglais**
 ::
 
@@ -111,7 +111,7 @@ Il faut écrire sous "**Requête**" :
 SELECT name, subject, starts_on, ends_on, _assign, description
 FROM tabEvent
 ```
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 (Attention! Nom des champs ‘name’ et 'assign' est défini par défaut et ils ne s'affichent pas)
 ::
 
@@ -237,7 +237,7 @@ On voit ensemble les résultats d’affiches.
 ![Résultat affiché](/content/cas_usage_booming_tiers_lieu/booming_19.png)
 ![Résultat affiché](/content/cas_usage_booming_tiers_lieu/booming_20.png)
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 Attention! Quand vous ajoutez des filtres, le contenu de la page est modifié donc il faut recharger la page en cliquant sur le bouton dans le coin supérieur droit.
 ::
 

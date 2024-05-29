@@ -16,7 +16,7 @@ Une codification est constituée des éléments suivants:
 
 Vous pouvez créer autant de nouvelles consultations que vous le souhaitez en fonction de vos spécificités locales.
 
-:::alert
+:::callout
 *Lorsque vous définissez des codifications pour des actes hors nomenclature, le prix CPAM doit être égal à 0, car la CPAM ne rembourse pas ce type d'acte*
 :::
 

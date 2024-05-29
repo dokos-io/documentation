@@ -28,7 +28,7 @@ Afin de configurer vos paramètres d'impression, allez sur :
   Dans le cas contraire, l'en-tête sera seulement ajouté sur la première page et le pied de page ne sera pas affiché.
 - **Taille de la page en PDF**: Les tailles de pages officiellement supportées sont `A4` et `Lettre`.
 
-::alert
+::callout
 Si besoin, vous pouvez personnaliser le champ de taille de la page en PDF pour ajouter d'autres options supportées par [wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf/blob/master/src/lib/pdfsettings.cc) (La librairie de génération de PDF).  
 Ex. A0, A1,..., A5, A6,... Folio, Tabloid,...
 ::

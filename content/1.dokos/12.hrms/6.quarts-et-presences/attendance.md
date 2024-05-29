@@ -40,7 +40,7 @@ Avant de créer un enregistrement de présence, il est conseillé de créer d'ab
 
 ![nouvelle_présence.png](/content/rh/attendance/nouvelle_présence.png)
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 > **Remarque** : La participation ne peut pas être marquée pour des dates futures.
 ::
 

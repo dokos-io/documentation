@@ -3,7 +3,7 @@
         <hr />
         <ContentSlot :use="$slots.default" unwrap="p" />
         <figcaption>
-            <Icon name="material-symbols:image-outline" class="icon" />
+            <Icon name="i-material-symbols-image-outline" class="icon" />
             <ContentSlot :use="$slots.caption" unwrap="p" />
         </figcaption>
         <hr />

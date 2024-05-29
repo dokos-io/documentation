@@ -49,7 +49,7 @@ L'heure de la journée à laquelle commence ce quart de travail. L'heure doit ê
 
 L'heure de la journée à laquelle ce quart se termine. L'heure doit être saisie au format 24H.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : Pour les cas où l'**Heure de fin** est inférieure à l **Heure de début**, le quart de travail est supposé être un quart de nuit qui commence à une date calendaire et se termine à la date calendaire suivante.
 ::
 

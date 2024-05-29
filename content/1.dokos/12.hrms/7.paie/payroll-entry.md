@@ -38,7 +38,7 @@ Une fois les informations enregistrées, cliquez sur le bouton Obtenir des emplo
 
 Une fois la liste des Employés récupérée, cliquez sur le bouton Créer des fiches de salaire pour générer des fiches de salaire.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : Si les fiches de salaire sont déjà créées, le système ne créera plus de fiches de salaire. Vous pouvez également simplement enregistrer le formulaire en tant que brouillon et créer les fiches de salaire plus tard.
 ::
 
@@ -68,7 +68,7 @@ Si vous souhaitez comptabiliser des dépenses sur plusieurs centres de coûts en
 
 ![dimensions_comptables.png](/content/payroll/payroll-entry/dimensions_comptables.png)
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : La soumission manuelle des bulletins de salaire un par un ne créera pas l'écriture de journal pour enregistrer l'accumulation de salaire.
 ::
 
@@ -88,6 +88,6 @@ L'entrée de la paie vous dirigera vers l'entrée de journal avec des filtres pe
 
 ![écriture_de_paiement.png](/content/payroll/payroll-entry/écriture_de_paiement.png)
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : Pour les éléments de salaire qui sont des avantages flexibles et pour lesquels la case Créer une écriture de paiement distincte contre demande d'avantages est cochée, ERPNext enregistrera des écritures de journal provisoires distinctes.
 ::

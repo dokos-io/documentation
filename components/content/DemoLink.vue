@@ -28,7 +28,7 @@ const props = defineProps({
   },
   icon: {
     type: String,
-    default: 'material-symbols:description-outline'
+    default: 'i-material-symbols-description-outline'
   },
 })
 

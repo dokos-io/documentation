@@ -36,7 +36,7 @@ Les variantes peuvent être basées sur deux choses :
 
 4. En sélectionnant «Possède des variantes», un tableau apparaîtra. Spécifiez les attributs de variante pour l'article dans le tableau. Si l'attribut a des valeurs numériques, vous pouvez spécifier la plage et créer des intervalles basés sur les valeurs d'incrément.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 Remarque: vous ne pouvez pas effectuer de transactions par rapport à un «modèle».
 ::
 

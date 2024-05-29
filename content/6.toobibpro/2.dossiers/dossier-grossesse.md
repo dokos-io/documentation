@@ -37,7 +37,7 @@ Vous avez maintenant le dossier de grossesse qui s'affiche dans la liste.
 
 Cliquez sur le nom de votre patiente, vous êtes maintenant dans le dossier de la grossesse actuelle!
 
-:::alert
+:::callout
 *Le dossier de grossesse est voué à être complété au fil du temps. Si durant votre consultation, vous n'avez donc pas le temps d'aller plus loin que votre recueil de données, n'oubliez pas de créer une consultation de grossesse afin de comptabiliser votre acte.*
 :::
 

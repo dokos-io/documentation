@@ -39,15 +39,15 @@ Avant de créer une demande de présence, il est conseillé de créer d'abord le
 
 ![créer_demande_de_validation.png](/content/rh/attendance-request/créer_demande_de_validation.png)
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque 1** : Vous pouvez cocher la case **Demi-journée** et saisir la date au cas où la participation est pour une demi-journée.
 ::
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 > **Remarque 2**: Sur présentation de la même chose, les documents de présence seront créés pour les jours que vous avez mentionnés comme indiqué.
 ::
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 > **Remarque 3** : Vous pouvez soumettre une demande de présence uniquement pour une présence non indiquée.
 ::
 

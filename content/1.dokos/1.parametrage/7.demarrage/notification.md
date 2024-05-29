@@ -121,7 +121,8 @@ Au lieu de cela, vous pouvez utiliser le formatage Markdown : Slack Documentatio
 
 Exemple : {% raw %} Commande en retard
 
-```Transaction {{ doc.name }} has exceeded Due Date. Please take the necessary action.
+```jinja
+Transaction {{ doc.name }} has exceeded Due Date. Please take the necessary action.
 
 {% if comments %}
 Last comment: {{ comments[-1].comment }} by {{ comments[-1].by }}
@@ -132,7 +133,7 @@ Last comment: {{ comments[-1].comment }} by {{ comments[-1].by }}
 • Customer: {{ doc.customer }}
 • Amount: {{ doc.grand_total }}
 {% endraw %}
-````
+```
 
 ## 3. Notifications système
 

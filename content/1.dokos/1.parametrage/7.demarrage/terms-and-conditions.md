@@ -54,7 +54,7 @@ Voici quelques sujets courants que les conditions générales devraient contenir
 - Adresse et contact de votre entreprise.
 - Les termes et conditions sont les dispositions générales et spéciales, les dispositions, les exigences, les règles, les spécifications et les normes suivies par une entreprise. Ces spécifications font partie intégrante d'un accord ou d'un contrat que l'entreprise conclut avec ses clients, fournisseurs ou partenaires.
 
-Pour plus d'informations sur les Conditions générales de vente, consultez la rubrique officielle <a href=https://www.service-public.fr/professionnels-entreprises/vosdroits/F33527>ici</a>.
+Pour plus d'informations sur les Conditions générales de vente, consultez la rubrique officielle [Site du service public](https://www.service-public.fr/professionnels-entreprises/vosdroits/F33527)ici.
 
 
 

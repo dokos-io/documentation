@@ -14,7 +14,7 @@ Une offre d'emploi est une offre qui est à pourvoir dans votre entreprise. Vous
 
 Dokos permet de planifier les recrutements pour votre entreprise. Le nombre d'ouvertures de poste que vous pouvez créer pour une désignation est limité en fonction des postes vacants prévus par le plan d'effectifs défini pour l'entreprise ou l'une de ses sociétés mères dans la hiérarchie.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : Assurez-vous que la case **Vérifier les postes vacants lors de la création d'une offre d'emploi** est cochée dans la section Paramètres d'embauche des paramètres RH.
 ::
 
@@ -69,6 +69,6 @@ Saisissez toutes les informations relatives à la rémunération et à la devise
 
 Une fois l'offre d'emploi enregistrée, vous pouvez directement créer un nouveau demandeur d'emploi à partir du tableau de bord.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : Vous pouvez définir le statut de l'ouverture de tâche comme Ouvert/Fermé. Une fois qu'une offre d'emploi est fermée, vous ne pouvez pas créer de postulant pour celle-ci
 ::

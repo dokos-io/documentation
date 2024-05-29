@@ -22,7 +22,7 @@ Maintenant, tout est bon?
 
 Il ne vous reste plus qu'à choisir entre faire avancer les frais immédiatement ou ne pas faire payer la patiente.
 
-:::alert
+:::callout
 *Si vous faites avancer les frais, mais uniquement après plusieurs séances, ne cochez pas la case. Celle-ci est uniquement pour le règlement immédiat de cette consultation.*
 :::
 
@@ -39,7 +39,7 @@ Si vous avez choisi l'option "Tiers Payant" le calcul est automatique et différ
 Il ne vous reste plus qu'à entrer le mode de paiement choisi par la patiente et la référence (numéro du chèque par exemple).  
 La référence n'est pas obligatoire, mais vous permettra de faciliter vos rapprochements bancaires.  
 
-:::alert
+:::callout
 *Si besoin, vous pouvez ajouter ou supprimer des méthodes de paiement. Par exemple, vous pouvez retirer le paiement par CB de la liste ou ajouter Lydia. Dans ce cas, attention à bien choisir le type de paiement "Banque" ou "Espèces" et à attribuer le compte bancaire ou le poste comptable correspondant. Si vous avez deux comptes bancaires professionnels, vous devez créer des méthodes de paiement pour chaque compte bancaire.*  
 :::
 

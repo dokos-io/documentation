@@ -47,7 +47,7 @@ Si vous n'avez pas fait d'enregistrement de présence alors vous aurez la sectio
 
 ![présence_non_indiquée.png](/content/rh/employee-attendance-tool/présence_non_indiquée.png)
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 > **Remarque** : La participation ne peut pas être marquée pour des dates futures.
 ::
 

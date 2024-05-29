@@ -34,7 +34,7 @@ Vous pouvez le changer si vous souhaitez synchroniser ce rendez-vous avec un aut
 
 ![Synchronisation des rendez-vous](/content/maia/appointments/sync_booking.png)
 
-:::alert 
+:::callout 
 L'option `Synchroniser avec Google Agenda` est cochée par défaut si vous avez activé `Synchroniser tous les événements avec Google Agenda par défaut` dans votre fiche d'informations professionnelle.  
 Il en est de même pour les rendez-vous créés en ligne par vos patientes.  
 :::
@@ -43,6 +43,6 @@ Vous pouvez modifier vos rendez-vous sur les deux plateformes, en prenant en com
 - Si vous créez un événement dans Google Agenda, cela créera forcément un événement personnel dans ToobibPro
 - Si vous modifier un événement au sein d'une récurrence, le changement ne sera pas pris en compte dans ToobibPro. Il faut que vous changiez toutes les occurences pour que cela soit réflété dans ToobibPro.
 
-:::alert{type=warning}
+:::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 Lorsque vous créez un rendez-vous, la modification dans Google Agenda est quasi immédiate, tandis que si vous créez/modifiez un événement sur Google Agenda, il peut mettre une minute à être créé dans ToobibPro.
 :::

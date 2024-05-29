@@ -14,7 +14,7 @@ Une station de travail stocke des informations concernant l'endroit où les opé
 
 Les données concernant le coût de fonctionnement, le loyer, l'électricité peuvent être stockées ici.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : une opération peut avoir lieu sur plusieurs postes de travail.
 ::
 

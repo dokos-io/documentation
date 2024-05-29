@@ -33,7 +33,7 @@ Pour accéder à **la liste de Affectation de quart**, allez sur :
 
 ## 2. Comment créer une affectation de quart
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : Une fois la sélection de quart approuvée et soumise, elle crée automatiquement les affectations de quart pour un employé.
 ::
 

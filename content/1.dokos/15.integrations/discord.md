@@ -32,7 +32,7 @@ Dans Dokos, rendez-vous dans la liste des <q>Notifications</q> et créez un nouv
 
 ![Le champ "Canal" contient la valeur "Outil de collaboration externe", et le champ "URL de webhook entrant de l'outil de collaboration" contient la valeur "Discord"](/content/integrations/discord/notification-discord-1.png)
 
-::alert{type="info"}
+::callout{icon="i-heroicons-light-bulb" color="teal"}
 Astuce : Un lien vers le document sur Dokos est automatiquement ajouté à la fin du message.
 ::
 

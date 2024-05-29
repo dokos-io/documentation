@@ -18,7 +18,7 @@ defineProps({
   </NuxtLink>
 </template>
 
-<style scoped lang="ts">
+<!-- <style scoped lang="ts">
 css({
   '.link': {
     color: '{color.primary.900}',
@@ -55,4 +55,4 @@ css({
     height: '{space.4}'
   }
 })
-</style>
+</style> -->

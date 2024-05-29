@@ -37,7 +37,7 @@ Avant de créer un demandeur d'emploi, il est conseillé de créer les élément
 3. Sélectionnez Ouverture de poste.
  4.Sélectionnez la source (campagne, recommandation d'employé, visite, liste de sites Web).
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : Si vous sélectionnez la source comme référence d'employé, vous devrez sélectionner le nom de l'employé dans le champ Nom de la source.
 ::
 

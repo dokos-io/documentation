@@ -54,11 +54,11 @@ Avant de créer une séparation d'employé, il est conseillé de créer les docu
 
 ![modèle_départ.png](/content/rh/employee-seperation/modèle_départ.png)
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque 1** : Si un modèle de départ d'employés n'est pas créé, vous pouvez directement remplir les informations de séparation dans le doctype de séparation d'employés lui-même.
 ::
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque 2** : Le **Statut** de la cessation d'emploi de l'employé deviendra Terminé une fois que toutes les activités associées seront terminées.
 ::
 

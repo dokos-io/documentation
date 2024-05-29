@@ -21,7 +21,7 @@ Vous n'avez qu'à sélectionner le tiers qui vous a fait la facture et à enregi
 ![Frais de repas](/content/maia/first_steps/buying/meal_expense.png)
 
 
-:::alert
+:::callout
 L'équipe ToobibPro a pré-enregistré les montants des déductions et limites autorisées par l'administration fiscale, mais vous pouvez les modifier ci-besoin en allant dans "Comptabilité > Déduction pour les frais de repas"
 :::
 

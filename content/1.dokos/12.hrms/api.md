@@ -1,5 +1,5 @@
 ---
-icon: carbon:api-1
+icon: i-carbon-api-1
 title: API
 ---
 

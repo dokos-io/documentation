@@ -10,6 +10,6 @@ dateCreated: 2021-06-14T06:45:59.680Z
 
 # Enregistrement des employés
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 Contenu bientôt disponible
 ::

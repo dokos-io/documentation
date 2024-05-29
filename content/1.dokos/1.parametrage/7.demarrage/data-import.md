@@ -15,7 +15,7 @@ Pour commencer à importer des données, allez sur :
 
 Ou allez dans le document que vous souhaitez importer et cliquez sur Menu > **Importer**:
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 Avant d'utiliser l'importation de données, assurez -vous que toutes vos données sont prêtes.
 ::
 
@@ -53,7 +53,7 @@ Lorsque vous importez ce modèle, chaque ligne crée un enregistrement client da
 2. Sélectionnez le fichier modèle et cliquez sur **Télécharger** .
 3. Une fois le téléchargement réussi, cliquez sur **Démarrer l'importation**.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 S'il y a des erreurs dans votre modèle, elles seront affichées dans la section **Avertissements**. Les avertissements seront classés par ligne ou colonne avec leur numéro afin que vous puissiez facilement les retrouver dans le modèle et les résoudre. Vous devez résoudre tous les avertissements avant de pouvoir importer les données.
 ::
 
@@ -79,7 +79,7 @@ Votre modèle téléchargé ressemblera à ceci :
 
 Maintenant, modifiez les valeurs de votre modèle et enregistrez le fichier au format Excel ou CSV.
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 Lors de l'exportation des enregistrements pour les mettre à jour, assurez-vous que la colonne ID est exportée et qu'elle n'est pas modifiée. Les valeurs de la colonne ID sont utilisées pour identifier les enregistrements dans le système. Vous pouvez mettre à jour les valeurs dans d'autres colonnes mais pas dans la colonne ID.
 ::
 

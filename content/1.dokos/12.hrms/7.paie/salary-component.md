@@ -78,7 +78,7 @@ Dans cette section, la condition et la formule requises pour le calcul de la com
 
 Dans le cas où la Composante Salaire est basée sur un montant prédéfini, Dokos vous permet de saisir directement le montant dans le champ Montant (désactivez la case à cocher « Montant basé sur la formule »).
 
-::alert{type=warning}
+::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
 **Remarque** : Cette configuration ci-dessus est facultative. Vous pouvez également définir le montant et la formule/condition pour une composante salariale directement dans la structure salariale. S'ils sont spécifiés dans le document de la composante salariale lui-même, les informations seront directement récupérées dans la structure salariale lorsque la composante est sélectionnée.
 ::
 
