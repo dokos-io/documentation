@@ -1,27 +1,29 @@
 ---
-title: Scripts Python
+title: Scripts serveur Python
 ---
 
-**Un script python vous permet d'écrire un script exécuté sur le server et généré via un événement de document ou via l'API**
+**Un script serveur Python vous permet d'écrire un script exécuté sur le serveur et déclenché via un événement de document ou via un appel à l'API web**
 
-## 1. Comment créer un script python
+## 1. Comment créer un script serveur en Python
 
-Pour créer un script python
+Pour créer un script serveur
 
-1. Vous devez ajouter la clé `server_script_enabled` et la définir comme étant vrai (ou 1) dans le fichier site_config.json de votre site.
-1. Pour ajouter / modifier un script python, assurez-vous d'avoir le rôle **Gestionnaire de script**
-1. Créez un nouveau script python vis "Nouveau script python" dans la barre d'outils
-1. Choisissez le type de script python (Evénement de document / API)
+1. Vous devez ajouter la clé `server_script_enabled` et la définir à `true` (ou `1`) dans le fichier common\_site\_config.json du bench.
+1. Pour ajouter / modifier un script serveur, assurez-vous d'avoir le rôle **Gestionnaire de script**
+1. Créez un nouveau script serveur via "Nouveau script serveur" dans la barre d'outils
+1. Choisissez le type de script serveur (Evénement de document / API)
 1. Choisissez le type de document de référence et le nom de l'événement, ou le nom de la méthode, ajoutez votre script et enregistrez.
+
+> Depuis 2024
 
 ## 2. Fonctionnalités
 
-### 2.1 Autoriser les scripts python
+### 2.1 Autoriser les scripts serveur
 
-Les scripts python doivent être activés via le fichier site_config.json
+Les scripts serveur doivent être activés via le fichier common\_site\_config.json ou avec la ligne de commande suivante :
 
-```
-bench --site {votre_site} set-config server_script_enabled true
+```sh
+bench set-config -g server_script_enabled true
 ```
 
 ### 2.2 Evénements de document
@@ -40,7 +42,7 @@ Pour les scripts qui sont lancés via des événements de documents, vous devez 
 
 ### 2.3 Scripts API
 
-Vous pouvez créer une nouvelle API qui sera accessible via `api/method/[methodname]` en sélectionnant le type de script "API"
+Vous pouvez créer une nouvelle API qui sera accessible via `/api/method/[methodname]` en sélectionnant le type de script "API"
 
 Si vous voulez qu'un utilisateur invité (non connecté) accède à l'API, cochez la case "Autoriser les invités".
 
@@ -48,16 +50,16 @@ La réponse sera envoyés dans un objet de type `frappe.response["message"]`
 
 ### 2.3 Securité
 
-dokos utilise la librairie RestrictedPython pour restreindre l'accès aux méthodes disponibles pour les scripts python. Seules les méthodes sûres, listées ci-dessous sont disponibles dans les scripts serveur.
+Dokos utilise la librairie RestrictedPython pour restreindre l'accès aux méthodes disponibles pour les scripts Python. Seules les méthodes sûres, listées ci-dessous sont disponibles dans les scripts serveur.
+
 ```py
 json # module json
 dict # dict interne
-frappe._ # méthode de traduction
-frappe._dict # méthode interne frappe._dict
+_ # méthode de traduction
+_dict # méthode interne frappe._dict
 frappe.flags # flags globaux
 
 # FORMATTAGE
-frappe.format # frappe.format_value(value, dict(fieldtype='Currency'))
 frappe.format_value # frappe.format_value(value, dict(fieldtype='Currency'))
 frappe.date_format # format de date par défaut
 frappe.format_date # retourne une date sous la forme "1er septembre 2019"
@@ -100,8 +102,8 @@ frappe.get_url # frappe.utils.get_url
 frappe.socketio_port # port pour socketio
 frappe.sanitize_html # Assainissement du HTML
 style.border_color # '#d1d8dd'
-guess_mimetype = mimetypes.guess_type,
-html2text = html2text,
+guess_mimetype = mimetypes.guess_type
+html2text = html2text
 dev_server # Vrai si en mode développeur
 ```
 
