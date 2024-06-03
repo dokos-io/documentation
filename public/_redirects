@@ -195,7 +195,7 @@ https://clever-tulumba-189136.netlify.app/*	https://doc.dokos.io/:splat	301!
 /selling/selling-settings	/dokos/parametrage/societe 301!
 /selling/subscription	/dokos/ventes/abonnements 301!
 /selling/subscription	/dokos/ventes/abonnements 301!
-/settings/account	/dokos/parametrage/demarrage/account 301!
+/settings/account	/dokos/parametrage/demarrage/taxes 301!
 /settings/backup	/dokos/parametrage/demarrage/backup 301!
 /settings/chart-of-accounts-importer	/dokos/parametrage/demarrage/chart-of-accounts-importer 301!
 /settings/company	/dokos/parametrage/demarrage/company 301!
