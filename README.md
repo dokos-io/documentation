@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a929cc34-652c-4ada-aa03-6dae8b973354/deploy-status)](https://app.netlify.com/sites/clever-tulumba-189136/deploys)
+
+
 # Site web pour la documentation de Dokos
 
 [Live website](https://doc.dokos.io/)
