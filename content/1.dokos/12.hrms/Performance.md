@@ -1,23 +1,22 @@
 ---
-title: Performance
+title: Evaluation
 description: Le système d'évaluation des employés est conçu pour vous aider à gérer et à améliorer les performances de vos employés de manière efficace et structurée.
 ---
+## 👉 Avantages du modèle d'évaluation
 
-**Avantages du modèle d'évaluation**
+**Structuration :** Assure un processus cohérent et structuré pour évaluer les performances.
 
-Structuration : Assure un processus cohérent et structuré pour évaluer les performances.
+**Transparence :** Permet une évaluation transparente et équitable des employés.
 
-Transparence : Permet une évaluation transparente et équitable des employés.
+**Amélioration continue :** Favorise le développement continu des compétences des employés.
 
-Amélioration continue : Favorise le développement continu des compétences des employés.
+**Décision éclairée :** Aide à prendre des décisions RH basées sur des données concrètes.
 
-Décision éclairée : Aide à prendre des décisions RH basées sur des données concrètes.
+## 1. Conditions préalables
 
-### 1. Conditions préalables
+Avant de commencer les évaluations, il est essentiel de définir [**les indicateurs de perfomance**](#créer-des-indicateurs-de-performance) et [**les critères d'évaluation des employés**](créer-des-critères-d-évaluation-des-employés) sur lesquels les employés seront évalués. Cela peut inclure des compétences techniques, des compétences intepersonnelles, des objectifs spécifiques, etc. Pour chaque indicateur et critère, vous pouvez définir des pondérations pour indiquer l'importance relative lors de la création du [**modèle d'évaluation**](#créer-un-modèle-d-évaluation).
 
-Avant de commencer les évaluations, il est essentiel de définir **les indicateurs de perfomance** et **les critères d'évaluation des employés** sur lesquels les employés seront évalués. Cela peut inclure des compétences techniques, des compétences interpersonnelles, des objectifs spécifiques, etc. Pour chaque indicateur et critère, vous pouvez définir des pondérations pour indiquer l'importance relative lors de la création du **modèle d'évaluation**.
-
-👉 **Définir les indicateurs de perfomance**
+### 1.1. Définir les indicateurs de perfomance
 
 ::tour{demo="Mappemonde" doctype="kra"}
 Créer des indicateurs de perfomance
@@ -38,7 +37,7 @@ Pour un vendeur : Nombre de ventes réalisées, chiffre d'affaires généré.
 
 Pour un chef de projet : Respect des délais, satisfaction des clients.
 
-👉 **Définir des critères d'évaluation des employés**
+### 1.2. Définir des critères d'évaluation des employés
 
 ::tour{demo="Mappemonde" doctype="employee-feedback-criteria"}
 Créer des critères d'évaluation des employés
@@ -60,7 +59,7 @@ Collaboration : Évaluer la capacité à travailler en équipe et à contribuer 
 
 Innovation : Évaluer la capacité à proposer des idées nouvelles et à améliorer les processus existants.
 
-👉 **Créer un modèle d'évaluation**
+### 1.3. Créer un modèle d'évaluation
 
 ::tour{demo="Mappemonde" doctype="appraisal-template"}
 Créer un modèle d'évaluation
@@ -72,7 +71,7 @@ Les modèles d'évaluation permettent de définir des critères et des poids sp�
 
 Chaque critère peut être pondéré en fonction de son importance relative. Par exemple, la productivité peut avoir un poids de 30%, tandis que la qualité du travail peut avoir un poids de 20%.
 
-👉 **Cycle d'évaluation**
+### 1.4. Cycle d'évaluation
 
 ::tour{demo="Mappemonde" doctype="appraisal-cycle"}
 Créer des cycles d'évaluation
@@ -88,16 +87,46 @@ Identifiez les **périodes spécifiques** pendant lesquelles les évaluations se
 
 **Sélectionnez la méthode d'évaluation des indicateurs de performance :**
 
-Par défaut, le score final est calculé comme la moyenne du score d'objectif, du score des critères d'évaluation des employés et du score d'auto-évaluation. Pour calculer le score final à l'aide de votre propre formule, activez Calculer le score final basé sur "Calculate Final Score based on Formula" et saisissez l'expression de la formule.
+Par défaut, Dokos calcule le score final comme la moyenne des scores suivants :
 
-👉 **Définition des objectifs :**
+- Score d'objectif : Basé sur la réalisation des indicateurs de performance/objectifs, soit de manière automatisée soit manuellement.
+- Score des critères d'évaluation des employés : Évaluations fournies par les managers, collègues, ou clients.
+- Score d'Auto-Évaluation : Évaluations réalisées par l'employé lui-même
+
+Pour calculer le score final à l'aide de votre propre formule, activez l'option **calculer le score final basé sur formule dans les paramètres**.
+
+Par exemple, vous pouvez donner plus de poids à certains scores en fonction de vos besoins. 
+
+> Une formule personnalisée pourrait ressembler à : (0.5 * Score d'objectif) + (0.3 * Score de critères d'évaluation des employés) + (0.2 * Score d'Auto-Évaluation).
+
+
+### 1.5. Définition des objectifs :
 
 ::tour{demo="Mappemonde" doctype="goal"}
 Créer des objectifs
 ::
 
-Une fois la temporialité et les employés définis dans le cycle d'évaluation, vous pouvez valider le formulaire pour ensuite fixer des Objectifs SMART.
+Une fois la temporialité et les employés définis dans le cycle d'évaluation, vous devez valider le formulaire pour ensuite fixer des objectifs SMART. 
 
 Vous avez également la possibilté de vous rendre directement dans le formulaire objectif.
 
-- Définissez des objectifs : Spécifiques, Mesurables, Atteignables, Réalistes et Temporellement définis pour chaque employé.
+- Définissez des objectifs : **S**pécifiques, **M**esurables, **A**tteignables, **R**éalistes et **T**emporellement définis pour chaque employé.
+
+> Pour apprécier l'évolution des objectifs, vous devez dérmarrer l'évaluation. 
+
+## 2. Evaluation 
+
+👉 **Evaluation de la performance des employés**
+
+
+Les responsables et les collègues peuvent fournir des commentaires structurés sur la performance de employé.
+
+👉 **Evaluation**
+
+Avant de créer une évaluation, vous devez au préalables créer :
+
+- Modèle d'évaluation
+- Cycle d'évaluation
+
+**Les évaluations peuvent être créées en masse à partir du cycle d'évaluation.** 
+> Définissez des filtres optionnels pour récupérer la liste des employés dans la liste des évalués .
