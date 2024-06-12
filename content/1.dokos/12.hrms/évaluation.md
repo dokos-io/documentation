@@ -1,7 +1,8 @@
 ---
-title: Evaluation
+title: Évaluation
 description: Le système d'évaluation des employés est conçu pour vous aider à gérer et à améliorer les performances de vos employés de manière efficace et structurée.
 ---
+
 ## 👉 Avantages du modèle d'évaluation
 
 **Structuration :** Assure un processus cohérent et structuré pour évaluer les performances.
@@ -14,17 +15,17 @@ description: Le système d'évaluation des employés est conçu pour vous aider 
 
 ## 1. Conditions préalables
 
-Avant de commencer les évaluations, il est essentiel de définir [**les indicateurs de perfomance**](#créer-des-indicateurs-de-performance) et [**les critères d'évaluation des employés**](créer-des-critères-d-évaluation-des-employés) sur lesquels les employés seront évalués. Cela peut inclure des compétences techniques, des compétences intepersonnelles, des objectifs spécifiques, etc. Pour chaque indicateur et critère, vous pouvez définir des pondérations pour indiquer l'importance relative lors de la création du [**modèle d'évaluation**](#créer-un-modèle-d-évaluation).
+Avant de commencer les évaluations, il est essentiel de définir [**les indicateurs de performance**](#cr%C3%A9er-des-indicateurs-de-performance) et [**les critères d'évaluation des employés**](cr%C3%A9er-des-crit%C3%A8res-d-%C3%A9valuation-des-employ%C3%A9s) sur lesquels les employés seront évalués. Cela peut inclure des compétences techniques, des compétences interpersonnelles, des objectifs spécifiques, etc. Pour chaque indicateur et critère, vous pouvez définir des pondérations pour indiquer l'importance relative lors de la création du [**modèle d'évaluation**](#cr%C3%A9er-un-mod%C3%A8le-d-%C3%A9valuation).
 
-### 1.1. Définir les indicateurs de perfomance
+### 1.1. Définir les indicateurs de performance
 
 ::tour{demo="Mappemonde" doctype="kra"}
-Créer des indicateurs de perfomance
+Créer des indicateurs de performance
 ::
 
 **Définition :**
 
-Les critères de perfomance sont les domaines dans lesquels un employé doit exceller pour atteindre les objectifs de son rôle. Ils représentent les attentes de l'entreprise en termes de résultats concrets et mesurables.
+Les critères de performance sont les domaines dans lesquels un employé doit exceller pour atteindre les objectifs de son rôle. Ils représentent les attentes de l'entreprise en termes de résultats concrets et mesurables.
 
 **Utilisation :**
 
@@ -47,9 +48,7 @@ Créer des critères d'évaluation des employés
 
 Les critères d'évaluation des employés sont définis pour évaluer la performance, les compétences et le comportement des employés. Ils peuvent inclure des aspects tels que la productivité, la qualité du travail, la communication, la collaboration, l'innovation, et le respect des délais.
 
-**Exemple :**
-
-Productivité : Évaluer l'efficacité et la quantité de travail accompli.
+**Exemples :**
 
 Qualité du travail : Évaluer la précision et la qualité des résultats produits.
 
@@ -83,22 +82,21 @@ Un cycle d'évaluation est une période de temps définie pendant laquelle la pe
 
 **Planification de l'évaluation :**
 
-Identifiez les **périodes spécifiques** pendant lesquelles les évaluations seront effectuées (par exemple, trimestrielle, semestrielle, annuelle). Ensuite **déterminez quels employés** seront évalués au cours de chaque période.
+Identifiez les **périodes spécifiques** pendant lesquelles les évaluations seront effectuées (par exemple, trimestrielle, semestrielle, annuelle). Ensuite, **déterminez quels employés** seront évalués au cours de chaque période.
 
 **Sélectionnez la méthode d'évaluation des indicateurs de performance :**
 
 Par défaut, Dokos calcule le score final comme la moyenne des scores suivants :
 
 - Score d'objectif : Basé sur la réalisation des indicateurs de performance/objectifs, soit de manière automatisée soit manuellement.
-- Score des critères d'évaluation des employés : Évaluations fournies par les managers, collègues, ou clients.
-- Score d'Auto-Évaluation : Évaluations réalisées par l'employé lui-même
+- Score des critères d'évaluation des employés : Évaluations fournies par les managers, collègues.
+- Score d'auto-évaluation : Évaluations réalisées par l'employé lui-même
 
 Pour calculer le score final à l'aide de votre propre formule, activez l'option **calculer le score final basé sur formule dans les paramètres**.
 
-Par exemple, vous pouvez donner plus de poids à certains scores en fonction de vos besoins. 
+Par exemple, vous pouvez donner plus de poids à certains scores en fonction de vos besoins.
 
-> Une formule personnalisée pourrait ressembler à : (0.5 * Score d'objectif) + (0.3 * Score de critères d'évaluation des employés) + (0.2 * Score d'Auto-Évaluation).
-
+> Une formule personnalisée pourrait ressembler à : (0.5 x Score d'objectif) + (0.3 x Score de critères d'évaluation des employés) + (0.2 x Score d'Auto-Évaluation).
 
 ### 1.5. Définition des objectifs :
 
@@ -106,27 +104,44 @@ Par exemple, vous pouvez donner plus de poids à certains scores en fonction de 
 Créer des objectifs
 ::
 
-Une fois la temporialité et les employés définis dans le cycle d'évaluation, vous devez valider le formulaire pour ensuite fixer des objectifs SMART. 
+Une fois la temporalité et les employés définis dans le cycle d'évaluation, vous devez valider le formulaire pour ensuite fixer des objectifs SMART.
 
-Vous avez également la possibilté de vous rendre directement dans le formulaire objectif.
+Vous avez également la possibilité de vous rendre directement dans le formulaire objectif.
 
 - Définissez des objectifs : **S**pécifiques, **M**esurables, **A**tteignables, **R**éalistes et **T**emporellement définis pour chaque employé.
 
-> Pour apprécier l'évolution des objectifs, vous devez dérmarrer l'évaluation. 
-
-## 2. Evaluation 
-
-👉 **Evaluation de la performance des employés**
+::callout{icon="i-heroicons-light-bulb"}
+Pour évaluer les progrès réalisés sur les objectifs, vous devez lancer l'évaluation.
+::
 
 
-Les responsables et les collègues peuvent fournir des commentaires structurés sur la performance de employé.
+## 2. Évaluation
 
-👉 **Evaluation**
+### 2.1. Évaluation de la performance des employés
+
+Les responsables et les collègues peuvent fournir des commentaires structurés sur la performance de l'employé.
+
+### 2.2. Évaluation
 
 Avant de créer une évaluation, vous devez au préalables créer :
 
 - Modèle d'évaluation
 - Cycle d'évaluation
 
-**Les évaluations peuvent être créées en masse à partir du cycle d'évaluation.** 
+**Les évaluations peuvent être créées en masse à partir du cycle d'évaluation.**
+
 > Définissez des filtres optionnels pour récupérer la liste des employés dans la liste des évalués .
+
+### Tableau KRA vs Goals
+
+**Indicateurs de performance et pondération :**
+
+Chaque indicateur de performance est associé à une pondération (%), qui reflète son importance relative par rapport aux autres indicateur.
+
+**Réalisation des objectifs (%) :**
+
+Ce pourcentage représente la mesure dans laquelle l'employé a atteint les objectifs liés à un indicateur spécifique. Ce calcul est automatique et basé sur la progression des objectifs.
+
+**Score d'objectif (pondéré) :**
+
+Le score d'objectif pondéré est calculé en tenant compte de la pondération attribuée à chaque indicateur et du pourcentage d'achèvement des objectifs.
