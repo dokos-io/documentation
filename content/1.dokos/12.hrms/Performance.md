@@ -15,9 +15,7 @@ Décision éclairée : Aide à prendre des décisions RH basées sur des donnée
 
 ### 1. Conditions préalables
 
-Avant de commencer les évaluations, il est essentiel de définir **les indicateurs de perfomance** et **les critères d'évaluation des employés** sur lesquels les employés seront évalués. Cela peut inclure des compétences techniques, des compétences interpersonnelles, des objectifs spécifiques, etc. Pour chaque indicateur et critère, vous pouvez définir des pondérations pour indiquer l'importance relative lors de la création du **modèle d'évaluation**. 
-
-
+Avant de commencer les évaluations, il est essentiel de définir **les indicateurs de perfomance** et **les critères d'évaluation des employés** sur lesquels les employés seront évalués. Cela peut inclure des compétences techniques, des compétences interpersonnelles, des objectifs spécifiques, etc. Pour chaque indicateur et critère, vous pouvez définir des pondérations pour indiquer l'importance relative lors de la création du **modèle d'évaluation**.
 
 👉 **Définir les indicateurs de perfomance**
 
@@ -62,7 +60,6 @@ Collaboration : Évaluer la capacité à travailler en équipe et à contribuer 
 
 Innovation : Évaluer la capacité à proposer des idées nouvelles et à améliorer les processus existants.
 
-
 👉 **Créer un modèle d'évaluation**
 
 ::tour{demo="Mappemonde" doctype="appraisal-template"}
@@ -93,9 +90,14 @@ Identifiez les **périodes spécifiques** pendant lesquelles les évaluations se
 
 Par défaut, le score final est calculé comme la moyenne du score d'objectif, du score des critères d'évaluation des employés et du score d'auto-évaluation. Pour calculer le score final à l'aide de votre propre formule, activez Calculer le score final basé sur "Calculate Final Score based on Formula" et saisissez l'expression de la formule.
 
-**Définition des objectifs :**
+👉 **Définition des objectifs :**
 
-Une fois la temporialité et les employés définis, vous pouvez valider le formulaire pour ensuite fixer des Objectifs SMART.
- - Définissez des objectifs : Spécifiques, Mesurables, Atteignables, Réalistes et Temporellement définis pour chaque employé.
+::tour{demo="Mappemonde" doctype="goal"}
+Créer des objectifs
+::
 
+Une fois la temporialité et les employés définis dans le cycle d'évaluation, vous pouvez valider le formulaire pour ensuite fixer des Objectifs SMART.
 
+Vous avez également la possibilté de vous rendre directement dans le formulaire objectif.
+
+- Définissez des objectifs : Spécifiques, Mesurables, Atteignables, Réalistes et Temporellement définis pour chaque employé.
