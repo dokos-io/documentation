@@ -195,12 +195,13 @@ https://clever-tulumba-189136.netlify.app/*	https://doc.dokos.io/:splat	301!
 /selling/selling-settings	/dokos/parametrage/societe 301!
 /selling/subscription	/dokos/ventes/abonnements 301!
 /selling/subscription	/dokos/ventes/abonnements 301!
-/settings/account	/dokos/parametrage/demarrage/account 301!
+/settings/account	/dokos/parametrage/demarrage/taxes 301!
 /settings/backup	/dokos/parametrage/demarrage/backup 301!
 /settings/chart-of-accounts-importer	/dokos/parametrage/demarrage/chart-of-accounts-importer 301!
 /settings/company	/dokos/parametrage/demarrage/company 301!
 /settings/data-export	/dokos/parametrage/demarrage/data-export 301!
-/settings/data-import	/dokos/parametrage/demarrage/data-import 301!
+/settings/data-import	/dokos/parametrage/demarrage/import-de-donnees 301!
+/dokos/parametrage/demarrage/data-import	/dokos/parametrage/demarrage/import-de-donnees 301!
 /settings/global-defaults	/dokos/parametrage/demarrage/global-defaults 301!
 /settings/naming-series	/dokos/parametrage/demarrage/naming-series 301!
 /settings/notification	/dokos/parametrage/demarrage/notification 301!
@@ -214,7 +215,8 @@ https://clever-tulumba-189136.netlify.app/*	https://doc.dokos.io/:splat	301!
 /settings/print/print-style	/dokos/parametrage/demarrage/print/print-style 301!
 /settings/setting-company-sales-goal	/dokos/parametrage/demarrage/setting-company-sales-goal 301!
 /settings/system-settings	/dokos/parametrage/demarrage/system-settings 301!
-/settings/terms-and-conditions	/dokos/parametrage/demarrage/terms-and-conditions 301!
+/settings/terms-and-conditions	/dokos/parametrage/demarrage/termes-et-conditions 301!
+/dokos/parametrage/demarrage/terms-and-conditions	/dokos/parametrage/demarrage/termes-et-conditions 301!
 /settings/users-and-permissions	/dokos/parametrage/demarrage/users-and-permissions 301!
 /settings/users-and-permissions/administrator	/dodock/fonctionnalites/utilisateurs/administrateur 301!
 /settings/users-and-permissions/authentification_double_facteur	/dodock/fonctionnalites/utilisateurs/2fa 301!
