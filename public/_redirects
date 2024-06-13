@@ -57,7 +57,6 @@ https://clever-tulumba-189136.netlify.app/*	https://doc.dokos.io/:splat	301!
 /crm/opportunity	/dokos/crm/opportunite 301!
 /crm/prospect	/dokos/crm/prospect 301!
 /crm/sales-person	/dokos/ventes/commercial 301!
-/crm/social-media-post	/dokos/crm/reseaux-sociaux 301!
 /customizations	/dodock/fonctionnalites/personnalisations 301!
 /customizations/calendar-view	/dodock/fonctionnalites/personnalisations/vue-calendrier 301!
 /customizations/doctype	/dodock/ressources/concepts/doctype 301!
