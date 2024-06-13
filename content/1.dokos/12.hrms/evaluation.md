@@ -15,7 +15,7 @@ description: Le système d'évaluation des employés est conçu pour vous aider 
 
 ## 1. Conditions préalables
 
-Avant de commencer les évaluations, il est essentiel de définir [**les indicateurs de performance**](#cr%C3%A9er-des-indicateurs-de-performance) et [**les critères d'évaluation des employés**](cr%C3%A9er-des-crit%C3%A8res-d-%C3%A9valuation-des-employ%C3%A9s) sur lesquels les employés seront évalués. Cela peut inclure des compétences techniques, des compétences interpersonnelles, des objectifs spécifiques, etc. Pour chaque indicateur et critère, vous pouvez définir des pondérations pour indiquer l'importance relative lors de la création du [**modèle d'évaluation**](#cr%C3%A9er-un-mod%C3%A8le-d-%C3%A9valuation).
+Avant de commencer les évaluations, il est essentiel de définir [**les indicateurs de performance**](#cr%C3%A9er-des-indicateurs-de-performance) et [**les critères d'évaluation des employés**](#12-définir-des-critères-dévaluation-des-employés) sur lesquels les employés seront évalués. Cela peut inclure des compétences techniques, des compétences interpersonnelles, des objectifs spécifiques, etc. Pour chaque indicateur et critère, vous pouvez définir des pondérations pour indiquer l'importance relative lors de la création du [**modèle d'évaluation**](#cr%C3%A9er-un-mod%C3%A8le-d-%C3%A9valuation).
 
 ### 1.1. Définir les indicateurs de performance
 
