@@ -1,25 +1,16 @@
 <template>
-
-  <UHeader :links="links" :class="{
-    'border-primary-200/75 dark:border-primary-900/50': $route.path === '/',
-    'border-gray-200 dark:border-gray-800': $route.path !== '/'
-  }">
-
+  <UHeader
+    :links="links" :class="{
+      'border-primary-200/75 dark:border-primary-900/50': $route.path === '/',
+      'border-gray-200 dark:border-gray-800': $route.path !== '/'
+    }"
+  >
     <template #left>
       <NuxtLink to="/" class="flex items-end gap-2 font-bold text-xl text-gray-900 dark:text-white" aria-label="Dokos">
         <Logo class="w-auto h-6" />
 
         <UBadge label="Documentation" variant="subtle" size="xs" class="-mb-[2px] rounded font-semibold" />
       </NuxtLink>
-
-      <!--creation de l'icon alerte mise à jour-->
-
-      <UButton 
-        to="/news" 
-        icon="i-heroicons-bell-alert" 
-        aria-label="news" 
-        variant="link" color="blue" 
-        />
     </template>
 
     <template #right>
@@ -29,13 +20,10 @@
 
       <UColorModeButton />
 
-      <UButton 
-        to="https://gitlab.com/dokos" 
-        target="_blank" 
-        icon="i-simple-icons-gitlab" 
-        aria-label="Gitlab"
-        v-bind="($ui.button.secondary as any)" 
-        />
+      <UButton
+        to="https://gitlab.com/dokos" target="_blank" icon="i-simple-icons-gitlab" aria-label="Gitlab"
+        v-bind="($ui.button.secondary as any)"
+      />
     </template>
 
     <template #panel>
@@ -47,7 +35,7 @@
       <!-- <UNavigationTree :links="mapContentNavigation(navigation)" :multiple="false" default-open /> -->
     </template>
   </UHeader>
-</template> 
+</template>
 
 <script setup lang="ts">
 // import type { NavItem } from '@nuxt/content/dist/runtime/types'

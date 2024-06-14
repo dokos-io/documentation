@@ -4,11 +4,13 @@ const props = defineProps({
 })
 
 const dateObj = new Date(props.date)
-const dateFormatter = new Intl.DateTimeFormat("fr", {
-  dateStyle: "medium",
+const dateFormatter = new Intl.DateTimeFormat('fr', {
+  dateStyle: 'medium',
 })
 </script>
 
 <template>
-  <span>{{ dateFormatter.format(dateObj) }}</span>
+  <time :datetime="props.date">
+    {{ dateFormatter.format(dateObj) }}
+  </time>
 </template>
