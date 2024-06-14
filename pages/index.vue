@@ -47,6 +47,8 @@ useSeoMeta({
       </ULandingGrid>
     </ULandingSection>
 
+    <LastModifiedPages />
+
     <ULandingSection :links="page.modules.links">
       <template #title>
         <span v-html="page.modules?.title"></span>

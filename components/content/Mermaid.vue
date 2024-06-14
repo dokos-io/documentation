@@ -1,11 +1,10 @@
 <template>
-  <pre ref="el" :style="{ display: rendered ? 'block' : 'none' }">
+  <pre ref="el" :style="{ display: rendered ? 'block' : 'none' }" class="not-prose">
     <slot />
   </pre>
 </template>
 
 <script setup>
-const slot = useSlots()
 const el = ref(null)
 const rendered = ref(false)
 

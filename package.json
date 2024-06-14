@@ -7,9 +7,10 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare",
+    "postinstall": "nuxt prepare && (yarn mtime || true)",
     "lint": "eslint .",
-    "typecheck": "nuxt typecheck"
+    "typecheck": "nuxt typecheck",
+    "mtime": "npx --yes tsx server/api/mtime.ts mtime-generate"
   },
   "dependencies": {
     "@iconify-json/carbon": "^1.1.31",

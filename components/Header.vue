@@ -1,7 +1,6 @@
 <template>
   <UHeader
-    :links="links"
-    :class="{
+    :links="links" :class="{
       'border-primary-200/75 dark:border-primary-900/50': $route.path === '/',
       'border-gray-200 dark:border-gray-800': $route.path !== '/'
     }"
@@ -22,24 +21,21 @@
       <UColorModeButton />
 
       <UButton
-        to="https://gitlab.com/dokos"
-        target="_blank"
-        icon="i-simple-icons-gitlab"
-        aria-label="Gitlab"
+        to="https://gitlab.com/dokos" target="_blank" icon="i-simple-icons-gitlab" aria-label="Gitlab"
         v-bind="($ui.button.secondary as any)"
       />
     </template>
 
     <template #panel>
       <template v-for="(links_group, index) of mobile_links" :key="index">
-          <UAsideLinks :links="links_group" />
-          <UDivider type="dashed" class="my-4" />
+        <UAsideLinks :links="links_group" />
+        <UDivider type="dashed" class="my-4" />
       </template>
 
       <!-- <UNavigationTree :links="mapContentNavigation(navigation)" :multiple="false" default-open /> -->
     </template>
   </UHeader>
-</template> 
+</template>
 
 <script setup lang="ts">
 // import type { NavItem } from '@nuxt/content/dist/runtime/types'
@@ -55,4 +51,5 @@ const { metaSymbol } = useShortcuts()
 
 // const nav = inject<Ref<NavItem[]>>('navigation')
 // const navigation = nav.value
+
 </script>
