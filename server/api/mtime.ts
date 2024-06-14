@@ -2,12 +2,12 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { glob } from 'glob'
 
-async function doFetch() {
+async function doFetch(limit) {
   const contentDir = path.resolve(process.cwd(), 'content')
 
   // Iterate all files in the content/** directory
   const lastModified: [string, Date][] = []
-  for (const file of glob.sync('**/*', { cwd: contentDir })) {
+  for (const file of glob.sync('**/*.md', { cwd: contentDir, ignore: ['**/*index.md'] })) {
     // Grab the modification time of the file
     const mtime = fs.statSync(path.join(contentDir, file)).mtime
 
@@ -19,7 +19,7 @@ async function doFetch() {
   lastModified.sort((a, b) => a[1].getTime() - b[1].getTime())
 
   // Grab the most recently modified 5 files
-  const filePaths = lastModified.slice(-5)
+  const filePaths = limit ? lastModified.slice(-5).reverse() : lastModified.slice(-50).reverse()
 
   // node_modules/@nuxt/content/dist/runtime/composables/query.js
   const recentFiles = await Promise.all(filePaths.map(async ([file, mtime]) => {
@@ -40,7 +40,6 @@ async function doFetch() {
       },
     })
 
-    console.log(data)
     const page = data[0]
     if (!page) return
     page.updatedAt = mtime
@@ -50,6 +49,7 @@ async function doFetch() {
   return { recentFiles: recentFiles.filter(Boolean) }
 }
 
-export default defineEventHandler(async () => {
-  return await doFetch()
+export default defineEventHandler(async (event) => {
+  const query = getQuery(event)
+  return await doFetch(query?.limit)
 })

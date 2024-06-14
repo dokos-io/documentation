@@ -1,16 +1,16 @@
 <script setup>
-const { data } = await useFetch('/api/mtime')
+const { data } = await useFetch('/api/mtime', {query: {limit: 5}})
+
 </script>
+
 <template>
-  <div>
-    <strong>Last modified pages</strong>
-
-    <ul>
-      <li v-for="page in data?.recentFiles" :key="page">
-        <UPageCard :title="page.title" icon="i-heroicons-star" :description="page.description" :to="page._path" />
-      </li>
-    </ul>
-
-    
-  </div>
+  <ULandingSection title="Dernières modifications">
+    <ULandingGrid>
+      <ULandingCard :class="'col-span-6 row-span-' + index" v-for="(page, index) in data?.recentFiles" :key="page" :title="page.title" :description="page.description" :to="page._path">
+        <template #icon>
+          <LastModifiedPageDate :date="page.updatedAt"/>
+        </template>
+      </ULandingCard>
+    </ULandingGrid>
+  </ULandingSection>
 </template>
