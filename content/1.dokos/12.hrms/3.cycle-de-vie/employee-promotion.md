@@ -1,14 +1,12 @@
 ---
 title: Promotion des employés
-description: 
+description: null
 published: true
 date: 2021-06-03T13:41:29.740Z
-tags: 
+tags: null
 editor: markdown
 dateCreated: 2021-06-03T13:41:29.740Z
 ---
-
-# Promotion des employés
 
 La promotion ou l'avancement de carrière est un processus par lequel un employé d'une entreprise se voit attribuer une part plus élevée de tâches, une échelle salariale plus élevée ou les deux.
 
@@ -18,23 +16,23 @@ Pour accéder à la liste de **promotion des employés**, allez sur :
 
 > Ressources humaines > Cycle de vie des employés > **Promotion des employés**
 
-![liste_promotion_employé.png](/content/rh/employee-promotion/liste_promotion_employé.png)
+![Cette image permet de visualiser la fonctionnalité " promotion des employés"](/Promotiondesemploy%C3%A9s.png)
 
 ## 1. Prérequis avant utilisation
 
 Avant de créer une promotion d'employé, il est conseillé de créer les documents suivants :
 
-- **[Employé](/dokos/hrms/cycle-de-vie/employee)**
-- **[Département](/dokos/hrms/parametrage/departement)**
+- **Employé**
+- **Département**
 
 ## 2. Comment créer une promotion d'employé
 
-1. Accédez à la liste de Promotion des employés, cliquez sur **:heavy_plus_sign: Ajouter Promotion des employés**.
-2. Sélectionnez l'**employé**.
-3. Saisissez la **date de la promotion**.
+![Image permettant de visualiser une nouvelle promotion.](/nouvellepromotion.png)
 
-![détails_promotion.png](/content/rh/employee-promotion/détails_promotion.png)
+Dans le tableau **Détails de la promotion des employés**, sélectionnez la propriété et définissez une nouvelle valeur.
 
-4. Dans le tableau **Détails de la promotion des employés**, sélectionnez la propriété et définissez la valeur actuelle et nouvelle.
+![Cette image permet de visualiser la nouvelle propriété à définir.](/Detaildelapromotion1.png)
 
-![autres_info_promotion.png](/content/rh/employee-promotion/autres_info_promotion.png)
+Une fois les modifications faites, vous pouvez visualiser les avancements de l'employés dans sa fiche.
+
+![Image permettant de visualiser le profil de l'employé avec les différents postes occupés.](/anciennet%C3%A9danslasoci%C3%A9t%C3%A9.png)
