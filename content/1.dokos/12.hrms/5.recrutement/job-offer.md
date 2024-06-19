@@ -1,14 +1,6 @@
 ---
 title: Proposition de poste
-description: 
-published: true
-date: 2021-06-14T09:44:16.193Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-11T07:57:28.821Z
 ---
-
-# Proposition de poste
 
 L'offre d'emploi est remise aux candidats sélectionnés après un entretien et une sélection qui indique les caractéristiques de l'offre comme la désignation, l'échelon, le département, le nombre de jours de congé.
 

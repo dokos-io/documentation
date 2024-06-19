@@ -2,8 +2,6 @@
 title: Shopify
 ---
 
-# Paramètres Shopfify
-
 Le connecteur Shopify extrait les commandes de Shopify et crée une commande client par rapport à elles dans ERPNext.
 
 Lors de la création de la commande client si le client ou l'article est manquant dans Dokos, le système créera un nouveau client/article en extrayant les détails respectifs de Shopify.

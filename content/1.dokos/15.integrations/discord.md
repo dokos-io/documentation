@@ -2,8 +2,6 @@
 title: Discord
 ---
 
-# Connexion avec Slack
-
 Si vous souhaitez que vos notifications soient envoyées à un canal Discord dédié, il faut d'abord créer un <q>webhook</q> sur Discord.
 
 ## Créer un webhook Discord

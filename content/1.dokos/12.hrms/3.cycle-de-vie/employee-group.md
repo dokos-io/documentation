@@ -1,14 +1,6 @@
 ---
 title: Groupe d'employés
-description: 
-published: true
-date: 2021-06-02T12:24:56.410Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-02T12:24:56.410Z
 ---
-
-# Groupe d'employés
 
 Le groupe d'employés regroupe des employés en fonction de certains attributs tels que la désignation, le grade, la branche, etc.
 

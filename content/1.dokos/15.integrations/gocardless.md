@@ -2,7 +2,7 @@
 title: GoCardless
 ---
 
-# Configuration
+## Configuration
 
 Afin de configurer une intégration avec GoCardless, vous devez ajouter les éléments suivants:
 
@@ -12,7 +12,7 @@ Afin de configurer une intégration avec GoCardless, vous devez ajouter les él�
   Ce jeton peut être généré dans la section `Développeurs > Créer > Jeton d'accès` du tableau de bord GoCardless.
 - Cochez `Utiliser la sandbox` s'il s'agit d'un compte de test GoCardless
 
-# Webhooks
+## Webhooks
 
 Pour intégrer les webhooks GoCardless dans dokos, créez un nouveau `endpoint` en cliquant sur `Développeurs > Créer > Endpoint de webhook`.
 Donnez lui un nom logique et ajoutez l'URL suivante:

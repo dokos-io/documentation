@@ -2,8 +2,6 @@
 title: Objectif de qualité
 ---
 
-# Objectif de qualité
-
 Il s'agit d'un ensemble de mesures individuelles qui aident à définir vos objectifs de qualité. Il s'agit d'un processus de gestion de la qualité de base pour établir un ensemble d'objectifs de qualité.
 
 Vous pouvez créer un objectif de qualité pour votre entreprise ayant plusieurs objectifs de qualité. Différents objectifs de qualité pour un but peuvent avoir une cible numérique définie ou une cible mesurée en termes d'état d'achèvement (oui ou non). Il est surveillé en fonction de la fréquence définie pour cet objectif.

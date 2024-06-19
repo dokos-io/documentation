@@ -2,8 +2,6 @@
 title: Google Agenda
 ---
 
-# Intégration à Google Agenda
-
 Dokos fournit une intégration avec Google Agenda afin que tous les utilisateurs puissent synchroniser leurs événements Google Agenda avec Dokos.
 
 ---

@@ -1,14 +1,6 @@
 ---
 title: Outil de gestion des présences des employés
-description: 
-published: true
-date: 2021-06-09T13:26:12.154Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-09T13:24:07.215Z
 ---
-
-# Outil de gestion des présences des employés
 
 L'outil de présence des employés vous permet de marquer la présence de plusieurs employés pour une date particulière.
 

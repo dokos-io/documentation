@@ -2,8 +2,6 @@
 title: Google Drive
 ---
 
-# Google Drive
-
 Google Drive est un service de stockage et de synchronisation de fichiers développé par Google. Il permet aux utilisateurs de stocker, synchroniser et partager des fichiers. Google Drive est un élément clé de Google Workspace, l'offre d'abonnement mensuel de Google pour les entreprises.
 
 Vous pouvez utiliser le sélecteur de fichiers de Frappe Framework pour sélectionner n'importe quel fichier dans Google Drive et le joindre au DocType actuel. Par exemple, vous pouvez joindre la facture PDF stockée dans Google Drive à un enregistrement de facture de vente dans votre application Frappe.

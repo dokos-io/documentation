@@ -1,14 +1,6 @@
 ---
 title: Sélection de quart
-description: 
-published: true
-date: 2021-06-14T09:07:41.492Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-14T08:54:25.990Z
 ---
-
-# Sélection de quart
 
 La section Gestion des quarts de travail des ressources humaines aide votre organisation à gérer les quarts de travail de vos employés.
 

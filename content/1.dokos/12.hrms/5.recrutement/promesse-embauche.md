@@ -1,14 +1,6 @@
 ---
 title: Promesse d'embauche
-description: 
-published: true
-date: 2021-06-14T12:27:47.195Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-14T12:07:19.035Z
 ---
-
-# Promesse d'embauche
 
 La lettre écrite par l'employeur demandant aux candidats sélectionnés de se joindre à un poste spécifique.
 
@@ -62,7 +54,7 @@ Vous pouvez ajouter votre conclusion pour la promesse d'embauche. Si vous avez s
 
 ![conclusion_promesse.png](/content/rh/appointment-letter/conclusion_promesse.png)
 
-# Modèle de promesse d'embauche
+## Modèle de promesse d'embauche
 
 Le modèle de promesse d'embauche vous permet de créer un format par défaut pour votre lettre de promesse d'embauche. Sur Dokos vous avez la possibilité par exemple de créer un modèle selon le poste, le département etc. 
 

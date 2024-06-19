@@ -1,14 +1,6 @@
 ---
 title: Départ des employés
-description: 
-published: true
-date: 2021-06-04T10:04:16.466Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-04T09:01:41.915Z
 ---
-
-# Départ des employés
 
 Le départ d'un employé est une situation où l'accord de service d'un employé avec son organisation prend fin et l'employé quitte l'organisation.
 

@@ -2,8 +2,6 @@
 title: Réunion qualité
 ---
 
-# Réunion de qualité
-
 C'est une assemblée de personnes pour un objectif ou un ordre du jour particulier, en particulier pour une discussion formelle sur les aspects de la qualité.
 
 Des réunions qualité sont organisées pour passer en revue les revues de qualité qui ont été générées. Le procès-verbal (résumé) de ces réunions inclurait la discussion sur les différentes revues de la qualité.

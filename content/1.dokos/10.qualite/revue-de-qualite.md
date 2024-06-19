@@ -2,8 +2,6 @@
 title: Revue de la qualité
 ---
 
-# Revue de la qualité
-
 Une revue de qualité est un enregistrement de la performance par rapport à l'objectif de qualité à intervalles réguliers.
 
 Une revue de la qualité est une inspection avec une structure spécifique, des rôles définis et une procédure conçue pour garantir l'exhaustivité d'un produit et le respect des normes de qualité. La revue de qualité est utilisée pour vérifier si tous les objectifs d'un objectif de qualité ont été atteints.

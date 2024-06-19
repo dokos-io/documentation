@@ -1,14 +1,6 @@
 ---
 title: Demande de déplacement
-description: 
-published: true
-date: 2021-06-10T09:28:26.789Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-10T09:28:26.789Z
 ---
-
-# Demande de déplacement
 
 Les employés peuvent demander des fonds pour un voyage officiel en utilisant la demande de voyage. Pour créer une nouvelle demande de déplacement, rendez-vous sur
 

@@ -1,14 +1,6 @@
 ---
 title: Grille des salaires
-description: 
-published: true
-date: 2021-06-17T09:38:54.265Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-17T09:05:35.232Z
 ---
-
-# Grille des salaires
 
 La structure salariale est le détail du salaire offert à un employé, en termes de répartition des différentes composantes constituant la rémunération.
 

@@ -1,14 +1,6 @@
 ---
 title: Plan de dotation
-description: 
-published: true
-date: 2021-06-14T11:52:30.929Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-14T11:52:11.814Z
 ---
-
-# Plan de dotation
 
 Le plan de dotation vous aide à planifier les besoins en main-d'œuvre de votre entreprise.
 

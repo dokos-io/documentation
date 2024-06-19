@@ -1,14 +1,6 @@
 ---
 title: Offre d'emploi
-description: 
-published: true
-date: 2021-06-14T10:15:43.916Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-14T09:58:16.138Z
 ---
-
-# Offre d'emploi
 
 Une offre d'emploi est une offre qui est à pourvoir dans votre entreprise. Vous pouvez enregistrer les postes vacants dans votre entreprise en utilisant l'offre d'emploi.
 

@@ -1,11 +1,5 @@
 ---
 title: Salaire supplémentaire
-description: 
-published: true
-date: 2021-06-21T07:04:29.624Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-21T06:46:32.498Z
 ---
 
 # Salaire supplémentaire

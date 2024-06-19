@@ -1,14 +1,6 @@
 ---
 title: Affectation de quart
-description: 
-published: true
-date: 2021-06-14T09:15:57.748Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-14T09:02:40.452Z
 ---
-
-# Affectation de quart
 
 La section Gestion des quarts de travail des ressources humaines aide votre organisation à gérer les quarts de travail de vos employés.
 

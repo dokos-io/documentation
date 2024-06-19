@@ -2,8 +2,6 @@
 title: Mattermost
 ---
 
-# Connexion avec Mattermost
-
 ## 1. Accès à Mattermost et configuration
 
 1. Accédez à l'application de Mattermost en allant sur : **<a href="https://mattermost.com/" target="_blank">https://mattermost.com/</a>**. 
