@@ -2,8 +2,6 @@
 title: Retours de qualité
 ---
 
-# Retours de qualité
-
 Les retours sur la qualité sont les informations qu'un client exprime sur la satisfaction ou l'insatisfaction concernant les produits ou services que vous proposez.
 
 Les retours de qualité a différents champs pour évaluer différents paramètres. Le client/utilisateur peut facilement donner son avis en sélectionnant son modèle pour évaluer différents paramètres et également fournir un retour qualitatif sur ces paramètres.
@@ -35,7 +33,7 @@ Pour accéder à **la liste retour de qualité**, allez sur :
 
 ![détails_retour_de_qualité.png](/content/qualite/quality-feedback/détails_retour_de_qualité.png)
 
-# Modèle de retours de qualité
+## Modèle de retours de qualité
 
 Pour créer le retour qualité, vous devez d'abord définir les paramètres en créant le modèle de feedback qualité. Les modèles contiennent généralement le nom du modèle, la portée et les différents paramètres à saisir. Les différents paramètres peuvent être décidés sur la base de différentes occasions et enquêtes.
 

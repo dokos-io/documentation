@@ -1,14 +1,6 @@
 ---
 title: Transfert des employés
-description: 
-published: true
-date: 2021-06-04T08:18:55.975Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-03T13:54:08.668Z
 ---
-
-# Transfert des employés
 
 Le transfert d'employés est une forme de mobilité interne, dans laquelle l'employé est transféré d'un emploi à un autre, généralement dans un emplacement, un service ou une unité différent.
 

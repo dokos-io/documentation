@@ -2,8 +2,6 @@
 title: Non-conformité
 ---
 
-# Non-conformité
-
 Une non-conformité est une observation qui peut être déposée par toute personne dans l'organisation pour constater le non-respect d'une procédure spécifique
 
 Une fois les procédures qualité définies, l'objectif d'une organisation axée sur la qualité est de s'assurer qu'elles sont respectées. Cela garantit une qualité et des paramètres constants selon les attentes du client. Si ces procédures ne sont pas suivies, une observation est enregistrée via une Non Conformité ou appelée NC dans les systèmes qualité.

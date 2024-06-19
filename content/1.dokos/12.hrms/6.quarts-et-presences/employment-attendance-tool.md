@@ -2,8 +2,6 @@
 title: Outil de présence des employés
 ---
 
-# Outil de présence des employés
-
 L'outil de présence des employés vous permet de marquer la présence de plusieurs employés pour une date particulière.
 
 Pour accéder à l'outil de présence des employés, allez à :

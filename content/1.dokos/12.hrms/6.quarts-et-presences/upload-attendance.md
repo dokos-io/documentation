@@ -1,14 +1,6 @@
 ---
 title: Outil de chargement de présence
-description: 
-published: true
-date: 2021-06-09T14:12:17.210Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-09T14:11:19.521Z
 ---
-
-# Outil de chargement de présences
 
 Cet outil vous aide à télécharger la participation en masse à partir d'un fichier csv.
 

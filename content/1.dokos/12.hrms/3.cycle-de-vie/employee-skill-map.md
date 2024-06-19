@@ -1,14 +1,6 @@
 ---
 title: Carte des compétences des employés
-description: 
-published: true
-date: 2021-06-03T13:19:54.646Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-03T13:15:35.970Z
 ---
-
-# Carte des compétences des employés
 
 La carte des compétences des employés est un enregistrement qui aide votre organisation à suivre les compétences et les formations de vos employés. Il peut être utilisé pour évaluer chaque compétence de l'employé et suivre sa croissance après chaque formation interne. Ces données peuvent être utilisées au moment des évaluations.
 

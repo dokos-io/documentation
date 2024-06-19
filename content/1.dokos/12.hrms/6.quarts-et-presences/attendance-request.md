@@ -1,14 +1,6 @@
 ---
 title: Demande de validation de présence
-description: 
-published: true
-date: 2021-06-09T13:57:47.304Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-09T13:53:15.828Z
 ---
-
-# Demande de validation de présence
 
 À l'aide de la demande de présence, les employés peuvent soumettre leur demande de présence pour les jours où leur présence n'a pas été marquée pour diverses raisons telles que le service sur site ou le travail à domicile.
 

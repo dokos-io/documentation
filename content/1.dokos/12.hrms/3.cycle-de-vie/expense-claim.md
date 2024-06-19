@@ -1,14 +1,6 @@
 ---
 title: Note de frais
-description: 
-published: true
-date: 2021-06-10T07:13:47.657Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-09T14:35:57.890Z
 ---
-
-# Note de frais
 
 Une demande de remboursement est effectuée lorsque les employés effectuent des dépenses de leur poche au nom de l'entreprise.
 

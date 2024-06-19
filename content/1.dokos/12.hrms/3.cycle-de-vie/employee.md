@@ -1,14 +1,6 @@
 ---
 title: Employé
-description: 
-published: true
-date: 2021-06-02T09:38:18.899Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-01T13:01:23.671Z
 ---
-
-# Employé
 
 Une personne qui travaille à temps partiel ou à temps plein dans le cadre d'un contrat de travail et qui a des droits et devoirs reconnus de votre entreprise est votre employé.
 

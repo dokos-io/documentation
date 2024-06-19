@@ -1,14 +1,6 @@
 ---
 title: Demandeur d'emploi
-description: 
-published: true
-date: 2021-06-12T07:30:30.337Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-12T07:24:40.811Z
 ---
-
-# Demandeur d'emploi
 
 Un demandeur d'emploi est une personne qui postule pour un emploi dans votre entreprise contre une offre d'emploi particulière.
 

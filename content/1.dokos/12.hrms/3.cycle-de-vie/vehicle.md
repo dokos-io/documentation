@@ -1,14 +1,6 @@
 ---
 title: Véhicule
-description: 
-published: true
-date: 2021-06-15T07:20:04.407Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-15T06:52:47.073Z
 ---
-
-# Véhicule
 
 Le document Véhicule vous permet de définir les différents types de Véhicules dans votre Organisation. Il agit en tant que maître de véhicule pour la gestion de flotte.
 

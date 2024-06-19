@@ -2,8 +2,6 @@
 title: Amazon S3
 ---
 
-# Paramètres de sauvegarde S3 - Amazon S3
-
 Amazon S3 est le service de stockage principal d’Amazon Web Services. Il permet de stocker une quantité « virtuellement » illimitée de données avec une très haute disponibilité.
 
 La grande particularité d’Amazon S3 réside dans le stockage en mode objet : contrairement au stockage en mode block ou file storage, un objet dans Amazon S3 est composé de data et de metadata, et répond à une API REST

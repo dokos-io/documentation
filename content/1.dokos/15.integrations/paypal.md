@@ -2,8 +2,6 @@
 title: PayPal
 ---
 
-# Intégration avec PayPal
-
 ## Configuration
 
 Afin de configurer une intégration avec Paypal, vous devez ajouter les éléments suivants:

@@ -1,16 +1,7 @@
 ---
 title: Journal du véhicule
-description: 
-published: true
-date: 2021-06-15T08:51:52.562Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-15T07:32:43.290Z
 ---
 
-# Journal du véhicule
-
-Journal du véhicule
 Le journal du véhicule est utilisé pour entrer les lectures du compteur kilométrique, les dépenses de carburant et les détails des dépenses de service.
 
 ---

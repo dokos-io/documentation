@@ -1,14 +1,6 @@
 ---
 title: Résultat de la formation
-description: 
-published: true
-date: 2021-06-14T14:16:50.882Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-14T13:50:43.544Z
 ---
-
-# Résultat de la formation
 
 Une fois l'événement de formation terminé, les résultats de la formation des employés peuvent être stockés en fonction de l'évaluation effectuée par le formateur.
 

@@ -1,14 +1,6 @@
 ---
 title: Zapier
-description: 
-published: true
-date: 2021-01-05T09:23:03.491Z
-tags: 
-editor: markdown
-dateCreated: 2020-11-26T16:34:52.934Z
 ---
-
-# Application Zapier
 
 Zapier est une plateforme permettant à des personnes sans connaissances techniques de connecter différentes applications entre elles.
 

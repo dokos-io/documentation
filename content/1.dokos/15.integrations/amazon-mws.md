@@ -2,8 +2,6 @@
 title: Amazon MWS
 ---
 
-# Paramètres Amazon MWS
-
 Le connecteur Amazon extrait les produits et les commandes client de la market place Amazon. La synchronisation des produits et des commandes clients est séquentielle. Vous devez synchroniser les produits avant de synchroniser les commandes client.
 
 ## 1. Comment configurer le connecteur Amazon MWS ? 

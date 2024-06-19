@@ -1,14 +1,6 @@
 ---
 title: Gestion des présences
-description: 
-published: true
-date: 2021-06-09T11:43:44.920Z
-tags: 
-editor: markdown
-dateCreated: 2020-12-04T13:27:06.745Z
 ---
-
-# Les présences
 
 La présence est un enregistrement indiquant si un employé a été présent un jour particulier ou non.
 

@@ -2,8 +2,6 @@
 title: Google Chat
 ---
 
-# Connexion avec Google Chat
-
 **Google Chat** est une plateforme de communication crée par Google. Ce logiciel a été conçu pour les équipes qui fournit des messages directs et des salles de chat d'équipe, similaires aux concurrents Slack et Microsoft Teams, ainsi qu'une fonction de messagerie de groupe qui permet le partage de contenu sur Google Drive.
 
 ## 1. Accès à Google Chat et configuration

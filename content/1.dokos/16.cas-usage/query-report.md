@@ -2,8 +2,6 @@
 title: Rapports SQL
 ---
 
-# Le Rapports SQL
-
 Les rapports SQL vous permettent de créer des rapports qui seront définis par les requêtes SQL. On peut ajouter diverses données qui seront stockées dans le logiciel DOKOS pour obtenir ces rapports.
 
 ## Cas d'usage <*Mappemonde*>

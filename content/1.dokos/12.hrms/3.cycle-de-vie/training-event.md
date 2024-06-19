@@ -1,14 +1,6 @@
 ---
 title: Événement de la formation
-description: 
-published: true
-date: 2021-06-14T13:32:02.037Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-14T13:14:47.995Z
 ---
-
-# Événement de la formation
 
 L'événement de formation vous permet de planifier des séminaires, des ateliers, des conférences, etc. dans le cadre d'un programme de formation.
 

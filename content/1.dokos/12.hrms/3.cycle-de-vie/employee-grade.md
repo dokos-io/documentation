@@ -1,14 +1,6 @@
 ---
 title: Échelon de l'employé
-description: 
-published: true
-date: 2021-06-02T12:09:56.337Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-02T12:09:30.811Z
 ---
-
-# Échelon de l'employé
 
 Un grade d'employé est un regroupement d'employés ayant des postes ou des valeurs similaires afin d'attribuer des taux de rémunération et des structures salariales.
 

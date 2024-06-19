@@ -1,14 +1,6 @@
 ---
 title: Assurance maladie des employés
-description: 
-published: true
-date: 2021-06-02T12:53:45.588Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-02T12:52:13.018Z
 ---
-
-# Assurance maladie des employés
 
 L'assurance maladie des employés est un avantage offert par l'entreprise à ses employés. Lorsqu'une entreprise fournit une assistance en matière d'assurance-maladie, elle paie des primes totales ou partielles pour la police d'assurance-maladie.
 

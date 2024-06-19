@@ -2,8 +2,6 @@
 title: Google Contacts
 ---
 
-# Contacts Google
-
 Dokos fournit une intégration avec Google Contacts afin que tous les utilisateurs puissent synchroniser leurs Google Contacts avec Dokos.
 
 ---

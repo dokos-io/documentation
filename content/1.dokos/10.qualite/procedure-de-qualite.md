@@ -2,8 +2,6 @@
 title: Procédure de qualité
 ---
 
-# Procédure de qualité
-
 Une Procédure de Qualité est une Procédure Opérationnelle Standard (SOP) utilisée comme référence pour effectuer des actions quotidiennes.
 
 Une procédure opérationnelle standard (SOP) est un ensemble d'instructions étape par étape compilées par une organisation pour aider les employés à exécuter les opérations quotidienne. Les SOP visent à atteindre l'efficacité, la qualité des résultats et l'uniformité des performances tout en réduisant les problèmes de communication et le non-respect des réglementations de l'industrie.

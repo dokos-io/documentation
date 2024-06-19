@@ -1,14 +1,6 @@
 ---
 title: Type d'emploi
-description: 
-published: true
-date: 2021-06-02T09:36:48.459Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-02T09:15:29.511Z
 ---
-
-# Type d'emploi
 
 Vous pouvez employer des personnes dans un certain nombre de catégories, chacune ayant son propre salaire et droit à des congés. C'est ce qu'on appelle un type d'emploi.
 

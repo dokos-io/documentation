@@ -2,8 +2,6 @@
 title: Action de qualité
 ---
 
-# Action de qualité
-
 Une action qualité est prise lors d'une revue de qualité pour corriger les résultats insatisfaisants ou les empêcher de se produire.
 
 L'action qualité est une fonctionnalité standard pour permettre la mise en œuvre d'actions correctives et préventives. Cela respectera la conformité aux réglementations de l'industrie, notamment les ISO 9001, 14001 etc..

@@ -2,7 +2,6 @@
 title: Actions de flux de travail
 ---
 
-# Actions de Flux de travail
 Actions de flux de travail est un emplacement unique pour gérer toutes les actions en attente que vous pouvez effectuer sur les flux de travail.
 
 Les actions de flux de travail enverront des notifications par e-mail uniquement si la case "Envoyer une alerte par e-mail" est cochée dans le flux de travail que vous avez créé.

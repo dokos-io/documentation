@@ -2,8 +2,6 @@
 title: Rocket Chat
 ---
 
-# Connexion avec Rocket Chat
-
 Si vous souhaitez que vos notifications soient envoyées à un canal Rocket Chat dédié, vous pouvez également choisir l'option **Rocket Chat** dans les options du canal et sélectionner l'URL du Webhook Rocket Chat appropriée.
 
 ## 1. Accès et connexion à Rocket Chat

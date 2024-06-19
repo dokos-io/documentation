@@ -2,8 +2,6 @@
 title: Slack
 ---
 
-# Connexion avec Slack
-
 Si vous souhaitez que vos notifications soient envoyées à un canal Slack dédié, vous pouvez également choisir l'option "**Slack**" dans les options du canal et sélectionner l'URL du Webhook Slack appropriée.
 
 ## Accès à Slack et configuration

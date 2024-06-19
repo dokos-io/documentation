@@ -2,7 +2,6 @@
 title: Règle d'attribution
 ---
 
-# Règle d'attribution
 Une règle d'attribution vous permet de configurer l'attribution automatique de documents aux utilisateurs.
 
 La règle d'attribution sera utile dans un scénario dans lequel vous avez une équipe de support et des tickets de support entrants. Pour affecter automatiquement les tickets de support parmi les employés qui travaillent sur le support, une règle d'affectation peut être utilisée.

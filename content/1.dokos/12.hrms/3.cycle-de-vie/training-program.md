@@ -1,14 +1,6 @@
 ---
 title: Programme de formation
-description: 
-published: true
-date: 2021-06-14T13:09:05.327Z
-tags: 
-editor: markdown
-dateCreated: 2021-06-14T13:08:29.489Z
 ---
-
-# Programme de formation
 
 Le programme de formation définit des programmes conçus pour former des employés ou d'autres personnes à des compétences spécifiques.
 
