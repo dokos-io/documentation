@@ -1,31 +1,64 @@
 ---
 title: Note de frais
+description: null
+published: true
+date: 2021-06-10T07:13:47.657Z
+tags: null
+editor: markdown
+dateCreated: 2021-06-09T14:35:57.890Z
 ---
 
-Une demande de remboursement est effectuée lorsque les employés effectuent des dépenses de leur poche au nom de l'entreprise.
+# Note de frais
 
-Par exemple, s'il emmène un client déjeuner, il peut faire une demande de remboursement via le formulaire Note de frais.
+Prérequis :
 
----
+1. Employé
+2. Département
+3. Modèle de taxes et frais d'achat
 
-Pour accéder à la **liste note de frais**, allez sur :
+Avant de créer des notes de frais ou des dépenses, vous devez définir vos modèles de types de notes de frais ainsi que les modèles de taxes associés.
+
+### Type de note de frais
+
+Les types de notes de frais permettent de catégoriser et de gérer les différentes dépenses engagées par les employés. Cela aide à standardiser les processus de soumission, d'approbation, et de remboursement des frais.
+
+Les administrateurs ou responsables de la comptabilité peuvent définir différents types de notes de frais pour catégoriser les dépenses.
+
+**Ajouter un nouveau type de note de frais :**
+
+- Remplir les champs requis :1) **Nom du type de note de frais :** Par exemple, "Carburant", "Hébergement", "Repas", "Fournitures de Bureau", etc.
+  2) **Compte de dépense associé :** Sélectionner le compte de dépense approprié dans le plan comptable de votre entreprise.
+  3) **Taux de TVA applicable :** Spécifier le modèle de taxes, si nécessaire.
+
+![Cette image permet de visualiser le formulaire : type de note de frais.](/typedenotedefrais10.png)
+
+#### Modèle de taxes
+
+Créer un modèle de taxes sur un montant TTC car les employés vont saisir leurs montants en TTC.
+
+![Image permettant de visualiser la liste des modèles de taxes par défaut.](/Modeledetaxesetfraisdachat.png)
+
+Vous pouvez dupliquer les modèles par défaut, en modifiant le nom et la règle pour définir la taxe sur le montant TTC ou alors vous pouvez créer des modèles selon vos besoins.
+
+![Image permettant de visualiser l'onglet permettant de dupliquer un formulaire.](/dupliquerunmodeledetaxe.png)![Image permettant de visualiser la zone indiquant : Cette taxe est-elle incluse dans le total net.](/modeledetaxesurttc.png)
+
+### Dépense
+
+![Image permettant de visualiser le formulaire d'une nouvelle dépense.](/Nouvelledepense.png)![Image permettant de visualiser les dépenses d'un employés lors d'une formation.](/plusieursd%C3%A9penses.png)
+
+Créer une note de frais à partir des dépenses
+
+![Image permettant de visualiser la création d'une note de frais à partir des dépenses.](/cr%C3%A9erunenotedefraisapartirdesd%C3%A9penses.png)![Image permettant de visualiser une note de frais, en attente.](/Notedefrais.png)
 
 > Ressources humaines > Notes de frais > **Notes de frais**
 
-![liste_note_de_frais.png](/content/rh/expense-claim/liste_note_de_frais.png)
+## 2. Comment créer une note de frais
 
-## 1. Prérequis avant utilisation
-
-- **[Employé](/dokos/hrms/cycle-de-vie/employee)**
-- **[Département](/dokos/hrms/parametrage/departement)**
-- Plan comptable
-
-## 2. Comment créer une note de frais 
-1. Allez dans la liste de Note de frais, cliquez sur **:heavy_plus_sign: Ajouter Note de frais**.
+1. Allez dans la liste de Note de frais, cliquez sur **➕ Ajouter Note de frais**.
 2. Sélectionnez le nom de l'employé dans le champ **De l'employé**.
 3. Sélectionnez l'approbateur de la note de frais.
 
-![charges_notes_de_frais.png](/content/rh/expense-claim/charges_notes_de_frais.png)
+![charges\_notes\_de\_frais.png](/content/rh/expense-claim/charges_notes_de_frais.png)
 
 ### 3. Caractéristiques
 
@@ -39,32 +72,32 @@ Saisissez la date de la dépense, le type de demande de remboursement et le mont
 
 De plus, vous pouvez également saisir les taxes et les frais de dépenses.
 
-![frais_et_charges_de_la_note_de_frais.png](/content/rh/expense-claim/frais_et_charges_de_la_note_de_frais.png)
+![frais\_et\_charges\_de\_la\_note\_de\_frais.png](/content/rh/expense-claim/frais_et_charges_de_la_note_de_frais.png)
 
 ### 3.3. Détails comptables
 
 Dans Détails comptables, sélectionnez le compte créditeurs par défaut de la société.
 
-![détails_comptables.png](/content/rh/expense-claim/détails_comptables.png)
+![détails\_comptables.png](/content/rh/expense-claim/de%CC%81tails_comptables.png)
 
 ### 3.4 Dimensions comptables
 
 Les dimensions comptables vous permettent d'étiqueter les transactions en fonction d'un territoire, d'une succursale, d'un client, etc. Cela facilite la visualisation des états comptables séparément en fonction des critères sélectionnés.
 
-![dimensions_comptables.png](/content/rh/expense-claim/dimensions_comptables.png)
+![dimensions\_comptables.png](/content/rh/expense-claim/dimensions_comptables.png)
 
 ### 3.4 Plus de détails
 
 Visualisez le statut de la note de frais. Le statut peut être Brouillon, Approvué ou Rejeté.
 
-![plus_de_détails.png](/content/rh/expense-claim/plus_de_détails.png)
+![plus\_de\_détails.png](/content/rh/expense-claim/plus_de_de%CC%81tails.png)
 
 ### 3.5 Acomptes et avances
 
 Pour les notes de frais de grande valeur, il est possible de créer un acompte avant de traiter la note de frais complètement.
-Ajouter une ligne avec les informations de l'acompte et de l'avance. 
+Ajouter une ligne avec les informations de l'acompte et de l'avance.
 
-![acomptes_et_avances.png](/content/rh/expense-claim/acomptes_et_avances.png)
+![acomptes\_et\_avances.png](/content/rh/expense-claim/acomptes_et_avances.png)
 
 ## 3. Flux de travail
 
@@ -92,7 +125,7 @@ Pour effectuer le paiement contre la note de frais, l'utilisateur doit cliquer s
 
 #### Saisie de paiement
 
-::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
+::callout{color="amber" icon="i-heroicons-exclamation-triangle"}
 **Remarque** : Ce montant ne doit pas être associé au Salaire car le montant sera alors imposable pour l'Employé.
 ::
 
@@ -107,9 +140,3 @@ Définissez le type de paiement sur « Payer », le type de partie sur l'employ�
 Pour lier une note de frais à une tâche ou un projet, spécifiez la tâche ou le projet lors de la création d'une note de frais.
 
 Cela mettra à jour le coût du projet avec les montants des notes de frais
-
-
-
-
-
-
