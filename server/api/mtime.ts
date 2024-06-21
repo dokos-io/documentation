@@ -99,6 +99,23 @@ if (globalThis.process?.argv?.[2] === 'mtime-generate') {
   if (typeof defineEventHandler === 'undefined' && process.argv) {
     globalThis.defineEventHandler = () => {}
   }
+  if (process.env.CI === 'true') {
+    const script = `
+      git remote set-url origin $(git remote get-url origin | sed 's~:~/~ ; s~git@~https://~');
+      git fetch --deepen 50;
+    `
+    const { status, stdout, stderr } = spawnSync('sh', ['-c', script], { encoding: 'utf8' })
+    if (status) {
+      stdout && console.log(stdout)
+      stderr && console.error(stderr)
+      process.exit(status)
+    } else {
+      // Show some commits
+      const { stdout, stderr } = spawnSync('git', ['log', '-10', '--pretty=oneline'], { encoding: 'utf8' })
+      stdout && console.log(stdout)
+      stderr && console.error(stderr)
+    }
+  }
   updateCachedValues()
 }
 

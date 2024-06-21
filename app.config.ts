@@ -36,7 +36,7 @@ export default defineAppConfig({
     title: 'Table des matières',
     bottom: {
       title: 'Communauté',
-      edit: 'https://gitlab.com/dokos/documentation',
+      edit: 'https://gitlab.com/dokos/documentation/-/blob/main/content',
       links: [{
         icon: 'i-heroicons-star',
         label: 'Suivre sur Gitlab',

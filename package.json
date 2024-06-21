@@ -5,9 +5,9 @@
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
-    "generate": "nuxt generate",
+    "generate": "(yarn mtime || true) && NODE_OPTIONS='--max_old_space_size=4096' nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare && (yarn mtime || true)",
+    "postinstall": "nuxt prepare",
     "lint": "eslint .",
     "typecheck": "nuxt typecheck",
     "mtime": "npx --yes tsx server/api/mtime.ts mtime-generate"
