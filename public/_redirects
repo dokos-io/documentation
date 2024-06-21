@@ -253,7 +253,8 @@ https://clever-tulumba-189136.netlify.app/*	https://doc.dokos.io/:splat	301!
 /stocks/retain-sample-stock	/dokos/stocks/retain-sample-stock 301!
 /stocks/sales-return	/dokos/stocks/sales-return 301!
 /stocks/serial-no	/dokos/stocks/serial-no 301!
-/stocks/shipping-rule	/dokos/stocks/shipping-rule 301!
+/stocks/shipping-rule	/dokos/stocks/regle-de-livraison 301!
+/dokos/stocks/shipping-rule	/dokos/stocks/regle-de-livraison 301!
 /stocks/stock-entry	/dokos/stocks/stock-entry 301!
 /stocks/stock-level-report	/dokos/stocks/stock-level-report 301!
 /stocks/stock-settings	/dokos/stocks/stock-settings 301!
