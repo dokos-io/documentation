@@ -1,14 +1,11 @@
 ---
 title: Note de frais
-description: null
-published: true
-date: 2021-06-10T07:13:47.657Z
-tags: null
-editor: markdown
-dateCreated: 2021-06-09T14:35:57.890Z
+description: Les notes de frais dans Dokos sont conçues pour faciliter la gestion et le remboursement des dépenses professionnelles engagées par les employés. Elles permettent une gestion organisée et efficace des dépenses, facilitant la soumission, l'approbation, le traitement comptable et l'analyse des coûts.
 ---
 
-# Note de frais
+Une **note de frais** est un document utilisé pour enregistrer et suivre les dépenses engagées par les employés au nom de l'entreprise. Ces dépenses peuvent inclure les frais de déplacement, les repas, les fournitures de bureau, le carburant, etc. La note de frais permet aux employés de soumettre les dépenses qu'ils ont payées de leur propre poche pour être remboursées par l'entreprise.
+
+> Ressources humaines > Notes de frais > **Notes de frais**
 
 Prérequis :
 
@@ -18,13 +15,13 @@ Prérequis :
 
 Avant de créer des notes de frais ou des dépenses, vous devez définir vos modèles de types de notes de frais ainsi que les modèles de taxes associés.
 
-### Type de note de frais
+### 1. Type de note de frais
 
 Les types de notes de frais permettent de catégoriser et de gérer les différentes dépenses engagées par les employés. Cela aide à standardiser les processus de soumission, d'approbation, et de remboursement des frais.
 
 Les administrateurs ou responsables de la comptabilité peuvent définir différents types de notes de frais pour catégoriser les dépenses.
 
-**Ajouter un nouveau type de note de frais :**
+**1.1. Ajouter un nouveau type de note de frais :**
 
 - Remplir les champs requis :1) **Nom du type de note de frais :** Par exemple, "Carburant", "Hébergement", "Repas", "Fournitures de Bureau", etc.
   2) **Compte de dépense associé :** Sélectionner le compte de dépense approprié dans le plan comptable de votre entreprise.
@@ -32,9 +29,9 @@ Les administrateurs ou responsables de la comptabilité peuvent définir différ
 
 ![Cette image permet de visualiser le formulaire : type de note de frais.](/typedenotedefrais10.png)
 
-#### Modèle de taxes
+#### 1.2. Modèle de taxes
 
-Créer un modèle de taxes sur un montant TTC car les employés vont saisir leurs montants en TTC.
+Créer un modèle de taxes sur un montant TTC car les employés vont saisir leurs montants en net TTC.
 
 ![Image permettant de visualiser la liste des modèles de taxes par défaut.](/Modeledetaxesetfraisdachat.png)
 
@@ -42,64 +39,83 @@ Vous pouvez dupliquer les modèles par défaut, en modifiant le nom et la règle
 
 ![Image permettant de visualiser l'onglet permettant de dupliquer un formulaire.](/dupliquerunmodeledetaxe.png)![Image permettant de visualiser la zone indiquant : Cette taxe est-elle incluse dans le total net.](/modeledetaxesurttc.png)
 
-### Dépense
+### 2. Créer une dépense
 
 ![Image permettant de visualiser le formulaire d'une nouvelle dépense.](/Nouvelledepense.png)![Image permettant de visualiser les dépenses d'un employés lors d'une formation.](/plusieursd%C3%A9penses.png)
 
-Créer une note de frais à partir des dépenses
+2.1. Créer une dépense :
 
-![Image permettant de visualiser la création d'une note de frais à partir des dépenses.](/cr%C3%A9erunenotedefraisapartirdesd%C3%A9penses.png)![Image permettant de visualiser une note de frais, en attente.](/Notedefrais.png)
+Renseignez les éléments suivants :
 
-> Ressources humaines > Notes de frais > **Notes de frais**
+1. Date de la note de frais
+2. Indiquez le détail des charges en sélectionnant le type de dépense approprié. Si votre dépense inclut plusieurs taux de TVA, veuillez créer une ligne distincte pour chaque taux de TVA différent.
+3. Vous pouvez saisir de centre de coûts et le projet associé à la dépense, si nécessaire.
 
-## 2. Comment créer une note de frais
+##### 2.2. TVA différente sur la même dépense :
 
-1. Allez dans la liste de Note de frais, cliquez sur **➕ Ajouter Note de frais**.
-2. Sélectionnez le nom de l'employé dans le champ **De l'employé**.
-3. Sélectionnez l'approbateur de la note de frais.
+Lorsqu'un ticket de caisse contient deux taux de TVA différents, par exemple dans le cas d'un repas au restaurant avec une boisson alcoolisée ou lorsqu'une note correspond à une dépense de carburant, il faut procéder de la manière suivante :
 
-![charges\_notes\_de\_frais.png](/content/rh/expense-claim/charges_notes_de_frais.png)
+La gestion de la TVA sur les tickets peut être effectuée en enregistrant deux lignes distinctes dans la dépense ou note de frais. Cela permet de séparer les éléments soumis à des TVA distincte.
 
-### 3. Caractéristiques
+> Exemple pour le carburant :
+>
+> La gestion de la TVA pour les tickets de carburant peut se faire en utilisant deux lignes distinctes. Pour une dépense ou note de frais, ajoutez une ligne représentant 80% du montant pour le type de frais « Carburant avec TVA (20%) » et une autre ligne représentant 20% du montant pour le type de frais « Carburant sans TVA ».
+>
+> 1. **Carburant avec TVA déductible (80%) :** Montant 120\*0.8 = 96 EUR (80% de 120 EUR)
+> 2. **Carburant sans TVA déductible (20%) :** Montant 120\*0.20 = 24 EUR (20% de 120 EUR)
+>
+> ![Cette image permet de visualiser la dépense de carburant avec deux lignes de TVA.](/d%C3%A9pensecarburant.png)
 
-### 3.1 Charges
+2.3. Créer une note de frais à partir des dépenses :
 
-Saisissez la date de la dépense, le type de demande de remboursement et le montant de la note de frais.
+![Image permettant de visualiser la création d'une note de frais à partir des dépenses.](/cr%C3%A9erunenotedefraisapartirdesd%C3%A9penses.png)
 
-![charges.png](/content/rh/expense-claim/charges.png)
+Le tableau des charges est saisi automatiquement en reprenant les informations des dépenses.
 
-### 3.2 Frais et charges de la note de frais
+![Image permettant de visualiser une note de frais, en attente.](/Notedefrais.png)
 
-De plus, vous pouvez également saisir les taxes et les frais de dépenses.
+En vous rendant sur le détail de chaque ligne, vous pourrez retrouver la dépense associée.
 
-![frais\_et\_charges\_de\_la\_note\_de\_frais.png](/content/rh/expense-claim/frais_et_charges_de_la_note_de_frais.png)
+![Image permettant de visualiser la partie détail de la dépense.](/notedefraisdetaildepense.png)
 
-### 3.3. Détails comptables
+### 3. Note de frais
+
+![Cette image permet de visualiser une note de frais.](/notedefraisdirect.png)
+
+#### 3.1. Créer une note de frais
+
+1. Renseignez l'employé à l'origine de la dépense.
+2. Ajoutez l'approbateur de la note de frais. (Elément à renseigner dans le département des postes)
+3. Saisissez la date de la dépense, le type de demande de remboursement et le montant de la note de frais.
+4. Calcul automatique ou ajouter les taxes manuellement. Si le montant des frais engagés est en net TTC et que vous choisissiez d'ajouter manuellement les taxes, cochez la case : **Taxe incluse dans le montant de la dépense** ![Image permettant de visualiser le calcul manuel de le TVA.](/notedefraisdirectcalculmanuel.png)
+5. Insérer un justificatif : Vous pouvez joindre vos justificatifs de paiement en pièce jointe à gauche du formulaire.![Image permettant de visualiser la partie pièces jointes.](/ticketdecaissebureaunotedefrais.png)
+
+#### 3.2. Comptabilité
 
 Dans Détails comptables, sélectionnez le compte créditeurs par défaut de la société.
 
-![détails\_comptables.png](/content/rh/expense-claim/de%CC%81tails_comptables.png)
+![Image permettant de visualiser la partie comptabilité de la note de frais.](/notedefraiscompta.png)
 
-### 3.4 Dimensions comptables
+1. **Date de comptabilisation** et **Date de rapprochement** : Ces dates sont essentielles pour suivre la période fiscale à laquelle la dépense est liée et pour les opérations de rapprochement bancaire.
+2. **Mode de paiement** : Important pour la gestion de trésorerie et la traçabilité des paiements.
+3. **Montant non rapproché** : Affiche le montant de la note de frais qui n'a pas encore été rapproché. Un montant de 0,00 € indique que tous les montants ont été rapprochés. Cela aide à identifier les écarts potentiels ou les montants non encore justifiés.
+4. **Comptes créditeurs** : Indispensable pour la génération d'écritures comptables précises.
+5. **Projet et Centre de coûts** : Facilitent l'analyse financière par projet ou par unité de coût, assurant une meilleure répartition et gestion des dépenses.
 
-Les dimensions comptables vous permettent d'étiqueter les transactions en fonction d'un territoire, d'une succursale, d'un client, etc. Cela facilite la visualisation des états comptables séparément en fonction des critères sélectionnés.
+#### 3.3. Plus d'informations
 
-![dimensions\_comptables.png](/content/rh/expense-claim/dimensions_comptables.png)
+Visualisez le statut de la note de frais. Le statut peut être Brouillon, Approuvé ou Rejeté.
 
-### 3.4 Plus de détails
+![Image permettant de visualiser la zone plus d'informations du formulaire note de frais.](/notedefraisplusdinformation.png)
 
-Visualisez le statut de la note de frais. Le statut peut être Brouillon, Approvué ou Rejeté.
+#### 3.4. Tableau de bord
 
-![plus\_de\_détails.png](/content/rh/expense-claim/plus_de_de%CC%81tails.png)
-
-### 3.5 Acomptes et avances
+![Image permettant de visualiser la zone tableau de bord dans les notes de frais.](/notedefraistableaudebord.png)
 
 Pour les notes de frais de grande valeur, il est possible de créer un acompte avant de traiter la note de frais complètement.
 Ajouter une ligne avec les informations de l'acompte et de l'avance.
 
-![acomptes\_et\_avances.png](/content/rh/expense-claim/acomptes_et_avances.png)
-
-## 3. Flux de travail
+## 4. Flux de travail
 
 ### 3.1 Approbation des dépenses
 
