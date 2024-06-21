@@ -1,11 +1,5 @@
 ---
 title: Promotion des employés
-description: null
-published: true
-date: 2021-06-03T13:41:29.740Z
-tags: null
-editor: markdown
-dateCreated: 2021-06-03T13:41:29.740Z
 ---
 
 La promotion ou l'avancement de carrière est un processus par lequel un employé d'une entreprise se voit attribuer une part plus élevée de tâches, une échelle salariale plus élevée ou les deux.
