@@ -21,7 +21,6 @@ Avant de créer des notes de frais ou des dépenses, vous devez définir vos mod
 Créer un type de note de frais dans la démo
 ::
 
-
 Les types de notes de frais permettent de catégoriser et de gérer les différentes dépenses engagées par les employés. Cela aide à standardiser les processus de soumission, d'approbation, et de remboursement des frais.
 
 Les administrateurs ou responsables de la comptabilité peuvent définir différents types de notes de frais pour catégoriser les dépenses.
@@ -30,20 +29,18 @@ Les administrateurs ou responsables de la comptabilité peuvent définir différ
 
 - Remplir les champs requis :
 
-1) **Nom du type de note de frais :** 
-Par exemple, "Carburant", "Hébergement", "Repas", "Fournitures de Bureau", etc.
-
-2) **Compte de dépense associé :** Sélectionner le compte de dépense approprié dans le plan comptable de votre entreprise.
-
-3) **Taux de TVA applicable :** Spécifier le modèle de taxes, si nécessaire.
+1. **Nom du type de note de frais :**
+   Par exemple, "Carburant", "Hébergement", "Repas", "Fournitures de Bureau", etc.
+2. **Compte de dépense associé :** Sélectionner le compte de dépense approprié dans le plan comptable de votre entreprise.
+3. **Taux de TVA applicable :** Spécifier le modèle de taxes, si nécessaire.
 
 ![Cette image permet de visualiser le formulaire : type de note de frais.](/typedenotedefrais10.png)
 
 #### 1.2. Modèle de taxes
-::tour{demo="Mappemonde" doctype="purchase-taxes-and-charges-template"}
-Créer un modèle de taxe dans la démo 
-::
 
+::tour{demo="Mappemonde" doctype="purchase-taxes-and-charges-template"}
+Créer un modèle de taxe dans la démo
+::
 
 Créer un modèle de taxes sur un montant TTC car les employés vont saisir leurs montants en net TTC.
 
@@ -56,12 +53,12 @@ Vous pouvez dupliquer les modèles par défaut, en modifiant le nom et la règle
 ### 2. Créer une dépense
 
 ::tour{demo="Mappemonde" doctype="expense"}
-Créer une dépense dans la démo 
+Créer une dépense dans la démo
 ::
+
 ![Image permettant de visualiser le formulaire d'une nouvelle dépense.](/Nouvelledepense.png)![Image permettant de visualiser les dépenses d'un employés lors d'une formation.](/plusieursd%C3%A9penses.png)
 
 2.1. Créer une dépense :
-
 
 Renseignez les éléments suivants :
 
@@ -99,8 +96,9 @@ En vous rendant sur le détail de chaque ligne, vous pourrez retrouver la dépen
 ### 3. Note de frais
 
 ::tour{demo="Mappemonde" doctype="expense-claim"}
-Créer une note de frais dans la démo 
+Créer une note de frais dans la démo
 ::
+
 ![Cette image permet de visualiser une note de frais.](/notedefraisdirect.png)
 
 #### 3.1. Créer une note de frais
