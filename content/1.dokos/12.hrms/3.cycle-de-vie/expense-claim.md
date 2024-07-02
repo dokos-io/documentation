@@ -136,15 +136,61 @@ Ajouter une ligne avec les informations de l'acompte et de l'avance.
 
 ## 4. Flux de travail
 
-### 3.1 Approbation des dépenses
+::tour{demo="Mappemonde" doctype="workflow"}
+Créer un flux de travail dans la démo
+::
 
-L'approbateur de la note de frais est choisi par un employé lui-même. L'employé peut choisir dans la liste des utilisateurs configurés en tant qu'approbateurs des dépenses pour leur service .
+La création d'un flux de travail permet de définir et de personnaliser les étapes nécessaires à l'approbation ou au rejet d'un document. Ce flux de travail remplace le flux par défaut de Dokos.
 
-Lorsqu'une nouvelle note de frais est créée, si l'approbateur de dépenses sélectionné n'y a pas accès, le document est partagé avec l'approbateur avec l'autorisation « soumettre ».
+Les notes de frais et les demandes de congés sont les seuls formulaires qui nécessitent obligatoirement un approbateur et qui ont un flux d'approbation par défaut. Le flux de travail personnalisé remplacera ce flux par défaut. Il est possible de créer des flux de travail pour tous les documents présents dans Dokos.
 
-Après avoir enregistré la note de frais, l'employé doit affecter le document à l'approbateur . Lors de l'affectation, l'utilisateur approbateur recevra également une notification par e-mail. Pour automatiser la notification par e-mail, vous pouvez également configurer l'alerte par e-mail
+> Pour plus de détails, consultez la page [**flux de travail**](/dokos/parametrage/demarrage/workflows) de la documentation.
 
-L'approbateur des notes de frais peut mettre à jour les « montants sanctionnés » par rapport au montant réclamé d'un employé. En cas de soumission, le statut d'approbation doit être soumis à Approuvé ou Rejeté. Si elle est approuvée, alors la demande de remboursement est soumise. En cas de rejet, les commentaires de l'approbateur des dépenses peuvent être ajoutés dans la section Commentaires expliquant pourquoi la demande a été approuvée ou rejetée.
+Voici un exemple pour la validation des dépenses avec l'éditeur visuel :
+
+Vous pouvez utiliser l'éditeur de flux de travail pour créer des flux de travail de manière visuelle. Cet outil permet de glisser-déposer des états et de les relier entre eux pour établir des transitions. Vous pouvez également modifier leurs propriétés à partir de la barre latérale.
+
+Lorsque vous enregistrez votre schéma, les champs du formulaire en tableau se remplissent automatiquement.
+
+![Cette image permet de visualiser le formulaire : Flux de travail.](/fluxdetravail1.png)![Cette image permet de visualiser le formulaire : Créer un flux de travail](/fluxdetravail2.png)![Cette image permet de visualiser le formulaire d'édition visuel.](/fluxdetravail3.png)
+
+1. État :
+
+Vous pouvez créer des états selon vos besoins.
+
+Exemple :
+
+- **Brouillon** : État initial de la dépense.
+- **Soumis à la validation** : La dépense est soumise pour approbation.
+- **Approuvé** : La dépense est approuvée.
+- **Rejeté** : La dépense est rejetée.
+- **Annulé** : La dépense est annulée.
+
+2. Statut du document :
+
+- Brouillon : Ce statut est à utiliser jusqu'à l'approbation finale.
+- Soumis : Ce statut fige le document; il n'est plus modifiable.
+- Annulé
+
+![Cette image permet de visualiser les états de mon document.](/fluxdetravail4.png)
+
+3. Autoriser la modification uniquement pour :
+
+Vous devez sélectionner le rôle autorisé à modifier l'état. Il est nécessaire de mener une réflexion sur les différents rôles de votre organisation.
+
+4. Mettre à jour le champ / mettre à jour la valeur :![Image permettant de visualiser la mise à jour d'un champ dans un document automatiquement.](/fluxdetravail22.png)Dans certains documents, lorsque aucun flux de travail n'est défini, l'approbateur doit modifier manuellement le statut du document. En mettant en place un flux de travail, vous devez définir le champ à mettre à jour ainsi que la valeur de mise à jour.![Cette image permet de visualiser un formulaire de note de frais avec une menu déroulant permettant de modifier le statut du document.](/fluxdetravail21.png)
+
+![Cette image permet de visualiser une transition possible.](/fluxdetravail5bis.png)
+
+5. Propriété de la transition : Les règles de transition déterminent comment les états changent d'un état à un autre. \* Exemple : **De Brouillon à Soumis à la validation** : Action (Bouton) "Soumettre à la validation" par l'employé.
+
+- Vous avez la possibilité de définir des conditions, ce qui peut être utile pour orienter une demande selon son montant. Par exemple : si le montant de la dépense est supérieur à 50 €, l'approbation doit être faite par l'approbateur des notes de frais, alors que si cette dépense est inférieure ou égale à 50 €, l'employé peut lui-même valider sa dépense.
+
+Voici un exemple finalisé de flux de travail, avec la visualisation graphique et sous forme de tableau.
+
+![Cette image permet de visualiser un flux de travail finalisé.](/fluxdetravail5.png)![Image permet de visualiser le formulaire avec les champs sous forme de tableau.](/fluxdetravail6.png)
+
+> Nous vous recommandons de consulter la documentation sur les [**flux de travail**](/dokos/parametrage/demarrage/workflows) afin d'obtenir une compréhension globale.
 
 ### 3.2 Réservation de la dépense
 
