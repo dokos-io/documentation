@@ -1,8 +1,7 @@
 ---
 title: Offre d'emploi
+description: Une offre d'emploi est une annonce publiée par une entreprise pour signaler qu'elle recrute pour un poste spécifique. Elle décrit le poste à pourvoir, les qualifications requises, les responsabilités, le lieu de travail, et d'autres informations pertinentes pour attirer des candidats qualifiés.
 ---
-
-Une offre d'emploi est une offre qui est à pourvoir dans votre entreprise. Vous pouvez enregistrer les postes vacants dans votre entreprise en utilisant l'offre d'emploi.
 
 Dokos permet de planifier les recrutements pour votre entreprise. Le nombre d'ouvertures de poste que vous pouvez créer pour une désignation est limité en fonction des postes vacants prévus par le plan d'effectifs défini pour l'entreprise ou l'une de ses sociétés mères dans la hiérarchie.
 
@@ -11,6 +10,8 @@ Dokos permet de planifier les recrutements pour votre entreprise. Le nombre d'ou
 ::
 
 ---
+
+![Cette image permet de visualiser le message indiquant que les postes liés à la dotation en cours sont tous créés.](/RH6.png)
 
 Pour accéder à l'offre d'emploi, allez sur :
 
