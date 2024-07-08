@@ -1,10 +1,11 @@
 ---
-title: Demandeur d'emploi
+title: Candidature
+description: Optimisez votre processus de recrutement avec Dokos, en gérant efficacement les candidatures, de la réception à l'embauche.
 ---
 
-Un demandeur d'emploi est une personne qui postule pour un emploi dans votre entreprise contre une offre d'emploi particulière.
+Une candidature est l'ensemble des documents et informations soumis par un individu en réponse à une offre d'emploi ou à une opportunité professionnelle.
 
-Dans Dokos, vous pouvez gérer une liste de personnes qui ont postulé pour une offre d' emploi particulière.
+La candidature est le moyen par lequel un candidat exprime son intérêt pour un poste et met en avant ses compétences, son expérience et ses qualifications. Elle permet à l'employeur de déterminer si le candidat est un bon fit pour le poste et l'entreprise.
 
 ---
 
@@ -12,45 +13,38 @@ Pour accéder à **la liste demandeur d'emploi**, allez sur :
 
 > Accueil > Ressources Humaines > Recrutement > **Demandeur d'emploi**
 
-![liste\_demandeur\_d'emploi.png](/content/rh/job-applicant/liste_demandeur_d'emploi.png)
-
-## 1. Prérequis avant utilisation
+## Prérequis avant utilisation
 
 Avant de créer un demandeur d'emploi, il est conseillé de créer les éléments suivants :
 
 - Plan de dotation
 - Département
-- Une opportunité d'emploi
+- Offre d'emploi
 
-## 2. Comment créer un demandeur d'emploi
+###
 
-1. Accédez à la liste des candidats, cliquez sur **➕ Ajouter Demandeur d'emploi**.
-2. Saisissez le nom et l'adresse e-mail du candidat.
-3. Sélectionnez Ouverture de poste.
-   4.Sélectionnez la source (campagne, recommandation d'employé, visite, liste de sites Web).
+![Cette image permet de visualiser le formulaire : Candidature.](/RH4.png)
 
-::callout{color="amber" icon="i-heroicons-exclamation-triangle"}
-**Remarque** : Si vous sélectionnez la source comme référence d'employé, vous devrez sélectionner le nom de l'employé dans le champ Nom de la source.
-::
+#### Détails
 
-![détails\_demandeur.png](/content/rh/job-applicant/de%CC%81tails_demandeur.png)
+- **Nom du candidat**: Entrez le nom complet du candidat.
+- **Adresse email**: Saisissez l'adresse email du candidat.
+- **Numéro de téléphone**: Saisissez le numéro de téléphone du candidat.
+- **Offre d'emploi**: Sélectionnez l'offre d'emploi pour laquelle le candidat postule.
+- **Poste**: Spécifiez le poste pour lequel le candidat postule.
+- **Statut**: Indiquez le statut de la candidature (ex: Ouvert).
 
-## 3. Caractéristiques
+* **Source**: Indiquez la source de la candidature (ex: Recommandations, site web, etc.).
+* **Évaluation du postulant**: Attribuez une note au candidat en fonction de son profil et de ses qualifications.
 
-### 3.1 Lettre de motivation
+- **Lettre de motivation**: Indiquez la lettre de motivation du candidat.
+- **Pièce jointe du CV**: Utilisez cette section pour joindre le CV du candidat.
+- **Lien vers le CV**: Si le CV est en ligne, vous pouvez fournir un lien direct vers celui-ci.
 
-Ajoutez la lettre de motivation du demandeur d'emploi pour avoir une trace écrite. Vous pouvez également ajouter son CV soit avec une pièce jointe ou alors via un lien direct.
+* **Tranche inférieure**: Indiquez le salaire minimum attendu par le candidat.
+* **Tranche supérieure**: Indiquez le salaire maximum attendu par le candidat.
 
-![lettre\_de\_motivation.png](/content/rh/job-applicant/lettre_de_motivation.png)
-
-### 3.2 Attente salariale
-
-- **Devise** : Sélectionner la devise pour l'attente salariale
-- Tranche inféfireur et supérieure : Indiquez dans quelle tranche le salaire se situe. Par exemple, entre 2000 et 2500 Euros / mois.
-
-![attente\_salariale.png](/content/rh/job-applicant/attente_salariale.png)
-
-### 3.1 Liaison avec un compte de messagerie
+### Liaison avec un compte de messagerie
 
 Vous pouvez lier une demande d'emploi à un compte de messagerie. Supposons que vous liez une demande d'emploi avec un e-mail <job@example.com>, le système créera un nouveau demandeur d'emploi pour chaque e-mail reçu sur la boîte aux lettres.
 

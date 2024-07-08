@@ -4,7 +4,7 @@ title: Promesse d'embauche
 
 La lettre écrite par l'employeur demandant aux candidats sélectionnés de se joindre à un poste spécifique.
 
-Dans Dokos, vous pouvez créer une lettre de promesse d'embauche que vous pouvez remettre aux candidats. 
+Dans Dokos, vous pouvez créer une lettre de promesse d'embauche que vous pouvez remettre aux candidats.
 
 ---
 
@@ -12,8 +12,7 @@ Pour accéder à **la liste de Promesse d'embauche**, allez sur :
 
 > Accueil > Ressources Humaines > Recrutement > **Promesse d'embauche**
 
-![liste_promesse_d'embauche.png](/content/rh/appointment-letter/liste_promesse_d'embauche.png)
-
+![liste\_promesse\_d'embauche.png](/content/rh/appointment-letter/liste_promesse_d'embauche.png)
 
 ## 1. Prérequis avant utilisation
 
@@ -23,12 +22,12 @@ Avant de créer une lettre de rendez-vous, il est conseillé de créer les élé
 
 ## 2. Comment créer une lettre de promesse d'embauche
 
-1. Accédez à une liste de lettres de rendez-vous, cliquez sur **:heavy_plus_sign: Ajouter une Promesse d'embauche**.
+1. Accédez à une liste de lettres de rendez-vous, cliquez sur **➕ Ajouter une Promesse d'embauche**.
 2. Sélectionnez le demandeur d'emploi et la date de rendez-vous.
 3. Vous pouvez remplir manuellement l'introduction, les conditions et la déclaration de clôture ou sélectionner un modèle de lettre de rendez-vous pour remplir automatiquement le contenu. Vous pouvez créer de nouveaux modèles de lettre de rendez-vous pour les sélectionner facilement.
 4. Cliquez sur Enregistrer.
 
-![détails_promesse_d'embauche.png](/content/rh/appointment-letter/détails_promesse_d'embauche.png)
+![détails\_promesse\_d'embauche.png](/content/rh/appointment-letter/de%CC%81tails_promesse_d'embauche.png)
 
 Après avoir enregistré, accédez à la vue avant impression pour afficher et enregistrer le fichier PDF de la lettre de rendez-vous.
 
@@ -40,23 +39,23 @@ Après avoir enregistré, accédez à la vue avant impression pour afficher et e
 
 Vous pouvez ajouter votre introduction pour la promesse d'embauche. Si vous avez sélectionné un Modèle de promesse d'embauche alors le contenu de celui-ci sera repris.
 
-![introduction_promesse.png](/content/rh/appointment-letter/introduction_promesse.png)
+![introduction\_promesse.png](/content/rh/appointment-letter/introduction_promesse.png)
 
 ### 3.2 Termes
 
 Ajoutez tous les termes nécessaires pour indiquez toutes les informations de la promesse d'embauche (Date de début, Type de contrat, horaires de travail etc.)
 
-![termes_promesse.png](/content/rh/appointment-letter/termes_promesse.png)
+![termes\_promesse.png](/content/rh/appointment-letter/termes_promesse.png)
 
 ### 3.2 Conclusion
 
 Vous pouvez ajouter votre conclusion pour la promesse d'embauche. Si vous avez sélectionné un Modèle de promesse d'embauche alors le contenu de celui-ci sera repris.
 
-![conclusion_promesse.png](/content/rh/appointment-letter/conclusion_promesse.png)
+![conclusion\_promesse.png](/content/rh/appointment-letter/conclusion_promesse.png)
 
 ## Modèle de promesse d'embauche
 
-Le modèle de promesse d'embauche vous permet de créer un format par défaut pour votre lettre de promesse d'embauche. Sur Dokos vous avez la possibilité par exemple de créer un modèle selon le poste, le département etc. 
+Le modèle de promesse d'embauche vous permet de créer un format par défaut pour votre lettre de promesse d'embauche. Sur Dokos vous avez la possibilité par exemple de créer un modèle selon le poste, le département etc.
 
 Le modèle sera repris automatiquement quand vous allez créer une Promesse d'embauche et que vous sélectionnerez le modèle.
 
@@ -66,12 +65,12 @@ Pour accéder à **la liste de Modèle de promesse d'embauche**, allez sur :
 
 > Accueil > Ressources Humaines > Recrutement > **Modèle de promesse d'embauche**
 
-![liste_promesse_d'embauche.png](/content/rh/appointment-letter-template/liste_promesse_d'embauche.png)
+![liste\_promesse\_d'embauche.png](/content/rh/appointment-letter-template/liste_promesse_d'embauche.png)
 
 ## 1. Comment créer un modèle de promesse d'embauche ?
 
-1. Accéder à la liste de modèle de promesse d'embauche, cliquez sur **:heavy_plus_sign: Ajouter Modèle de promesse d'embauche**
+1. Accéder à la liste de modèle de promesse d'embauche, cliquez sur **➕ Ajouter Modèle de promesse d'embauche**
 2. Remplissez l'introduction, les termes et la conclusion
 3. Cliquez sur **Enregistrer**.
 
-![détails_modèle.png](/content/rh/appointment-letter-template/détails_modèle.png)
+![détails\_modèle.png](/content/rh/appointment-letter-template/de%CC%81tails_mode%CC%80le.png)
