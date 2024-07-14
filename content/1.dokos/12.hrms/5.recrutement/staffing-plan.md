@@ -1,6 +1,6 @@
 ---
 title: Gestion des plans de dotation et des demandes de création de poste
-description: Ces deux fonctionnalités permettent de planifier efficacement les besoins en personnel, d'optimiser l es coûts, de structurer le processus de recrutement et de garantir que les ressources humaines sont alignées avec les objectifs stratégiques de l'entreprise.
+description: Ces deux fonctionnalités permettent de planifier efficacement les besoins en personnel, d'optimiser les coûts, de structurer le processus de recrutement et de garantir que les ressources humaines sont alignées avec les objectifs stratégiques de l'entreprise.
 ---
 
 ## 1. Plan de dotation

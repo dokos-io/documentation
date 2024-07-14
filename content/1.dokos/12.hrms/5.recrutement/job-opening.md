@@ -15,7 +15,7 @@ Dokos permet de planifier les recrutements pour votre entreprise de manière eff
 
 ## Offre d'emploi
 
-###  Prérequis avant utilisation
+### Prérequis avant utilisation
 
 Avant de créer une offre d'emploi, il est conseillé de créer les éléments suivants :
 
@@ -28,31 +28,33 @@ Créer une offre d'emploi articledans la démo
 
 ![Cette image permet de visualiser le formulaire : Offre d'emploi.](/RH3.png)
 
-1. Informations Générales
+1. Informations générales
 
 - Titre du poste: Entrez le titre du poste pour lequel vous souhaitez recruter.
 - Statut: Sélectionnez le statut de l'offre d'emploi. Par défaut, il est "Ouvert".
 - Publié le: Indiquez la date à laquelle l'offre d'emploi est publiée. Par défaut, la date et l'heure actuelles sont renseignées.
 - Ferme le: Indiquez la date à laquelle l'offre d'emploi sera automatiquement fermée si elle n'est plus active.
 
-2. Détails de la Société
+2. Détails de la société
 
 - Type de poste: Indiquez si le poste est à temps plein, temps partiel, ou autre.
 - Département: Entrez le département de l'entreprise qui recrute.
 
 3. Références
+
 - Publier sur le site web: Cochez cette option si vous souhaitez publier l'offre d'emploi sur le site web de l'entreprise.
 
 4. Description
+
 - Cette section est utilisée pour fournir une description détaillée de l'offre d'emploi, y compris les responsabilités, les compétences requises et les qualifications.
 
-5. Détails du Salaire
+5. Détails du salaire
+
 - Devise: Sélectionnez la devise dans laquelle le salaire sera payé (ex: EUR).
 - Tranche inférieure: Indiquez le salaire minimum pour le poste.
 - Tranche supérieure: Indiquez le salaire maximum pour le poste.
 - Salaire payé par: Spécifiez la périodicité du paiement (ex: Mois).
 - Publier les tranches salariales: Cochez cette option si vous souhaitez afficher les tranches salariales sur l'offre d'emploi.
-
 
 Une fois l'offre d'emploi enregistrée, vous pouvez directement créer un nouveau demandeur d'emploi à partir du tableau de bord.
 
