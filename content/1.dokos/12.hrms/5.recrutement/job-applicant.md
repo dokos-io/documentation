@@ -9,12 +9,9 @@ Une candidature est l'ensemble des documents et informations soumis par un indiv
 
 La candidature est le moyen par lequel un candidat exprime son intérêt pour un poste et met en avant ses compétences, son expérience et ses qualifications. Elle permet à l'employeur de déterminer si le candidat est un bon profil pour le poste et l'entreprise.
 
-
-
 ::tour{demo="Mappemonde" doctype="job-applicant"}
 Créer une candidature dans la démo
 ::
-
 
 ### 1.1. Prérequis avant utilisation
 
@@ -23,8 +20,6 @@ Avant de créer un demandeur d'emploi, il est conseillé de créer les élément
 - Plan de dotation
 - Département
 - Offre d'emploi
-
-
 
 ![Cette image permet de visualiser le formulaire : Candidature.](/RH4.png)
 
@@ -71,19 +66,19 @@ Cette fonctionnalité permet d'optimiser le processus de recrutement en intégra
 
 ### 2.1. Remplir le formulaire
 
-1) **Informations de base sur le candidat :*** **Prénom :** Saisissez le prénom du candidat.
+1. **Informations de base sur le candidat :**\* **Prénom :** Saisissez le prénom du candidat.
    * **Nom :** Saisissez le nom de famille du candidat.
    * **Date :** Indiquez la date de la recommandation.
    * **Pour le poste :** Indiquez le poste pour lequel le candidat est recommandé.
-2) **Détails de contact du candidat :*** **Email :** Fournissez l'adresse email du candidat.
+2. **Détails de contact du candidat :**\* **Email :** Fournissez l'adresse email du candidat.
    * **Employeur actuel :** Indiquez l'employeur actuel du candidat.
    * **N° du contact :** Fournissez le numéro de contact du candidat.
    * **Intitulé du poste actuel :**  Indiquez le poste actuel du candidat.
    * **Lien vers le CV :** Ajoutez un lien vers le CV du candidat ou joignez le fichier.
-3) **Détails du référent :*** **Référent :** Sélectionnez l'identifiant de l'employé référent.
+3. **Détails du référent :**\* **Référent :** Sélectionnez l'identifiant de l'employé référent.
    * **Est applicable pour un bonus de recommandation :** Cochez cette case si un bonus est applicable pour cette recommandation.
-4) **Informations additionnelles :*** **Pour quelles raisons est-ce que ce candidat est qualifié pour ce poste ?**- Décrivez en détail les raisons pour lesquelles le candidat est qualifié pour le poste. Par exemple, son expérience professionnelle, ses compétences spécifiques, etc.
-   * **Références de travail :*** Fournissez les références de travail pertinentes pour le candidat, y compris les noms, les postes, les sociétés, et les coordonnées de contact.
+4. **Informations additionnelles :**\* **Pour quelles raisons est-ce que ce candidat est qualifié pour ce poste ?**- Décrivez en détail les raisons pour lesquelles le candidat est qualifié pour le poste. Par exemple, son expérience professionnelle, ses compétences spécifiques, etc.
+   * **Références de travail :**\* Fournissez les références de travail pertinentes pour le candidat, y compris les noms, les postes, les sociétés, et les coordonnées de contact.
 
 ### 2.2. Création d'une candidature
 

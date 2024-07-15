@@ -1,52 +1,71 @@
 ---
-title: Proposition de poste
+title: Promesse d'embauche et proposition de poste
+description: Vous pouvez créer des promesses d'embauche et des propositions de poste de manière claire et standardisée.
 ---
 
-L'offre d'emploi est remise aux candidats sélectionnés après un entretien et une sélection qui indique les caractéristiques de l'offre comme la désignation, l'échelon, le département, le nombre de jours de congé.
+## 1. **Promesse d'embauche**
 
-Dans Dokos, vous pouvez enregistrer les offres d'emploi que vous pouvez remettre aux candidats.
+### 1.1. **Modèle de promesse d'embauche**
 
----
+::tour{demo="Mappemonde" doctype="appointment-letter-template"}
+Créer un modèle de promesse d'embauche dans la démo
+::
 
-Pour accéder à **la liste offre d'emploi**, allez-sur :
 
-> Accueil > Ressources humaines > Recrutement > **Proposition de poste**
+1.1.1. Définition d'un modèle de promesse d'embauche
 
-![liste\_proposition\_de\_poste.png](/content/rh/job-offer/liste_proposition_de_poste.png)
+Une promesse d'embauche est un document formel par lequel un employeur s'engage à embaucher un candidat à un poste spécifique à une date future, sous certaines conditions. Ce document est essentiel pour formaliser l'accord entre l'employeur et le futur employé avant la signature du contrat de travail définitif.
 
-## 1. Prérequis avant utilisation
+Un modèle de promesse d'embauche standardise ce processus en fournissant une structure préétablie qui inclut tous les éléments nécessaires pour que la promesse soit claire, compréhensible et juridiquement valide.
 
-Avant de créer une offre d'emploi, il est conseillé de créer les éléments suivants :
+![Cette image permet de visualiser le formulaire : Modèle de promesse d'embauche.](/RH9.png)
 
-- Plan de dotation
-- Demandeur d'emploi
-- Une opportunité d'emploi
+1.1.2. Formulaire 
 
-## 2. Comment créer une Proposition de poste
+**Nom du modèle :** Saisissez un nom descriptif pour ce modèle de promesse d'embauche. Ce nom doit permettre d'identifier facilement le modèle parmi d'autres.
 
-1. Accédez à la liste des offres d'emploi, cliquez sur **➕ Ajouer Offre d'emploi.**
-2. Sélectionnez le demandeur d'emploi, la date de l'offre et la désignation.
-3. Définissez le statut de l'offre d'emploi (En attente de réponse, Acceptée, Rejetée).
-4. Enregistrer et envoyer.
+**Introduction :** Fournissez une introduction qui explique l'objet de la promesse d'embauche. Cette section doit introduire brièvement le poste, les parties impliquées (employeur et futur employé), et l'intention d'embauche.
 
-![proposition\_de\_poste.png](/content/rh/job-offer/proposition_de_poste.png)
+**Termes :** Listez et décrivez les termes de la promesse d'embauche.
 
-## 3. Caractéristiques
+**Conclusions :** Fournissez une conclusion à la promesse d'embauche. Cela peut inclure des informations sur les prochaines étapes, la manière dont le candidat doit accepter l'offre, et des remerciements.
 
-### 3.1 Conditions de la proposition de poste
+Une fois le modèle de promesse d'embauche défini et sauvegardé dans Dokos, vous pouvez l'utiliser pour générer des promesses d'embauche spécifiques pour différents candidats.
 
-Dans cette section, vous pouvez saisir la durée de l'offre d'emploi telle que la description du poste, la période de préavis, les incitations, les congés par an, etc. et spécifier sa valeur/description.
+### 1.2. **Promesse d'embauche**
 
-![conditions\_de\_la\_proposition\_de\_poste.png](/content/rh/job-offer/conditions_de_la_proposition_de_poste.png)
+::tour{demo="Mappemonde" doctype="appointment-letter"}
+Créer une promesse d'embauche dans la démo
+::
 
-### 3.2 Sélectionnez les termes et conditions
+![Cette image permet de visualiser le formulaire : Promesse d'embauche.](/RH10.png)
 
-Tous les termes et conditions liés à l'offre d'emploi peuvent être spécifiés dans cette section. Pour ce faire, créez un nouveau modèle de conditions générales et liez-le à l'offre d'emploi.
+**Candidat :** Sélectionnez le candidat à qui la promesse d'embauche est destinée.
 
-![sélectionner\_les\_termes\_et\_conditions.png](/content/rh/job-offer/se%CC%81lectionner_les_termes_et_conditions.png)
+**Modèle de promesse d'embauche :** Sélectionnez le modèle de promesse d'embauche applicable. Les champs seront automatiquement remplis.
 
-### 3.3 Détails d'impression
+## 2. **Proposition de poste**
 
-Vous pouvez créer un format d'impression prédéfini pour imprimer votre offre d'emploi. Pour ce faire, sélectionnez l'en-tête et l'en-tête d'impression dans la section Détails de l'impression.
+::tour{demo="Mappemonde" doctype="job-offer"}
+Créer une proposition de pos dans la démo
+::
 
-![détails\_d'impression.png](/content/rh/job-offer/de%CC%81tails_d'impression.png)
+Une proposition de poste est un document formel envoyé à un candidat pour lui offrir un poste spécifique dans l'entreprise. Elle détaille les conditions d'emploi, y compris le titre du poste, la date de début, le salaire, et d'autres termes importants.
+
+![Cette image permet de visualiser le formulaire : Proposition de poste.](/RH11.png)
+
+**Candidature  :** Sélectionnez le candidat à qui la proposition de poste est destinée.
+
+**Statut :** Indiquez le statut actuel de la proposition.
+
+**Date de l'offre :** Indiquez la date à laquelle l'offre est émise.
+
+**Modèle de clause d'offre d'emploi :** Sélectionnez un modèle prédéfini de clause d'offre d'emploi.
+
+**Sélectionnez les conditions générales  :** Indiquez si des conditions générales spécifiques doivent être appliquées à cette proposition. Vous pouvez définir des modèles de conditions générales.
+
+> Fournissez des détails supplémentaires sur les termes et conditions de l'offre. Utilisez cet espace pour inclure toute information pertinente qui n'a pas été couverte dans les sections précédentes.
+
+**Détails d'impression :** Vous pouvez créer un format d'impression prédéfini pour imprimer votre offre d'emploi.
+
+Une fois la proposition de poste acceptée, vous pouvez mettre à jour le statut. Un bouton vous permettra alors de créer un employé.
