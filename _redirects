@@ -87,7 +87,9 @@ https://clever-tulumba-189136.netlify.app/*	https://doc.dokos.io/:splat	301!
 /dodock/fonctionnalites/emails	/dodock/administration/emails 301!
 /getting-started/erpnext-migration	/dodock/administration/migration-erpnext 301!
 /getting-started/Installation_rhel_8_9	/dodock/installation/installation-rhel-8-9 301!
-/getting-started/print-formats	/dodock/fonctionnalites/personnalisations/print_format 301!
+/getting-started/print-formats	/dodock/fonctionnalites/impression/format-impression 301!
+/dodock/fonctionnalites/personnalisations/print-format/	/dodock/fonctionnalites/impression/format-impression 301!
+/dodock/fonctionnalites/personnalisations/print_format/	/dodock/fonctionnalites/impression/format-impression 301!
 /getting-started/ssl-certificate	/dodock/administration/certificat 301!
 /home	/dokos 301!
 /human-resources	/dokos/hrms/cycle-de-vie/employee 301!
