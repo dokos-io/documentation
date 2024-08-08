@@ -33,7 +33,7 @@ useHead({
 })
 
 const guides = ['/dokos/cas-usage', '/dokos/tutoriels']
-const setup = ['/dodock/installation', '/dodock/administration', '/dodock/fonctionnalites', '/dokos/parametrage']
+const setup = ['/dodock/installation', '/dodock/administration', '/dodock/fonctionnalites', '/dokos/parametrage', '/dodock/frappe-products']
 const versions = ['/dokos/versions', '/dodock/versions']
 const excluded_links = ['/dokos', '/dodock', '/dokos/comparaison-erpnext', '/dokos/integrations']
 
@@ -53,7 +53,7 @@ const all_children = (dodock_children.concat(dokos_children))
 const integration_children = nav.value?.find(item => item._path === `/integrations`)?.children
 
 const setup_links = get_links(all_children.filter(f => setup.includes(f._path)) || [])
-const guides_links = get_links(all_children.filter(f => guides.includes(f._path)) || [])
+/* const guides_links = get_links(all_children.filter(f => guides.includes(f._path)) || []) */
 const modules_links = get_links(dokos_children.filter(f => !setup.includes(f._path) &&!guides.includes(f._path) && !versions.includes(f._path) && !excluded_links.includes(f._path) && !f._path.endsWith('/api')) || [])
 const integrations_links = get_links(integration_children.filter(f => f._path != '/integrations') || [])
 
@@ -76,11 +76,12 @@ const links = [
     label: 'Modules',
     icon: 'i-heroicons-swatch-20-solid',
     children: modules_links
-  }, {
-    label: 'Guides',
-    icon: 'i-heroicons-book-open',
-    children: guides_links
   },
+  // {
+  //   label: 'Guides',
+  //   icon: 'i-heroicons-book-open',
+  //   children: guides_links
+  // },
   {
     label: 'Intégrations',
     icon: 'i-heroicons-arrows-pointing-in-20-solid',
