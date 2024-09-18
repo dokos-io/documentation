@@ -329,9 +329,14 @@ https://clever-tulumba-189136.netlify.app/*	https://doc.dokos.io/:splat	301!
 /getting-started/docker-installation /dodock/installation/docker 301!
 /getting-started /dodock/installation/manuelle 301!
 /en/getting-started /dodock/installation/manuelle 301!
+
+/dodock/installation/installation-rhel-8-9	/dodock/installation/plus/installation-rhel-8-9 301!
+/dodock/installation/docker-personnalise	/dodock/installation/plus/docker-personnalise 301!
+
 /dokos/integrations/gocardless  /integrations/gocardless 301!
 /dokos/integrations/stripe  /integrations/stripe 301!
 /dokos/integrations/paypal  /integrations/paypal 301!
+/dodock/frappeverse  /dodock/frappe-products 301!
 
 /dodock/administration/installation/*  /dodock/installation/:splat	301!
 /applications/* /integrations/:splat 301!
