@@ -9,6 +9,11 @@ Avant de pouvoir établir un contrat de réservation, il est nécessaire de cré
 
 > _**Accueil > Ventes > Données de vente > Article**_
 
+::tour{demo="Mappemonde" doctype="item"}
+Créer un article dans la démo
+::
+
+
 - Il est important de **configurer les articles comme récurrents** afin qu'ils déclenchent automatiquement la création d'un abonnement lors de la validation de la commande.
 
 Ensuite, vous devez publier cet article sur le site web.
@@ -23,7 +28,12 @@ Si vous avez activé la récurrence dans l'article, la case **Générer un abonn
 
 Indiquez la période de récurrence pour cet article.
 
-## 2. Type de contrats
+## 2. Type de contrat
+
+::tour{demo="Mappemonde" doctype="booking-contract-type"}
+Créer un type de contrat dans la démo
+::
+
 
 ![Cette image permet de visualiser formulaire du type de contrat.](/type%20de%20contrat%20.png)
 
@@ -81,7 +91,23 @@ Rendez-vous sur la page : format d'impression pour configurer vos formats.
 
 ## 4. Dépôt de garantie
 
+::tour{demo="Mappemonde" doctype="booking-deposit"}
+Créer un dépôt de garantie dans la démo
+::
+
+
+Le versement s'effectue lors du règlement de la première facture.
+
+![Cette image permet de visualiser le formulaire de dépôt de garantie.](/Formulaire%20-%20d%C3%A9pot%20de%20garantie%20rembours%C3%A9%20.png)
+
+Le bouton "Actions" permet d'enregistrer le paiement et de procéder ensuite au remboursement.
+
 ## 5. Contrat
+
+::tour{demo="Mappemonde" doctype="booking-contract"}
+Créer un contrat dans la démo
+::
+
 
 **Si vous souhaitez créer un abonnement lié à un contrat, il est nécessaire de générer le contrat, qui à son tour générera l'abonnement.**
 
@@ -89,8 +115,17 @@ Rendez-vous sur la page : format d'impression pour configurer vos formats.
 
 Une fois le formulaire configuré, vous pouvez l'envoyer par mail au client pour signature ou bien le valider, ce qui vaudra comme signature.
 
+### 5.1. Mail reçu par le client
+
+Voici l'e-mail reçu par le client pour demander sa signature, une fois le contrat établi depuis le bureau.
+
+![Cette image permet de visualiser l'e-mail reçu par le client.](/Mail%20type.png)
+
 ## 6. Abonnement
+
+Dans la section "Termes et conditions", vous pouvez vérifier que votre abonnement est bien associé à un contrat.
 
 ![Cette image permet de visualiser le contrat lié à l'abonnement.](/Abonnement%20.png)
 
-Si un contrat est lié à l'abonnement, vous pouvez le consulter directement dans les Termes et conditions de celui-ci.
+Pour plus d'informations sur les abonnements, rendez-vous sur la page [**Abonnements**](/dokos/ventes/abonnements) de notre documentation.
+
