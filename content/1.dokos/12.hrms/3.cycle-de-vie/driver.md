@@ -1,9 +1,6 @@
 ---
 title: Chauffeur
----
-
-Le document Chauffeur sur Dokos vous permet de définir une liste de chauffeur dans votre société. Il sera le conducteur de votre flotte de véhicules.
-
+description: Le document Chauffeur sur Dokos vous permet de définir une liste de chauffeur dans votre société. Il sera le conducteur de votre flotte de véhicules.
 ---
 
 Pour accéder à **la liste de Chauffeur**, allez sur :
