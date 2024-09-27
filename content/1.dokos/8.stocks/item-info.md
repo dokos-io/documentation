@@ -64,6 +64,6 @@ Une fois activée, vos utilisateurs de site web auront le choix entre acheter de
 Si vous souhaitez autoriser la réservation avec différentes unités de mesure (jour, heure,...) ajoutez les dans le tableau des unités de mesure.
 
 ::callout{icon="i-heroicons-exclamation-triangle" color="amber"}
-Les facteurs de conversion utilisés par le système de réservation sont ceux définis dans les [Facteurs de conversion](/dokos/lieu/reservations-articles#les-facteurs-de-conversion).
+Les facteurs de conversion utilisés par le système de réservation sont ceux définis dans les [Facteurs de conversion](/dokos/lieu/reservations/reservations-articles#les-facteurs-de-conversion).
 Les facteurs de conversion définis dans la fiche article servent uniquement à la conversion des [prix de l'article](/dokos/parametrage/prix) pour la facturation.
 ::

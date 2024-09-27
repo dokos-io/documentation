@@ -278,7 +278,7 @@ https://clever-tulumba-189136.netlify.app/*	https://doc.dokos.io/:splat	301!
 /venue/booking-credits	/dokos/lieu/credit-reservation 301!
 /venue/event	/dokos/lieu/evenements 301!
 /venue/event-slot	/dokos/lieu/poste-evenement 301!
-/venue/item-booking	/dokos/lieu/reservations-articles 301!
+/venue/item-booking	/dokos/lieu/reservations/reservations-articles 301!
 /venue/use-case	/dokos/lieu/cas-usage 301!
 /venue/venue-settings	/dokos/lieu/parametres-lieu 301!
 /venues-federation	/federation-lieux 301!
