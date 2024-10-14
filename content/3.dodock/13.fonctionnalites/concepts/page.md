@@ -1,3 +1,3 @@
 # Page
 
-:construction: Rédaction en cours :construction:
+🚧 Rédaction en cours 🚧
