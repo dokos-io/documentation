@@ -1,6 +1,6 @@
 ---
 title: Entretiens
-description: Le module "Entretiens" est une solution complète pour optimiser et structurer le processus de recrutement. Il offre des outils pour gérer les différents types d'entretiens, organiser les cycles d'entretien, documenter chaque interaction et recueillir des commentaires détaillés sur les candidats. Grâce à ce module, les recruteurs peuvent garantir une évaluation équitable et cohérente, améliorer l'expérience des candidats et prendre des décisions d'embauche éclairées. 
+description: Le module "Entretiens" est une solution complète pour optimiser et structurer le processus de recrutement. Il offre des outils pour gérer les différents types d'entretiens, organiser les cycles d'entretien, documenter chaque interaction et recueillir des commentaires détaillés sur les candidats. Grâce à ce module, les recruteurs peuvent garantir une évaluation équitable et cohérente, améliorer l'expérience des candidats et prendre des décisions d'embauche éclairées.
 ---
 
 ## 1. **Définition entretien**
@@ -12,7 +12,6 @@ Un entretien, dans le contexte du recrutement, est une rencontre formelle entre 
 ::tour{demo="Mappemonde" doctype="interview-type"}
 Créer un type d'entretien dans la démo
 ::
-
 
 Ce formulaire est utilisé pour définir et gérer les différents types d'entretiens qui peuvent être planifiés dans le cadre du processus de recrutement. Cela permet de standardiser les types d'entretiens et de faciliter leur sélection lors de la planification d'un entretien pour un candidat.
 
