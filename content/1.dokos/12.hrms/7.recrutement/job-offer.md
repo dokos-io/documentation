@@ -11,7 +11,6 @@ description: Vous pouvez créer des promesses d'embauche et des propositions de 
 Créer un modèle de promesse d'embauche dans la démo
 ::
 
-
 1.1.1. Définition d'un modèle de promesse d'embauche
 
 Une promesse d'embauche est un document formel par lequel un employeur s'engage à embaucher un candidat à un poste spécifique à une date future, sous certaines conditions. Ce document est essentiel pour formaliser l'accord entre l'employeur et le futur employé avant la signature du contrat de travail définitif.
@@ -20,7 +19,7 @@ Un modèle de promesse d'embauche standardise ce processus en fournissant une st
 
 ![Cette image permet de visualiser le formulaire : Modèle de promesse d'embauche.](/RH9.png)
 
-1.1.2. Formulaire 
+1.1.2. Formulaire
 
 **Nom du modèle :** Saisissez un nom descriptif pour ce modèle de promesse d'embauche. Ce nom doit permettre d'identifier facilement le modèle parmi d'autres.
 
