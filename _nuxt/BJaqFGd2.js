@@ -1,1 +1,0 @@
-import{b as n,c as s,t as m,E as e}from"./Vmt5Ha9H.js";const c=["datetime"],_={__name:"LastModifiedPageDate",props:{date:String},setup(a){const t=a,o=new Date(t.date),r=new Intl.DateTimeFormat("fr",{dateStyle:"medium"});return(d,i)=>(n(),s("time",{datetime:t.date},m(e(r).format(e(o))),9,c))}};export{_ as default};
