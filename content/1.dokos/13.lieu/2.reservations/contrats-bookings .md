@@ -17,11 +17,11 @@ Créer un article dans la démo
 
 Ensuite, vous devez publier cet article sur le site web.
 
-![Cette image permet de visualiser comment publier un article sur le site web.](/Publier%20un%20article%20sur%20le%20site%20web.png)
+![Cette image permet de visualiser comment publier un article sur le site web.](/publier-un-article-sur-le-site-web.png)
 
 Accédez à l'article publié sur le site web pour finaliser les paramètres de celui-ci.
 
-![Cette image permet de visualiser l'article du site web.](/Article%20du%20site%20web.png)
+![Cette image permet de visualiser l'article du site web.](/article-du-site-web.png)
 
 Si vous avez activé la récurrence dans l'article, la case **Générer un abonnement** sera automatiquement cochée et non modifiable.
 
@@ -33,7 +33,7 @@ Indiquez la période de récurrence pour cet article.
 Créer un type de contrat dans la démo
 ::
 
-![Cette image permet de visualiser formulaire du type de contrat.](/type%20de%20contrat%20.png)
+![Cette image permet de visualiser formulaire du type de contrat.](/type-de-contrat.png)
 
 ### 2.1. **Informations générales du contrat**
 
@@ -43,7 +43,7 @@ Créer un type de contrat dans la démo
 - **Spécifier les options de durée** Si vous gérez des contrats à durée déterminée, vous pouvez spécifier les paramètres suivants :
 - **Contrat à durée déterminée** : Cochez cette option si le contrat a une durée fixe. **Durée minimum** : Spécifiez la durée minimale en mois.**Préavis** : Indiquez ici la période de préavis nécessaire avant de mettre fin au contrat.
 
-![Cette image permet de visualiser l'onglet ressource dans le type de contat.](/Type%20de%20contrat%20-%20ressources%20.png)
+![Cette image permet de visualiser l'onglet ressource dans le type de contat.](/type-de-contrat-ressources.png)
 
 ### 2.2. **Définir les ressources associées au contrat**
 
@@ -53,7 +53,7 @@ Dans l'onglet **Ressources**, vous avez la possibilité de définir quelles ress
 Cette fonctionnalité permet de fournir un accès illimité aux ressources que vous choisissez de rendre disponibles.
 ::
 
-![Cette image permet de visualiser l'onglet facturation dans les ressources réservables.](/Onglet%20facturation%20.png)
+![Cette image permet de visualiser l'onglet facturation dans les ressources réservables.](/onglet-facturation.png)
 
 ### 2.3. Configurer les articles de facturation
 
@@ -64,13 +64,13 @@ Dans cette section, vous allez spécifier les différents articles qui seront fa
 - **Récurrence de facturation** : Indiquez la fréquence à laquelle la facturation récurrente sera appliquée (mensuelle, trimestrielle, annuelle).
 - **Montant du dépôt de garantie** : Spécifiez ici le montant du dépôt de garantie à verser à la signature du contrat, si applicable. Ce dépôt peut servir à couvrir les frais en cas de dommages aux ressources ou de non-respect des conditions du contrat.
 
-![Cette image permet de visualiser l'onglet format d'impression.](/Format%20d'impression%20-%20contrat%20de%20reservation%20.png)
+![Cette image permet de visualiser l'onglet format d'impression.](/format-d-impression-contrat-de-reservation.png)
 
 ### 2.4. Paramètres d'impression
 
 Rendez-vous sur la page : format d'impression pour configurer vos formats.
 
-![Cette image permet de visualiser l'onglet Avenants.](/Avenant%20-%20contrat.png)
+![Cette image permet de visualiser l'onglet Avenants.](/avenant-contrat.png)
 
 ### 2.5. Avenants
 
@@ -95,7 +95,7 @@ Créer un dépôt de garantie dans la démo
 
 Le versement s'effectue lors du règlement de la première facture.
 
-![Cette image permet de visualiser le formulaire de dépôt de garantie.](/Formulaire%20-%20d%C3%A9pot%20de%20garantie%20rembours%C3%A9%20.png)
+![Cette image permet de visualiser le formulaire de dépôt de garantie.](/formulaire-depot-de-garantie-rembourse.png)
 
 Le bouton "Actions" permet d'enregistrer le paiement et de procéder ensuite au remboursement.
 
@@ -107,7 +107,8 @@ Créer un contrat dans la démo
 
 **Si vous souhaitez créer un abonnement lié à un contrat, il est nécessaire de générer le contrat, qui à son tour générera l'abonnement.**
 
-![Cette image permet de visualiser le formulaire pour générer un contrat](/Contrat%20.png)![Cette image permet de visualiser comment envoyer ou valider le contrat](/Signer%20contrat.png)
+![Cette image permet de visualiser le formulaire pour générer un contrat](/contrat.png)
+![Cette image permet de visualiser comment envoyer ou valider le contrat](/signer-contrat.png)
 
 Une fois le formulaire configuré, vous pouvez l'envoyer par mail au client pour signature ou bien le valider, ce qui vaudra comme signature.
 
@@ -115,12 +116,12 @@ Une fois le formulaire configuré, vous pouvez l'envoyer par mail au client pour
 
 Voici l'e-mail reçu par le client pour demander sa signature, une fois le contrat établi depuis le bureau.
 
-![Cette image permet de visualiser l'e-mail reçu par le client.](/Mail%20type.png)
+![Cette image permet de visualiser l'e-mail reçu par le client.](/mail-type.png)
 
 ## 6. Abonnement
 
 Dans la section "Termes et conditions", vous pouvez vérifier que votre abonnement est bien associé à un contrat.
 
-![Cette image permet de visualiser le contrat lié à l'abonnement.](/Abonnement%20.png)
+![Cette image permet de visualiser le contrat lié à l'abonnement.](/abonnement.png)
 
 Pour plus d'informations sur les abonnements, rendez-vous sur la page [**Abonnements**](/dokos/ventes/abonnements) de notre documentation.
