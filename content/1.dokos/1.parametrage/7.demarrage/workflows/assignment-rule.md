@@ -16,26 +16,25 @@ Pour accéder à la **règle d'attribution**, allez sur :
 
 **Pour configurer une attribution automatique:**
 
-1. Accédez à la **liste des règles d'attribution**, cliquez sur **:heavy_plus_sign: Ajouter Règle d'attribution**.
+1. Accédez à la **liste des règles d'attribution**, cliquez sur **➕ Ajouter Règle d'attribution**.
 2. Sélectionnez le **type de document** que vous souhaitez attribuer automatiquement (par exemple Problème ).
 3. Écrivez la **description** qui sera ajoutée à la tâche.
 4. Sélectionnez la **condition de l'affectation**. Vous pouvez écrire des expressions Python simples pour l'affectation automatique dans les fichiers Assigner une règle, Fermer Règle et Règle de désassignation. Vous aurez accès à toutes les propriétés du document et pourrez utiliser des opérateurs comme>, <, ==, etc. ainsi que plusieurs conditions comme andet or.
 
-![créer_règle_d'attribution.png](/content/setup/workflows/créer_règle_d'attribution.png)
+![créer\_règle\_d'attribution.png](/content/setup/workflows/cre%CC%81er_re%CC%80gle_d'attribution.png)
 
 Exemples:
 
 status == "Open"
-issue_type == "Technical" and priority=="High" and status == "Open"
-5. Sélectionnez la règle d'attribution.
+issue\_type == "Technical" and priority=="High" and status == "Open"
+5\. Sélectionnez la règle d'attribution.
 
 **Round Robin** : attribuez chaque document à un utilisateur dans l'ordre.
 Équilibrage de charge : attribuez de nouveaux documents à l'utilisateur qui a le moins d'affectations.
 
 Sélectionnez la liste des utilisateurs auxquels cette règle d'attribution s'appliquera :
 
-![ajouter_utilisateur_-_règle_attribution.png](/content/setup/workflows/ajouter_utilisateur_-_règle_attribution.png)
-
+![ajouter\_utilisateur\_-\_règle\_attribution.png](/content/setup/workflows/ajouter_utilisateur_-_re%CC%80gle_attribution.png)
 
 Basé sur le champ : introduite dans la v13, cette règle peut être utilisée pour attribuer un document à l'utilisateur défini dans le champ configuré.
 
