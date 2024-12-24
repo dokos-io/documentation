@@ -77,7 +77,7 @@ export default defineNuxtConfig({
       indexName: 'dokos',
       placeholder: "Rechercher un article",
       translations: translations,
-      lang: 'fr'
-    }
+      langAttribute: 'lang',
+    },
   }
 })
