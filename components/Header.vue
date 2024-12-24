@@ -14,9 +14,7 @@
     </template>
 
     <template #right>
-      <UTooltip text="Search" :shortcuts="[metaSymbol, 'K']" :popper="{ strategy: 'absolute' }">
-        <UContentSearchButton :label="null" />
-      </UTooltip>
+      <AlgoliaDocSearch />
 
       <UColorModeButton />
 

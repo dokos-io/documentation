@@ -6,10 +6,6 @@ const { seo } = useAppConfig()
 const route = useRoute()
 
 const { data: nav } = await useAsyncData('navigation', () => fetchContentNavigation())
-const { data: files } = useLazyFetch<ParsedContent[]>('/api/search.json', {
-  default: () => [],
-  server: false
-})
 
 const navigation = computed(() => {
   const root_elements = nav.value?.map(item => item._path) || []
@@ -105,10 +101,6 @@ provide('navigation', navigation)
     </UMain>
 
     <Footer />
-
-    <ClientOnly>
-      <LazyUContentSearch :files="files" :navigation="navigation" />
-    </ClientOnly>
 
     <UNotifications />
   </div>

@@ -18,7 +18,7 @@ export default defineAppConfig({
       light: '',
       dark: ''
     },
-    search: true,
+    search: false,
     colorMode: true,
     links: [{
       icon: 'i-simple-icons-gitlab',

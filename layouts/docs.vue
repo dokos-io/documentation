@@ -33,7 +33,6 @@ const pageLinks = [{
     <UPage>
       <template #left>
         <UAside :links="links">
-          <UContentSearchButton label="Rechercher..." class="mb-5"/>
           <UNavigationTree :links="mapContentNavigation(navigation)" :multiple="false" :default-open="-1" />
 
           <template #bottom>
