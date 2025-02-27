@@ -73,7 +73,7 @@ export default defineNuxtConfig({
     apiKey: process.env.DOCSEARCH_API_KEY,
     applicationId: process.env.DOCSEARCH_APP_ID,
     // DocSearch key is used to configure DocSearch extension.
-    docSearch: {
+    docSearch: process.env.DISABLE_DOCSEARCH ? "false": {
       indexName: 'dokos',
       placeholder: "Rechercher un article",
       translations: translations,
