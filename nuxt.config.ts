@@ -40,11 +40,16 @@ const translations = {
       reportMissingResultsLinkText: 'Let us know.',
     },
   },
-};
+}
+
+const modules = ['@nuxt/content', '@nuxt/ui', '@nuxt/fonts', '@nuxthq/studio', 'nuxt-og-image']
+if (process.env.DOCSEARCH_API_KEY && !process.env.DISABLE_DOCSEARCH) {
+  modules.push('@nuxtjs/algolia')
+}
 
 export default defineNuxtConfig({
   extends: ['@nuxt/ui-pro'],
-  modules: ['@nuxt/content', '@nuxt/ui', '@nuxt/fonts', '@nuxthq/studio', 'nuxt-og-image', '@nuxtjs/algolia'],
+  modules: modules,
   hooks: {
     // Define `@nuxt/ui` components as global to use them in `.md` (feel free to add those you need)
     'components:extend': (components) => {
@@ -73,9 +78,9 @@ export default defineNuxtConfig({
     apiKey: process.env.DOCSEARCH_API_KEY,
     applicationId: process.env.DOCSEARCH_APP_ID,
     // DocSearch key is used to configure DocSearch extension.
-    docSearch: process.env.DISABLE_DOCSEARCH ? false: {
+    docSearch: {
       indexName: 'dokos',
-      placeholder: "Rechercher un article",
+      placeholder: 'Rechercher un article',
       translations: translations,
       langAttribute: 'lang',
     },
