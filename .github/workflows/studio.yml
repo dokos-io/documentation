@@ -70,8 +70,10 @@ jobs:
         run: npx nuxi build --preset github_pages
         env:
           NUXT_PUBLIC_STUDIO_API_URL: https://api.nuxt.studio
-          NUXT_PUBLIC_STUDIO_TOKENS: 8cc11fe63b3fc3cf69b6988fa77fddffbf04485e8f79f3bcf22125a5fc03a790
+          NUXT_PUBLIC_STUDIO_TOKENS: ${{ secrets.NUXT_PUBLIC_STUDIO_TOKENS }}
           NUXT_UI_PRO_LICENSE: ${{ secrets.NUXT_UI_PRO_LICENSE }}
+          DOCSEARCH_API_KEY: ${{ secrets.DOCSEARCH_API_KEY }}
+          DOCSEARCH_APP_ID: ${{ secrets.DOCSEARCH_APP_ID }}
 
       # Deployment job
       - name: Deploy 🚀
