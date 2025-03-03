@@ -15,6 +15,6 @@ Un chapitre spécifique détaillera la gestion des utilisateurs et leurs autoris
 
 ## À ne pas confondre avec un contact
 
-Un **contact**, en revanche, peut désigner une **personne physique ou morale**, comme un contact téléphonique ou un interlocuteur au sein d'une entreprise. Contrairement aux utilisateurs, un contact **n'a pas nécessairement accès à Dokos**.
+Un **contact**, en revanche, peut désigner une **personne physique**, comme un contact téléphonique ou un interlocuteur au sein d'une entreprise. Contrairement aux utilisateurs, un contact **n'a pas nécessairement accès à Dokos**.
 
 Cette distinction est essentielle pour bien organiser votre base de données et gérer efficacement les accès et interactions dans Dokos.
