@@ -10,7 +10,7 @@ Vous pouvez automatiser le téléchargement de la sauvegarde de la base de donn�
 
 ---
 
-Pour configurer une sauvegarde Dropbox, allez sur : 
+Pour configurer une sauvegarde Dropbox, allez sur :
 
 > Accueil > Intégrations > Paramètres Dropbox
 
@@ -18,13 +18,13 @@ Pour configurer une sauvegarde Dropbox, allez sur :
 
 ### 1. Configuration de base
 
-1. Allez sur les **paramètres Dropbox**.
+1. Allez dans les **Paramètres Dropbox**.
 2. Cochez la case **Activé**
 3. **Envoyé des notifications à** : Indiquez une adresse email qui sera notifiée.
 4. **Envoyer un courrier électronique pour une sauvegarde réussie** : Si la case est cochée alors un email sera envoyé lors d'une sauvergarde réussie. Remarque: un e-mail est envoyé par défaut si la sauvegarde échoue.
 5. **Fréquence de sauvegarde** : Indiquez la fréquence de sauvergarde, soit quotidien ou soit hebdomadaire.
 6. **Nombre limite de sauvegardes de base de données** : Si la case est cochée, alors vous pourrez indiquer un Nombre limite de sauvegardes de la base de données.
-7. S**auvegarde de fichier **: Cochez la case pour que la sauvegarde de fichier soit active.
+7. **Sauvegarde de fichier**: Cochez la case pour que la sauvegarde de fichier soit active.
 
 ### 2. Autorisation de l'accès à l'application
 

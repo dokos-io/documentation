@@ -3,15 +3,14 @@ title: Espace de travail
 description: Un espace de travail représente un module.
 ---
 
-## 1 .  Espace De travail
+## 1 . Espace De travail
 
 Lorsque vous vous connectez à Dokos, la page de Bureau s'affiche. Elle comprend une barre latérale permanente, organisée par catégories. Chaque élément de cette barre latérale mène à une page appelée Espace de travail.
 
 Un espace de travail correspond à un module spécifique. Il est composé des éléments suivants :
 
 - Une section Tableau de bord dédiée au module en question.
-- Une section de raccourcis pour accéder rapidement aux éléments fréquemment utilisés.
-Une section regroupant des fonctionnalités.
+- Une section de raccourcis pour accéder rapidement aux éléments fréquemment utilisés. Une section regroupant des fonctionnalités.
 
 ### 1.1. Espace de travail standard
 
