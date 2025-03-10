@@ -5,7 +5,7 @@ title: Zapier
 Zapier est une plateforme permettant à des personnes sans connaissances techniques de connecter différentes applications entre elles.
 
 
-> Cette application est en version beta sur invitation en cliquant sur ce [lien](https://zapier.com/developer/public-invite/33806/ce6c67ecce01c7125330cee32bd60910/).
+> Cette application est en version beta sur invitation en cliquant sur ce [lien](https://zapier.com/developer/public-invite/33806/e3b8aad5383366dcaf236904c056c227/).
 > Pour les utilisateurs d'ERPNext, cette application est également compatible avec la version 12.x.x.
 {.is-warning}
 
